@@ -31,7 +31,8 @@ def augment_answer(user_query: str, model_answer: str) -> str:
         template = cfg["policies"][0]["action"]["template"]
         vars = cfg["policies"][0]["variables"]
         waste_category = next(
-            (k for k in cfg["policies"][0]["triggers"]["any_keywords"] if k.lower() in user_query.lower()),
+            (k for k in cfg["policies"][0]["triggers"]["any_keywords"]
+             if k.lower() in user_query.lower()),
             "відходів"
         )
         tail = render(template, vars, {"waste_categories": waste_category})
@@ -40,11 +41,20 @@ def augment_answer(user_query: str, model_answer: str) -> str:
 
 app = FastAPI(title="Yureco Augment API")
 
+# 👇 Дозволяємо запити з твого публічного фронтенду (і локально для перевірок)
+FRONTEND_ORIGINS = [
+    "https://yureco.onrender.com",  # статичний фронтенд (Render, Static Site)
+    "http://localhost:5500",        # локальний прев’ю через Live Server / http.server
+    "http://127.0.0.1:5500",
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
+    allow_origins=FRONTEND_ORIGINS,     # на час налагодження можна тимчасово ["*"]
+    allow_credentials=False,
+    allow_methods=["POST", "GET", "OPTIONS"],
     allow_headers=["*"],
+    max_age=86400,
 )
 
 class ChatIn(BaseModel):
