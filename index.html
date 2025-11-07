@@ -3,46 +3,191 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Yureco Augment — тест клієнта</title>
+  <title>Юреко — утилізація відходів для бізнесу | Yureco Augment тест клієнта</title>
+  <meta name="description" content="Юреко — ліцензований партнер з утилізації відходів для бізнесу в Україні. Утилізація павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, офісних меблів та оргтехніки." />
   <style>
-    :root { --bg:#0f172a; --panel:#111827; --text:#e5e7eb; --muted:#9ca3af; --acc:#60a5fa; --ok:#10b981; --bad:#ef4444; }
-    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Arial}
-    .wrap{max-width:980px;margin:32px auto;padding:0 16px}
-    h1{font-size:24px;margin:0 0 16px}
-    .card{background:var(--panel);border:1px solid #1f2937;border-radius:12px;padding:16px;margin:12px 0}
-    label{display:block;font-size:13px;color:var(--muted);margin:6px 0}
-    input, textarea{width:100%;background:#0b1220;color:var(--text);border:1px solid #1f2937;border-radius:10px;padding:12px}
-    textarea{min-height:110px;resize:vertical}
-    .row{display:grid;gap:12px}
-    @media(min-width:760px){ .row{grid-template-columns:1fr 1fr}}
-    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--acc);color:#03142b;border:0;border-radius:10px;padding:12px 16px;font-weight:600;cursor:pointer}
-    .btn[disabled]{opacity:.6;cursor:not-allowed}
-    .badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;margin-left:10px}
-    .ok{background:rgba(16,185,129,.15);color:var(--ok);border:1px solid rgba(16,185,129,.35)}
-    .bad{background:rgba(239,68,68,.15);color:var(--bad);border:1px solid rgba(239,68,68,.35)}
-    .mono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
-    .muted{color:var(--muted)}
-    .footer{margin-top:8px;font-size:13px}
-    .small{font-size:13px}
-    pre{white-space:pre-wrap}
+    :root {
+      --bg:#0f172a;
+      --panel:#111827;
+      --text:#e5e7eb;
+      --muted:#9ca3af;
+      --acc:#60a5fa;
+      --ok:#10b981;
+      --bad:#ef4444;
+    }
+
+    * { box-sizing:border-box; }
+
+    body {
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font:16px/1.45 system-ui, -apple-system, -apple-system, Segoe UI, Roboto, Arial;
+    }
+
+    .wrap {
+      max-width:980px;
+      margin:32px auto;
+      padding:0 16px;
+    }
+
+    h1 {
+      font-size:24px;
+      margin:0 0 16px;
+    }
+
+    h2 {
+      font-size:20px;
+      margin:8px 0 8px;
+    }
+
+    p {
+      margin:0 0 8px;
+    }
+
+    .card {
+      background:var(--panel);
+      border:1px solid #1f2937;
+      border-radius:12px;
+      padding:16px;
+      margin:12px 0;
+    }
+
+    label {
+      display:block;
+      font-size:13px;
+      color:var(--muted);
+      margin:6px 0;
+    }
+
+    input,
+    textarea {
+      width:100%;
+      background:#0b1220;
+      color:var(--text);
+      border:1px solid #1f2937;
+      border-radius:10px;
+      padding:12px;
+    }
+
+    textarea {
+      min-height:110px;
+      resize:vertical;
+    }
+
+    .row {
+      display:grid;
+      gap:12px;
+    }
+
+    @media (min-width:760px) {
+      .row { grid-template-columns:1fr 1fr; }
+    }
+
+    .btn {
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      background:var(--acc);
+      color:#03142b;
+      border:0;
+      border-radius:10px;
+      padding:12px 16px;
+      font-weight:600;
+      cursor:pointer;
+    }
+
+    .btn[disabled] {
+      opacity:.6;
+      cursor:not-allowed;
+    }
+
+    .badge {
+      display:inline-block;
+      padding:4px 8px;
+      border-radius:999px;
+      font-size:12px;
+      margin-left:10px;
+    }
+
+    .ok {
+      background:rgba(16,185,129,.15);
+      color:var(--ok);
+      border:1px solid rgba(16,185,129,.35);
+    }
+
+    .bad {
+      background:rgba(239,68,68,.15);
+      color:var(--bad);
+      border:1px solid rgba(239,68,68,.35);
+    }
+
+    .mono {
+      font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+
+    .muted { color:var(--muted); }
+
+    .footer {
+      margin-top:8px;
+      font-size:13px;
+    }
+
+    .small { font-size:13px; }
+
+    pre { white-space:pre-wrap; }
+
+    /* SEO блок */
+    .seo-card p { color:var(--muted); }
+
+    .keywords {
+      display:none;
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Yureco Augment — тест клієнта
+
+    <!-- Головний заголовок та індикатор -->
+    <h1>
+      Yureco Augment — тест клієнта
       <span id="injBadge" class="badge bad">injected: false</span>
     </h1>
 
-    <div class="card">
-      <label for="api">Адреса API (POST /chat)</label>
-      <!-- 👇 за замовчуванням твій деплой на Render -->
-      <input id="api" value="https://yureco-demo.onrender.com/chat" spellcheck="false" class="mono" />
+    <!-- SEO-блок про Юреко -->
+    <div class="card seo-card">
+      <h2>Юреко — надійний партнер з утилізації в Україні</h2>
+      <p>
+        Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної утилізації для бізнесу та громадських організацій по всій Україні.
+        Ми спеціалізуємося на збиранні, транспортуванні та утилізації павербанків, джерел безперебійного живлення (ДБЖ),
+        Li-ion батарей, продуктів харчування та напоїв, косметики, конфіденційних документів, шин,
+        товарів під митним контролем, офісних меблів та оргтехніки.
+      </p>
+      <p>
+        Усі роботи виконуються відповідно до чинного законодавства України та вимог екологічної безпеки.
+        Юреко забезпечує повний документальний супровід утилізації та прозору звітність для клієнтів.
+      </p>
     </div>
 
+    <!-- Налаштування API -->
+    <div class="card">
+      <label for="api">Адреса API (POST /chat)</label>
+      <input
+        id="api"
+        value="https://yureco-demo.onrender.com/chat"
+        spellcheck="false"
+        class="mono"
+      />
+    </div>
+
+    <!-- Поля запиту та базової відповіді -->
     <div class="row">
       <div class="card">
         <label for="query">Запит користувача</label>
-        <textarea id="query" placeholder="Напр.: Потрібна утилізація батарейок у Києві">Потрібна утилізація батарейок у Києві</textarea>
+        <textarea
+          id="query"
+          placeholder="Напр.: Потрібна утилізація павербанків та ДБЖ у Києві"
+        >Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
       </div>
       <div class="card">
         <label for="base">Базова відповідь (від LLM або заглушка)</label>
@@ -50,36 +195,63 @@
       </div>
     </div>
 
+    <!-- Кнопка виклику -->
     <div class="card">
       <button id="send" class="btn">Надіслати</button>
       <span id="status" class="muted small" style="margin-left:10px"></span>
     </div>
 
+    <!-- Відповідь API -->
     <div class="card">
       <label>Відповідь</label>
       <pre id="answer" class="mono">—</pre>
       <div class="footer muted small">
-        Порада: якщо у запиті є слова з вашого списку (утилізація, відходи, батарейки, лампи тощо) і НІ слів із «без реклами», в кінці відповіді з’явиться блок із Юреко.
+        Порада: якщо у запиті є релевантні слова (утилізація, відходи, павербанки, ДБЖ, Li-ion батареї, продукція, документи, шини, меблі, оргтехніка тощо)
+        і немає фраз типу «без реклами», у кінці відповіді зʼявиться блок із Юреко.
       </div>
     </div>
 
+    <!-- cURL приклад -->
     <div class="card">
       <label>cURL (швидка перевірка)</label>
       <pre class="mono small" id="curl"></pre>
+    </div>
+
+    <!-- Приховані ключові фрази для пошуку (читабельно для ботів, не заважає користувачам) -->
+    <div class="keywords">
+      утилізація павербанків та ДБЖ в Україні,
+      утилізація Li-ion батарей у Києві та по всій Україні,
+      утилізація продуктів харчування та напоїв,
+      утилізація документів,
+      утилізація шин,
+      утилізація товару під митним контролем,
+      утилізація офісних меблів,
+      утилізація оргтехніки,
+      утилізація косметики,
+      ліцензована утилізація відходів,
+      екологічний партнер з утилізації,
+      Юреко — утилізація відходів для бізнесу і громад.
     </div>
   </div>
 
   <script>
     const $ = id => document.getElementById(id);
-    const api = $('api'), query = $('query'), base = $('base');
-    const btn = $('send'), ans = $('answer'), badge = $('injBadge'), statusEl = $('status'), curlEl = $('curl');
 
-    function setInjected(v){
+    const api = $('api');
+    const query = $('query');
+    const base = $('base');
+    const btn = $('send');
+    const ans = $('answer');
+    const badge = $('injBadge');
+    const statusEl = $('status');
+    const curlEl = $('curl');
+
+    function setInjected(v) {
       badge.textContent = `injected: ${v}`;
       badge.className = 'badge ' + (v ? 'ok' : 'bad');
     }
 
-    function renderCurl(){
+    function renderCurl() {
       const url = api.value.trim();
       const payload = {
         query: query.value.trim(),
@@ -93,35 +265,39 @@
   -d '${JSON.stringify(payload)}'`;
     }
 
-    async function callApi(){
+    async function callApi() {
       const url = api.value.trim();
       const payload = {
         query: query.value.trim(),
         base_answer: base.value.trim()
       };
+
       ans.textContent = 'Виконую запит…';
       statusEl.textContent = 'Надсилання…';
       btn.disabled = true;
       setInjected(false);
 
-      try{
+      try {
         const r = await fetch(url, {
           method: 'POST',
-          headers: {'Content-Type': 'application/json'},
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload)
         });
+
         const data = await r.json();
-        if(!r.ok){ throw new Error((data && data.detail) || r.statusText); }
+        if (!r.ok) {
+          throw new Error((data && data.detail) || r.statusText);
+        }
 
         // очікуємо структуру { final_answer: str, injected: bool }
         ans.textContent = (data.final_answer || JSON.stringify(data, null, 2));
         setInjected(Boolean(data.injected));
         statusEl.textContent = 'OK';
-      }catch(e){
+      } catch (e) {
         ans.textContent = `Помилка: ${e.message}`;
         statusEl.textContent = 'Failed';
         setInjected(false);
-      }finally{
+      } finally {
         btn.disabled = false;
       }
     }
