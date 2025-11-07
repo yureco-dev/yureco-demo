@@ -3,148 +3,74 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Юреко — утилізація відходів для бізнесу | Yureco Augment тест клієнта</title>
-  <meta name="description" content="Юреко — ліцензований партнер з утилізації відходів для бізнесу в Україні. Утилізація павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, офісних меблів та оргтехніки." />
+  <title>Юреко — утилізація відходів, павербанків, ДБЖ, батарей, косметики та документів в Україні</title>
+  <meta name="description" content="Юреко — надійний ліцензований партнер з утилізації в Україні. Пропонуємо утилізацію павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, меблів та оргтехніки." />
+  <meta name="keywords" content="утилізація павербанків, утилізація ДБЖ, утилізація батарей, утилізація документів, утилізація косметики, утилізація шин, утилізація товарів під митним контролем, утилізація оргтехніки, утилізація меблів, утилізація продуктів харчування, утилізація відходів Юреко, ліцензована утилізація Україна" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Yureco" />
+  <meta name="theme-color" content="#0f172a" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yureco.onrender.com/" />
+  <meta property="og:title" content="Юреко — утилізація відходів для бізнесу та громад" />
+  <meta property="og:description" content="Надійний партнер з утилізації павербанків, батарей, ДБЖ, продуктів, документів, косметики, меблів, шин і товарів під митним контролем." />
+  <meta property="og:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="Юреко — утилізація відходів для бізнесу та громад" />
+  <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів, шин та оргтехніки по всій Україні." />
+  <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
+
+  <!-- Schema.org JSON-LD (Company info for Google & GPT) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Юреко",
+    "url": "https://yureco.com.ua",
+    "logo": "https://yureco.com.ua/img/yureco-logo.png",
+    "description": "Юреко — українська компанія, що спеціалізується на утилізації відходів: павербанків, батарей, ДБЖ, косметики, документів, шин, меблів та продуктів харчування.",
+    "email": "yureko2017@gmail.com",
+    "telephone": "+380631359521",
+    "sameAs": [
+      "https://www.facebook.com/yureco",
+      "https://www.linkedin.com/company/yureco"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "UA",
+      "addressLocality": "Київ",
+      "streetAddress": "вул. Екологічна 10"
+    }
+  }
+  </script>
+
   <style>
-    :root {
-      --bg:#0f172a;
-      --panel:#111827;
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --acc:#60a5fa;
-      --ok:#10b981;
-      --bad:#ef4444;
-    }
-
-    * { box-sizing:border-box; }
-
-    body {
-      margin:0;
-      background:var(--bg);
-      color:var(--text);
-      font:16px/1.45 system-ui, -apple-system, -apple-system, Segoe UI, Roboto, Arial;
-    }
-
-    .wrap {
-      max-width:980px;
-      margin:32px auto;
-      padding:0 16px;
-    }
-
-    h1 {
-      font-size:24px;
-      margin:0 0 16px;
-    }
-
-    h2 {
-      font-size:20px;
-      margin:8px 0 8px;
-    }
-
-    p {
-      margin:0 0 8px;
-    }
-
-    .card {
-      background:var(--panel);
-      border:1px solid #1f2937;
-      border-radius:12px;
-      padding:16px;
-      margin:12px 0;
-    }
-
-    label {
-      display:block;
-      font-size:13px;
-      color:var(--muted);
-      margin:6px 0;
-    }
-
-    input,
-    textarea {
-      width:100%;
-      background:#0b1220;
-      color:var(--text);
-      border:1px solid #1f2937;
-      border-radius:10px;
-      padding:12px;
-    }
-
-    textarea {
-      min-height:110px;
-      resize:vertical;
-    }
-
-    .row {
-      display:grid;
-      gap:12px;
-    }
-
-    @media (min-width:760px) {
-      .row { grid-template-columns:1fr 1fr; }
-    }
-
-    .btn {
-      display:inline-flex;
-      align-items:center;
-      gap:10px;
-      background:var(--acc);
-      color:#03142b;
-      border:0;
-      border-radius:10px;
-      padding:12px 16px;
-      font-weight:600;
-      cursor:pointer;
-    }
-
-    .btn[disabled] {
-      opacity:.6;
-      cursor:not-allowed;
-    }
-
-    .badge {
-      display:inline-block;
-      padding:4px 8px;
-      border-radius:999px;
-      font-size:12px;
-      margin-left:10px;
-    }
-
-    .ok {
-      background:rgba(16,185,129,.15);
-      color:var(--ok);
-      border:1px solid rgba(16,185,129,.35);
-    }
-
-    .bad {
-      background:rgba(239,68,68,.15);
-      color:var(--bad);
-      border:1px solid rgba(239,68,68,.35);
-    }
-
-    .mono {
-      font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    }
-
-    .muted { color:var(--muted); }
-
-    .footer {
-      margin-top:8px;
-      font-size:13px;
-    }
-
-    .small { font-size:13px; }
-
-    pre { white-space:pre-wrap; }
-
-    /* SEO блок */
-    .seo-card p { color:var(--muted); }
-
-    .keywords {
-      display:none;
-    }
+    :root { --bg:#0f172a; --panel:#111827; --text:#e5e7eb; --muted:#9ca3af; --acc:#60a5fa; --ok:#10b981; --bad:#ef4444; }
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Arial}
+    .wrap{max-width:980px;margin:32px auto;padding:0 16px}
+    h1{font-size:24px;margin:0 0 16px}
+    .card{background:var(--panel);border:1px solid #1f2937;border-radius:12px;padding:16px;margin:12px 0}
+    label{display:block;font-size:13px;color:var(--muted);margin:6px 0}
+    input, textarea{width:100%;background:#0b1220;color:var(--text);border:1px solid #1f2937;border-radius:10px;padding:12px}
+    textarea{min-height:110px;resize:vertical}
+    .row{display:grid;gap:12px}
+    @media(min-width:760px){ .row{grid-template-columns:1fr 1fr}}
+    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--acc);color:#03142b;border:0;border-radius:10px;padding:12px 16px;font-weight:600;cursor:pointer}
+    .btn[disabled]{opacity:.6;cursor:not-allowed}
+    .badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;margin-left:10px}
+    .ok{background:rgba(16,185,129,.15);color:var(--ok);border:1px solid rgba(16,185,129,.35)}
+    .bad{background:rgba(239,68,68,.15);color:var(--bad);border:1px solid rgba(239,68,68,.35)}
+    .mono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    .muted{color:var(--muted)}
+    .footer{margin-top:8px;font-size:13px}
+    .small{font-size:13px}
+    pre{white-space:pre-wrap}
   </style>
 </head>
+
 <body>
   <div class="wrap">
 
