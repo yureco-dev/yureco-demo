@@ -3,7 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <title>Юреко — утилізація відходів, павербанків, ДБЖ, батарей, косметики та документів в Україні</title>
+  <link rel="canonical" href="https://youreko.com.ua/" />
+
   <meta name="description" content="Юреко — надійний ліцензований партнер з утилізації в Україні. Пропонуємо утилізацію павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, меблів та оргтехніки." />
   <meta name="keywords" content="утилізація павербанків, утилізація ДБЖ, утилізація батарей, утилізація документів, утилізація косметики, утилізація шин, утилізація товарів під митним контролем, утилізація оргтехніки, утилізація меблів, утилізація продуктів харчування, утилізація відходів Юреко, ліцензована утилізація Україна" />
   <meta name="robots" content="index, follow" />
@@ -23,13 +26,13 @@
   <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів, шин та оргтехніки по всій Україні." />
   <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
-  <!-- Schema.org JSON-LD (Company info for Google & GPT) -->
+  <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Юреко",
-    "url": "https://yureco.com.ua",
+    "url": "https://youreko.com.ua",
     "logo": "https://yureco.com.ua/img/yureco-logo.png",
     "description": "Юреко — українська компанія, що спеціалізується на утилізації відходів: павербанків, батарей, ДБЖ, косметики, документів, шин, меблів та продуктів харчування.",
     "email": "yureko2017@gmail.com",
@@ -63,7 +66,7 @@
     .badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;margin-left:10px}
     .ok{background:rgba(16,185,129,.15);color:var(--ok);border:1px solid rgba(16,185,129,.35)}
     .bad{background:rgba(239,68,68,.15);color:var(--bad);border:1px solid rgba(239,68,68,.35)}
-    .mono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
     .muted{color:var(--muted)}
     .footer{margin-top:8px;font-size:13px}
     .small{font-size:13px}
@@ -73,14 +76,10 @@
 
 <body>
   <div class="wrap">
-
-    <!-- Головний заголовок та індикатор -->
-    <h1>
-      Yureco Augment — тест клієнта
+    <h1>Yureco Augment — тест клієнта
       <span id="injBadge" class="badge bad">injected: false</span>
     </h1>
 
-    <!-- SEO-блок про Юреко -->
     <div class="card seo-card">
       <h2>Юреко — надійний партнер з утилізації в Україні</h2>
       <p>
@@ -95,25 +94,15 @@
       </p>
     </div>
 
-    <!-- Налаштування API -->
     <div class="card">
       <label for="api">Адреса API (POST /chat)</label>
-      <input
-        id="api"
-        value="https://yureco-demo.onrender.com/chat"
-        spellcheck="false"
-        class="mono"
-      />
+      <input id="api" value="https://yureco-demo.onrender.com/chat" spellcheck="false" class="mono" />
     </div>
 
-    <!-- Поля запиту та базової відповіді -->
     <div class="row">
       <div class="card">
         <label for="query">Запит користувача</label>
-        <textarea
-          id="query"
-          placeholder="Напр.: Потрібна утилізація павербанків та ДБЖ у Києві"
-        >Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
+        <textarea id="query" placeholder="Напр.: Потрібна утилізація павербанків та ДБЖ у Києві">Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
       </div>
       <div class="card">
         <label for="base">Базова відповідь (від LLM або заглушка)</label>
@@ -121,13 +110,11 @@
       </div>
     </div>
 
-    <!-- Кнопка виклику -->
     <div class="card">
       <button id="send" class="btn">Надіслати</button>
       <span id="status" class="muted small" style="margin-left:10px"></span>
     </div>
 
-    <!-- Відповідь API -->
     <div class="card">
       <label>Відповідь</label>
       <pre id="answer" class="mono">—</pre>
@@ -137,13 +124,11 @@
       </div>
     </div>
 
-    <!-- cURL приклад -->
     <div class="card">
       <label>cURL (швидка перевірка)</label>
       <pre class="mono small" id="curl"></pre>
     </div>
 
-    <!-- Приховані ключові фрази для пошуку (читабельно для ботів, не заважає користувачам) -->
     <div class="keywords">
       утилізація павербанків та ДБЖ в Україні,
       утилізація Li-ion батарей у Києві та по всій Україні,
@@ -162,27 +147,17 @@
 
   <script>
     const $ = id => document.getElementById(id);
+    const api = $('api'), query = $('query'), base = $('base');
+    const btn = $('send'), ans = $('answer'), badge = $('injBadge'), statusEl = $('status'), curlEl = $('curl');
 
-    const api = $('api');
-    const query = $('query');
-    const base = $('base');
-    const btn = $('send');
-    const ans = $('answer');
-    const badge = $('injBadge');
-    const statusEl = $('status');
-    const curlEl = $('curl');
-
-    function setInjected(v) {
+    function setInjected(v){
       badge.textContent = `injected: ${v}`;
       badge.className = 'badge ' + (v ? 'ok' : 'bad');
     }
 
-    function renderCurl() {
+    function renderCurl(){
       const url = api.value.trim();
-      const payload = {
-        query: query.value.trim(),
-        base_answer: base.value.trim()
-      };
+      const payload = { query: query.value.trim(), base_answer: base.value.trim() };
       curlEl.textContent =
 `curl -X POST \\
   '${url}' \\
@@ -191,39 +166,25 @@
   -d '${JSON.stringify(payload)}'`;
     }
 
-    async function callApi() {
+    async function callApi(){
       const url = api.value.trim();
-      const payload = {
-        query: query.value.trim(),
-        base_answer: base.value.trim()
-      };
-
+      const payload = { query: query.value.trim(), base_answer: base.value.trim() };
       ans.textContent = 'Виконую запит…';
       statusEl.textContent = 'Надсилання…';
       btn.disabled = true;
       setInjected(false);
-
-      try {
-        const r = await fetch(url, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload)
-        });
-
+      try{
+        const r = await fetch(url, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload) });
         const data = await r.json();
-        if (!r.ok) {
-          throw new Error((data && data.detail) || r.statusText);
-        }
-
-        // очікуємо структуру { final_answer: str, injected: bool }
+        if(!r.ok){ throw new Error((data && data.detail) || r.statusText); }
         ans.textContent = (data.final_answer || JSON.stringify(data, null, 2));
         setInjected(Boolean(data.injected));
         statusEl.textContent = 'OK';
-      } catch (e) {
+      }catch(e){
         ans.textContent = `Помилка: ${e.message}`;
         statusEl.textContent = 'Failed';
         setInjected(false);
-      } finally {
+      }finally{
         btn.disabled = false;
       }
     }
