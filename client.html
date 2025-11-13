@@ -3,93 +3,132 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Yureco Augment – тест клієнта</title>
+  <title>Yureco Augment — тест клієнта</title>
   <style>
-    :root { --bg:#0b1220; --card:#111a2b; --text:#eaf1ff; --muted:#9fb2d9; }
-    html,body { background:var(--bg); color:var(--text); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Arial; margin:0; }
-    .wrap { max-width:840px; margin:32px auto; padding:0 16px; }
-    .card { background:var(--card); border-radius:14px; padding:18px; box-shadow:0 6px 30px rgba(0,0,0,.25); }
-    h1 { font-size:22px; margin:0 0 10px; }
-    label { font-weight:600; display:block; margin:14px 0 6px; color:var(--muted); }
-    textarea, input { width:100%; background:#0d1526; color:var(--text); border:1px solid #223358; border-radius:10px; padding:12px; }
-    textarea { min-height:110px; resize:vertical; }
-    .row { display:flex; gap:12px; flex-wrap:wrap; }
-    button { background:#2563eb; border:0; color:#fff; padding:12px 16px; border-radius:10px; cursor:pointer; font-weight:700; }
-    button[disabled] { opacity:.6; cursor:not-allowed; }
-    .out { white-space:pre-wrap; background:#0d1526; border:1px solid #223358; border-radius:10px; padding:12px; margin-top:12px; }
-    .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:12px; margin-left:8px; }
-    .yes { background:#16a34a33; color:#34d399; border:1px solid #16a34a; }
-    .no  { background:#ef444433; color:#fca5a5; border:1px solid #ef4444; }
-    .hint { color:var(--muted); font-size:13px; margin-top:8px; }
-    .small { font-size:12px; color:var(--muted); }
+    :root { --bg:#0f172a; --panel:#111827; --text:#e5e7eb; --muted:#9ca3af; --acc:#60a5fa; --ok:#10b981; --bad:#ef4444; }
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Arial}
+    .wrap{max-width:980px;margin:32px auto;padding:0 16px}
+    h1{font-size:24px;margin:0 0 16px}
+    .card{background:var(--panel);border:1px solid #1f2937;border-radius:12px;padding:16px;margin:12px 0}
+    label{display:block;font-size:13px;color:var(--muted);margin:6px 0}
+    input, textarea{width:100%;background:#0b1220;color:var(--text);border:1px solid #1f2937;border-radius:10px;padding:12px}
+    textarea{min-height:110px;resize:vertical}
+    .row{display:grid;gap:12px}
+    @media(min-width:760px){ .row{grid-template-columns:1fr 1fr}}
+    .btn{display:inline-flex;align-items:center;gap:10px;background:var(--acc);color:#03142b;border:0;border-radius:10px;padding:12px 16px;font-weight:600;cursor:pointer}
+    .btn[disabled]{opacity:.6;cursor:not-allowed}
+    .badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;margin-left:10px}
+    .ok{background:rgba(16,185,129,.15);color:var(--ok);border:1px solid rgba(16,185,129,.35)}
+    .bad{background:rgba(239,68,68,.15);color:var(--bad);border:1px solid rgba(239,68,68,.35)}
+    .mono{font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    .muted{color:var(--muted)}
+    .footer{margin-top:8px;font-size:13px}
+    .small{font-size:13px}
+    pre{white-space:pre-wrap}
   </style>
 </head>
 <body>
   <div class="wrap">
+    <h1>Yureco Augment — тест клієнта
+      <span id="injBadge" class="badge bad">injected: false</span>
+    </h1>
+
     <div class="card">
-      <h1>Yureco Augment – тест клієнта <span id="badge" class="badge no">injected: false</span></h1>
+      <label for="api">Адреса API (POST /chat)</label>
+      <!-- 👇 за замовчуванням твій деплой на Render -->
+      <input id="api" value="https://yureco-demo.onrender.com/chat" spellcheck="false" class="mono" />
+    </div>
 
-      <label>Адреса API</label>
-      <input id="api" value="http://127.0.0.1:8000/chat" />
-
-      <label>Запит користувача</label>
-      <textarea id="query" placeholder="Напр.: Потрібна утилізація батарейок у Києві"></textarea>
-
-      <label>Базова відповідь (від твоєї LLM або заглушка)</label>
-      <textarea id="base">Дякую за запит. Ось загальна інформація…</textarea>
-
-      <div class="row" style="margin-top:12px">
-        <button id="send">Надіслати</button>
-        <span id="status" class="small"></span>
+    <div class="row">
+      <div class="card">
+        <label for="query">Запит користувача</label>
+        <textarea id="query" placeholder="Напр.: Потрібна утилізація батарейок у Києві">Потрібна утилізація батарейок у Києві</textarea>
       </div>
+      <div class="card">
+        <label for="base">Базова відповідь (від LLM або заглушка)</label>
+        <textarea id="base">Дякую за запит. Ось загальна інформація...</textarea>
+      </div>
+    </div>
 
+    <div class="card">
+      <button id="send" class="btn">Надіслати</button>
+      <span id="status" class="muted small" style="margin-left:10px"></span>
+    </div>
+
+    <div class="card">
       <label>Відповідь</label>
-      <div id="out" class="out">—</div>
+      <pre id="answer" class="mono">—</pre>
+      <div class="footer muted small">
+        Порада: якщо у запиті є слова з вашого списку (утилізація, відходи, батарейки, лампи тощо) і НІ слів із «без реклами», в кінці відповіді з’явиться блок із Юреко.
+      </div>
+    </div>
 
-      <div class="hint">Порада: якщо в запиті є слова з нашого списку (утилізація, відходи, батарейки, лампи тощо) і НІ слів із «без реклами», в кінці відповіді з’явиться блок із Юреко.</div>
+    <div class="card">
+      <label>cURL (швидка перевірка)</label>
+      <pre class="mono small" id="curl"></pre>
     </div>
   </div>
 
   <script>
-    const $ = (id) => document.getElementById(id);
-    const btn = $("send"), out = $("out"), badge = $("badge"), status = $("status");
+    const $ = id => document.getElementById(id);
+    const api = $('api'), query = $('query'), base = $('base');
+    const btn = $('send'), ans = $('answer'), badge = $('injBadge'), statusEl = $('status'), curlEl = $('curl');
 
-    function setBadge(injected){
-      badge.textContent = "injected: " + injected;
-      badge.className = "badge " + (injected ? "yes" : "no");
+    function setInjected(v){
+      badge.textContent = `injected: ${v}`;
+      badge.className = 'badge ' + (v ? 'ok' : 'bad');
+    }
+
+    function renderCurl(){
+      const url = api.value.trim();
+      const payload = {
+        query: query.value.trim(),
+        base_answer: base.value.trim()
+      };
+      curlEl.textContent =
+`curl -X POST \\
+  '${url}' \\
+  -H 'accept: application/json' \\
+  -H 'Content-Type: application/json' \\
+  -d '${JSON.stringify(payload)}'`;
     }
 
     async function callApi(){
-      const url = $("api").value.trim();
-      const body = {
-        query: $("query").value.trim(),
-        base_answer: $("base").value.trim()
+      const url = api.value.trim();
+      const payload = {
+        query: query.value.trim(),
+        base_answer: base.value.trim()
       };
-
+      ans.textContent = 'Виконую запит…';
+      statusEl.textContent = 'Надсилання…';
       btn.disabled = true;
-      status.textContent = "Виконується запит…";
-      setBadge(false);
-      out.textContent = "—";
+      setInjected(false);
 
-      try {
+      try{
         const r = await fetch(url, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(body)
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(payload)
         });
         const data = await r.json();
-        setBadge(!!data.injected);
-        out.textContent = data.final_answer || "(порожньо)";
-        status.textContent = "Готово";
-      } catch (e) {
-        status.textContent = "Помилка";
-        out.textContent = "Помилка запиту: " + e.message;
-      } finally {
+        if(!r.ok){ throw new Error((data && data.detail) || r.statusText); }
+
+        // очікуємо структуру { final_answer: str, injected: bool }
+        ans.textContent = (data.final_answer || JSON.stringify(data, null, 2));
+        setInjected(Boolean(data.injected));
+        statusEl.textContent = 'OK';
+      }catch(e){
+        ans.textContent = `Помилка: ${e.message}`;
+        statusEl.textContent = 'Failed';
+        setInjected(false);
+      }finally{
         btn.disabled = false;
       }
     }
 
-    btn.addEventListener("click", callApi);
+    btn.addEventListener('click', callApi);
+    [api, query, base].forEach(el => el.addEventListener('input', renderCurl));
+    renderCurl();
   </script>
 </body>
 </html>
