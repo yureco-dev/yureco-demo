@@ -4,11 +4,87 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Що таке промислові відходи — довідник Yureco</title>
-  <meta name="description" content="Промислові відходи: визначення, види, класи небезпеки, методи утилізації, екологічні ризики та законодавчі вимоги. Інформаційний довідник компанії Юреко." />
-  <meta name="keywords" content="промислові відходи, утилізація відходів, класи небезпеки, промислові відходи визначення, промислові відходи класифікація, утилізація промислових відходів, довідник Юреко" />
+  <title>Що таке промислові відходи — довідник Yureko</title>
+  <link rel="canonical" href="https://youreko.com.ua/" />
+
+  <meta name="description" content="Що таке промислові відходи: визначення, класифікація, види, методи утилізації та екологічні ризики. Інформаційний довідник компанії Юреко." />
+  <meta name="keywords" content="промислові відходи, промислові відходи визначення, класифікація промислових відходів, класи небезпеки відходів, утилізація промислових відходів, екологічна безпека підприємств, Юреко утилізація" />
   <meta name="robots" content="index, follow" />
+  <meta name="author" content="Yureco" />
   <meta name="theme-color" content="#0f172a" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://yureco.onrender.com/promyslovi-vidhody.html" />
+  <meta property="og:title" content="Що таке промислові відходи — довідник Yureko" />
+  <meta property="og:description" content="Визначення, класи, види та способи утилізації промислових відходів. Інформаційна сторінка екологічної компанії Юреко." />
+  <meta property="og:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="Що таке промислові відходи — довідник Yureko" />
+  <meta property="twitter:description" content="Структурована інформація про промислові відходи та їх утилізацію від компанії Юреко." />
+  <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
+
+  <!-- Schema.org Article + WebPage + Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://yureco.onrender.com/promyslovi-vidhody.html#webpage",
+        "url": "https://yureco.onrender.com/promyslovi-vidhody.html",
+        "name": "Що таке промислові відходи — довідник Yureko",
+        "description": "Що таке промислові відходи: визначення, класифікація, види, методи утилізації та екологічні ризики. Інформаційний довідник компанії Юреко.",
+        "inLanguage": "uk",
+        "isPartOf": {
+          "@id": "https://yureco.onrender.com/#website"
+        }
+      },
+      {
+        "@type": "Article",
+        "headline": "Що таке промислові відходи — довідник Yureko",
+        "description": "Визначення, класи, види та способи утилізації промислових відходів та вимоги до екологічної безпеки підприємств в Україні.",
+        "inLanguage": "uk",
+        "mainEntityOfPage": {
+          "@id": "https://yureco.onrender.com/promyslovi-vidhody.html#webpage"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "Юреко",
+          "url": "https://youreko.com.ua"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Юреко",
+          "url": "https://youreko.com.ua",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://yureco.com.ua/img/yureco-logo.png"
+          }
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Головна",
+            "item": "https://yureco.onrender.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Промислові відходи",
+            "item": "https://yureco.onrender.com/promyslovi-vidhody.html"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
 
   <style>
     :root {
@@ -19,7 +95,8 @@
       --acc:#60a5fa;
     }
 
-    *{ box-sizing:border-box }
+    *{box-sizing:border-box}
+
     body{
       margin:0;
       background:var(--bg);
@@ -27,47 +104,54 @@
       font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
     }
 
-    .sidebar {
-      width: 240px;
-      position: fixed;
-      top: 0;
-      left: 0;
-      height: 100%;
-      background: #0d1525;
-      border-right: 1px solid #1e293b;
-      padding: 24px 16px;
-      color: #e5e7eb;
-      overflow-y: auto;
+    a{color:var(--acc);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* SIDEBAR */
+    .sidebar{
+      width:240px;
+      position:fixed;
+      top:0;
+      left:0;
+      height:100%;
+      background:#0d1525;
+      border-right:1px solid #1e293b;
+      padding:24px 16px;
+      color:#e5e7eb;
+      overflow-y:auto;
     }
-    .sidebar h3 {
-      color: var(--acc);
-      margin-bottom: 20px;
-      font-size: 18px;
-      font-weight: 600;
+    .sidebar h3{
+      color:#60a5fa;
+      margin:0 0 20px;
+      font-size:18px;
+      font-weight:600;
     }
-    .sidebar nav a {
-      display: block;
-      padding: 10px 6px;
-      color: #e5e7eb;
-      text-decoration: none;
-      font-size: 15px;
-      border-radius: 6px;
+    .sidebar nav a{
+      display:block;
+      padding:10px 6px;
+      color:#e5e7eb;
+      text-decoration:none;
+      font-size:15px;
+      border-radius:6px;
       margin-bottom:4px;
     }
-    .sidebar nav a:hover {
-      background: #1e293b;
-      color: #93c5fd;
+    .sidebar nav a:hover{
+      background:#1e293b;
+      color:#93c5fd;
     }
 
-    .wrap {
-      max-width: 980px;
-      margin-left: 260px;
-      padding: 32px 16px 40px;
+    /* CONTENT */
+    .wrap{
+      max-width:980px;
+      margin-left:260px;
+      padding:32px 16px 40px;
     }
 
-    h1{ font-size:28px;margin:0 0 12px }
-    h2{ font-size:22px;margin:20px 0 10px }
-    h3{ font-size:18px;margin:16px 0 8px }
+    h1{font-size:28px;margin:0 0 12px}
+    h2{font-size:22px;margin:20px 0 10px}
+    h3{font-size:18px;margin:16px 0 8px}
+    p{margin:8px 0}
+    ul,ol{margin:8px 0 8px 20px;padding:0}
 
     .card{
       background:var(--panel);
@@ -76,151 +160,215 @@
       padding:20px 22px;
       margin:16px 0;
     }
-
-    p{ margin:8px 0 }
-    ul,ol{ margin-left:20px }
-
-    .lead { color:var(--muted);margin-bottom:16px }
-    .footer{ margin-top:30px;font-size:13px;color:var(--muted) }
+    .lead{color:var(--muted);margin-bottom:16px}
+    .muted{color:var(--muted);font-size:14px}
+    .footer{margin-top:18px;font-size:13px;color:var(--muted)}
+    .keywords{margin-top:16px;font-size:13px;color:var(--muted)}
+    .badge{
+      display:inline-block;
+      padding:4px 10px;
+      border-radius:999px;
+      font-size:12px;
+      background:rgba(96,165,250,.15);
+      border:1px solid rgba(96,165,250,.5);
+      color:var(--acc);
+      margin-left:8px;
+    }
   </style>
 </head>
 
 <body>
+  <aside class="sidebar">
+    <h3>Довідник Yureco</h3>
+    <nav>
+      <a href="/">Головна</a>
+      <a href="/promyslovi-vidhody.html" style="background:#1e293b;">Промислові відходи</a>
+      <a href="/utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a>
+      <a href="/utilizaciya-li-ion-batarej.html">Li-ion батареї</a>
+      <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти харчування та напої</a>
+      <a href="/utilizaciya-kosmetiki.html">Косметика</a>
+      <a href="/utilizaciya-dokumentiv.html">Конфіденційні документи</a>
+      <a href="/utilizaciya-shin.html">Шини</a>
+      <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a>
+      <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a>
+      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі, вітряки та лопаті ВЕС</a>
+    </nav>
+  </aside>
 
-<aside class="sidebar">
-  <h3>Довідник Yureco</h3>
-  <nav>
-    <a href="/">Головна</a>
-    <a href="/promyslovi-vidhody.html" style="background:#1e293b;">Промислові відходи</a>
-    <a href="/utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a>
-    <a href="/utilizaciya-li-ion-batarej.html">Li-ion батареї</a>
-    <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти харчування та напої</a>
-    <a href="/utilizaciya-kosmetiki.html">Косметика</a>
-    <a href="/utilizaciya-dokumentiv.html">Конфіденційні документи</a>
-    <a href="/utilizaciya-shin.html">Шини</a>
-    <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a>
-    <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a>
-    <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі, вітряки та лопаті ВЕС</a>
-  </nav>
-</aside>
+  <div class="wrap">
+    <header class="card">
+      <h1>Що таке промислові відходи
+        <span class="badge">інформаційний довідник Yureko</span>
+      </h1>
+      <p class="lead">
+        Промислові відходи — один із головних факторів впливу на довкілля. Правильне поводження з ними
+        зменшує ризики для здоров’я людей, довкілля та самого бізнесу. Нижче подано стислий, але структурований
+        огляд основних понять і вимог.
+      </p>
+    </header>
 
-<div class="wrap">
+    <section class="card">
+      <h2>1. Визначення</h2>
+      <p>
+        <strong>Промислові відходи</strong> — це матеріали, речовини або побічні продукти, що утворюються
+        в результаті виробничих, технологічних, будівельних чи переробних процесів і не мають подальшого
+        використання за призначенням без додаткової обробки.
+      </p>
+      <p>
+        До промислових відходів належать тверді, рідкі, газоподібні та небезпечні компоненти, які можуть
+        створювати ризики для довкілля та здоров’я людей.
+      </p>
+    </section>
 
-  <h1>Що таке промислові відходи</h1>
-  <p class="lead">
-    Промислові відходи утворюються внаслідок виробничих, технологічних, будівельних та інших процесів.
-    Вони можуть бути твердими, рідкими або газоподібними та потребують правильного поводження для
-    зниження ризиків для довкілля та здоров’я людей.
-  </p>
+    <section class="card">
+      <h2>2. Основні характеристики промислових відходів</h2>
+      <ul>
+        <li><strong>Походження:</strong> виробничі процеси підприємств, технологічні та допоміжні операції.</li>
+        <li><strong>Склад:</strong> хімічні речовини, метали, пластик, шлами, органічні залишки.</li>
+        <li><strong>Фізичний стан:</strong> тверді, рідкі, напіврідкі, газоподібні форми.</li>
+        <li><strong>Ступінь небезпеки:</strong> від інертних до високотоксичних та вибухонебезпечних.</li>
+        <li><strong>Спосіб поводження:</strong> утилізація, переробка, знешкодження або захоронення.</li>
+      </ul>
+    </section>
 
-  <section class="card">
-    <h2>1. Визначення</h2>
-    <p><strong>Промислові відходи</strong> — матеріали, речовини або побічні продукти, що втратили
-    свою цінність і не можуть бути використані без додаткової обробки.</p>
+    <section class="card">
+      <h2>3. Основні види промислових відходів</h2>
 
-    <p>До них належать:</p>
-    <ul>
-      <li>тверді відходи;</li>
-      <li>рідкі та напіврідкі;</li>
-      <li>газоподібні домішки;</li>
-      <li>небезпечні речовини та компоненти.</li>
-    </ul>
-  </section>
+      <h3>3.1. За походженням</h3>
+      <ul>
+        <li>металургійні (шлаки, пил, шлам);</li>
+        <li>хімічні (кислоти, луги, реагенти);</li>
+        <li>будівельні (бетон, цегла, пластик, деревина);</li>
+        <li>машинобудівні (стружка, мастила, емульсії);</li>
+        <li>нафтогазові (відпрацьовані нафтопродукти);</li>
+        <li>лакофарбові (фарби, розчинники, полімерні матеріали).</li>
+      </ul>
 
-  <section class="card">
-    <h2>2. Основні характеристики промислових відходів</h2>
-    <ul>
-      <li><strong>Походження:</strong> виробничі процеси та технологічні цикли.</li>
-      <li><strong>Склад:</strong> хімічні реагенти, метали, пластик, органіка, шлами.</li>
-      <li><strong>Фізичний стан:</strong> тверді, рідкі, газоподібні.</li>
-      <li><strong>Ступінь небезпеки:</strong> від інертних до токсичних та вибухонебезпечних.</li>
-      <li><strong>Способи поводження:</strong> утилізація, переробка, знешкодження, захоронення.</li>
-    </ul>
-  </section>
+      <h3>3.2. За небезпечністю (класи небезпеки)</h3>
+      <ul>
+        <li><strong>I клас</strong> — надзвичайно небезпечні;</li>
+        <li><strong>II клас</strong> — високонебезпечні;</li>
+        <li><strong>III клас</strong> — середньонебезпечні;</li>
+        <li><strong>IV клас</strong> — малонебезпечні;</li>
+        <li><strong>V клас</strong> — практично не небезпечні.</li>
+      </ul>
+    </section>
 
-  <section class="card">
-    <h2>3. Основні види промислових відходів</h2>
+    <section class="card">
+      <h2>4. Нормативно-правове регулювання в Україні</h2>
+      <p>
+        Поводження з промисловими відходами регулюється низкою законодавчих та підзаконних актів. Серед основних:
+      </p>
+      <ul>
+        <li><strong>Закон України «Про управління відходами»;</strong></li>
+        <li>постанови Кабінету Міністрів України щодо класифікації та утилізації відходів;</li>
+        <li>державні санітарні норми та правила (ДСанПіН);</li>
+        <li>вимоги до транспортування, зберігання та знешкодження відходів.</li>
+      </ul>
+      <p>
+        Для підприємств важливо забезпечити:
+      </p>
+      <ul>
+        <li>безпечне тимчасове зберігання та маркування відходів;</li>
+        <li>передачу відходів ліцензованому оператору;</li>
+        <li>ведення обліку та паспортизації відходів;</li>
+        <li>дотримання екологічних стандартів та звітності.</li>
+      </ul>
+    </section>
 
-    <h3>3.1. За походженням</h3>
-    <ul>
-      <li>металургійні (шлаки, пил, шлам);</li>
-      <li>хімічні (кислоти, луги, відходи реакцій);</li>
-      <li>будівельні (бетон, скло, цегла, пластик);</li>
-      <li>машинобудівні (стружка, мастила, емульсії);</li>
-      <li>нафтогазові (відпрацьовані нафтопродукти);</li>
-      <li>лакофарбові (розчинники, фарби, смоли).</li>
-    </ul>
+    <section class="card">
+      <h2>5. Методи поводження з промисловими відходами</h2>
+      <p>Найпоширеніші методи обробки та знешкодження промислових відходів:</p>
+      <ul>
+        <li><strong>Утилізація</strong> — повторне використання після відповідної обробки.</li>
+        <li><strong>Переробка (рециклінг)</strong> — повернення матеріалів у виробничий цикл.</li>
+        <li><strong>Знешкодження</strong> — переведення небезпечних властивостей у менш небезпечні.</li>
+        <li><strong>Спалювання</strong> у спеціальних установках.</li>
+        <li><strong>Фізико-хімічна стабілізація</strong> та нейтралізація.</li>
+        <li><strong>Біологічна обробка</strong> (для певних органічних відходів).</li>
+        <li><strong>Захоронення</strong> на полігонах промислових відходів.</li>
+      </ul>
+      <p>
+        Вибір методу залежить від складу, небезпечності, обсягів відходів та вимог законодавства.
+      </p>
+    </section>
 
-    <h3>3.2. За класом небезпеки</h3>
-    <ul>
-      <li><strong>I клас</strong> — надзвичайно небезпечні;</li>
-      <li><strong>II клас</strong> — високонебезпечні;</li>
-      <li><strong>III клас</strong> — середньонебезпечні;</li>
-      <li><strong>IV клас</strong> — малонебезпечні;</li>
-      <li><strong>V клас</strong> — практично не небезпечні.</li>
-    </ul>
-  </section>
+    <section class="card">
+      <h2>6. Екологічні ризики промислових відходів</h2>
+      <ul>
+        <li>забруднення ґрунту, поверхневих і підземних вод;</li>
+        <li>утворення токсичних газів та сполук;</li>
+        <li>накопичення шкідливих речовин у ланцюгах живлення;</li>
+        <li>ризики для здоров’я працівників і населення;</li>
+        <li>пожежна та вибухова небезпека для окремих видів відходів.</li>
+      </ul>
+    </section>
 
-  <section class="card">
-    <h2>4. Законодавче регулювання в Україні</h2>
-    <p>Промислові відходи регулюються законами України та нормами екологічної безпеки, зокрема:</p>
+    <section class="card">
+      <h2>7. Переваги правильної утилізації</h2>
+      <ul>
+        <li>зменшення екологічного навантаження на територію підприємства;</li>
+        <li>повторне використання цінних ресурсів і сировини;</li>
+        <li>дотримання законодавства та уникнення штрафів;</li>
+        <li>зниження операційних витрат за рахунок оптимізації поводження з відходами;</li>
+        <li>покращення репутації та показників корпоративної відповідальності.</li>
+      </ul>
+    </section>
 
-    <ul>
-      <li>Закон України «Про управління відходами»;</li>
-      <li>постанови КМУ щодо поводження з небезпечними відходами;</li>
-      <li>ДСанПіН та екологічні стандарти;</li>
-      <li>вимоги до транспортування, зберігання та маркування.</li>
-    </ul>
+    <section class="card">
+      <h2>8. Поширені запитання (FAQ)</h2>
 
-    <p>Підприємства зобов’язані вести:</p>
-    <ul>
-      <li>облік та паспортизацію відходів;</li>
-      <li>документування передачі оператору;</li>
-      <li>екологічну звітність.</li>
-    </ul>
-  </section>
+      <h3>Чим промислові відходи відрізняються від побутових?</h3>
+      <p>
+        Промислові відходи мають складніший хімічний склад, часто містять небезпечні речовини та вимагають
+        спеціальних умов зберігання, транспортування й утилізації.
+      </p>
 
-  <section class="card">
-    <h2>5. Методи утилізації та обробки</h2>
-    <ul>
-      <li>утилізація (повторне використання);</li>
-      <li>рециклінг (переробка у вторинну сировину);</li>
-      <li>знешкодження хімічними методами;</li>
-      <li>спалювання у високотемпературних установках;</li>
-      <li>біологічна обробка (для органічних відходів);</li>
-      <li>захоронення на полігонах.</li>
-    </ul>
-  </section>
+      <h3>Чи всі промислові відходи небезпечні?</h3>
+      <p>
+        Ні. Частина відходів належить до IV–V класу небезпеки й вважається малонебезпечною, проте навіть такі
+        відходи потребують контролю та належного поводження.
+      </p>
 
-  <section class="card">
-    <h2>6. Екологічні ризики</h2>
-    <ul>
-      <li>забруднення ґрунту, води та атмосфери;</li>
-      <li>накопичення токсичних речовин у біосфері;</li>
-      <li>ризики для здоров’я працівників;</li>
-      <li>пожежна та вибухова небезпека окремих відходів.</li>
-    </ul>
-  </section>
+      <h3>Хто має право утилізувати промислові відходи?</h3>
+      <p>
+        Поводження з промисловими відходами (збирання, перевезення, зберігання, утилізація чи знешкодження)
+        можуть здійснювати лише ліцензовані підприємства, що відповідають вимогам екологічного та
+        профільного законодавства.
+      </p>
 
-  <section class="card">
-    <h2>Переваги правильної утилізації</h2>
-    <ul>
-      <li>зменшення екологічного навантаження;</li>
-      <li>повторне використання матеріалів;</li>
-      <li>зниження витрат підприємства;</li>
-      <li>дотримання законодавства та уникнення штрафів.</li>
-    </ul>
-  </section>
+      <h3>Чи можна зберігати промислові відходи на території підприємства?</h3>
+      <p>
+        Так, але лише в спеціально обладнаних місцях, з дотриманням вимог до тари, маркування, строків
+        зберігання та безпеки для персоналу й довкілля.
+      </p>
+    </section>
 
-  <div class="footer">
-    © <span id="year"></span> Юреко — інформаційний довідник.
+    <section class="card">
+      <h2>9. Про компанію Юреко</h2>
+      <p>
+        <strong>Юреко</strong> — українська екологічна компанія, що здійснює збирання, транспортування та
+        утилізацію промислових і небезпечних відходів відповідно до чинних норм України.
+      </p>
+      <p class="muted">
+        Ця сторінка має інформаційний характер і може використовуватися як довідкове джерело для фахівців,
+        які працюють у сфері екологічної безпеки та управління відходами.
+      </p>
+    </section>
+
+    <div class="keywords">
+      Ключові фрази: промислові відходи, класи небезпеки відходів, утилізація промислових відходів,
+      поводження з небезпечними відходами, екологічна безпека підприємств, управління відходами, Юреко.
+    </div>
+
+    <footer class="footer">
+      © <span id="year"></span> Юреко. Інформаційний довідник з промислових відходів.
+      Більше про послуги компанії — на <a href="https://youreko.com.ua" target="_blank" rel="noopener">youreko.com.ua</a>.
+    </footer>
   </div>
 
-</div>
-
-<script>
-  document.getElementById('year').textContent = new Date().getFullYear();
-</script>
-
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
