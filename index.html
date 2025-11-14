@@ -26,7 +26,7 @@
   <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів, шин та оргтехніки по всій Україні." />
   <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
-  <!-- Schema.org JSON-LD -->
+  <!-- Schema.org Organization -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -47,6 +47,50 @@
       "addressLocality": "Київ",
       "streetAddress": "вул. Екологічна 10"
     }
+  }
+  </script>
+
+  <!-- Schema.org WebSite + WebPage + Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://yureco.onrender.com/#website",
+        "url": "https://yureco.onrender.com/",
+        "name": "Довідник Yureco",
+        "description": "Інформаційний довідник компанії Юреко щодо утилізації промислових та небезпечних відходів.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Юреко",
+          "url": "https://youreko.com.ua"
+        },
+        "inLanguage": "uk"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://yureco.onrender.com/#webpage",
+        "url": "https://yureco.onrender.com/",
+        "name": "Юреко — утилізація відходів для бізнесу та громад",
+        "description": "Юреко надає комплексні послуги з екологічно безпечної утилізації відходів: павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, меблів та оргтехніки.",
+        "isPartOf": {
+          "@id": "https://yureco.onrender.com/#website"
+        },
+        "inLanguage": "uk"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Головна",
+            "item": "https://yureco.onrender.com/"
+          }
+        ]
+      }
+    ]
   }
   </script>
 
@@ -156,6 +200,10 @@
       border:1px solid rgba(239,68,68,.35);
     }
 
+    .hidden-dev{
+      display:none !important;
+    }
+
     .mono{
       font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
     }
@@ -164,6 +212,12 @@
     .footer{margin-top:8px;font-size:13px}
     .small{font-size:13px}
     pre{white-space:pre-wrap}
+
+    .keywords{
+      margin-top:16px;
+      font-size:13px;
+      color:var(--muted);
+    }
 
     /* SIDEBAR */
     .sidebar{
@@ -223,7 +277,11 @@
   </aside>
 
   <div class="wrap with-sidebar">
-    <h1>Yureco</h1>
+    <h1>
+      Yureco
+      <span id="injBadge" class="badge bad hidden-dev">injected: false</span>
+    </h1>
+
     <div class="card seo-card">
       <h2>Юреко — надійний партнер з утилізації в Україні</h2>
       <p>
@@ -295,8 +353,9 @@
     const btn = $('send'), ans = $('answer'), badge = $('injBadge'), statusEl = $('status'), curlEl = $('curl');
 
     function setInjected(v){
+      if (!badge) return;
       badge.textContent = `injected: ${v}`;
-      badge.className = 'badge ' + (v ? 'ok' : 'bad');
+      badge.className = 'badge ' + (v ? 'ok' : 'bad') + ' hidden-dev';
     }
 
     function renderCurl(){
@@ -318,9 +377,15 @@
       btn.disabled = true;
       setInjected(false);
       try{
-        const r = await fetch(url, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload) });
+        const r = await fetch(url, {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(payload)
+        });
         const data = await r.json();
-        if(!r.ok){ throw new Error((data && data.detail) || r.statusText); }
+        if(!r.ok){
+          throw new Error((data && data.detail) || r.statusText);
+        }
         ans.textContent = (data.final_answer || JSON.stringify(data, null, 2));
         setInjected(Boolean(data.injected));
         statusEl.textContent = 'OK';
