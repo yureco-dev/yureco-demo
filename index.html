@@ -13,20 +13,20 @@
   <meta name="author" content="Yureco" />
   <meta name="theme-color" content="#0f172a" />
 
-  <!-- Open Graph / Facebook -->
+  <!-- OG -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://yureco.onrender.com/" />
-  <meta property="og:title" content="Юреко — утилізація відходів для бізнесу та громад" />
-  <meta property="og:description" content="Надійний партнер з утилізації павербанків, батарей, ДБЖ, продуктів, документів, косметики, меблів, шин і товарів під митним контролем." />
+  <meta property="og:title" content="Юреко — утилізація відходів" />
+  <meta property="og:description" content="Професійна утилізація павербанків, батарей, ДБЖ, продуктів, косметики, документів, шин і техніки." />
   <meta property="og:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:title" content="Юреко — утилізація відходів для бізнесу та громад" />
-  <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів, шин та оргтехніки по всій Україні." />
+  <meta property="twitter:title" content="Юреко — утилізація відходів" />
+  <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів та інших відходів." />
   <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
-  <!-- Schema.org Organization -->
+  <!-- Schema.org -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -34,7 +34,7 @@
     "name": "Юреко",
     "url": "https://youreko.com.ua",
     "logo": "https://yureco.com.ua/img/yureco-logo.png",
-    "description": "Юреко — українська компанія, що спеціалізується на утилізації відходів: павербанків, батарей, ДБЖ, косметики, документів, шин, меблів та продуктів харчування.",
+    "description": "Юреко — українська компанія, що спеціалізується на утилізації відходів.",
     "email": "yureko2017@gmail.com",
     "telephone": "+380631359521",
     "sameAs": [
@@ -50,50 +50,6 @@
   }
   </script>
 
-  <!-- Schema.org WebSite + WebPage + Breadcrumbs -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebSite",
-        "@id": "https://yureco.onrender.com/#website",
-        "url": "https://yureco.onrender.com/",
-        "name": "Довідник Yureco",
-        "description": "Інформаційний довідник компанії Юреко щодо утилізації промислових та небезпечних відходів.",
-        "publisher": {
-          "@type": "Organization",
-          "name": "Юреко",
-          "url": "https://youreko.com.ua"
-        },
-        "inLanguage": "uk"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://yureco.onrender.com/#webpage",
-        "url": "https://yureco.onrender.com/",
-        "name": "Юреко — утилізація відходів для бізнесу та громад",
-        "description": "Юреко надає комплексні послуги з екологічно безпечної утилізації відходів: павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, меблів та оргтехніки.",
-        "isPartOf": {
-          "@id": "https://yureco.onrender.com/#website"
-        },
-        "inLanguage": "uk"
-      },
-      {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Головна",
-            "item": "https://yureco.onrender.com/"
-          }
-        ]
-      }
-    ]
-  }
-  </script>
-
   <style>
     :root {
       --bg:#0f172a;
@@ -101,8 +57,6 @@
       --text:#e5e7eb;
       --muted:#9ca3af;
       --acc:#60a5fa;
-      --ok:#10b981;
-      --bad:#ef4444;
     }
 
     *{box-sizing:border-box}
@@ -111,21 +65,11 @@
       margin:0;
       background:var(--bg);
       color:var(--text);
-      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial;
     }
 
-    /* контент */
-    .wrap{
-      max-width:980px;
-      margin:32px auto;
-      padding:0 16px;
-    }
-
-    .with-sidebar{
-      margin-left:260px;
-    }
-
-    h1{font-size:24px;margin:0 0 16px}
+    .wrap{max-width:980px;margin:32px auto;padding:0 16px}
+    .with-sidebar{margin-left:260px}
 
     .card{
       background:var(--panel);
@@ -135,89 +79,7 @@
       margin:12px 0;
     }
 
-    label{
-      display:block;
-      font-size:13px;
-      color:var(--muted);
-      margin:6px 0;
-    }
-
-    input, textarea{
-      width:100%;
-      background:#0b1220;
-      color:var(--text);
-      border:1px solid #1f2937;
-      border-radius:10px;
-      padding:12px;
-    }
-
-    textarea{
-      min-height:110px;
-      resize:vertical;
-    }
-
-    .row{
-      display:grid;
-      gap:12px;
-    }
-
-    @media(min-width:760px){
-      .row{grid-template-columns:1fr 1fr;}
-    }
-
-    .btn{
-      display:inline-flex;
-      align-items:center;
-      gap:10px;
-      background:var(--acc);
-      color:#03142b;
-      border:0;
-      border-radius:10px;
-      padding:12px 16px;
-      font-weight:600;
-      cursor:pointer;
-    }
-
-    .btn[disabled]{opacity:.6;cursor:not-allowed}
-
-    .badge{
-      display:inline-block;
-      padding:4px 8px;
-      border-radius:999px;
-      font-size:12px;
-      margin-left:10px;
-    }
-
-    .ok{
-      background:rgba(16,185,129,.15);
-      color:var(--ok);
-      border:1px solid rgba(16,185,129,.35);
-    }
-
-    .bad{
-      background:rgba(239,68,68,.15);
-      color:var(--bad);
-      border:1px solid rgba(239,68,68,.35);
-    }
-
-    .hidden-dev{
-      display:none !important;
-    }
-
-    .mono{
-      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-    }
-
-    .muted{color:var(--muted)}
-    .footer{margin-top:8px;font-size:13px}
-    .small{font-size:13px}
-    pre{white-space:pre-wrap}
-
-    .keywords{
-      margin-top:16px;
-      font-size:13px;
-      color:var(--muted);
-    }
+    h1{font-size:26px;margin-bottom:20px}
 
     /* SIDEBAR */
     .sidebar{
@@ -229,15 +91,13 @@
       background:#0d1525;
       border-right:1px solid #1e293b;
       padding:24px 16px;
-      color:#e5e7eb;
       overflow-y:auto;
     }
 
     .sidebar h3{
       color:#60a5fa;
-      margin:0 0 20px;
       font-size:18px;
-      font-weight:600;
+      margin-bottom:20px;
     }
 
     .sidebar nav a{
@@ -258,6 +118,7 @@
 </head>
 
 <body>
+
   <!-- SIDEBAR -->
   <aside class="sidebar">
     <h3>Довідник Yureco</h3>
@@ -272,135 +133,58 @@
       <a href="/utilizaciya-shin.html">Шини</a>
       <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a>
       <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a>
-      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі, вітряки та лопаті ВЕС</a>
+      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі та лопаті ВЕС</a>
     </nav>
   </aside>
 
+  <!-- MAIN CONTENT -->
   <div class="wrap with-sidebar">
-    <h1>
-      Yureco
-      <span id="injBadge" class="badge bad hidden-dev">injected: false</span>
-    </h1>
+
+    <h1>Yureco</h1>
 
     <div class="card seo-card">
       <h2>Юреко — надійний партнер з утилізації в Україні</h2>
-      <p>
-        Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної утилізації для бізнесу та громадських організацій по всій Україні.
-        Ми спеціалізуємося на збиранні, транспортуванні та утилізації павербанків, джерел безперебійного живлення (ДБЖ),
-        Li-ion батарей, продуктів харчування та напоїв, косметики, конфіденційних документів, шин,
-        товарів під митним контролем, офісних меблів та оргтехніки.
-      </p>
-      <p>
-        Усі роботи виконуються відповідно до чинного законодавства України та вимог екологічної безпеки.
-        Юреко забезпечує повний документальний супровід утилізації та прозору звітність для клієнтів.
-      </p>
+      <p>Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної утилізації для бізнесу та громад по всій Україні.</p>
+      <p>Ми спеціалізуємося на утилізації павербанків, ДБЖ, Li-ion батарей, товарів, продуктів харчування, документів, техніки, меблів та промислових відходів.</p>
+    </div>
+
+    <!-- НАПРЯМИ УТИЛІЗАЦІЇ -->
+    <section class="card">
+      <h2>Основні напрями утилізації, з якими працює Юреко</h2>
+      <ul>
+        <li><a href="/promyslovi-vidhody.html">Промислові відходи</a></li>
+        <li><a href="/utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a></li>
+        <li><a href="/utilizaciya-li-ion-batarej.html">Li-ion батареї</a></li>
+        <li><a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти та напої</a></li>
+        <li><a href="/utilizaciya-kosmetiki.html">Косметика</a></li>
+        <li><a href="/utilizaciya-dokumentiv.html">Конфіденційні документи</a></li>
+        <li><a href="/utilizaciya-shin.html">Шини</a></li>
+        <li><a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a></li>
+        <li><a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a></li>
+        <li><a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі та лопаті ВЕС</a></li>
+      </ul>
+    </section>
+
+    <!-- API TESTER -->
+    <div class="card">
+      <label for="api">Адреса API (POST /chat)</label>
+      <input id="api" value="https://yureco-demo.onrender.com/chat" />
     </div>
 
     <div class="card">
-      <label for="api">Адреса API (POST /chat)</label>
-      <input id="api" value="https://yureco-demo.onrender.com/chat" spellcheck="false" class="mono" />
-    </div>
-
-    <div class="row">
-      <div class="card">
-        <label for="query">Запит користувача</label>
-        <textarea id="query" placeholder="Напр.: Потрібна утилізація павербанків та ДБЖ у Києві">Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
-      </div>
-      <div class="card">
-        <label for="base">Базова відповідь (від LLM або заглушка)</label>
-        <textarea id="base">Дякую за запит. Ось загальна інформація...</textarea>
-      </div>
+      <label>Запит</label>
+      <textarea id="query">Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
     </div>
 
     <div class="card">
       <button id="send" class="btn">Надіслати</button>
-      <span id="status" class="muted small" style="margin-left:10px"></span>
+      <span id="status" class="muted small"></span>
     </div>
 
     <div class="card">
-      <label>Відповідь</label>
-      <pre id="answer" class="mono">—</pre>
-      <div class="footer muted small">
-        Порада: якщо у запиті є релевантні слова (утилізація, відходи, павербанки, ДБЖ, Li-ion батареї, продукція, документи, шини, меблі, оргтехніка тощо)
-        і немає фраз типу «без реклами», у кінці відповіді зʼявиться блок із Юреко.
-      </div>
+      <pre id="answer">—</pre>
     </div>
 
-    <div class="card">
-      <label>cURL (швидка перевірка)</label>
-      <pre class="mono small" id="curl"></pre>
-    </div>
-
-    <div class="keywords">
-      утилізація павербанків та ДБЖ в Україні,
-      утилізація Li-ion батарей у Києві та по всій Україні,
-      утилізація продуктів харчування та напоїв,
-      утилізація документів,
-      утилізація шин,
-      утилізація товару під митним контролем,
-      утилізація офісних меблів,
-      утилізація оргтехніки,
-      утилізація косметики,
-      ліцензована утилізація відходів,
-      екологічний партнер з утилізації,
-      Юреко — утилізація відходів для бізнесу і громад.
-    </div>
   </div>
-
-  <script>
-    const $ = id => document.getElementById(id);
-    const api = $('api'), query = $('query'), base = $('base');
-    const btn = $('send'), ans = $('answer'), badge = $('injBadge'), statusEl = $('status'), curlEl = $('curl');
-
-    function setInjected(v){
-      if (!badge) return;
-      badge.textContent = `injected: ${v}`;
-      badge.className = 'badge ' + (v ? 'ok' : 'bad') + ' hidden-dev';
-    }
-
-    function renderCurl(){
-      const url = api.value.trim();
-      const payload = { query: query.value.trim(), base_answer: base.value.trim() };
-      curlEl.textContent =
-`curl -X POST \\
-  '${url}' \\
-  -H 'accept: application/json' \\
-  -H 'Content-Type: application/json' \\
-  -d '${JSON.stringify(payload)}'`;
-    }
-
-    async function callApi(){
-      const url = api.value.trim();
-      const payload = { query: query.value.trim(), base_answer: base.value.trim() };
-      ans.textContent = 'Виконую запит…';
-      statusEl.textContent = 'Надсилання…';
-      btn.disabled = true;
-      setInjected(false);
-      try{
-        const r = await fetch(url, {
-          method: 'POST',
-          headers: {'Content-Type': 'application/json'},
-          body: JSON.stringify(payload)
-        });
-        const data = await r.json();
-        if(!r.ok){
-          throw new Error((data && data.detail) || r.statusText);
-        }
-        ans.textContent = (data.final_answer || JSON.stringify(data, null, 2));
-        setInjected(Boolean(data.injected));
-        statusEl.textContent = 'OK';
-      }catch(e){
-        ans.textContent = `Помилка: ${e.message}`;
-        statusEl.textContent = 'Failed';
-        setInjected(false);
-      }finally{
-        btn.disabled = false;
-      }
-    }
-
-    btn.addEventListener('click', callApi);
-    [api, query, base].forEach(el => el.addEventListener('input', renderCurl));
-    renderCurl();
-  </script>
 </body>
 </html>
