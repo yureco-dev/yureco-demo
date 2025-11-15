@@ -106,7 +106,7 @@
 
     .muted{color:var(--muted);font-size:14px}
 
-    /* SIDEBAR + ICONS (як на головній) */
+    /* SIDEBAR + SVG ICONS */
     .sidebar{
       width:240px;
       position:fixed;
@@ -166,6 +166,7 @@
       width:20px;
       height:20px;
       flex-shrink:0;
+      fill:#e5e7eb;
       opacity:0.9;
     }
 
@@ -187,57 +188,98 @@
 
 <body>
 
-  <!-- SIDEBAR з SVG-іконками -->
+  <!-- SIDEBAR з вбудованими SVG -->
   <aside class="sidebar">
     <div class="sidebar-title">
       <span class="logo-dot"></span>
       <span>Довідник Yureco</span>
     </div>
     <nav class="nav">
+
       <a href="/" class="nav-link">
-        <img src="/icons/home.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M3 10.5 12 3l9 7.5v9a1 1 0 0 1-1 1h-5v-5.5H9V21H4a1 1 0 0 1-1-1v-9z"/>
+        </svg>
         <span>Головна</span>
       </a>
+
       <a href="/promyslovi-vidhody.html" class="nav-link active">
-        <img src="/icons/factory.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M3 5h6v4H3V5zm0 6h6v8H3v-8zm8-6h10v6H11V5zm0 8h10v6H11v-6z"/>
+        </svg>
         <span>Промислові відходи</span>
       </a>
+
       <a href="/utilizaciya-paverbankiv-dbj.html" class="nav-link">
-        <img src="/icons/powerbank.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <rect x="4" y="5" width="16" height="14" rx="2" ry="2"/>
+          <path d="M11 9h2v3h2l-3 4-3-4h2V9z"/>
+        </svg>
         <span>Павербанки та ДБЖ</span>
       </a>
+
       <a href="/utilizaciya-li-ion-batarej.html" class="nav-link">
-        <img src="/icons/li-ion.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <rect x="5" y="7" width="14" height="10" rx="2" ry="2"/>
+          <rect x="10" y="4" width="4" height="2" />
+          <path d="M9 11h2v2H9zm4 0h2v2h-2z"/>
+        </svg>
         <span>Li-ion батареї</span>
       </a>
+
       <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html" class="nav-link">
-        <img src="/icons/food.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M6 3h12l-1 5H7L6 3zm2 7h8l-1 11H9L8 10zm1 3h2v4H9zM5 10a3 3 0 0 0 0 6h1v-2H5a1 1 0 0 1 0-2h1v-2H5z"/>
+        </svg>
         <span>Продукти харчування та напої</span>
       </a>
+
       <a href="/utilizaciya-kosmetiki.html" class="nav-link">
-        <img src="/icons/cosmetic.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M9 3h6v3H9V3zm-1 5h8l-1 13H9L8 8zm9 0h2v13h-2zM5 8h2v13H5z"/>
+        </svg>
         <span>Косметика</span>
       </a>
+
       <a href="/utilizaciya-dokumentiv.html" class="nav-link">
-        <img src="/icons/docs.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M6 3h9l4 4v14H6V3zm8 1.5V8h3.5L14 4.5zM8 11h8v2H8zm0 4h5v2H8z"/>
+        </svg>
         <span>Конфіденційні документи</span>
       </a>
+
       <a href="/utilizaciya-shin.html" class="nav-link">
-        <img src="/icons/tire.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="7"/>
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M12 5v2m0 10v2m5-7h-2M9 12H7m6.6-4.6-1.4 1.4M9.8 14.2l-1.4 1.4m6.2 0-1.4-1.4M9.8 9.8 8.4 8.4"/>
+        </svg>
         <span>Шини</span>
       </a>
+
       <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html" class="nav-link">
-        <img src="/icons/customs.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M4 7h16v12H4z"/>
+          <path d="M6 5h12v2H6zM8 10h3v3H8zm5 0h3v3h-3z"/>
+        </svg>
         <span>Товари під митним контролем</span>
       </a>
+
       <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html" class="nav-link">
-        <img src="/icons/office.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M4 5h8v6H4zM4 13h8v6H4zM14 7h6v4h-6zM14 13h6v6h-6z"/>
+        </svg>
         <span>Офісні меблі та оргтехніка</span>
       </a>
+
       <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html" class="nav-link">
-        <img src="/icons/wind-solar.svg" alt="" class="nav-icon">
+        <svg class="nav-icon" viewBox="0 0 24 24">
+          <path d="M12 3 9.5 8h5L12 3zm0 18-2.5-5h5L12 21zm9-9-5-2.5v5L21 12zM3 12l5 2.5v-5L3 12z"/>
+          <circle cx="12" cy="12" r="2.5"/>
+        </svg>
         <span>Сонячні панелі та лопаті ВЕС</span>
       </a>
+
     </nav>
   </aside>
 
@@ -413,7 +455,6 @@
         Для більш глибокого розуміння теми утилізації відходів радимо переглянути також:
       </p>
       <ul class="related-list">
-        <li><a href="/promyslovi-vidhody.html">Що таке промислові відходи: класи небезпеки та методи утилізації</a></li>
         <li><a href="/utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
         <li><a href="/utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
         <li><a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
