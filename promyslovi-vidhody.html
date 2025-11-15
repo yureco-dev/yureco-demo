@@ -7,43 +7,43 @@
   <title>Що таке промислові відходи — довідник Yureco</title>
   <link rel="canonical" href="https://yureco.onrender.com/promyslovi-vidhody.html" />
 
-  <meta name="description" content="Що таке промислові відходи: визначення, класи небезпеки, види та методи утилізації. Інформаційний довідник екологічної компанії Юреко." />
-  <meta name="keywords" content="промислові відходи, класи небезпеки відходів, утилізація промислових відходів, промислові відходи визначення, екологічна безпека підприємств, Юреко утилізація" />
+  <meta name="description" content="Що таке промислові відходи: визначення, класи небезпеки, основні види та методи утилізації. Інформаційний довідник компанії Юреко." />
+  <meta name="keywords" content="промислові відходи, класи небезпеки відходів, утилізація промислових відходів, управління відходами, Юреко, екологічна безпека підприємств" />
   <meta name="robots" content="index, follow" />
   <meta name="author" content="Yureco" />
-  <meta name="theme-color" content="#0f172a" />
+  <meta name="theme-color" content="#020617" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://yureco.onrender.com/promyslovi-vidhody.html" />
   <meta property="og:title" content="Що таке промислові відходи — довідник Yureco" />
-  <meta property="og:description" content="Визначення, класифікація, види та способи утилізації промислових відходів. Інформаційна сторінка екологічної компанії Юреко." />
-  <meta property="og:image" content="https://youreko.com.ua/img/yureco-cover.jpg" />
+  <meta property="og:description" content="Структурований довідник про промислові відходи: визначення, класи небезпеки, основні види та методи утилізації від компанії Юреко." />
+  <meta property="og:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:title" content="Що таке промислові відходи — довідник Yureco" />
-  <meta property="twitter:description" content="Структурована інформація про промислові відходи та їх утилізацію від компанії Юреко." />
-  <meta property="twitter:image" content="https://youreko.com.ua/img/yureco-cover.jpg" />
+  <meta property="twitter:description" content="Інформаційний довідник Юреко щодо промислових відходів та їх безпечної утилізації." />
+  <meta property="twitter:image" content="https://yureco.com.ua/img/yureco-cover.jpg" />
 
-  <!-- Schema.org Article -->
+  <!-- Schema.org Article JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Що таке промислові відходи — довідник Yureco",
-    "description": "Визначення, класи небезпеки, види та методи утилізації промислових відходів.",
+    "description": "Визначення, класи небезпеки, основні види та методи утилізації промислових відходів. Пояснення від компанії Юреко.",
+    "inLanguage": "uk",
     "author": {
       "@type": "Organization",
-      "name": "Юреко",
-      "url": "https://youreko.com.ua"
+      "name": "Юреко"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Юреко",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://youreko.com.ua/img/yureco-logo.png"
+        "url": "https://yureco.com.ua/img/yureco-logo.png"
       }
     },
     "mainEntityOfPage": {
@@ -54,262 +54,292 @@
   </script>
 
   <style>
-    :root {
-      --bg:#0f172a;
-      --panel:#111827;
-      --panel-soft:#020617;
+    :root{
+      --bg:#020617;
+      --sidebar-bg:#020617;
+      --panel:#020617;
+      --panel-soft:#030712;
+      --border:#1f2937;
       --text:#e5e7eb;
       --muted:#9ca3af;
-      --acc:#60a5fa;
-      --border:#1e293b;
-      --nav-icon-bg:#020617;
-      --nav-icon-border:#1f2937;
+      --accent:#38bdf8;
+      --accent-soft:#082f49;
+      --accent-strong:#0ea5e9;
+      --danger:#f97373;
     }
 
-    *{box-sizing:border-box}
+    *{box-sizing:border-box;}
 
     body{
       margin:0;
-      background:var(--bg);
+      background:radial-gradient(circle at top,#0b1220 0,#020617 55%,#000 100%);
       color:var(--text);
       font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
-    }
-
-    a{
-      color:var(--acc);
-      text-decoration:none;
-    }
-    a:hover{ text-decoration:underline; }
-
-    /* ===== LAYOUT ===== */
-
-    .layout{
       display:flex;
-      min-height:100vh;
     }
+
+    a{color:var(--accent);text-decoration:none;}
+    a:hover{text-decoration:underline;}
+
+    /* SIDEBAR */
 
     .sidebar{
       width:260px;
-      background:#020617;
-      border-right:1px solid var(--border);
-      padding:18px 18px 24px;
+      min-height:100vh;
+      background:linear-gradient(to bottom,#020617,#020617 55%,#020617 100%);
+      border-right:1px solid #1e293b;
+      padding:20px 18px 32px;
+      position:fixed;
+      left:0;
+      top:0;
       display:flex;
       flex-direction:column;
       gap:18px;
-      position:sticky;
-      top:0;
-      max-height:100vh;
-      overflow-y:auto;
     }
 
-    .content-wrap{
-      flex:1;
-      max-width:980px;
-      margin:0 auto;
-      padding:32px 24px 40px;
-    }
-
-    /* ===== BRAND BLOCK ===== */
-
-    .sidebar-brand{
+    .brand{
       display:flex;
       align-items:center;
-      gap:10px;
+      gap:12px;
+      text-decoration:none;
+      color:var(--text);
       margin-bottom:4px;
     }
 
-    .sidebar-logo{
-      width:38px;
-      height:38px;
+    .brand-logo{
+      width:44px;
+      height:44px;
       border-radius:999px;
-      background:#022c22;
+      background:#020617;
       display:flex;
       align-items:center;
       justify-content:center;
       overflow:hidden;
-      border:1px solid rgba(148, 163, 184, 0.5);
+      border:1px solid rgba(148,163,184,.5);
+      box-shadow:0 0 0 1px #0b1120,0 8px 20px rgba(15,23,42,.8);
     }
 
-    .sidebar-logo img{
+    .brand-logo img{
+      width:54px;
+      height:auto;
       display:block;
-      width:34px;
-      height:34px;
     }
 
-    .brand-text-main{
-      font-weight:600;
-      font-size:18px;
-      letter-spacing:0.01em;
+    .brand-text{
+      display:flex;
+      flex-direction:column;
+      gap:2px;
     }
 
-    .brand-text-sub{
+    .brand-name{
+      font-weight:650;
+      letter-spacing:.04em;
+      text-transform:uppercase;
+      font-size:17px;
+    }
+
+    .brand-tagline{
       font-size:12px;
       color:var(--muted);
-      margin-top:2px;
+      max-width:160px;
+      line-height:1.35;
     }
 
-    .sidebar-section-caption{
-      text-transform:uppercase;
+    .sidebar-label{
       font-size:11px;
-      letter-spacing:0.08em;
+      text-transform:uppercase;
+      letter-spacing:.12em;
       color:var(--muted);
-      margin-top:4px;
+      margin-top:8px;
     }
 
-    /* ===== NAV ===== */
-
-    .sidebar-nav{
+    .nav{
       display:flex;
       flex-direction:column;
       gap:4px;
       margin-top:4px;
     }
 
-    .nav-item{
+    .nav-link{
       display:flex;
       align-items:center;
       gap:10px;
-      padding:8px 8px;
-      border-radius:10px;
+      padding:7px 9px;
+      border-radius:999px;
       color:var(--text);
       text-decoration:none;
       font-size:14px;
-      transition:background .15s ease, color .15s ease, transform .1s ease;
+      transition:background .15s ease,color .15s ease,transform .08s ease,border-color .15s ease;
+      border:1px solid transparent;
     }
 
-    .nav-item:hover{
-      background:#0b1120;
-      transform:translateX(1px);
+    .nav-link:hover{
+      background:rgba(15,23,42,.9);
+      border-color:#1f2937;
+      transform:translateY(-1px);
     }
 
-    .nav-item.active{
-      background:#0b1120;
-      color:#e0f2fe;
-      box-shadow:0 0 0 1px rgba(56,189,248,.35);
+    .nav-link.active{
+      background:var(--accent-soft);
+      border-color:var(--accent-strong);
+      box-shadow:0 0 0 1px rgba(56,189,248,.4);
     }
 
     .nav-icon{
-      width:26px;
-      height:26px;
+      width:22px;
+      height:22px;
       border-radius:999px;
-      background:var(--nav-icon-bg);
-      border:1px solid var(--nav-icon-border);
+      border:1px solid #1f2937;
       display:flex;
       align-items:center;
       justify-content:center;
+      font-size:12px;
+      background:radial-gradient(circle at 30% 0,#1f2937,#020617);
+      color:#cbd5f5;
       flex-shrink:0;
     }
 
-    .nav-icon svg{
-      width:15px;
-      height:15px;
-      stroke:#38bdf8;
-      fill:none;
-      stroke-width:1.7;
-      stroke-linecap:round;
-      stroke-linejoin:round;
-    }
+    .nav-label{white-space:nowrap;}
 
-    .nav-item span.label{
-      white-space:nowrap;
-    }
+    .nav-icon-home::before{content:"⌂";}
+    .nav-icon-industry::before{content:"⚙";}
+    .nav-icon-battery::before{content:"🔋";}
+    .nav-icon-food::before{content:"🍽";}
+    .nav-icon-cosmetics::before{content:"💄";}
+    .nav-icon-docs::before{content:"📄";}
+    .nav-icon-tyre::before{content:"⛓";}
+    .nav-icon-customs::before{content:"📦";}
+    .nav-icon-office::before{content:"💼";}
+    .nav-icon-solar::before{content:"⚡";}
 
-    /* ===== CONTENT ===== */
+    /* MAIN LAYOUT */
+
+    .content{
+      margin-left:260px;
+      padding:32px 28px 40px;
+      width:100%;
+      max-width:1120px;
+    }
 
     .card{
-      background:var(--panel);
+      background:radial-gradient(circle at top left,#020617,#020617 45%,#020617);
+      border-radius:16px;
       border:1px solid #1f2937;
-      border-radius:14px;
-      padding:18px 20px;
-      margin:12px 0;
-    }
-
-    .card-soft{
-      background:var(--panel-soft);
+      padding:20px 22px;
+      box-shadow:0 18px 40px rgba(15,23,42,.85);
+      margin-bottom:18px;
     }
 
     h1{
-      font-size:28px;
       margin:0 0 14px;
+      font-size:28px;
+      letter-spacing:.01em;
     }
 
     h2{
-      font-size:21px;
       margin:0 0 10px;
+      font-size:20px;
     }
 
     h3{
+      margin:16px 0 8px;
       font-size:17px;
-      margin:18px 0 8px;
     }
 
-    p{ margin:8px 0; }
+    p{margin:6px 0;}
 
-    ul{
-      margin:6px 0 6px 20px;
-      padding:0;
-    }
+    ul{margin:6px 0 6px 22px;padding:0;}
+    li{margin:4px 0;}
 
     .badge-info{
       display:inline-flex;
       align-items:center;
-      gap:6px;
-      padding:3px 10px;
+      padding:4px 10px;
       border-radius:999px;
+      border:1px solid rgba(56,189,248,.7);
+      background:rgba(15,23,42,.9);
       font-size:11px;
-      background:rgba(56,189,248,.1);
-      color:#7dd3fc;
-      border:1px solid rgba(56,189,248,.45);
-      margin-left:8px;
+      color:#bae6fd;
+      gap:6px;
+      margin-left:12px;
     }
 
     .badge-dot{
       width:7px;
       height:7px;
       border-radius:999px;
-      background:#22c55e;
+      background:var(--accent-strong);
+      box-shadow:0 0 0 3px rgba(56,189,248,.3);
     }
 
-    .muted{ color:var(--muted); font-size:14px; }
+    .section{
+      margin-top:10px;
+    }
 
-    .related-list{
+    .section-number{
+      font-weight:600;
+      font-size:18px;
+    }
+
+    .section-title{
+      font-size:18px;
+      font-weight:600;
+    }
+
+    .section-header{
+      margin-bottom:10px;
+    }
+
+    .muted{color:var(--muted);}
+
+    /* Пов'язані матеріали */
+
+    .related{
+      display:flex;
+      flex-direction:column;
+      gap:6px;
       margin-top:6px;
     }
 
-    .related-list li{
-      margin-bottom:4px;
+    .related a{
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      font-size:14px;
     }
 
-    .related-list a{
-      text-decoration:none;
-    }
-    .related-list a:hover{
-      text-decoration:underline;
+    .related a::before{
+      content:"↗";
+      font-size:11px;
+      opacity:.7;
     }
 
-    @media(max-width:960px){
-      .layout{
-        flex-direction:column;
-      }
+    @media (max-width:960px){
+      body{display:block;}
       .sidebar{
-        position:relative;
+        position:static;
         width:100%;
+        min-height:auto;
         flex-direction:row;
         align-items:center;
-        justify-content:space-between;
-        gap:12px;
         padding:12px 16px;
+        gap:14px;
         border-right:none;
-        border-bottom:1px solid var(--border);
+        border-bottom:1px solid #1e293b;
+        overflow-x:auto;
       }
-      .sidebar-nav{
-        flex-wrap:wrap;
+      .brand-text{display:none;}
+      .sidebar-label{display:none;}
+      .nav{
         flex-direction:row;
+        flex-wrap:nowrap;
       }
-      .nav-item{
-        padding:6px 8px;
+      .nav-link{
+        padding:6px 10px;
+        border-radius:999px;
       }
-      .content-wrap{
+      .content{
+        margin-left:0;
         padding:20px 16px 32px;
       }
     }
@@ -317,292 +347,236 @@
 </head>
 
 <body>
-<div class="layout">
 
   <!-- SIDEBAR -->
   <aside class="sidebar">
-    <div>
-      <div class="sidebar-brand">
-        <div class="sidebar-logo">
-          <!-- логотип Юреко (SVG-файл у public/img/yureco-logo.svg) -->
-          <img src="/img/yureco-logo.svg" alt="Логотип Юреко" loading="lazy">
-        </div>
-        <div>
-          <div class="brand-text-main">Yureco</div>
-          <div class="brand-text-sub">утилізація та поводження з відходами</div>
-        </div>
+    <a href="/" class="brand">
+      <div class="brand-logo">
+        <!-- ВАЖЛИВО: файл public/img/yureco-logo.svg має існувати -->
+        <img src="/img/yureco-logo.svg" alt="Юреко логотип">
       </div>
-      <div class="sidebar-section-caption">Розділи довідника</div>
-    </div>
+      <div class="brand-text">
+        <div class="brand-name">Yureco</div>
+        <div class="brand-tagline">утилізація та поводження з відходами</div>
+      </div>
+    </a>
 
-    <nav class="sidebar-nav">
-      <!-- Головна -->
-      <a href="/" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M4 10.5 12 4l8 6.5"></path>
-            <path d="M6 10v9h5v-5h2v5h5v-9"></path>
-          </svg>
-        </span>
-        <span class="label">Головна</span>
+    <div class="sidebar-label">Розділи довідника</div>
+
+    <nav class="nav">
+      <a href="/" class="nav-link">
+        <span class="nav-icon nav-icon-home"></span>
+        <span class="nav-label">Головна</span>
       </a>
-
-      <!-- Промислові відходи (active) -->
-      <a href="/promyslovi-vidhody.html" class="nav-item active">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="3" y="9" width="6" height="11"></rect>
-            <rect x="10" y="5" width="6" height="15"></rect>
-            <rect x="17" y="12" width="4" height="8"></rect>
-          </svg>
-        </span>
-        <span class="label">Промислові відходи</span>
+      <a href="/promyslovi-vidhody.html" class="nav-link active">
+        <span class="nav-icon nav-icon-industry"></span>
+        <span class="nav-label">Промислові відходи</span>
       </a>
-
-      <!-- Павербанки та ДБЖ -->
-      <a href="/utilizaciya-paverbankiv-dbj.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="3" y="7" width="14" height="10" rx="2"></rect>
-            <path d="M9 9v2H7l3 4v-2h2z"></path>
-            <path d="M19 10v4"></path>
-          </svg>
-        </span>
-        <span class="label">Павербанки та ДБЖ</span>
+      <a href="/utilizaciya-paverbankiv-dbj.html" class="nav-link">
+        <span class="nav-icon nav-icon-battery"></span>
+        <span class="nav-label">Павербанки та ДБЖ</span>
       </a>
-
-      <!-- Li-ion батареї -->
-      <a href="/utilizaciya-li-ion-batarej.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="6" y="5" width="10" height="14" rx="2"></rect>
-            <path d="M10 3h2.5v2H10z"></path>
-            <path d="M9 11h4"></path>
-          </svg>
-        </span>
-        <span class="label">Li-ion батареї</span>
+      <a href="/utilizaciya-li-ion-batarej.html" class="nav-link">
+        <span class="nav-icon nav-icon-battery"></span>
+        <span class="nav-label">Li-ion батареї</span>
       </a>
-
-      <!-- Продукти харчування та напої -->
-      <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M7 4h10"></path>
-            <path d="M8 4v3a4 4 0 0 0 8 0V4"></path>
-            <path d="M7 14h10"></path>
-            <path d="M9 14v4h6v-4"></path>
-          </svg>
-        </span>
-        <span class="label">Продукти та напої</span>
+      <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html" class="nav-link">
+        <span class="nav-icon nav-icon-food"></span>
+        <span class="nav-label">Продукти харчування та напої</span>
       </a>
-
-      <!-- Косметика -->
-      <a href="/utilizaciya-kosmetiki.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M7 5h10v3H7z"></path>
-            <rect x="8" y="8" width="8" height="11" rx="2"></rect>
-            <path d="M11 3h2"></path>
-          </svg>
-        </span>
-        <span class="label">Косметика</span>
+      <a href="/utilizaciya-kosmetiki.html" class="nav-link">
+        <span class="nav-icon nav-icon-cosmetics"></span>
+        <span class="nav-label">Косметика</span>
       </a>
-
-      <!-- Конфіденційні документи -->
-      <a href="/utilizaciya-dokumentiv.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="5" y="3" width="12" height="18" rx="2"></rect>
-            <path d="M9 8h6M9 12h4M9 16h3"></path>
-          </svg>
-        </span>
-        <span class="label">Конфіденційні документи</span>
+      <a href="/utilizaciya-dokumentiv.html" class="nav-link">
+        <span class="nav-icon nav-icon-docs"></span>
+        <span class="nav-label">Конфіденційні документи</span>
       </a>
-
-      <!-- Шини -->
-      <a href="/utilizaciya-shin.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <circle cx="12" cy="12" r="5"></circle>
-            <path d="M12 4v2M12 18v2M4 12h2M18 12h2"></path>
-          </svg>
-        </span>
-        <span class="label">Шини</span>
+      <a href="/utilizaciya-shin.html" class="nav-link">
+        <span class="nav-icon nav-icon-tyre"></span>
+        <span class="nav-label">Шини</span>
       </a>
-
-      <!-- Товари під митним контролем -->
-      <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="3" y="7" width="18" height="11" rx="2"></rect>
-            <path d="M7 7V5h4v2"></path>
-            <path d="M7 11h10"></path>
-          </svg>
-        </span>
-        <span class="label">Товари під митним контролем</span>
+      <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html" class="nav-link">
+        <span class="nav-icon nav-icon-customs"></span>
+        <span class="nav-label">Товари під митним контролем</span>
       </a>
-
-      <!-- Офісні меблі та оргтехніка -->
-      <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="4" y="5" width="16" height="6" rx="1"></rect>
-            <rect x="7" y="13" width="10" height="5" rx="1"></rect>
-            <path d="M9 18v2M15 18v2"></path>
-          </svg>
-        </span>
-        <span class="label">Офісні меблі та оргтехніка</span>
+      <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html" class="nav-link">
+        <span class="nav-icon nav-icon-office"></span>
+        <span class="nav-label">Офісні меблі та оргтехніка</span>
       </a>
-
-      <!-- Сонячні панелі та лопаті ВЕС -->
-      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html" class="nav-item">
-        <span class="nav-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <rect x="4" y="5" width="10" height="8"></rect>
-            <path d="M6 7h6M6 10h6"></path>
-            <path d="M16 5l3-2M16 9l4 1M15 13l3 3"></path>
-          </svg>
-        </span>
-        <span class="label">Сонячні панелі та лопаті ВЕС</span>
+      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html" class="nav-link">
+        <span class="nav-icon nav-icon-solar"></span>
+        <span class="nav-label">Сонячні панелі та лопаті ВЕС</span>
       </a>
     </nav>
   </aside>
 
   <!-- MAIN CONTENT -->
-  <main class="content-wrap">
-    <article>
-      <header class="card">
+  <main class="content">
+    <article class="card">
+      <header>
         <h1>Що таке промислові відходи
           <span class="badge-info">
             <span class="badge-dot"></span>
             інформаційний довідник Yureco
           </span>
         </h1>
-        <p>
+        <p class="muted">
           Промислові відходи утворюються внаслідок виробничих, технологічних, будівельних та інших процесів.
-          Вони можуть бути твердими, рідкими або газоподібними та потребують правильного поводження
-          для зниження ризиків для довкілля та здоров’я людей.
+          Вони можуть бути твердими, рідкими або газоподібними та потребують правильного поводження для
+          зниження ризиків для довкілля та здоров’я людей.
         </p>
       </header>
-
-      <section class="card">
-        <h2>1. Визначення</h2>
-        <p>
-          <strong>Промислові відходи</strong> — матеріали, речовини або побічні продукти, що утворюються
-          у процесі виробництва, втратили свою цінність для основного процесу та не можуть бути використані
-          без додаткової обробки чи переробки.
-        </p>
-        <p>До них належать:</p>
-        <ul>
-          <li>тверді відходи (шлаки, пил, шлам, будівельні матеріали);</li>
-          <li>рідкі та напіврідкі відходи (стічні води, технологічні розчини, шлами);</li>
-          <li>газоподібні викиди (відпрацьовані гази, пари розчинників);</li>
-          <li>небезпечні компоненти (важкі метали, токсичні хімічні сполуки тощо).</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>2. Основні характеристики промислових відходів</h2>
-        <ul>
-          <li><strong>Походження:</strong> виробничі процеси підприємств та технологічні цикли.</li>
-          <li><strong>Склад:</strong> хімічні реагенти, метали, пластик, шлами, органічні залишки.</li>
-          <li><strong>Фізичний стан:</strong> тверді, рідкі, газоподібні та пастоподібні форми.</li>
-          <li><strong>Ступінь небезпеки:</strong> від інертних до високотоксичних та вибухонебезпечних.</li>
-          <li><strong>Спосіб поводження:</strong> утилізація, переробка, знешкодження або захоронення.</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>3. Основні види промислових відходів</h2>
-
-        <h3>3.1. За походженням</h3>
-        <ul>
-          <li>металургійні (шлаки, пил, шлам, окалина);</li>
-          <li>хімічні (кислоти, луги, реагенти, каталізатори);</li>
-          <li>будівельні (бетон, цегла, пластик, деревина, ізоляційні матеріали);</li>
-          <li>машинобудівні (стружка, мастила, емульсії, промивні рідини);</li>
-          <li>нафтогазові (відпрацьовані нафтопродукти, шлами, фільтри);</li>
-          <li>лакофарбові (фарби, розчинники, полімерні матеріали).</li>
-        </ul>
-
-        <h3>3.2. За класами небезпеки</h3>
-        <ul>
-          <li><strong>I клас</strong> — надзвичайно небезпечні;</li>
-          <li><strong>II клас</strong> — високонебезпечні;</li>
-          <li><strong>III клас</strong> — середньонебезпечні;</li>
-          <li><strong>IV клас</strong> — малонебезпечні;</li>
-          <li><strong>V клас</strong> — практично не небезпечні.</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>4. Нормативно-правове регулювання в Україні</h2>
-        <p>Основні документи, що регулюють поводження з промисловими відходами:</p>
-        <ul>
-          <li><strong>Закон України «Про управління відходами»;</strong></li>
-          <li>постанови КМУ щодо класифікації, обліку та утилізації відходів;</li>
-          <li>державні санітарні норми та правила (ДСанПіН);</li>
-          <li>вимоги до транспортування, зберігання та знешкодження небезпечних відходів.</li>
-        </ul>
-        <p>Для підприємств важливо забезпечити:</p>
-        <ul>
-          <li>належне тимчасове зберігання та маркування відходів;</li>
-          <li>передачу відходів ліцензованому оператору;</li>
-          <li>ведення обліку та паспортизації відходів;</li>
-          <li>формування екологічної звітності.</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>5. Методи поводження з промисловими відходами</h2>
-        <p>Найпоширеніші методи обробки та знешкодження промислових відходів:</p>
-        <ul>
-          <li><strong>Утилізація</strong> — повторне використання відходів як сировини чи енергоносія;</li>
-          <li><strong>Переробка (рециклінг)</strong> — повернення матеріалів у виробничий цикл;</li>
-          <li><strong>Знешкодження</strong> — перетворення небезпечних властивостей у менш небезпечні;</li>
-          <li><strong>Спалювання</strong> у спеціальних установках з очищенням викидів;</li>
-          <li><strong>Фізико-хімічна стабілізація</strong> та нейтралізація;</li>
-          <li><strong>Біологічна обробка</strong> (для окремих органічних відходів);</li>
-          <li><strong>Захоронення</strong> на спеціалізованих полігонах промислових відходів.</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>6. Екологічні ризики промислових відходів</h2>
-        <ul>
-          <li>забруднення ґрунтів, поверхневих та підземних вод;</li>
-          <li>утворення токсичних газів і вторинних забруднювачів;</li>
-          <li>накопичення небезпечних речовин у харчових ланцюгах;</li>
-          <li>ризики для здоров’я працівників і населення;</li>
-          <li>пожежна та вибухова небезпека окремих видів відходів.</li>
-        </ul>
-      </section>
-
-      <section class="card card-soft">
-        <h2>Пов’язані матеріали довідника Yureco</h2>
-        <p class="muted">
-          Для глибшого розуміння теми утилізації відходів радимо переглянути також:
-        </p>
-        <ul class="related-list">
-          <li><a href="/utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
-          <li><a href="/utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
-          <li><a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>Про компанію Юреко</h2>
-        <p>
-          <strong>Юреко</strong> — українська екологічна компанія, що здійснює збір, транспортування
-          та утилізацію промислових і небезпечних відходів відповідно до чинних норм України.
-        </p>
-        <p class="muted">
-          Цей матеріал має інформаційний характер і може використовуватися як довідкове джерело
-          для екологів, інженерів, фахівців із охорони праці та керівників підприємств.
-        </p>
-      </section>
     </article>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">1.</div>
+        <div class="section-title">Визначення</div>
+      </div>
+
+      <p>
+        <strong>Промислові відходи</strong> — матеріали, речовини або побічні продукти, що утворюються
+        у процесі виробництва, втратили свою цінність для основного процесу та не можуть бути використані
+        без додаткової обробки чи переробки.
+      </p>
+
+      <p>До них належать:</p>
+      <ul>
+        <li>тверді відходи (шлаки, пил, шлам, будівельні матеріали);</li>
+        <li>рідкі та напіврідкі відходи (стічні води, технологічні розчини, шлами);</li>
+        <li>газоподібні викиди (випаровувані гази, пари розчинників);</li>
+        <li>небезпечні компоненти (важкі метали, токсичні хімічні сполуки тощо).</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">2.</div>
+        <div class="section-title">Основні характеристики промислових відходів</div>
+      </div>
+
+      <ul>
+        <li><strong>Походження:</strong> виробничі процеси підприємств та технологічні цикли.</li>
+        <li><strong>Склад:</strong> хімічні реагенти, метали, пластик, шлами, органічні залишки.</li>
+        <li><strong>Фізичний стан:</strong> тверді, рідкі, газоподібні та пастоподібні форми.</li>
+        <li><strong>Ступінь небезпеки:</strong> від інертних до високотоксичних та вибухонебезпечних.</li>
+        <li><strong>Спосіб поводження:</strong> утилізація, переробка, знешкодження або захоронення.</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">3.</div>
+        <div class="section-title">Основні види промислових відходів</div>
+      </div>
+
+      <h3>3.1. За походженням</h3>
+      <ul>
+        <li>металургійні (шлаки, пил, шлам, окалина);</li>
+        <li>хімічні (кислоти, луги, реагенти, каталізатори);</li>
+        <li>будівельні (бетон, цегла, пластик, деревина, ізоляційні матеріали);</li>
+        <li>машинобудівні (стружка, мастила, емульсії, промивні рідини);</li>
+        <li>нафтогазові (відпрацьовані нафтопродукти, шлами резервуарів);</li>
+        <li>лакофарбові (фарби, розчинники, полімерні матеріали).</li>
+      </ul>
+
+      <h3>3.2. За класами небезпеки</h3>
+      <ul>
+        <li><strong>I клас</strong> — надзвичайно небезпечні;</li>
+        <li><strong>II клас</strong> — високонебезпечні;</li>
+        <li><strong>III клас</strong> — середньонебезпечні;</li>
+        <li><strong>IV клас</strong> — малонебезпечні;</li>
+        <li><strong>V клас</strong> — практично не небезпечні.</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">4.</div>
+        <div class="section-title">Нормативно-правове регулювання в Україні</div>
+      </div>
+
+      <p>Поводження з промисловими відходами регулюється такими основними документами:</p>
+      <ul>
+        <li><strong>Закон України «Про управління відходами»;</strong></li>
+        <li>постанови Кабінету Міністрів України щодо класифікації та утилізації відходів;</li>
+        <li>державні санітарні норми та правила (ДСанПіН);</li>
+        <li>вимоги до транспортування, зберігання та знешкодження відходів.</li>
+      </ul>
+
+      <p>Для підприємств важливо забезпечити:</p>
+      <ul>
+        <li>безпечне тимчасове зберігання та маркування відходів;</li>
+        <li>передачу відходів ліцензованому оператору;</li>
+        <li>ведення обліку, паспортизації та звітності;</li>
+        <li>мінімізацію утворення відходів на етапі планування виробництва.</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">5.</div>
+        <div class="section-title">Методи поводження з промисловими відходами</div>
+      </div>
+
+      <p>Найпоширеніші методи обробки та знешкодження промислових відходів:</p>
+      <ul>
+        <li><strong>Утилізація</strong> — повторне використання матеріалів після відповідної підготовки.</li>
+        <li><strong>Переробка (рециклінг)</strong> — повернення вторинної сировини у виробничий цикл.</li>
+        <li><strong>Знешкодження</strong> — переведення небезпечних властивостей у менш небезпечні.</li>
+        <li><strong>Спалювання</strong> у спеціалізованих установках з очищенням викидів.</li>
+        <li><strong>Фізико-хімічна стабілізація</strong> та нейтралізація;</li>
+        <li><strong>Біологічна обробка</strong> (для окремих органічних відходів);</li>
+        <li><strong>Захоронення</strong> на полігонах промислових відходів, якщо інші методи неможливі.</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">6.</div>
+        <div class="section-title">Потенційні ризики від неправильного поводження</div>
+      </div>
+
+      <ul>
+        <li>забруднення ґрунтів, поверхневих та підземних вод;</li>
+        <li>утворення токсичних газів та парів;</li>
+        <li>накопичення шкідливих речовин у харчових ланцюгах;</li>
+        <li>ризики для здоров’я працівників та населення;</li>
+        <li>пожежна та вибухова небезпека для окремих видів відходів;</li>
+        <li>штрафи та інші санкції за порушення природоохоронного законодавства.</li>
+      </ul>
+    </section>
+
+    <section class="card section">
+      <div class="section-header">
+        <div class="section-number">7.</div>
+        <div class="section-title">Переваги роботи з ліцензованим оператором</div>
+      </div>
+
+      <ul>
+        <li>дотримання законодавства та екологічних стандартів;</li>
+        <li>зменшення екологічних та репутаційних ризиків для підприємства;</li>
+        <li>оптимізація витрат на поводження з відходами;</li>
+        <li>прозора звітність і повний пакет документів для перевірок;</li>
+        <li>можливість впровадження принципів циркулярної економіки.</li>
+      </ul>
+    </section>
+
+    <!-- Пов'язані матеріали -->
+    <section class="card section">
+      <h2>Пов’язані матеріали довідника Yureco</h2>
+      <p class="muted">
+        Для глибшого розуміння теми утилізації відходів радимо переглянути інші сторінки довідника:
+      </p>
+      <div class="related">
+        <a href="/utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a>
+        <a href="/utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a>
+        <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a>
+        <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Утилізація продуктів харчування та напоїв</a>
+      </div>
+    </section>
+
   </main>
-</div>
 </body>
 </html>
