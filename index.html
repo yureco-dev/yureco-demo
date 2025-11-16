@@ -2,345 +2,471 @@
 <html lang="uk">
 <head>
   <meta charset="utf-8" />
+  <title>Yureco — утилізація промислових відходів в Україні</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Компанія Yureco надає комплексні послуги з екологічно безпечної утилізації промислових відходів, павербанків, Li-ion батарей, косметики, продуктів харчування та іншого по всій Україні." />
+  <meta name="keywords" content="Юреко, Yureco, утилізація відходів, промислові відходи, утилізація батарей, утилізація павербанків, утилізація косметики, утилізація продуктів харчування" />
 
-  <title>Юреко — утилізація відходів, павербанків, ДБЖ, батарей, косметики та документів в Україні</title>
-  <link rel="canonical" href="https://youreko.com.ua/" />
-
-  <meta name="description" content="Юреко — надійний ліцензований партнер з утилізації в Україні. Пропонуємо утилізацію павербанків, ДБЖ, Li-ion батарей, продуктів харчування, косметики, документів, шин, товарів під митним контролем, меблів та оргтехніки." />
-  <meta name="keywords" content="утилізація павербанків, утилізація ДБЖ, утилізація батарей, утилізація документів, утилізація косметики, утилізація шин, утилізація товарів під митним контролем, утилізація оргтехніки, утилізація меблів, утилізація продуктів харчування, утилізація відходів Юреко, ліцензована утилізація Україна" />
-  <meta name="robots" content="index, follow" />
-  <meta name="author" content="Yureco" />
-  <meta name="theme-color" content="#0f172a" />
-
-  <!-- OG -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://yureco.onrender.com/" />
-  <meta property="og:title" content="Юреко — утилізація відходів" />
-  <meta property="og:description" content="Професійна утилізація павербанків, батарей, ДБЖ, продуктів, косметики, документів, шин і техніки." />
-  <meta property="og:image" content="https://youreko.com.ua/img/yureco-cover.jpg" />
-
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:title" content="Юреко — утилізація відходів" />
-  <meta property="twitter:description" content="Ліцензована утилізація павербанків, ДБЖ, батарей, косметики, документів та інших відходів." />
-  <meta property="twitter:image" content="https://youreko.com.ua/img/yureco-cover.jpg" />
-
-  <!-- Schema.org -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Юреко",
-    "url": "https://youreko.com.ua",
-    "logo": "https://youreko.com.ua/img/yureco-logo.png",
-    "description": "Юреко — українська компанія, що спеціалізується на утилізації відходів.",
-    "email": "yureko2017@gmail.com",
-    "telephone": "+380631359521",
-    "sameAs": [
-      "https://www.facebook.com/yureco",
-      "https://www.linkedin.com/company/yureco"
-    ],
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "UA",
-      "addressLocality": "Київ",
-      "streetAddress": "вул. Екологічна 10"
-    }
-  }
-  </script>
+  <link rel="icon" href="img/yureco-logo.svg" type="image/svg+xml" />
 
   <style>
     :root {
-      --bg:#0f172a;
-      --panel:#111827;
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --acc:#60a5fa;
+      --bg-main: #020817;
+      --bg-elevated: #020c1b;
+      --bg-elevated-softer: #020a17;
+      --border-subtle: #12263d;
+      --accent: #1e98ff;
+      --accent-soft: rgba(30, 152, 255, 0.14);
+      --accent-strong: #0ea5e9;
+      --text-main: #e5f0ff;
+      --text-muted: #9cb3d8;
+      --text-soft: #6b7b95;
+      --danger: #fb7185;
+      --radius-lg: 18px;
+      --radius-xl: 26px;
+      --shadow-soft: 0 18px 50px rgba(15, 23, 42, 0.75);
     }
 
-    *{box-sizing:border-box}
-
-    body{
-      margin:0;
-      background:var(--bg);
-      color:var(--text);
-      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+    * {
+      box-sizing: border-box;
     }
 
-    a{color:var(--acc);text-decoration:none}
-    a:hover{text-decoration:underline}
-
-    .wrap{
-      max-width:980px;
-      margin:32px auto;
-      padding:0 16px 40px;
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text-main);
+      background-color: var(--bg-main);
     }
 
-    .with-sidebar{
-      margin-left:260px;
+    body {
+      display: flex;
+      justify-content: center;
     }
 
-    .card{
-      background:var(--panel);
-      border:1px solid #1f2937;
-      border-radius:12px;
-      padding:16px 18px;
-      margin:12px 0;
+    .layout {
+      display: grid;
+      grid-template-columns: 270px minmax(0, 1fr);
+      max-width: 1400px;
+      width: 100%;
+      min-height: 100vh;
+      background: radial-gradient(circle at top left, #0b1120 0, #020617 55%, #000 100%);
     }
-
-    h1{font-size:26px;margin:0 0 20px}
-    h2{font-size:20px;margin:0 0 10px}
-
-    label{
-      display:block;
-      font-size:13px;
-      color:var(--muted);
-      margin:6px 0;
-    }
-
-    input, textarea{
-      width:100%;
-      background:#0b1220;
-      color:var(--text);
-      border:1px solid #1f2937;
-      border-radius:10px;
-      padding:10px 12px;
-      font:inherit;
-    }
-
-    textarea{
-      min-height:90px;
-      resize:vertical;
-    }
-
-    .btn{
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      gap:8px;
-      background:var(--acc);
-      color:#03142b;
-      border:0;
-      border-radius:10px;
-      padding:10px 18px;
-      font-weight:600;
-      cursor:pointer;
-    }
-
-    .btn[disabled]{
-      opacity:.6;
-      cursor:not-allowed;
-    }
-
-    .muted{color:var(--muted)}
-    .small{font-size:13px}
-    pre{white-space:pre-wrap;font-family:ui-monospace,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
 
     /* SIDEBAR */
-    .sidebar{
-      width:240px;
-      position:fixed;
-      top:0;
-      left:0;
-      height:100%;
-      background:#0d1525;
-      border-right:1px solid #1e293b;
-      padding:24px 16px;
-      overflow-y:auto;
+
+    .sidebar {
+      border-right: 1px solid var(--border-subtle);
+      padding: 24px 20px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      background: linear-gradient(180deg, #020617 0%, #020617 55%, #01030a 100%);
     }
 
-    .sidebar h3{
-      color:#60a5fa;
-      font-size:18px;
-      margin:0 0 20px;
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
     }
 
-    .sidebar nav a{
-      display:block;
-      padding:10px 6px;
-      color:#e5e7eb;
-      text-decoration:none;
-      font-size:15px;
-      border-radius:6px;
-      margin-bottom:4px;
+    .brand-logo {
+      width: 56px;
+      height: 56px;
+      display: block;
+      border-radius: 999px;
+      background: radial-gradient(circle at 30% 20%, #ffffff 0, #cbd5f5 18%, #020617 70%);
+      padding: 6px;
     }
 
-    .sidebar nav a:hover{
-      background:#1e293b;
-      color:#93c5fd;
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
     }
 
-    .keywords{
-      margin-top:16px;
-      font-size:13px;
-      color:var(--muted);
+    .brand-name {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
     }
 
-    .footer{
-      margin-top:12px;
-      font-size:13px;
-      color:var(--muted);
+    .brand-tagline {
+      font-size: 11px;
+      line-height: 1.4;
+      color: var(--text-soft);
+      max-width: 160px;
+    }
+
+    .nav-heading {
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+      margin-bottom: 10px;
+    }
+
+    .nav {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex: 1;
+    }
+
+    .nav-link {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 999px;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 14px;
+      position: relative;
+      transition: background 0.15s ease, color 0.15s ease, transform 0.1s ease;
+    }
+
+    .nav-link::before {
+      content: "";
+      width: 18px;
+      height: 18px;
+      border-radius: 999px;
+      border: 1px solid #1f2937;
+      margin-right: 2px;
+      box-shadow: inset 0 0 0 1px rgba(15, 23, 42, 0.7);
+      background: radial-gradient(circle at 30% 20%, #0ea5e9 0, #22c55e 40%, #020617 100%);
+      opacity: 0.75;
+    }
+
+    .nav-link:hover {
+      background: rgba(15, 23, 42, 0.9);
+      color: #f9fbff;
+      transform: translateX(1px);
+    }
+
+    .nav-link.active {
+      background: var(--accent-soft);
+      color: #f9fbff;
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.35);
+    }
+
+    .nav-link.active::before {
+      box-shadow:
+        0 0 0 1px rgba(15, 23, 42, 0.9),
+        0 0 16px rgba(56, 189, 248, 0.85);
+      opacity: 1;
+    }
+
+    .nav-label {
+      white-space: nowrap;
+    }
+
+    .sidebar-footer {
+      margin-top: 10px;
+      font-size: 11px;
+      color: var(--text-soft);
+    }
+
+    /* MAIN */
+
+    .main {
+      padding: 26px 28px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .page-header.card {
+      padding-bottom: 20px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+      letter-spacing: 0.03em;
+    }
+
+    .badge-doc {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      background: rgba(15, 23, 42, 0.9);
+      color: var(--accent-strong);
+      border: 1px solid rgba(56, 189, 248, 0.55);
+    }
+
+    .lead {
+      margin: 8px 0 0;
+      color: var(--text-muted);
+      font-size: 14px;
+      max-width: 1050px;
+    }
+
+    .card {
+      border-radius: var(--radius-xl);
+      background: radial-gradient(circle at top left, rgba(15, 23, 42, 0.9), #020617);
+      border: 1px solid var(--border-subtle);
+      padding: 18px 22px 20px;
+      box-shadow: var(--shadow-soft);
+    }
+
+    .section-card {
+      margin-top: 4px;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+
+    h3 {
+      margin: 16px 0 8px;
+      font-size: 17px;
+    }
+
+    .section-card ul {
+      margin: 6px 0 0 18px;
+      padding: 0;
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    .section-card li {
+      margin-bottom: 4px;
+    }
+
+    .related-title {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+
+    .related-list {
+      margin: 4px 0 0 18px;
+      padding: 0;
+      font-size: 14px;
+    }
+
+    .related-list a {
+      color: var(--accent-strong);
+      text-decoration: none;
+    }
+
+    .related-list a:hover {
+      text-decoration: underline;
+    }
+
+    .api-block {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      font-size: 14px;
+    }
+
+    .api-url {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      background: #020617;
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 13px;
+      color: #e5f0ff;
+    }
+
+    .footer {
+      margin-top: 12px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(15, 23, 42, 0.9);
+      font-size: 11px;
+      color: var(--text-soft);
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .footer a {
+      color: var(--accent-strong);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* RESPONSIVE */
+
+    @media (max-width: 960px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        border-right: none;
+        border-bottom: 1px solid var(--border-subtle);
+        padding-bottom: 14px;
+      }
+
+      .nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        justify-content: flex-end;
+      }
+
+      .nav-link {
+        padding: 6px 10px;
+      }
+
+      .main {
+        padding: 18px 16px 26px;
+      }
+
+      .footer {
+        flex-direction: column;
+      }
     }
   </style>
 </head>
-
 <body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div>
+        <div class="brand">
+          <img src="img/yureco-logo.svg" alt="Логотип Yureco" class="brand-logo" />
+          <div class="brand-text">
+            <div class="brand-name">YURECO</div>
+            <div class="brand-tagline">утилізація та поводження з відходами</div>
+          </div>
+        </div>
+      </div>
 
-  <!-- SIDEBAR -->
-  <aside class="sidebar">
-    <h3>Довідник Yureco</h3>
-    <nav>
-      <a href="/" style="background:#1e293b;">Головна</a>
-      <a href="/promyslovi-vidhody.html">Промислові відходи</a>
-      <a href="/utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a>
-      <a href="/utilizaciya-li-ion-batarej.html">Li-ion батареї</a>
-      <a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти харчування та напої</a>
-      <a href="/utilizaciya-kosmetiki.html">Косметика</a>
-      <a href="/utilizaciya-dokumentiv.html">Конфіденційні документи</a>
-      <a href="/utilizaciya-shin.html">Шини</a>
-      <a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a>
-      <a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a>
-      <a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі та лопаті ВЕС</a>
-    </nav>
-  </aside>
+      <nav class="nav">
+        <div class="nav-heading">РОЗДІЛИ ДОВІДНИКА</div>
 
-  <!-- MAIN CONTENT -->
-  <div class="wrap with-sidebar">
+        <a href="index.html" class="nav-link active">
+          <span class="nav-label">Головна</span>
+        </a>
+        <a href="promyslovi-vidhody.html" class="nav-link">
+          <span class="nav-label">Промислові відходи</span>
+        </a>
+        <a href="utilizaciya-paverbankiv-dbj.html" class="nav-link">
+          <span class="nav-label">Павербанки та ДБЖ</span>
+        </a>
+        <a href="utilizaciya-li-ion-batarej.html" class="nav-link">
+          <span class="nav-label">Li-ion батареї</span>
+        </a>
+        <a href="utilizaciya-produktiv-harchuvannya-napoyiv.html" class="nav-link">
+          <span class="nav-label">Продукти харчування та напої</span>
+        </a>
+        <a href="utilizaciya-kosmetiki.html" class="nav-link">
+          <span class="nav-label">Косметика</span>
+        </a>
+        <a href="utilizaciya-dokumentiv.html" class="nav-link">
+          <span class="nav-label">Конфіденційні документи</span>
+        </a>
+        <a href="utilizaciya-shin.html" class="nav-link">
+          <span class="nav-label">Шини</span>
+        </a>
+        <a href="utilizaciya-tovariv-pid-mitnim-kontrolem.html" class="nav-link">
+          <span class="nav-label">Товари під митним контролем</span>
+        </a>
+        <a href="utilizaciya-ofisnih-mebliv-orgtehniki.html" class="nav-link">
+          <span class="nav-label">Офісні меблі та оргтехніка</span>
+        </a>
+        <a href="utilizaciya-sonyachnih-panelij-vitryakiv.html" class="nav-link">
+          <span class="nav-label">Сонячні панелі та лопаті ВЕС</span>
+        </a>
+      </nav>
 
-    <h1>Yureco</h1>
+      <div class="sidebar-footer">
+        Довідник Yureco — внутрішній інформаційний ресурс про поводження з відходами.
+      </div>
+    </aside>
 
-    <div class="card seo-card">
-      <h2>Юреко — надійний партнер з утилізації в Україні</h2>
-      <p>
-        Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної утилізації для бізнесу та громад по всій Україні.
-      </p>
-      <p>
-        Ми спеціалізуємося на утилізації павербанків, джерел безперебійного живлення (ДБЖ), Li-ion батарей,
-        продуктів харчування та напоїв, косметики, конфіденційних документів, шин, товарів під митним контролем,
-        офісних меблів та оргтехніки, а також промислових відходів.
-      </p>
-    </div>
+    <main class="main">
+      <!-- ГОЛОВНИЙ БЛОК -->
+      <section class="card page-header">
+        <h1>Юреко — надійний партнер з утилізації в Україні</h1>
+        <span class="badge-doc">інформаційний довідник Yureco</span>
+        <p class="lead">
+          Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної
+          утилізації для бізнесу та громад по всій Україні. Ми допомагаємо правильно поводитися
+          з відходами, зменшувати екологічні ризики та виконувати вимоги законодавства.
+        </p>
+      </section>
 
-    <!-- НАПРЯМИ УТИЛІЗАЦІЇ -->
-    <section class="card">
-      <h2>Основні напрями утилізації Юреко</h2>
-      <ul>
-        <li><a href="/promyslovi-vidhody.html">Промислові відходи</a></li>
-        <li><a href="/utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a></li>
-        <li><a href="/utilizaciya-li-ion-batarej.html">Li-ion батареї</a></li>
-        <li><a href="/utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти харчування та напої</a></li>
-        <li><a href="/utilizaciya-kosmetiki.html">Косметика</a></li>
-        <li><a href="/utilizaciya-dokumentiv.html">Конфіденційні документи</a></li>
-        <li><a href="/utilizaciya-shin.html">Шини</a></li>
-        <li><a href="/utilizaciya-tovariv-pid-mitnim-kontrolem.html">Товари під митним контролем</a></li>
-        <li><a href="/utilizaciya-ofisnih-mebliv-orgdtehniki.html">Офісні меблі та оргтехніка</a></li>
-        <li><a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі та лопаті ВЕС</a></li>
-      </ul>
-    </section>
+      <!-- ОСНОВНІ НАПРЯМКИ -->
+      <section class="card section-card">
+        <h2>Основні напрямки утилізації Юреко</h2>
+        <p class="lead" style="margin-bottom: 8px;">
+          Ми спеціалізуємося на поводженні з промисловими та небезпечними відходами, а також
+          зі списаною продукцією, яка не може бути реалізована.
+        </p>
+        <ul>
+          <li>Промислові відходи (виробничі, технологічні, будівельні)</li>
+          <li>Павербанки та джерела безперебійного живлення (ДБЖ)</li>
+          <li>Li-ion батареї та акумуляторні модулі</li>
+          <li>Продукти харчування та напої, що втратили товарний вигляд</li>
+          <li>Косметика та засоби гігієни, що підлягають знищенню</li>
+          <li>Конфіденційні документи та архіви під акт знищення</li>
+          <li>Шини та гумово-технічні вироби</li>
+          <li>Товари під митним контролем (прострочені, пошкоджені, нереалізовані)</li>
+          <li>Офісні меблі, оргтехніка, електроніка</li>
+          <li>Сонячні панелі, вітряки та лопаті ВЕС</li>
+        </ul>
+      </section>
 
-    <!-- ПОВ’ЯЗАНІ МАТЕРІАЛИ -->
-    <section class="card">
-      <h2>Пов’язані матеріали довідника Yureco</h2>
-      <p class="muted">
-        Для глибшого розуміння теми утилізації відходів радимо переглянути такі сторінки довідника Yureco:
-      </p>
-      <ul>
-        <li><a href="/promyslovi-vidhody.html">Що таке промислові відходи: класи небезпеки та методи утилізації</a></li>
-        <li><a href="/utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
-        <li><a href="/utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
-        <li><a href="/utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
-      </ul>
-    </section>
+      <!-- ПОВ'ЯЗАНІ МАТЕРІАЛИ -->
+      <section class="card section-card">
+        <h2 class="related-title">Пов’язані матеріали довідника Yureco</h2>
+        <p class="lead" style="margin-bottom: 6px;">
+          Для глибшого розуміння теми утилізації відходів радимо переглянути такі розділи:
+        </p>
+        <ul class="related-list">
+          <li><a href="promyslovi-vidhody.html">Що таке промислові відходи: класи небезпеки та методи утилізації</a></li>
+          <li><a href="utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
+          <li><a href="utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
+          <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
+        </ul>
+      </section>
 
-    <!-- ПРОСТИЙ ТЕСТЕР API -->
-    <div class="card">
-      <label for="api">Адреса API (POST /chat)</label>
-      <input id="api" value="https://yureco-demo.onrender.com/chat" />
-    </div>
+      <!-- API-БЛОК -->
+      <section class="card section-card">
+        <h2>Адреса API (POST /chat)</h2>
+        <div class="api-block">
+          <p class="lead">
+            Для інтеграції з довідником як із чат-ботом використовуйте наступну кінцеву точку:
+          </p>
+          <span class="api-url">https://yureco-demo.onrender.com/chat</span>
+        </div>
+      </section>
 
-    <div class="card">
-      <label for="query">Запит користувача</label>
-      <textarea id="query">Потрібна утилізація павербанків та ДБЖ у Києві</textarea>
-    </div>
-
-    <div class="card">
-      <button id="send" class="btn">Надіслати</button>
-      <span id="status" class="muted small" style="margin-left:10px"></span>
-    </div>
-
-    <div class="card">
-      <label>Відповідь API</label>
-      <pre id="answer">—</pre>
-    </div>
-
-    <div class="keywords">
-      Ключові фрази: утилізація павербанків, утилізація ДБЖ, утилізація батарей, утилізація документів,
-      утилізація косметики, утилізація шин, утилізація товарів під митним контролем, утилізація оргтехніки,
-      утилізація меблів, утилізація продуктів харчування, екологічна утилізація в Україні, Юреко.
-    </div>
-
-    <footer class="footer">
-      © <span id="year"></span> Юреко. Довідник з утилізації відходів для бізнесу та громад.
-    </footer>
-
+      <footer class="footer">
+        <span>© Yureco, довідник з утилізації відходів.</span>
+        <span>Для службового користування. Версія демо.</span>
+      </footer>
+    </main>
   </div>
 
-  <script>
-    // поточний рік у футері
-    document.getElementById('year').textContent = new Date().getFullYear();
-
-    const apiInput = document.getElementById('api');
-    const queryInput = document.getElementById('query');
-    const sendBtn = document.getElementById('send');
-    const statusEl = document.getElementById('status');
-    const answerEl = document.getElementById('answer');
-
-    async function callApi(){
-      const url = apiInput.value.trim();
-      const payload = {
-        query: queryInput.value.trim(),
-        base_answer: ""
-      };
-
-      if (!url){
-        statusEl.textContent = 'Не вказано адресу API';
-        return;
-      }
-
-      sendBtn.disabled = true;
-      statusEl.textContent = 'Надсилання…';
-      answerEl.textContent = 'Виконую запит…';
-
-      try{
-        const r = await fetch(url, {
-          method: 'POST',
-          headers: {'Content-Type': 'application/json'},
-          body: JSON.stringify(payload)
-        });
-
-        const data = await r.json().catch(() => null);
-
-        if (!r.ok){
-          throw new Error((data && (data.detail || data.error)) || r.statusText);
-        }
-
-        if (data && (data.final_answer || data.answer)){
-          answerEl.textContent = data.final_answer || data.answer;
-        } else {
-          answerEl.textContent = JSON.stringify(data, null, 2);
-        }
-
-        statusEl.textContent = 'OK';
-      }catch(e){
-        answerEl.textContent = 'Помилка: ' + e.message;
-        statusEl.textContent = 'Помилка';
-      }finally{
-        sendBtn.disabled = false;
-      }
-    }
-
-    sendBtn.addEventListener('click', callApi);
+  <!-- JSON-LD для головної сторінки -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Yureco — утилізація промислових відходів в Україні",
+    "description": "Головна сторінка довідника Yureco про екологічно безпечну утилізацію промислових відходів, батарей, павербанків, косметики, продуктів харчування та іншого.",
+    "inLanguage": "uk",
+    "url": "https://yureco-demo.onrender.com/"
+  }
   </script>
 </body>
 </html>
