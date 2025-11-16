@@ -1,694 +1,219 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <meta charset="utf-8" />
-  <title>Юреко — надійний партнер з утилізації в Україні</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Юреко — утилізація та поводження з відходами в Україні</title>
+    <meta name="description" content="Юреко — комплексні послуги з екологічно безпечної утилізації промислових, небезпечних та побутових відходів по всій Україні.">
+    <meta name="keywords" content="утилізація, промислові відходи, небезпечні відходи, ДБЖ, батареї, знищення документів, утилізація товарів, Юреко">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Довідник Юреко про утилізацію промислових та небезпечних відходів, списаної продукції та обладнання в Україні." />
-  <meta name="keywords" content="Юреко, утилізація відходів, промислові відходи, утилізація продукції, утилізація обладнання, Україна" />
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #060b1b;
+            color: #e0e6f5;
+        }
 
-  <link rel="icon" type="image/svg+xml" href="img/yureco-logo.svg" />
-  <meta name="theme-color" content="#050b1a" />
+        .layout {
+            display: flex;
+            min-height: 100vh;
+        }
 
-  <style>
-    :root {
-      --bg-main: #050b1a;
-      --bg-sidebar: #050816;
-      --bg-card: #070f21;
-      --bg-card-soft: #081226;
-      --border-subtle: rgba(255, 255, 255, 0.06);
-      --accent: #10b981;
-      --accent-soft: rgba(16, 185, 129, 0.14);
-      --accent-strong: #34d399;
-      --accent-blue: #38bdf8;
-      --accent-blue-soft: rgba(56, 189, 248, 0.16);
-      --text-main: #e5f1ff;
-      --text-muted: #8fa0c0;
-      --text-soft: #6b7a99;
-      --danger: #f97373;
-      --radius-lg: 18px;
-      --radius-pill: 999px;
-      --shadow-soft: 0 18px 60px rgba(0, 0, 0, 0.55);
-      --shadow-card: 0 12px 40px rgba(15, 23, 42, 0.8);
-      --sidebar-width: 260px;
-    }
+        /* SIDEBAR */
+        .sidebar {
+            width: 290px;
+            background: #070d1f;
+            padding: 30px 22px;
+            border-right: 1px solid rgba(255,255,255,0.05);
+        }
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        .brand-logo {
+            width: 56px;
+            height: 56px;
+            display: block;
+        }
+        .brand-title {
+            font-size: 20px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        .brand-subtitle {
+            font-size: 13px;
+            line-height: 1.3;
+            opacity: .8;
+            margin-top: 3px;
+        }
 
-    * {
-      box-sizing: border-box;
-    }
+        .menu-title {
+            color: #9aa7c5;
+            font-size: 13px;
+            letter-spacing: 1.5px;
+            margin: 30px 0 15px 0;
+        }
 
-    html, body {
-      margin: 0;
-      padding: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-        sans-serif;
-      background: radial-gradient(circle at top, #020617 0, #020617 40%, #020617),
-        #000;
-      color: var(--text-main);
-    }
+        .menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .menu li a {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #dbe4ff;
+            padding: 10px 14px;
+            text-decoration: none;
+            border-radius: 12px;
+            transition: 0.2s;
+            font-size: 15px;
+        }
+        .menu li a:hover {
+            background: rgba(255,255,255,0.07);
+        }
+        .active {
+            background: rgba(0, 199, 117, 0.15) !important;
+            box-shadow: 0 0 16px rgba(0,255,140,0.35);
+            border: 1px solid rgba(0,255,140,0.45);
+        }
 
-    body {
-      min-height: 100vh;
-      display: flex;
-      justify-content: center;
-      padding: 24px;
-    }
+        /* MAIN */
+        .main {
+            flex: 1;
+            padding: 40px;
+        }
 
-    .layout {
-      display: grid;
-      grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
-      gap: 24px;
-      width: 100%;
-      max-width: 1400px;
-      background: radial-gradient(circle at top left, #020617 0, #020617 38%, #020617 60%, #000 120%);
-      border-radius: 32px;
-      padding: 20px 24px;
-      box-shadow: var(--shadow-soft);
-      border: 1px solid rgba(148, 163, 184, 0.18);
-    }
+        h1 {
+            margin-top: 0;
+            font-size: 34px;
+            font-weight: 700;
+        }
 
-    /* SIDEBAR */
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.07);
+            padding: 6px 14px;
+            border-radius: 12px;
+            font-size: 13px;
+            margin-left: 10px;
+        }
 
-    .sidebar {
-      background: radial-gradient(circle at top, #020617 0, #020617 55%, #020617 100%);
-      border-radius: 26px;
-      padding: 20px 18px;
-      border: 1px solid rgba(148, 163, 184, 0.22);
-      display: flex;
-      flex-direction: column;
-      gap: 22px;
-      box-shadow: 0 16px 45px rgba(15, 23, 42, 0.95);
-    }
+        .card {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 16px;
+            margin: 25px 0;
+            border: 1px solid rgba(255,255,255,0.07);
+        }
+        .card h2 {
+            margin-top: 0;
+        }
 
-    .sidebar-brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding: 6px 4px 6px 2px;
-    }
+        .related-list {
+            padding-left: 18px;
+        }
 
-    .brand-logo-wrapper {
-      width: 56px;
-      height: 56px;
-      border-radius: 20px;
-      background: radial-gradient(circle at 30% 20%, #1e293b 0, #020617 45%, #000 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 0 0 1px rgba(148, 163, 184, 0.35),
-        0 18px 38px rgba(15, 23, 42, 0.9);
-    }
-
-    .brand-logo {
-      width: 40px;
-      height: 40px;
-      display: block;
-    }
-
-    .brand-text {
-      display: flex;
-      flex-direction: column;
-      gap: 3px;
-    }
-
-    .brand-name {
-      font-size: 18px;
-      font-weight: 700;
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-    }
-
-    .brand-tagline {
-      font-size: 11px;
-      line-height: 1.4;
-      color: var(--text-soft);
-      max-width: 150px;
-    }
-
-    .sidebar-divider {
-      height: 1px;
-      background: radial-gradient(circle at left, rgba(148, 163, 184, 0.35), rgba(148, 163, 184, 0.08));
-      margin: 4px 0 6px;
-    }
-
-    .sidebar-section-title {
-      font-size: 11px;
-      letter-spacing: 0.32em;
-      text-transform: uppercase;
-      color: var(--text-soft);
-      margin-bottom: 8px;
-    }
-
-    .nav-list {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-    }
-
-    .nav-link {
-      display: grid;
-      grid-template-columns: 24px minmax(0, 1fr);
-      align-items: center;
-      gap: 10px;
-      padding: 8px 10px;
-      border-radius: 999px;
-      color: var(--text-muted);
-      text-decoration: none;
-      font-size: 13px;
-      transition: background 0.18s ease, color 0.18s ease, transform 0.12s ease,
-        box-shadow 0.12s ease;
-    }
-
-    .nav-link:hover {
-      background: radial-gradient(circle at left, rgba(56,189,248,0.35), rgba(15,23,42,0.95));
-      color: var(--text-main);
-      transform: translateY(-1px);
-      box-shadow: 0 10px 24px rgba(15, 23, 42, 0.9);
-    }
-
-    .nav-link.active {
-      background: radial-gradient(circle at left, rgba(16, 185, 129, 0.4), rgba(15, 23, 42, 0.95));
-      color: #f9fafb;
-      box-shadow: 0 12px 26px rgba(16, 185, 129, 0.55);
-    }
-
-    .nav-icon {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .nav-icon-circle {
-      width: 14px;
-      height: 14px;
-      border-radius: 999px;
-      background: radial-gradient(circle at 30% 20%, #22c55e, #0f766e);
-      box-shadow: 0 0 0 4px rgba(34, 197, 94, 0.18),
-        0 0 0 1px rgba(15, 23, 42, 1);
-      position: relative;
-    }
-
-    .nav-icon-circle::after {
-      content: "";
-      position: absolute;
-      inset: 3px;
-      border-radius: inherit;
-      background: radial-gradient(circle at 30% 20%, #bbf7d0, #22c55e);
-    }
-
-    .nav-icon-pill {
-      width: 18px;
-      height: 18px;
-      border-radius: 999px;
-      border: 1px solid rgba(148, 163, 184, 0.7);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.8),
-        0 0 15px rgba(148, 163, 184, 0.4);
-      background: radial-gradient(circle at 30% 20%, #1f2937, #020617);
-    }
-
-    .nav-icon-pill svg {
-      width: 11px;
-      height: 11px;
-      stroke: #e5f1ff;
-      stroke-width: 1.8;
-      fill: none;
-    }
-
-    .nav-label {
-      white-space: nowrap;
-    }
-
-    .sidebar-footer {
-      margin-top: auto;
-      font-size: 10px;
-      color: var(--text-soft);
-      opacity: 0.75;
-    }
-
-    /* MAIN AREA */
-
-    main {
-      border-radius: 26px;
-      background: radial-gradient(circle at top, #020617 0, #020617 50%, #020617 100%);
-      padding: 22px 22px 24px;
-      border: 1px solid rgba(148, 163, 184, 0.28);
-      box-shadow: var(--shadow-card);
-      display: flex;
-      flex-direction: column;
-      gap: 18px;
-    }
-
-    .page-header {
-      margin-bottom: 6px;
-    }
-
-    .page-kicker {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 4px 10px;
-      border-radius: 999px;
-      background: rgba(15, 23, 42, 0.95);
-      border: 1px solid rgba(148, 163, 184, 0.5);
-      color: var(--text-soft);
-      font-size: 11px;
-      margin-bottom: 10px;
-    }
-
-    .page-kicker-badge {
-      font-size: 10px;
-      padding: 2px 7px;
-      border-radius: 999px;
-      background: rgba(16, 185, 129, 0.14);
-      color: var(--accent-strong);
-      border: 1px solid rgba(34, 197, 94, 0.45);
-    }
-
-    h1 {
-      font-size: 28px;
-      margin: 0 0 12px;
-      letter-spacing: 0.02em;
-    }
-
-    .lead {
-      margin: 0;
-      color: var(--text-muted);
-      font-size: 14px;
-      line-height: 1.6;
-      max-width: 920px;
-    }
-
-    .card {
-      background: radial-gradient(circle at top left, #020617 0, #020617 40%, #020617 100%);
-      border-radius: var(--radius-lg);
-      padding: 18px 20px 18px;
-      border: 1px solid var(--border-subtle);
-      box-shadow: 0 14px 36px rgba(15, 23, 42, 0.85);
-    }
-
-    .card + .card {
-      margin-top: 10px;
-    }
-
-    .card-header {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
-      margin-bottom: 10px;
-    }
-
-    .card-index {
-      font-weight: 700;
-      color: var(--accent-strong);
-    }
-
-    .card-title {
-      font-weight: 700;
-      font-size: 18px;
-    }
-
-    .card-body {
-      font-size: 14px;
-      color: var(--text-main);
-      line-height: 1.65;
-    }
-
-    .card-body p {
-      margin: 0 0 8px;
-    }
-
-    .card-body ul {
-      margin: 0 0 6px 18px;
-      padding: 0;
-    }
-
-    .card-body li {
-      margin-bottom: 4px;
-    }
-
-    .section-card {
-      margin-top: 4px;
-    }
-
-    /* RELATED */
-
-    .section-card.related {
-      margin-top: 14px;
-      background: radial-gradient(circle at top left, #0b1220 0, #020617 55%, #030712 100%);
-      border: 1px solid rgba(56, 189, 248, 0.5);
-    }
-
-    .related-title {
-      font-size: 16px;
-      font-weight: 600;
-      margin: 0 0 8px;
-    }
-
-    .related-list {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      font-size: 14px;
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
-    }
-
-    .related-list a {
-      color: var(--accent-blue);
-      text-decoration: none;
-    }
-
-    .related-list a:hover {
-      text-decoration: underline;
-    }
-
-    /* RESPONSIVE */
-
-    @media (max-width: 1024px) {
-      body {
-        padding: 12px;
-      }
-
-      .layout {
-        grid-template-columns: minmax(0, 1fr);
-        padding: 16px;
-        border-radius: 24px;
-      }
-
-      .sidebar {
-        flex-direction: row;
-        align-items: center;
-        overflow-x: auto;
-        border-radius: 20px;
-      }
-
-      .sidebar-nav {
-        flex: 1;
-      }
-
-      .nav-list {
-        flex-direction: row;
-        flex-wrap: nowrap;
-      }
-
-      .nav-link {
-        white-space: nowrap;
-      }
-
-      main {
-        padding: 18px 16px 20px;
-      }
-
-      h1 {
-        font-size: 24px;
-      }
-    }
-
-    @media (max-width: 640px) {
-      .brand-tagline {
-        display: none;
-      }
-
-      h1 {
-        font-size: 22px;
-      }
-    }
-  </style>
-
-  <!-- JSON-LD для головної сторінки -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Юреко — надійний партнер з утилізації в Україні",
-    "url": "https://yureco-demo.example/index.html",
-    "description": "Довідник Юреко пояснює, як безпечно утилізувати промислові та небезпечні відходи, списану продукцію та обладнання.",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Юреко",
-      "url": "https://yureco-demo.example/",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://yureco-demo.example/img/yureco-logo.svg"
-      }
-    }
-  }
-  </script>
+        .footer {
+            margin-top: 40px;
+            opacity: .5;
+            font-size: 13px;
+            text-align: center;
+        }
+    </style>
 </head>
 
 <body>
-  <div class="layout">
+<div class="layout">
+
     <!-- SIDEBAR -->
     <aside class="sidebar">
-      <div class="sidebar-brand">
-        <div class="brand-logo-wrapper">
-          <img src="img/yureco-logo.svg" alt="Логотип Yureco" class="brand-logo" />
+        <div class="brand">
+            <img src="img/yureco-logo.svg" class="brand-logo" alt="YURECO logo">
+            <div>
+                <div class="brand-title">YURECO</div>
+                <div class="brand-subtitle">утилізація та поводження з<br>відходами</div>
+            </div>
         </div>
-        <div class="brand-text">
-          <div class="brand-name">YURECO</div>
-          <div class="brand-tagline">утилізація та поводження з відходами</div>
-        </div>
-      </div>
 
-      <div class="sidebar-divider"></div>
+        <div class="menu-title">РОЗДІЛИ ДОВІДНИКА</div>
 
-      <div class="sidebar-section-title">РОЗДІЛИ ДОВІДНИКА</div>
+        <ul class="menu">
 
-      <nav class="sidebar-nav">
-        <ul class="nav-list">
-          <li>
-            <a href="index.html" class="nav-link active" aria-current="page">
-              <span class="nav-icon">
-                <span class="nav-icon-circle"></span>
-              </span>
-              <span class="nav-label">Головна</span>
-            </a>
-          </li>
-          <li>
-            <a href="promyslovi-vidhody.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <line x1="5" y1="7" x2="19" y2="7" />
-                    <line x1="5" y1="12" x2="19" y2="12" />
-                    <line x1="5" y1="17" x2="19" y2="17" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Промислові відходи</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-paverbankiv-dbj.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="5" y="7" width="14" height="10" rx="2" />
-                    <polyline points="11 9 9 12 11 12 9 15" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Павербанки та ДБЖ</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-li-ion-batarej.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="7" y="6" width="10" height="12" rx="2" />
-                    <line x1="11" y1="9" x2="13" y2="9" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Li-ion батареї</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-produktiv-harchuvannya-napoyi.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <circle cx="9" cy="10" r="3" />
-                    <path d="M5 19c1.5-2 3-3 4-3s2.5 1 4 3" />
-                    <rect x="14" y="6" width="4" height="11" rx="1" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Продукти харчування та напої</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-kosmetiki.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="7" y="7" width="6" height="11" rx="1.5" />
-                    <path d="M14 8h3v8h-3z" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Косметика</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-dokumentiv.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="6" y="5" width="10" height="14" rx="1" />
-                    <polyline points="9 9 13 9" />
-                    <polyline points="9 12 12 12" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Конфіденційні документи</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-shin.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <circle cx="12" cy="12" r="4" />
-                    <circle cx="12" cy="12" r="7" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Шини</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-tovariv-pid-mitnim-kontrolem.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="4" y="8" width="16" height="9" rx="2" />
-                    <path d="M9 8V6h6v2" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Товари під митним контролем</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-ofisnih-mebliv-orgtehniki.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <rect x="5" y="7" width="6" height="10" rx="1" />
-                    <rect x="13" y="9" width="6" height="8" rx="1" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Офісні меблі та оргтехніка</span>
-            </a>
-          </li>
-          <li>
-            <a href="utilizaciya-sonyaychnih-panelij-vitryakiv.html" class="nav-link">
-              <span class="nav-icon">
-                <span class="nav-icon-pill">
-                  <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <circle cx="12" cy="8" r="2.5" />
-                    <path d="M12 10.5v8" />
-                    <path d="M12 8L7 5.5" />
-                    <path d="M12 8l5-2.5" />
-                    <rect x="9" y="18" width="6" height="2" rx="0.5" />
-                  </svg>
-                </span>
-              </span>
-              <span class="nav-label">Сонячні панелі та лопаті ВЕС</span>
-            </a>
-          </li>
+            <li><a class="active" href="index.html">🏠 Головна</a></li>
+
+            <li><a href="promyslovi-vidhody.html">📋 Промислові відходи</a></li>
+            <li><a href="utilizaciya-paverbankiv-dbj.html">🔋 Павербанки та ДБЖ</a></li>
+            <li><a href="utilizaciya-li-ion-batarej.html">🔋 Li-ion батареї</a></li>
+            <li><a href="utilizaciya-produktov-harchuvannya-napoi.html">🥫 Продукти харчування та напої</a></li>
+            <li><a href="utilizaciya-kosmetiki.html">💄 Косметика</a></li>
+            <li><a href="utilizaciya-dokumentiv.html">📄 Конфіденційні документи</a></li>
+            <li><a href="utilizaciya-shin.html">⭕ Шини</a></li>
+            <li><a href="utilizaciya-tovary-pid-mitnim-kontrolem.html">📦 Товари під митним контролем</a></li>
+            <li><a href="utilizaciya-ofisnih-mebliv-orgtehniki.html">🖥️ Офісні меблі та оргтехніка</a></li>
+            <li><a href="utilizaciya-sonjachnih-panelei-vitryakiv.html">⚡ Сонячні панелі та лопаті ВЕС</a></li>
+
         </ul>
-      </nav>
-
-      <div class="sidebar-footer">
-        Довідник Yureco — робоча версія для тестування структури та контенту.
-      </div>
     </aside>
 
+
+
     <!-- MAIN CONTENT -->
-    <main>
-      <header class="page-header">
-        <div class="page-kicker">
-          <span class="page-kicker-badge">інформаційний довідник Yureco</span>
-          <span>Огляд можливостей утилізації від Юреко</span>
-        </div>
-        <h1>Юреко — надійний партнер з утилізації в Україні</h1>
-        <p class="lead">
-          Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної
-          утилізації для бізнесу та громад по всій Україні. Ми допомагаємо правильно
-          поводитися з відходами, зменшувати екологічні ризики та виконувати вимоги
-          законодавства.
-        </p>
-      </header>
+    <main class="main">
 
-      <section class="card section-card">
-        <div class="card-header">
-          <span class="card-index">1.</span>
-          <span class="card-title">Основні напрямки утилізації Юреко</span>
-        </div>
-        <div class="card-body">
-          <p>
-            Ми спеціалізуємося на поводженні з промисловими та небезпечними відходами, а також зі
-            списаною продукцією, яка не може бути реалізована.
-          </p>
-          <ul>
-            <li>Промислові відходи (виробничі, технологічні, будівельні)</li>
-            <li>Павербанки та джерела безперебійного живлення (ДБЖ)</li>
-            <li>Li-ion батареї та акумуляторні модулі</li>
-            <li>Продукти харчування та напої, що втратили товарний вигляд</li>
-            <li>Косметика та засоби гігієни, що підлягають знищенню</li>
-            <li>Конфіденційні документи та архіви під акт знищення</li>
-            <li>Шини та гумово-технічні вироби</li>
-            <li>Товари під митним контролем (прострочені, пошкоджені, нереалізовані)</li>
-            <li>Офісні меблі, оргтехніка, електроніка</li>
-            <li>Сонячні панелі, вітряки та лопаті ВЕС</li>
-          </ul>
-        </div>
-      </section>
+        <h1>Юреко — надійний партнер з утилізації в Україні
+            <span class="badge">інформаційний довідник yureco</span>
+        </h1>
 
-      <section class="card section-card related">
-        <h2 class="related-title">Пов’язані матеріали довідника Yureco</h2>
-        <p class="lead" style="font-size:13px;margin-bottom:6px;">
-          Для глибшого розуміння теми утилізації відходів радимо переглянути такі розділи:
-        </p>
-        <ul class="related-list">
-          <li><a href="promyslovi-vidhody.html">Що таке промислові відходи: класифікація, методи утилізації</a></li>
-          <li><a href="utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
-          <li><a href="utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
-          <li><a href="utilizaciya-sonyaychnih-panelij-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
-        </ul>
-      </section>
+        <p>Компанія <strong>Юреко</strong> надає комплексні послуги з екологічно безпечної утилізації для бізнесу та громад по всій Україні. Ми допомагаємо правильно поводитися з відходами, зменшувати екологічні ризики та виконувати вимоги законодавства.</p>
 
-      <section class="card section-card">
-        <div class="card-header">
-          <span class="card-index">2.</span>
-          <span class="card-title">Адреса API (POST /chat)</span>
+        <div class="card">
+            <h2>Основні напрямки утилізації Юреко</h2>
+            <p>Ми спеціалізуємося на поводженні з промисловими та небезпечними відходами, а також зі списаною продукцією, яка не може бути реалізована.</p>
+
+            <ul>
+                <li>Промислові відходи (виробничі, технологічні, будівельні)</li>
+                <li>Павербанки та джерела безперебійного живлення (ДБЖ)</li>
+                <li>Li-ion батареї та акумуляторні модулі</li>
+                <li>Продукти харчування та напої, що втратили товарний вигляд</li>
+                <li>Косметика та засоби гігієни, що підлягають знищенню</li>
+                <li>Конфіденційні документи та архіви під акт знищення</li>
+                <li>Шини та гумово-технічні вироби</li>
+                <li>Товари під митним контролем (прострочені, пошкоджені, нереалізовані)</li>
+                <li>Офісні меблі, оргтехніка, електроніка</li>
+                <li>Сонячні панелі, вітряки та лопаті ВЕС</li>
+            </ul>
         </div>
-        <div class="card-body">
-          <p>
-            Для інтеграції з довідником як із чат-ботом використовуйте наступну кінцеву точку:
-          </p>
-          <p style="font-family:monospace;background:#020617;border-radius:10px;padding:8px 10px;display:inline-block;border:1px solid rgba(148,163,184,0.35);">
-            https://yureco-demo.onrender.com/chat
-          </p>
-          <p style="margin-top:8px;color:var(--text-soft);font-size:13px;">
-            Запити приймаються у форматі JSON. Відповідь формується з урахуванням
-            контенту довідника та налаштувань інтеграції.
-          </p>
+
+
+        <div class="card">
+            <h2>Пов’язані матеріали довідника Yureco</h2>
+            <p>Для глибшого розуміння теми утилізації відходів радимо переглянути такі розділи:</p>
+
+            <ul class="related-list">
+                <li><a href="promyslovi-vidhody.html">Що таке промислові відходи: класи небезпеки та методи утилізації</a></li>
+                <li><a href="utilizaciya-paverbankiv-dbj.html">Утилізація павербанків та джерел безперебійного живлення (ДБЖ)</a></li>
+                <li><a href="utilizaciya-li-ion-batarej.html">Утилізація літій-іонних (Li-ion) батарей</a></li>
+                <li><a href="utilizaciya-sonjachnih-panelei-vitryakiv.html">Утилізація сонячних панелей, вітряків та лопатей ВЕС</a></li>
+            </ul>
         </div>
-      </section>
+
+
+        <div class="card">
+            <h2>Адреса API (POST /chat)</h2>
+            <p>Для інтеграції з довідником як із чат-ботом використовуйте наступну кінцеву точку:</p>
+
+            <pre style="background:#0002;padding:12px;border-radius:10px;overflow-x:auto;">https://yureco-demo.onrender.com/chat</pre>
+        </div>
+
+
+        <div class="footer">© YURECO, 2025</div>
+
     </main>
-  </div>
+</div>
 </body>
 </html>
