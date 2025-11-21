@@ -3,7 +3,13 @@ Allow: /
 
 Sitemap: https://yureco.onrender.com/sitemap.xml
 
-# SEO note:
-# Цей піддомен використовується як публічний тестовий клієнт Yureco Augment.
-# Основне джерело контенту про послуги утилізації — https://youreko.com.ua/
-# Канонічну адресу вказано через <link rel="canonical"> у HTML.
+# Забороняємо індексувати технічні файли Python
+Disallow: /venv/
+Disallow: /config/
+Disallow: /__pycache__/
+
+# Забороняємо індексацію файлів, яких нема в продакшені (запобігає 404 у Google)
+Disallow: /requirements.txt
+Disallow: /app.py
+Disallow: /client.html
+Disallow: /smoke_yureco.py
