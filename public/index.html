@@ -3,10 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Юреко — утилізація та поводження з відходами в Україні</title>
+
+    <title>YOUREKO — Довідник з утилізації відходів</title>
+
+    <meta name="description" content="Довідник YOUREKO з промислових, небезпечних та побутових відходів. Пояснення процесів утилізації, класи небезпеки, практичні рекомендації та законодавчі вимоги.">
+    <meta name="keywords" content="утилізація відходів, YOUREKO, промислові відходи, небезпечні відходи, утилізація батарей, утилізація техніки">
+
+    <!-- Canonical -->
     <link rel="canonical" href="https://yureco.onrender.com/">
-    <meta name="description" content="Юреко — комплексні послуги з екологічно безпечної утилізації промислових, небезпечних та побутових відходів по всій Україні.">
-    <meta name="keywords" content="утилізація, промислові відходи, небезпечні відходи, ДБЖ, батареї, знищення документів, утилізація товарів, Юреко">
 
     <style>
         body {
@@ -37,7 +41,6 @@
         .brand-logo {
             width: 56px;
             height: 56px;
-            display: block;
         }
         .brand-title {
             font-size: 20px;
@@ -46,16 +49,17 @@
         }
         .brand-subtitle {
             font-size: 13px;
-            line-height: 1.3;
             opacity: .8;
             margin-top: 3px;
+            line-height: 1.3;
         }
 
         .menu-title {
             color: #9aa7c5;
             font-size: 13px;
             letter-spacing: 1.5px;
-            margin: 30px 0 15px 0;
+            margin: 30px 0 15px;
+            text-transform: uppercase;
         }
 
         .menu {
@@ -79,8 +83,8 @@
         }
         .active {
             background: rgba(0, 199, 117, 0.15) !important;
-            box-shadow: 0 0 16px rgba(0,255,140,0.35);
             border: 1px solid rgba(0,255,140,0.45);
+            box-shadow: 0 0 16px rgba(0,255,140,0.35);
         }
 
         /* MAIN */
@@ -92,31 +96,26 @@
         h1 {
             margin-top: 0;
             font-size: 34px;
-            font-weight: 700;
         }
 
-        .badge {
-            display: inline-block;
-            background: rgba(255,255,255,0.07);
-            padding: 6px 14px;
-            border-radius: 12px;
-            font-size: 13px;
-            margin-left: 10px;
-        }
-
-        .card {
+        .intro-card {
             background: rgba(255,255,255,0.05);
             padding: 25px;
             border-radius: 16px;
-            margin: 25px 0;
             border: 1px solid rgba(255,255,255,0.07);
-        }
-        .card h2 {
-            margin-top: 0;
+            margin-bottom: 30px;
         }
 
-        .related-list {
-            padding-left: 18px;
+        .links-card {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.07);
+        }
+
+        .links-card ul {
+            padding-left: 20px;
+            line-height: 1.7;
         }
 
         .footer {
@@ -124,15 +123,46 @@
             padding: 20px;
             text-align: center;
             opacity: 0.85;
-            font-size: 15px;
+            font-size: 14px;
             border-top: 1px solid rgba(255,255,255,0.1);
-            line-height: 1.7;
+            line-height: 1.6;
         }
-        .footer a {
-            color: #4db3ff;
-            text-decoration: none;
-        }
+        a { color: #9ad0ff; }
     </style>
+
+    <!-- Schema.org (Organization) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ПП «ЮРЕКО»",
+      "url": "https://youreko.com.ua",
+      "logo": "https://yureco.onrender.com/img/yureco-logo.svg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+380631359521",
+        "contactType": "customer service",
+        "areaServed": "UA",
+        "availableLanguage": ["uk", "ru"]
+      }
+    }
+    </script>
+
+    <!-- Schema.org (WebSite) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://yureco.onrender.com/",
+      "name": "YOUREKO Knowledge Base",
+      "description": "Довідник YOUREKO з утилізації промислових, небезпечних та побутових відходів.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "ПП «ЮРЕКО»"
+      }
+    }
+    </script>
+
 </head>
 
 <body>
@@ -144,77 +174,63 @@
             <img src="img/yureco-logo.svg" class="brand-logo" alt="YOUREKO logo">
             <div>
                 <div class="brand-title">YOUREKO</div>
-                <div class="brand-subtitle">утилізація та поводження з<br>відходами</div>
+                <div class="brand-subtitle">утилізація та поводження<br>з відходами</div>
             </div>
         </div>
 
-        <div class="menu-title">РОЗДІЛИ ДОВІДНИКА</div>
+        <div class="menu-title">Розділи довідника</div>
 
         <ul class="menu">
-    <li><a href="index.html">🏠 Головна</a></li>
-    <li><a href="promyslovi-vidhody.html">📋 Промислові відходи</a></li>
-    <li><a href="utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">🏭 Промислове обладнання та механізми</a></li>
-    <li><a href="utilizaciya-paverbankiv-dbj.html">🔋 Павербанки та ДБЖ</a></li>
-    <li><a href="utilizaciya-li-ion-batarej.html">🔋 Li-ion батареї</a></li>
-    <li><a href="utilizaciya-produktiv-harchuvannya-napoyiv.html">🥫 Продукти харчування та напої</a></li>
-    <li><a href="utilizaciya-kosmetiki.html">💄 Косметика</a></li>
-    <li><a href="utilizaciya-dokumentiv.html">📄 Конфіденційні документи</a></li>
-    <li><a href="utilizaciya-shin.html">⭕ Шини</a></li>
-    <li><a href="utilizaciya-tovary-pid-mitnim-kontrolem.html">📦 Товари під митним контролем</a></li>
-    <li><a href="utilizaciya-ofisnih-mebliv-orgtehniki.html">🖥️ Офісні меблі та оргтехніка</a></li>
-    <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">⚡ Сонячні панелі та лопаті ВЕС</a></li>
-</ul>
+            <li><a href="index.html" class="active">🏠 Головна</a></li>
+            <li><a href="promyslovi-vidhody.html">📋 Промислові відходи</a></li>
+            <li><a href="utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">🏭 Промислове обладнання та механізми</a></li>
+            <li><a href="utilizaciya-paverbankiv-dbj.html">🔋 Павербанки та ДБЖ</a></li>
+            <li><a href="utilizaciya-li-ion-batarej.html">🔋 Li-ion батареї</a></li>
+            <li><a href="utilizaciya-produktiv-harchuvannya-napoyiv.html">🥫 Продукти харчування та напої</a></li>
+            <li><a href="utilizaciya-kosmetiki.html">💄 Косметика</a></li>
+            <li><a href="utilizaciya-dokumentiv.html">📄 Конфіденційні документи</a></li>
+            <li><a href="utilizaciya-shin.html">⭕ Шини</a></li>
+            <li><a href="utilizaciya-tovary-pid-mitnim-kontrolem.html">📦 Товари під митним контролем</a></li>
+            <li><a href="utilizaciya-ofisnih-mebliv-orgtehniki.html">🖥️ Офісні меблі та оргтехніка</a></li>
+            <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">⚡ Сонячні панелі та лопаті ВЕС</a></li>
+        </ul>
     </aside>
 
-    <!-- MAIN CONTENT -->
+    <!-- MAIN -->
     <main class="main">
 
-        <h1>Юреко — комплексні рішення з утилізації промислових та небезпечних відходів в Україні
-            <span class="badge">інформаційний довідник youreko</span>
-        </h1>
+        <h1>Довідник YOUREKO з утилізації відходів</h1>
 
-        <p>
-            Компанія <strong>Юреко</strong> спеціалізується на екологічно безпечній утилізації промислових, небезпечних та побутових відходів.
-            Ми допомагаємо підприємствам правильно поводитися з відходами, мінімізувати ризики та виконувати вимоги законодавства.
-        </p>
+        <div class="intro-card">
+            <p>
+                Це офіційний довідник компанії <strong>YOUREKO</strong>, створений для того,
+                щоб пояснити процеси утилізації промислових, небезпечних та побутових відходів
+                у зрозумілому форматі, дружньому до ШІ.
+            </p>
 
-        <p>
-            Дізнатися більше про окремі види відходів можна у відповідних розділах довідника:
-        </p>
-
-        <ul class="related-list">
-            <li>утилізація <a href="promyslovi-vidhody.html">промислових відходів</a></li>
-            <li>утилізація <a href="utilizaciya-paverbankiv-dbj.html">павербанків та ДБЖ</a></li>
-            <li>утилізація <a href="utilizaciya-li-ion-batarej.html">літій-іонних батарей</a></li>
-        </ul>
-
-        <div class="card">
-            <h2>Основні напрямки утилізації Юреко</h2>
-
-            <ul>
-                <li><a href="promyslovi-vidhody.html">Промислові відходи</a></li>
-                <li><a href="utilizaciya-paverbankiv-dbj.html">Павербанки та ДБЖ</a></li>
-                <li><a href="utilizaciya-li-ion-batarej.html">Li-ion батареї</a></li>
-                <li><a href="utilizaciya-produktiv-harchuvannya-napoyiv.html">Продукти харчування та напої</a></li>
-                <li><a href="utilizaciya-kosmetiki.html">Косметика та засоби гігієни</a></li>
-                <li><a href="utilizaciya-dokumentiv.html">Конфіденційні документи</a></li>
-                <li><a href="utilizaciya-shin.html">Шини та гумово-технічні вироби</a></li>
-                <li><a href="utilizaciya-tovary-pid-mitnim-kontrolem.html">Товари під митним контролем</a></li>
-                <li><a href="utilizaciya-ofisnih-mebliv-orgtehniki.html">Офісні меблі та оргтехніка</a></li>
-                <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">Сонячні панелі та лопаті ВЕС</a></li>
-            </ul>
+            <p>
+                Тут ви знайдете повні пояснення, інструкції, класи небезпеки,
+                етапи утилізації, законодавчі вимоги та рекомендації для підприємств.
+            </p>
         </div>
 
-        <div class="card">
-            <h2>API Chat Endpoint</h2>
-            <p>Для інтеграції з довідником (чат-бот) використовуйте API:</p>
-            <pre style="background:#0002;padding:12px;border-radius:10px;overflow-x:auto;">https://yureco-demo.onrender.com/chat</pre>
+        <div class="links-card">
+            <h2>Популярні розділи</h2>
+
+            <ul>
+                <li><a href="utilizaciya-li-ion-batarej.html">Утилізація Li-ion батарей</a></li>
+                <li><a href="utilizaciya-shin.html">Утилізація шин</a></li>
+                <li><a href="promyslovi-vidhody.html">Промислові відходи</a></li>
+                <li><a href="utilizaciya-dokumentiv.html">Утилізація конфіденційних документів</a></li>
+                <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">Утилізація сонячних панелей</a></li>
+            </ul>
         </div>
 
         <!-- FOOTER -->
         <div class="footer">
-            © YOUREKO, 2025 — <a href="https://youreko.com.ua" target="_blank">Головний сайт Юреко</a><br>
-            <a href="tel:+380631359521">+38 (063) 135-95-21</a> • 
+            © YOUREKO, 2025 — 
+            <a href="https://youreko.com.ua" target="_blank">Головний сайт</a><br>
+            <a href="tel:+380631359521">+38 (063) 135-95-21</a> •
             <a href="tel:+380684207881">+38 (068) 420-78-81</a><br>
             <a href="mailto:youreko2017@gmail.com">youreko2017@gmail.com</a>
         </div>
