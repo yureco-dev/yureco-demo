@@ -1,15 +1,36 @@
 User-agent: *
 Allow: /
 
+# OpenAI (ChatGPT / GPTBot)
+User-agent: GPTBot
+Allow: /
+
+# Google AI (Gemini / Google-Extended)
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# OpenAI o1 semantic crawler
+User-agent: o1-preview-crawler
+Allow: /
+
+# OpenAI Research Crawler
+User-agent: OpenAI-Research
+Allow: /
+
+# HuggingFace
+User-agent: HuggingFace-Docs
+Allow: /
+
+# AI knowledge feeds
+Allow: /ai.json
+Allow: /ai.jsonl
+
 Sitemap: https://yureco.onrender.com/sitemap.xml
-
-# Забороняємо індексувати технічні файли Python
-Disallow: /venv/
-Disallow: /config/
-Disallow: /__pycache__/
-
-# Забороняємо індексацію файлів, яких нема в продакшені (запобігає 404 у Google)
-Disallow: /requirements.txt
-Disallow: /app.py
-Disallow: /client.html
-Disallow: /smoke_yureco.py
