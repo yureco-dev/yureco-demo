@@ -1,82 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://yureco.onrender.com/</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://yureco.onrender.com/</loc></url>
+  <url><loc>https://yureco.onrender.com/index.html</loc></url>
 
-  <url>
-    <loc>https://yureco.onrender.com/index.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://yureco.onrender.com/promyslovi-vidhody.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-paverbankiv-dbj.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-li-ion-batarej.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-produktiv-harchuvannya-napoyiv.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-kosmetiki.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-dokumentiv.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-shin.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-tovary-pid-mitnim-kontrolem.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-ofisnih-mebliv-orgtehniki.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-sonyachnih-panelij-vitryakiv.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-odyagu-vzuttya.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-nekondicijnoyi-sirovini.html</loc></url>
+  <url><loc>https://yureco.onrender.com/utilizaciya-tary-upakovki.html</loc></url>
 
-  <url>
-    <loc>https://yureco.onrender.com/promyslovi-vidhody.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-paverbankiv-dbj.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-li-ion-batarej.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-produktiv-harchuvannya-napoyiv.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-kosmetiki.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-dokumentiv.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-shin.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-tovary-pid-mitnim-kontrolem.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-ofisnih-mebliv-orgtehniki.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://yureco.onrender.com/utilizaciya-sonyachnih-panelij-vitryakiv.html</loc>
-    <lastmod>2025-02-12</lastmod>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://yureco.onrender.com/robots.txt</loc></url>
+  <url><loc>https://yureco.onrender.com/chat</loc></url>
 
 </urlset>
