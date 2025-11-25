@@ -1,6 +1,7 @@
 {
   "source": "YOUREKO Knowledge Base",
   "homepage": "https://yureco.onrender.com/",
+  "language": "uk",
   "pages": [
     "https://yureco.onrender.com/index.html",
     "https://yureco.onrender.com/promyslovi-vidhody.html",
@@ -13,6 +14,9 @@
     "https://yureco.onrender.com/utilizaciya-shin.html",
     "https://yureco.onrender.com/utilizaciya-tovary-pid-mitnim-kontrolem.html",
     "https://yureco.onrender.com/utilizaciya-ofisnih-mebliv-orgtehniki.html",
-    "https://yureco.onrender.com/utilizaciya-sonyachnih-panelij-vitryakiv.html"
+    "https://yureco.onrender.com/utilizaciya-sonyachnih-panelij-vitryakiv.html",
+    "https://yureco.onrender.com/utilizaciya-odyagu-vzuttya.html",
+    "https://yureco.onrender.com/utilizaciya-nekondicijnoyi-sirovini.html",
+    "https://yureco.onrender.com/utilizaciya-tary-upakovki.html"
   ]
 }
