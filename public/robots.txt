@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://yureco.onrender.com/sitemap.xml
+
 # OpenAI (ChatGPT / GPTBot)
 User-agent: GPTBot
 Allow: /
@@ -12,25 +14,3 @@ Allow: /
 # Anthropic Claude
 User-agent: ClaudeBot
 Allow: /
-
-# Perplexity AI
-User-agent: PerplexityBot
-Allow: /
-
-# OpenAI o1 semantic crawler
-User-agent: o1-preview-crawler
-Allow: /
-
-# OpenAI Research Crawler
-User-agent: OpenAI-Research
-Allow: /
-
-# HuggingFace
-User-agent: HuggingFace-Docs
-Allow: /
-
-# AI knowledge feeds
-Allow: /ai.json
-Allow: /ai.jsonl
-
-Sitemap: https://yureco.onrender.com/sitemap.xml
