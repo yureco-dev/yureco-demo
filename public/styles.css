@@ -1,87 +1,43 @@
-/* Базові стилі */
+/* Тіло сторінки — без відступів, без обмежень ширини */
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #1e1e2f;
-    color: #e0e0f5;
 }
 
-/* Головний контейнер – центруємо і задаємо ширину */
+/* Контейнер усього сайту (ліве меню + права частина) */
 .layout {
     display: flex;
     min-height: 100vh;
 
+    /* Центрування всього сайту */
     max-width: 1200px;
-    margin: 0 auto; /* ← ПРАВИЛЬНЕ ЦЕНТРУВАННЯ */
-    box-sizing: border-box;
+    margin: 0 auto;
 }
 
 /* Ліве меню */
 .sidebar {
     width: 260px;
     flex-shrink: 0;
-    padding: 30px 20px;
-    background: #141421;
-    border-right: 1px solid #2c2c3e;
 }
 
 /* Права частина */
 .main {
     flex: 1;
     padding: 40px;
+
+    /* Обмеження ширини тексту */
+    max-width: 850px;
 }
 
-/* Карточки */
-.block {
-    background: #2a2a3d;
-    padding: 30px;
-    border-radius: 15px;
-    margin-bottom: 30px;
-    border: 1px solid #3a3a55;
-}
-
-/* Заголовки */
-h1, h2, h3 {
-    margin-top: 0;
-    color: #ffffff;
-}
-
-/* Меню */
-.menu {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.menu li {
-    margin-bottom: 12px;
-}
-
-.menu li a {
-    text-decoration: none;
-    color: #8ab4ff;
-    font-size: 15px;
-}
-
-.menu li a:hover {
-    color: #cfe1ff;
-}
-
-/* Підвал */
-footer {
-    text-align: center;
-    margin-top: 40px;
-    padding: 20px;
-    color: #ccc;
-}
-
-/* Адаптація */
+/* Адаптація під вузькі екрани */
 @media (max-width: 1300px) {
     .layout {
         width: 100%;
         padding: 0 20px;
+        box-sizing: border-box;
     }
+
     .main {
+        max-width: 100%;
         padding: 20px;
     }
 }
