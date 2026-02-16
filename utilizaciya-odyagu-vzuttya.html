@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Утилізація одягу та взуття — YOUREKO</title>
+    
+    <meta name="theme-color" content="#060b1b"><title>Утилізація одягу та взуття — YOUREKO</title>
 
     <!-- Robots (AI/SEO previews) -->
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -14,7 +15,9 @@
     <!-- hreflang (single-language, optional but clean) -->
     <link rel="alternate" hreflang="uk" href="https://guide.youreco.com.ua/utilizaciya-odyagu-vzuttya.html">
 
-    <meta name="description" content="Утилізація одягу та взуття для підприємств: списання, надлишки, брак, корпоративна форма, контрафакт. Практична підготовка до передачі, контроль повторного обігу, типові помилки та документи, що підтверджують знищення/утилізацію.">
+    
+
+    <link rel="icon" href="img/youreco-logo.svg" type="image/svg+xml"><meta name="description" content="Утилізація одягу та взуття для підприємств: списання, надлишки, брак, корпоративна форма, контрафакт. Практична підготовка до передачі, контроль повторного обігу, типові помилки та документи, що підтверджують знищення/утилізацію.">
     <meta name="keywords" content="утилізація одягу, утилізація взуття, знищення одягу, знищення взуття, утилізація контрафакту, корпоративна форма, спецодяг, спецвзуття, YOUREKO">
 
     <!-- Open Graph (aligned with canonical) -->
@@ -142,6 +145,42 @@
         .related-list {
             padding-left: 18px;
         }
+
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
+
 
         .footer {
             margin-top: 50px;
@@ -293,6 +332,37 @@
                 <li>за потреби: специфікація/перелік позицій, фото- та/або відеофіксація знищення.</li>
             </ul>
         </div>
+
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні потоки: упаковка/тара, некондиційні партії, офісне/складське майно та промислові відходи підприємства.
+            </p>
+
+            <div class="read-also-grid">
+
+                <a class="read-also-item" href="utilizaciya-tary-upakovki.html">
+                    <div class="read-also-title">Утилізація тари та упаковки</div>
+                    <div class="read-also-desc">Короби, плівка, піддони: як оформити утилізацію/переробку.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-nekondicijnoyi-sirovini.html">
+                    <div class="read-also-title">Утилізація некондиційної сировини</div>
+                    <div class="read-also-desc">Списання партій товару: підготовка, логістика, документи.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-ofisnih-mebliv-orgtehniki.html">
+                    <div class="read-also-title">Утилізація офісних меблів та оргтехніки</div>
+                    <div class="read-also-desc">Коли утилізація робиться разом із переїздом/оновленням майна.</div>
+                </a>
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Базова рамка обліку та документів для підприємств.</div>
+                </a>
+            </div>
+        </div>
+
 
         <div class="card">
             <h2>FAQ</h2>

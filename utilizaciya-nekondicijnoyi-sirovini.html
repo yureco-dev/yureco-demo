@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Утилізація некондиційної сировини та продукції — YOUREKO</title>
+    
+    <meta name="theme-color" content="#060b1b"><title>Утилізація некондиційної сировини та продукції — YOUREKO</title>
 
     <!-- Robots (AI/SEO previews) -->
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -14,7 +15,9 @@
     <!-- hreflang (single-language, optional but clean) -->
     <link rel="alternate" hreflang="uk" href="https://guide.youreco.com.ua/utilizaciya-nekondicijnoyi-sirovini.html">
 
-    <meta name="description" content="Утилізація некондиційної сировини та продукції: прострочені партії, порушення умов зберігання, брак, рекламації. Від харчової сировини до косметичних компонентів та хімічних інгредієнтів.">
+    
+
+    <link rel="icon" href="img/youreco-logo.svg" type="image/svg+xml"><meta name="description" content="Утилізація некондиційної сировини та продукції: прострочені партії, порушення умов зберігання, брак, рекламації. Від харчової сировини до косметичних компонентів та хімічних інгредієнтів.">
     <meta name="keywords" content="утилізація некондиційної сировини, утилізація браку, списання продукції, утилізація харчової сировини, утилізація косметичної сировини, YOUREKO">
 
     <!-- Open Graph (aligned with canonical) -->
@@ -142,6 +145,42 @@
         .related-list {
             padding-left: 18px;
         }
+
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
+
 
         .footer {
             margin-top: 50px;
@@ -301,6 +340,37 @@
                 <li>за потреби: специфікація/перелік позицій, фотофіксація (за домовленістю).</li>
             </ul>
         </div>
+
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні потоки: продукти харчування/напої, упаковка/тара, промислові відходи та товари під митним контролем.
+            </p>
+
+            <div class="read-also-grid">
+
+                <a class="read-also-item" href="utilizaciya-produktiv-harchuvannya-napoyiv.html">
+                    <div class="read-also-title">Утилізація продуктів харчування та напоїв</div>
+                    <div class="read-also-desc">Списання партій і логістика з підтвердженням утилізації.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tary-upakovki.html">
+                    <div class="read-also-title">Утилізація тари та упаковки</div>
+                    <div class="read-also-desc">Супутнє пакування, яке часто можна розділити на переробку.</div>
+                </a>
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Як організувати облік і передачу потоків на утилізацію.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tovary-pid-mitnim-kontrolem.html">
+                    <div class="read-also-title">Утилізація товарів під митним контролем</div>
+                    <div class="read-also-desc">Коли важливі процедури та документи для контролю.</div>
+                </a>
+            </div>
+        </div>
+
 
         <div class="card">
             <h2>FAQ</h2>

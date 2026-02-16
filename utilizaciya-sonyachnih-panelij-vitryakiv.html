@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Утилізація сонячних панелей та лопатей ВЕС — YOUREKO</title>
+    
+    <meta name="theme-color" content="#060b1b"><title>Утилізація сонячних панелей та лопатей ВЕС — YOUREKO</title>
 
     <!-- Robots (AI/SEO previews) -->
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -17,7 +18,9 @@
     <!-- hreflang (single-language, optional but clean) -->
     <link rel="alternate" hreflang="uk" href="https://guide.youreco.com.ua/utilizaciya-sonyachnih-panelij-vitryakiv.html">
 
-    <!-- Open Graph (aligned with canonical) -->
+    
+
+    <link rel="icon" href="img/youreco-logo.svg" type="image/svg+xml"><!-- Open Graph (aligned with canonical) -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="Утилізація сонячних панелей та лопатей ВЕС — YOUREKO">
     <meta property="og:description" content="Довідка для підприємств: склад СЕС/ВЕС, демонтаж, логістика, сортування фракцій, переробка панелей, особливості композитів лопатей та документи-підтвердження.">
@@ -142,6 +145,42 @@
         .related-list {
             padding-left: 18px;
         }
+
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
+
 
         .footer {
             margin-top: 50px;
@@ -307,6 +346,37 @@
                 <li>за потреби: специфікація/перелік позицій, фотофіксація (за домовленістю).</li>
             </ul>
         </div>
+
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні потоки для енергетики та інфраструктури: промислові відходи, батарейні модулі, списання обладнання та упаковка/тара.
+            </p>
+
+            <div class="read-also-grid">
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Класифікація та базова логіка поводження з потоками підприємства.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-li-ion-batarej.html">
+                    <div class="read-also-title">Утилізація Li-ion батарей</div>
+                    <div class="read-also-desc">Акумуляторні модулі та касети: вимоги до безпечної передачі.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
+                    <div class="read-also-title">Утилізація промислового обладнання та механізмів</div>
+                    <div class="read-also-desc">Демонтаж, логістика, сортування та документи.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tary-upakovki.html">
+                    <div class="read-also-title">Утилізація тари та упаковки</div>
+                    <div class="read-also-desc">Піддони, біг-беги, плівка: що робити зі супутнім пакуванням.</div>
+                </a>
+            </div>
+        </div>
+
 
         <div class="card">
             <h2>FAQ</h2>

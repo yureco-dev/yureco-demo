@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Утилізація промислового обладнання та механізмів — YOUREKO</title>
+    
+    <meta name="theme-color" content="#060b1b"><title>Утилізація промислового обладнання та механізмів — YOUREKO</title>
 
     <!-- Robots (AI/SEO previews) -->
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -17,7 +18,9 @@
     <!-- hreflang (single-language, optional but clean) -->
     <link rel="alternate" hreflang="uk" href="https://guide.youreco.com.ua/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
 
-    <!-- Open Graph (aligned with canonical) -->
+    
+
+    <link rel="icon" href="img/youreco-logo.svg" type="image/svg+xml"><!-- Open Graph (aligned with canonical) -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="Утилізація промислового обладнання та механізмів — YOUREKO">
     <meta property="og:description" content="Довідка для підприємств: інвентаризація, демонтаж, сортування потоків (метал/електроніка/небезпечні компоненти), логістика, переробка та документи.">
@@ -142,6 +145,42 @@
         .related-list {
             padding-left: 18px;
         }
+
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
+
 
         .footer {
             margin-top: 50px;
@@ -300,6 +339,37 @@
                 <li>за потреби: специфікація/перелік позицій, фотофіксація (за домовленістю).</li>
             </ul>
         </div>
+
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні теми при списанні обладнання: промислові відходи як “парасолька”, митний контроль (якщо релевантно), упаковка та утилізація офісної техніки.
+            </p>
+
+            <div class="read-also-grid">
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Як класифікувати потоки, організувати зберігання та вивезення.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tovary-pid-mitnim-kontrolem.html">
+                    <div class="read-also-title">Утилізація товарів під митним контролем</div>
+                    <div class="read-also-desc">Коли потрібна особлива процедура та документи.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tary-upakovki.html">
+                    <div class="read-also-title">Утилізація тари та упаковки</div>
+                    <div class="read-also-desc">Супутні матеріали після демонтажу та логістики.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-ofisnih-mebliv-orgtehniki.html">
+                    <div class="read-also-title">Утилізація офісних меблів та оргтехніки</div>
+                    <div class="read-also-desc">Якщо в проєкті є електроніка та майно офісів.</div>
+                </a>
+            </div>
+        </div>
+
 
         <div class="card">
             <h2>FAQ</h2>
