@@ -143,6 +143,40 @@
             padding-left: 18px;
         }
 
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
         .footer {
             margin-top: 50px;
             padding: 20px;
@@ -305,6 +339,36 @@
                 <li>акт виконаних робіт / акт утилізації (підтвердження для обліку та перевірок);</li>
                 <li>за потреби: специфікація (перелік обладнання), фотофіксація, підтвердження знищення носіїв/даних.</li>
             </ul>
+        </div>
+
+        <!-- DAY 2: "Читайте також" block (cluster linking) -->
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні матеріали, які зазвичай супроводжують списання оргтехніки та майна: знищення документів/архівів, утилізація Li-ion батарей як окремого небезпечного потоку, а також загальні промислові відходи підприємства та шини автопарку.
+            </p>
+
+            <div class="read-also-grid">
+                <a class="read-also-item" href="utilizaciya-dokumentiv.html">
+                    <div class="read-also-title">Утилізація конфіденційних документів</div>
+                    <div class="read-also-desc">Архіви, бухгалтерські та юридичні документи: безпечне знищення та акти-підтвердження.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-li-ion-batarej.html">
+                    <div class="read-also-title">Утилізація Li-ion батарей</div>
+                    <div class="read-also-desc">Небезпечні акумулятори в техніці: правила зберігання, передача оператору та документи.</div>
+                </a>
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Базова логіка класифікації потоків на підприємстві: зберігання, вивезення, акти.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-shin.html">
+                    <div class="read-also-title">Утилізація шин</div>
+                    <div class="read-also-desc">Суміжний потік автопарку: підготовка партії, логістика та підтвердження утилізації.</div>
+                </a>
+            </div>
         </div>
 
         <div class="card">
