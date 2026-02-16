@@ -143,6 +143,40 @@
             padding-left: 18px;
         }
 
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
         .footer {
             margin-top: 50px;
             padding: 20px;
@@ -344,6 +378,36 @@
                 <li>акт утилізації / знешкодження / переробки (залежно від потоку);</li>
                 <li>довідки та підтвердження для внутрішнього обліку і контролюючих органів (за потреби).</li>
             </ul>
+        </div>
+
+        <!-- DAY 2: "Читайте також" block (cluster linking) -->
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні потоки, які найчастіше виникають у бізнесі разом із промисловими відходами (і потребують окремої логіки обліку та утилізації):
+            </p>
+
+            <div class="read-also-grid">
+                <a class="read-also-item" href="utilizaciya-shin.html">
+                    <div class="read-also-title">Утилізація шин</div>
+                    <div class="read-also-desc">Як оформлюється приймання, вивезення та підтвердження утилізації шин для підприємств.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-li-ion-batarej.html">
+                    <div class="read-also-title">Утилізація Li-ion батарей</div>
+                    <div class="read-also-desc">Окремий небезпечний потік: зберігання, пакування, передача ліцензованому оператору.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-dokumentiv.html">
+                    <div class="read-also-title">Утилізація конфіденційних документів</div>
+                    <div class="read-also-desc">Знищення та утилізація документів із підтвердженням: акти, безпека, логістика.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-ofisnih-mebliv-orgtehniki.html">
+                    <div class="read-also-title">Утилізація офісних меблів та оргтехніки</div>
+                    <div class="read-also-desc">Списання, розбирання, сортування матеріалів і документи для бухгалтерії.</div>
+                </a>
+            </div>
         </div>
 
         <div class="card">
