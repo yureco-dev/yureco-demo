@@ -1,43 +1,67 @@
-/* Тіло сторінки — без відступів, без обмежень ширини */
+/* Тіло сторінки — без відступів */
 body {
-    margin: 0;
+  margin: 0;
 }
 
 /* Контейнер усього сайту (ліве меню + права частина) */
 .layout {
-    display: flex;
-    min-height: 100vh;
+  display: flex;
+  min-height: 100vh;
 
-    /* Центрування всього сайту */
-    max-width: 1200px;
-    margin: 0 auto;
+  /* НЕ стискаємо сайт: на всю ширину + адекватні поля */
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 24px;
+  box-sizing: border-box;
+  gap: 24px;
 }
 
 /* Ліве меню */
 .sidebar {
-    width: 260px;
-    flex-shrink: 0;
+  width: 300px;      /* було 260 — трохи ширше, щоб меню не ламалось */
+  flex-shrink: 0;
 }
 
 /* Права частина */
 .main {
-    flex: 1;
-    padding: 40px;
+  flex: 1;
+  min-width: 0;      /* критично для flex, щоб контент не "зламався" */
+  padding: 40px 24px;
 
-    /* Обмеження ширини тексту */
-    max-width: 850px;
+  /* прибираємо вузьке обмеження */
+  max-width: none;
+  box-sizing: border-box;
 }
 
-/* Адаптація під вузькі екрани */
-@media (max-width: 1300px) {
-    .layout {
-        width: 100%;
-        padding: 0 20px;
-        box-sizing: border-box;
-    }
+/* Адаптація */
+@media (max-width: 1200px) {
+  .layout {
+    max-width: none;
+    padding: 0 16px;
+    gap: 16px;
+  }
 
-    .main {
-        max-width: 100%;
-        padding: 20px;
-    }
+  .sidebar {
+    width: 260px;
+  }
+
+  .main {
+    padding: 24px 16px;
+  }
+}
+
+@media (max-width: 900px) {
+  .layout {
+    flex-direction: column;
+    padding: 0 12px;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .main {
+    padding: 20px 12px;
+  }
 }
