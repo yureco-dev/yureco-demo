@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://guide.youreco.com.ua/</loc></url>
+  <url><loc>https://guide.youreco.com.ua/articles/kontakty.html</loc></url>
   <url><loc>https://guide.youreco.com.ua/articles/li-ion.html</loc></url>
   <url><loc>https://guide.youreco.com.ua/articles/promyslovi-vidhody.html</loc></url>
   <url><loc>https://guide.youreco.com.ua/articles/shyny.html</loc></url>
@@ -17,5 +18,4 @@
   <url><loc>https://guide.youreco.com.ua/articles/utilizaciya-sonyachnih-panelij-vitryakiv.html</loc></url>
   <url><loc>https://guide.youreco.com.ua/articles/utilizaciya-tary-upakovki.html</loc></url>
   <url><loc>https://guide.youreco.com.ua/articles/utilizaciya-tovary-pid-mitnim-kontrolem.html</loc></url>
-  <loc>https://guide.youreco.com.ua/articles/kontakty.html</loc>
 </urlset>
