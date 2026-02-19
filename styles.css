@@ -158,39 +158,3 @@ body{
   .sidebar{width:100%; position:relative; top:auto}
   .read-also-grid{grid-template-columns:1fr}
 }
-
-/* HOME/UI POLISH */
-body{
-  margin:0;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-}
-
-a{color:#86b7ff;text-decoration:none}
-a:hover{text-decoration:underline}
-
-.sidebar h2{
-  margin:0 0 12px 0;
-  font-size:14px;
-  opacity:.9;
-}
-
-.sidebar ul{
-  list-style:none;
-  padding:0;
-  margin:0;
-}
-
-.sidebar li{margin:6px 0}
-
-.sidebar a{
-  display:block;
-  padding:8px 10px;
-  border-radius:10px;
-}
-
-.sidebar a:hover{background:rgba(255,255,255,.06)}
-
-.main h1{margin-top:0}
-.main p{opacity:.9;line-height:1.6}
