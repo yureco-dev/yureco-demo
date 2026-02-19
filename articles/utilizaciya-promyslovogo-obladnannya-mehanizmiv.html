@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="theme-color" content="#060b1b"><title>Утилізація промислового обладнання та механізмів — YOUREKO</title>
+
+    <!-- Robots (AI/SEO previews) -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+    <meta name="description" content="Довідка для підприємств: як списувати та утилізувати промислове обладнання, верстати й механізми. Інвентаризація, демонтаж, сортування на метал/електроніку/небезпечні компоненти, логістика, переробка та документи.">
+    <meta name="keywords" content="утилізація обладнання, утилізація верстатів, промислові механізми, демонтаж обладнання, металобрухт, списання основних засобів, утилізація електроніки, YOUREKO">
+
+    <!-- Canonical (main site thematic page) -->
+    <link rel="canonical" href="https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
+
+    <!-- hreflang (single-language, optional but clean) -->
+    <link rel="alternate" hreflang="uk" href="https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
+
+    
+
+    <link rel="icon" href="/img/youreco-logo.svg" type="image/svg+xml"><!-- Open Graph (aligned with canonical) -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Утилізація промислового обладнання та механізмів — YOUREKO">
+    <meta property="og:description" content="Довідка для підприємств: інвентаризація, демонтаж, сортування потоків (метал/електроніка/небезпечні компоненти), логістика, переробка та документи.">
+    <meta property="og:url" content="https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
+    <meta property="og:site_name" content="YOUREKO">
+    <meta property="og:locale" content="uk_UA">
+
+    <!-- AI Metadata -->
+    <meta name="ai-content-author" content="YOUREKO Knowledge Base">
+    <meta name="ai-content-url" content="https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html">
+    <meta name="ai-content-allow" content="index, cite, learn">
+    <meta name="ai-primary-source" content="false">
+    <meta name="ai-type" content="technical_reference">
+    <meta name="ai-language" content="uk">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #060b1b;
+            color: #e0e6f5;
+        }
+
+        .layout {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* SIDEBAR */
+        .sidebar {
+            width: 290px;
+            background: #070d1f;
+            padding: 30px 22px;
+            border-right: 1px solid rgba(255,255,255,0.05);
+        }
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        .brand-logo {
+            width: 56px;
+            height: 56px;
+        }
+        .brand-title {
+            font-size: 20px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        .brand-subtitle {
+            font-size: 13px;
+            opacity: .8;
+            margin-top: 3px;
+            line-height: 1.3;
+        }
+
+        .menu-title {
+            color: #9aa7c5;
+            font-size: 13px;
+            letter-spacing: 1.5px;
+            margin: 30px 0 15px;
+            text-transform: uppercase;
+        }
+
+        .menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .menu li a {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #dbe4ff;
+            padding: 10px 14px;
+            text-decoration: none;
+            border-radius: 12px;
+            transition: 0.2s;
+            font-size: 15px;
+        }
+        .menu li a:hover {
+            background: rgba(255,255,255,0.07);
+        }
+        .active {
+            background: rgba(0, 199, 117, 0.15) !important;
+            border: 1px solid rgba(0,255,140,0.45);
+            box-shadow: 0 0 16px rgba(0,255,140,0.35);
+        }
+
+        /* MAIN */
+        .main {
+            flex: 1;
+            padding: 40px;
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 34px;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.07);
+            padding: 6px 14px;
+            border-radius: 12px;
+            font-size: 13px;
+            margin-left: 10px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 16px;
+            margin: 25px 0;
+            border: 1px solid rgba(255,255,255,0.07);
+        }
+        .card h2 {
+            margin-top: 0;
+        }
+
+        .related-list {
+            padding-left: 18px;
+        }
+
+        /* READ ALSO */
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+        @media (max-width: 860px) {
+            .read-also-grid { grid-template-columns: 1fr; }
+        }
+
+
+
+        .footer {
+            margin-top: 50px;
+            padding: 20px;
+            text-align: center;
+            opacity: 0.85;
+            font-size: 14px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            line-height: 1.6;
+        }
+        .footer a {
+            color: #9ad0ff;
+            text-decoration: none;
+        }
+
+        a {
+            color: #9ad0ff;
+        }
+    </style>
+
+    <!-- Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "Утилізація промислового обладнання та механізмів",
+      "description": "Довідка для підприємств щодо списання та утилізації промислового обладнання, верстатів і механізмів: інвентаризація, демонтаж, сортування, поводження з небезпечними компонентами, переробка та документальне підтвердження.",
+      "inLanguage": "uk",
+      "author": {
+        "@type": "Organization",
+        "name": "ПП «ЮРЕКО»",
+        "url": "https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://guide.youreco.com.ua/articles/utilizaciya-promyslovogo-obladnannya-mehanizmiv.html"
+      }
+    }
+    </script>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+<div class="layout">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+        <div class="brand">
+            <img src="/img/youreco-logo.svg" class="brand-logo" alt="YOUREKO logo">
+            <div>
+                <div class="brand-title">YOUREKO</div>
+                <div class="brand-subtitle">утилізація та поводження<br>з відходами</div>
+            </div>
+        </div>
+
+        <div class="menu-title">Розділи довідника</div>
+
+        <ul class="menu">
+            <li><a href="/">🏠 Головна</a></li>
+            <li><a href="promyslovi-vidhody.html">📋 Промислові відходи</a></li>
+            <li><a href="utilizaciya-promyslovogo-obladnannya-mehanizmiv.html" class="active">🏭 Промислове обладнання та механізми</a></li>
+            <li><a href="utilizaciya-paverbankiv-dbj.html">🔋 Павербанки та ДБЖ</a></li>
+            <li><a href="utilizaciya-li-ion-batarej.html">🔋 Li-ion батареї</a></li>
+            <li><a href="utilizaciya-produktiv-harchuvannya-napoyiv.html">🥫 Продукти харчування та напої</a></li>
+            <li><a href="utilizaciya-kosmetiki.html">💄 Косметика</a></li>
+            <li><a href="utilizaciya-dokumentiv.html">📄 Конфіденційні документи</a></li>
+            <li><a href="utilizaciya-shin.html">⭕ Шини</a></li>
+            <li><a href="utilizaciya-tovary-pid-mitnim-kontrolem.html">📦 Товари під митним контролем</a></li>
+            <li><a href="utilizaciya-ofisnih-mebliv-orgtehniki.html">🖥️ Офісні меблі та оргтехніка</a></li>
+            <li><a href="utilizaciya-sonyachnih-panelij-vitryakiv.html">⚡ Сонячні панелі та лопаті ВЕС</a></li>
+            <li><a href="utilizaciya-odyagu-vzuttya.html">👕 Одяг та взуття</a></li>
+            <li><a href="utilizaciya-nekondicijnoyi-sirovini.html">🧪 Некондиційна сировина</a></li>
+            <li><a href="utilizaciya-tary-upakovki.html">📦 Тара та упаковка</a></li>
+            <li><a href="kontakty.html">📞 Контакти</a></li>
+</ul>
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main">
+
+        <h1>
+            Утилізація промислового обладнання та механізмів
+            <span class="badge">розділ довідника YOUREKO</span>
+        </h1>
+
+<section class="ai-structure">
+  <h2>Коротко</h2>
+  <ul>
+    <li><strong>Що це:</strong> Списане промислове обладнання/механізми та порядок демонтажу/утилізації.</li>
+    <li><strong>Кому потрібно:</strong> Виробництва та ін.</li>
+    <li><strong>Ризики:</strong> Неправильне поводження з компонентами та ін.</li>
+    <li><strong>Документи:</strong> Договір та ін.</li>
+  </ul>
+
+  <h2>Що це</h2>
+  <p>Списане промислове обладнання/механізми та порядок демонтажу/утилізації.</p>
+
+  <h2>Кому потрібно</h2>
+  <ul>
+      <li>Виробництва</li>
+      <li>Сервісні підрядники</li>
+      <li>Підприємства з модернізацією</li>
+  </ul>
+
+  <h2>Ризики</h2>
+  <ul>
+      <li>Неправильне поводження з компонентами</li>
+      <li>Ризики для безпеки</li>
+      <li>Штрафи</li>
+  </ul>
+
+  <h2>Нормативна база</h2>
+  <ul>
+    <li>Закон України «Про управління відходами»</li>
+  </ul>
+
+  <h2>Документи</h2>
+  <ul>
+      <li>Договір</li>
+      <li>Акт приймання-передачі</li>
+      <li>Акт демонтажу (за потреби)</li>
+  </ul>
+</section>
+
+
+
+        <div class="card">
+            <h2>Послуга на головному сайті</h2>
+            <p>
+                Якщо вам потрібна <strong>утилізація промислового обладнання та механізмів з документальним підтвердженням</strong>,
+                дивіться умови та приймання партій:
+                <a href="https://youreco.com.ua/obladnannya" target="_blank" rel="noopener">Утилізація промислового обладнання та механізмів — YOUREKO</a>.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Призначення довідки</h2>
+            <p>
+                Практичні орієнтири для підприємств: що відноситься до цієї категорії, типові ризики,
+                як підготувати обладнання до передачі та які документи потрібні для підтвердження утилізації.
+            </p>
+            <p>
+                Логіка матеріалу для внутрішніх регламентів і швидких погоджень:
+                <em>визначення → ризики → що приймають → підготовка → процес → документи → FAQ</em>.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Визначення</h2>
+            <ul>
+                <li><strong>Що це:</strong> промислове обладнання, верстати, механізми та вузли, що підлягають списанню і передачі на переробку/утилізацію/знешкодження відповідно до вимог безпеки та обліку.</li>
+                <li><strong>Коли виникає:</strong> оновлення парку, ліквідація ділянки/складу, демонтаж, модернізація, повернення/брак або списання основних засобів.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Ризики</h2>
+            <ul>
+                <li>Пожежні/хімічні ризики при неправильному зберіганні, протіканнях або змішуванні фракцій.</li>
+                <li>Ризик відмови у прийманні через відсутність маркування або “невідомий склад”.</li>
+                <li>Фінансові та репутаційні ризики через відсутність підтвердних документів.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Що зазвичай приймають / що можуть не приймати</h2>
+            <ul>
+                <li><strong>Приймають:</strong> відсортовані однорідні партії, упаковані та промарковані (метал, вузли, електроніка, окремі небезпечні компоненти).</li>
+                <li><strong>Можуть не приймати:</strong> змішані фракції, протікання, пошкоджену тару, відходи без опису/маркування або з “невідомим складом”.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Як підготувати обладнання до передачі</h2>
+            <ol>
+                <li>Розділити за типами матеріалів/фракціями; небезпечні компоненти — окремо.</li>
+                <li>Упакувати в цілу, надійну тару; для рідин — герметичність та захист від протікань.</li>
+                <li>Промаркувати: назва/тип, орієнтовний склад, позначення небезпеки (якщо є), контакт відповідальної особи.</li>
+                <li>Підготувати короткий опис і 3–5 фото партії для швидкого погодження.</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h2>Типовий процес утилізації</h2>
+            <ol>
+                <li>Узгодження складу/обсягу та логістики (вивезення/приймання).</li>
+                <li>Передача партії (завантаження, транспортування, приймання).</li>
+                <li>Демонтаж/сортування потоків: метал, електроніка, кабелі, пластики, окремо — небезпечні компоненти (за потреби).</li>
+                <li>Переробка, утилізація або знешкодження відповідно до категорії відходів.</li>
+                <li>Видача документів.</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h2>Документи (типово)</h2>
+            <ul>
+                <li>акт/накладна приймання-передачі (залежно від сценарію);</li>
+                <li>акт виконаних робіт / акт утилізації (підтвердження для обліку та перевірок);</li>
+                <li>за потреби: специфікація/перелік позицій, фотофіксація (за домовленістю).</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Читайте також</h2>
+            <p>
+                Суміжні теми при списанні обладнання: промислові відходи як “парасолька”, митний контроль (якщо релевантно), упаковка та утилізація офісної техніки.
+            </p>
+
+            <div class="read-also-grid">
+
+                <a class="read-also-item" href="promyslovi-vidhody.html">
+                    <div class="read-also-title">Промислові відходи</div>
+                    <div class="read-also-desc">Як класифікувати потоки, організувати зберігання та вивезення.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tovary-pid-mitnim-kontrolem.html">
+                    <div class="read-also-title">Утилізація товарів під митним контролем</div>
+                    <div class="read-also-desc">Коли потрібна особлива процедура та документи.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-tary-upakovki.html">
+                    <div class="read-also-title">Утилізація тари та упаковки</div>
+                    <div class="read-also-desc">Супутні матеріали після демонтажу та логістики.</div>
+                </a>
+
+                <a class="read-also-item" href="utilizaciya-ofisnih-mebliv-orgtehniki.html">
+                    <div class="read-also-title">Утилізація офісних меблів та оргтехніки</div>
+                    <div class="read-also-desc">Якщо в проєкті є електроніка та майно офісів.</div>
+                </a>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <h2>FAQ</h2>
+            <ul class="related-list">
+                <li><strong>Як зменшити витрати?</strong><br>Сортування, правильна тара і компактне складування майже завжди знижують вартість логістики та оброблення.</li>
+                <li><strong>Що найчастіше “ламає” приймання?</strong><br>Змішування фракцій, відсутність маркування, протікання, “невідомий склад”.</li>
+                <li><strong>Потрібно “під ключ”?</strong><br><a href="https://youreco.com.ua" target="_blank" rel="noopener">youreco.com.ua</a></li>
+            </ul>
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            © YOUREKO, 2025 —
+            <a href="https://youreco.com.ua" target="_blank" rel="noopener">Головний сайт</a><br>
+            <a href="tel:+380631359521">+38 (063) 135-95-21</a> •
+            <a href="tel:+380684207881">+38 (068) 420-78-81</a> •
+            <a href="tel:+380504493697">+38 (050) 449-36-97</a><br>
+            <a href="mailto:youreko2017@gmail.com">youreko2017@gmail.com</a>
+        </div>
+
+    </main>
+</div>
+</body>
+</html>
