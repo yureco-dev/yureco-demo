@@ -11,14 +11,36 @@
 <body>
 <!-- YOURECO_MONEY_LINKS_START -->
 <div class="youreco-cta">
-  <p><strong>Потрібна утилізація?</strong> Замовляйте послугу в YOURECO:</p>
-  <ul>
-    <li><a href="https://youreco.com.ua/" target="_blank" rel="noopener">Перейти на комерційний сайт YOURECO</a></li>
-    <li><a href="https://youreco.com.ua/" target="_blank" rel="noopener">Залишити заявку на утилізацію</a></li>
-  </ul>
+<p><strong>Потрібна утилізація?</strong> Замовляйте послугу в YOURECO:</p>
+<ul>
+<li><a href="https://youreco.com.ua/" rel="noopener" target="_blank">Перейти на комерційний сайт YOURECO</a></li>
+<li><a href="https://youreco.com.ua/" rel="noopener" target="_blank">Залишити заявку на утилізацію</a></li>
+</ul>
 </div>
 <!-- YOURECO_MONEY_LINKS_END -->
-
 <p>Перенаправлення на <a href="/utilizaciya-li-ion-batarej.html">/utilizaciya-li-ion-batarej.html</a>…</p>
+<script id="auto-active-nav">
+(function () {
+  // Normalize current path (no trailing slash)
+  var path = window.location.pathname.replace(/\/+/g, "/").replace(/\/$/, "");
+  // Treat "/" as "/index.html" for matching convenience
+  var pathAlt = (path === "" || path === "/") ? "/index.html" : path;
+
+  var links = document.querySelectorAll('nav a[href], .sidebar a[href]');
+  links.forEach(function(a){
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+
+    var url;
+    try { url = new URL(href, window.location.origin); } catch (e) { return; }
+    var p = url.pathname.replace(/\/+/g, "/").replace(/\/$/, "");
+    var pAlt = (p === "" || p === "/") ? "/index.html" : p;
+
+    if (pAlt === pathAlt) {
+      a.classList.add('active');
+    }
+  });
+})();
+</script>
 </body>
 </html>

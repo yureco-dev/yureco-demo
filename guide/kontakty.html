@@ -193,14 +193,13 @@
 <body>
 <!-- YOURECO_MONEY_LINKS_START -->
 <div class="youreco-cta">
-  <p><strong>Потрібна утилізація?</strong> Замовляйте послугу в YOURECO:</p>
-  <ul>
-    <li><a href="https://youreco.com.ua/" target="_blank" rel="noopener">Перейти на комерційний сайт YOURECO</a></li>
-    <li><a href="https://youreco.com.ua/" target="_blank" rel="noopener">Залишити заявку на утилізацію</a></li>
-  </ul>
+<p><strong>Потрібна утилізація?</strong> Замовляйте послугу в YOURECO:</p>
+<ul>
+<li><a href="https://youreco.com.ua/" rel="noopener" target="_blank">Перейти на комерційний сайт YOURECO</a></li>
+<li><a href="https://youreco.com.ua/" rel="noopener" target="_blank">Залишити заявку на утилізацію</a></li>
+</ul>
 </div>
 <!-- YOURECO_MONEY_LINKS_END -->
-
 <div class="layout">
 <!-- SIDEBAR -->
 <aside class="sidebar">
@@ -231,24 +230,21 @@
 <li><a href="/utylizaciya-budivelnyh-vidhodiv.html">🏗️ Будівельні відходи</a></li>
 <li><a href="/utylizaciya-plastyku-ta-polimeriv.html">♻️ Пластик та полімери</a></li>
 <li><a href="/utylizaciya-kabelyu-ta-drotiv.html">🔌 Кабель та дроти</a></li>
-<li><a class="active" href="/kontakty.html">📞 Контакти</a></li>
+<li><a href="/kontakty.html">📞 Контакти</a></li>
 <li><a href="/utilizaciya-vidpracovanoi-olyvy.html">🛢️ Відпрацьована моторна олива</a></li>
 </ul>
 </aside>
 <!-- MAIN -->
-<main class="main">
-<h1>
+<main class="main"><div class="cards"><div class="card"><h1>
             Контакти
             <span class="badge">довідник YOUREKO</span>
-</h1>
-<div class="card">
+</h1><div class="card">
 <h2>Контакти на головному сайті</h2>
 <p>
                 Повна контактна сторінка з інтерактивними посиланнями:
                 <a href="https://youreco.com.ua/kontakty" rel="noopener" target="_blank">youreco.com.ua/kontakty</a>.
             </p>
-</div>
-<div class="card">
+</div><div class="card">
 <h2>Як з нами зв’язатися</h2>
 <div class="kv">
 <div class="k">Телефони</div>
@@ -268,8 +264,7 @@
 <div class="k">Графік роботи</div>
 <div>Пн–Пт 08:00–18:00 • Сб–Нд вихідні</div>
 </div>
-</div>
-<div class="card">
+</div><div class="card">
 <h2>Адреси</h2>
 <div class="kv">
 <div class="k">Офіс</div>
@@ -280,8 +275,7 @@
                     Вінницька обл., смт Тиврів, вул. Пилипенко, 10
                 </div>
 </div>
-</div>
-<div class="card">
+</div><div class="card">
 <h2>Про компанію</h2>
 <p>
                 Приватне підприємство <strong>«ЮРЕКО»</strong> працює з 2011 року та спеціалізується на
@@ -300,17 +294,37 @@
 <div class="k">Код ЄДРПОУ</div>
 <div>37536906</div>
 </div>
-</div>
-<!-- FOOTER -->
-<div class="footer">
+</div><div class="footer">
             © YOUREKO, 2025 —
             <a href="https://youreco.com.ua" rel="noopener" target="_blank">Головний сайт</a><br/>
 <a href="tel:+380631359521">+38 (063) 135-95-21</a> •
             <a href="tel:+380684207881">+38 (068) 420-78-81</a> •
             <a href="tel:+380504493697">+38 (050) 449-36-97</a><br/>
 <a href="mailto:youreko2017@gmail.com">youreko2017@gmail.com</a>
+</div></div><div class="card"><h2>Читайте також</h2><p>Корисні матеріали довідника для правильного поводження з відходами та перелінковки:</p><ul class="related-links"><li><a href="/utylizaciya-promyslovyh-vidhodiv.html">Огляд: Утилізація промислових відходів</a></li><li><a href="/utylizaciya-shyn.html">Утилізація шин</a></li><li><a href="/utylizaciya-kosmetyky.html">Утилізація косметики</a></li></ul></div></div></main>
 </div>
-</main>
-</div>
+<script id="auto-active-nav">
+(function () {
+  // Normalize current path (no trailing slash)
+  var path = window.location.pathname.replace(/\/+/g, "/").replace(/\/$/, "");
+  // Treat "/" as "/index.html" for matching convenience
+  var pathAlt = (path === "" || path === "/") ? "/index.html" : path;
+
+  var links = document.querySelectorAll('nav a[href], .sidebar a[href]');
+  links.forEach(function(a){
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+
+    var url;
+    try { url = new URL(href, window.location.origin); } catch (e) { return; }
+    var p = url.pathname.replace(/\/+/g, "/").replace(/\/$/, "");
+    var pAlt = (p === "" || p === "/") ? "/index.html" : p;
+
+    if (pAlt === pathAlt) {
+      a.classList.add('active');
+    }
+  });
+})();
+</script>
 </body>
 </html>
