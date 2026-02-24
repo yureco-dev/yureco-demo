@@ -116,3 +116,18 @@
         a { color: #9ad0ff; }
     
 body{background:#060b1b;}
+
+/*
+  AI/SEO helper block.
+  Contains a structured outline (h2/ul) for crawlers/AI, but should not be visible,
+  otherwise it duplicates the page content and looks like "raw" text at the top.
+*/
+.ai-structure{
+  position:absolute;
+  left:-9999px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+  white-space:nowrap;
+}
