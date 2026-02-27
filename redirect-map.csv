@@ -1,0 +1,9 @@
+from,to,type
+/kudy-zdaty-kosmetiki.html,/kudy-zdaty-kosmetyky.html,html-redirect+noindex+canonical
+/yak-pereroblyayut-kosmetiki.html,/yak-pereroblyayut-kosmetyky.html,html-redirect+noindex+canonical
+/kudy-zdaty-napoyiv.html,/kudy-zdaty-sokiv-ta-napoyiv.html,html-redirect+noindex+canonical
+/yak-pereroblyayut-napoyiv.html,/yak-pereroblyayut-sokiv-ta-napoyiv.html,html-redirect+noindex+canonical
+/kudy-zdaty-shin.html,/kudy-zdaty-shyn.html,html-redirect+noindex+canonical
+/yak-pereroblyayut-shin.html,/yak-pereroblyayut-shyn.html,html-redirect+noindex+canonical
+/li-ion.html,/utylizaciya-li-ion-batarej.html,existing-redirect-page (kept)
+/shyny.html,/utylizaciya-shyn.html,existing-redirect-page (kept)
