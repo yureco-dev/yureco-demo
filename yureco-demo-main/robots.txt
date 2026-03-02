@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guide.youreco.com.ua/sitemap.xml
+Host: guide.youreco.com.ua
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+# Google AI / Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+# Common AI crawlers
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

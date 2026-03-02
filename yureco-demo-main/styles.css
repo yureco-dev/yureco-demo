@@ -1,0 +1,43 @@
+/* Тіло сторінки — без відступів, без обмежень ширини */
+body {
+    margin: 0;
+}
+
+/* Контейнер усього сайту (ліве меню + права частина) */
+.layout {
+    display: flex;
+    min-height: 100vh;
+
+    /* Центрування всього сайту */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Ліве меню */
+.sidebar {
+    width: 260px;
+    flex-shrink: 0;
+}
+
+/* Права частина */
+.main {
+    flex: 1;
+    padding: 40px;
+
+    /* Обмеження ширини тексту */
+    max-width: 850px;
+}
+
+/* Адаптація під вузькі екрани */
+@media (max-width: 1300px) {
+    .layout {
+        width: 100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    .main {
+        max-width: 100%;
+        padding: 20px;
+    }
+}
