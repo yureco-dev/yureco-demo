@@ -1,0 +1,25 @@
+VALIDATION REPORT — guide.youreco.com.ua (ZIP rebuild)
+
+Standard chosen by user:
+- shyn
+- kosmetyky
+
+HTML pages:
+- total HTML (recursive): 268
+- in /guide: 267
+- in /guide/articles: 1
+
+Sitemap:
+- url count BEFORE: 267
+- url count AFTER: 259
+- removed from sitemap (duplicates + redirect pages): 8
+- removed pages present in sitemap AFTER: 0  (should be 0)
+
+Duplicate <title>:
+- duplicate title groups AFTER: 0 (should be 0)
+
+Internal links:
+- exact hrefs to removed pages AFTER: 0 (should be 0)
+
+Notes:
+- “301 redirect” cannot be implemented inside a static ZIP alone. Implemented redirects are HTML (meta refresh + JS) with noindex+canonical.
