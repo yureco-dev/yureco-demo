@@ -1,0 +1,1057 @@
+[
+    {
+        "path":  "dokumenty.html",
+        "size":  16076,
+        "sha256":  "b237fef5013236571ca079bd2ba8556b8dab476a6a6374e87f557b1f546cf90e"
+    },
+    {
+        "path":  "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+        "size":  24242,
+        "sha256":  "fb09bf02825391a710ba9a74120657dda5a56765228324cdd6dc7fa5aec0a24a"
+    },
+    {
+        "path":  "index.html",
+        "size":  21233,
+        "sha256":  "f808cc3cd28db66424230319c5c1f8a2708ae84708bb04d9b640734bd92fbeeb"
+    },
+    {
+        "path":  "kabelni-vidhody.html",
+        "size":  21889,
+        "sha256":  "f0af3c97b9fd3c5a0adf264fe2d17c720725933a97819a66149c7f473e96fe65"
+    },
+    {
+        "path":  "kontakty.html",
+        "size":  17090,
+        "sha256":  "17de7d514df8521e42f8d12ae7d3c1ea98748a7026b28d4b4cc01424e098c207"
+    },
+    {
+        "path":  "kudy-zdaty.html",
+        "size":  22957,
+        "sha256":  "32c420080f76394b90b67494c48685a31300bb0b33976d01ada12d8dc8e4f14b"
+    },
+    {
+        "path":  "kudy-zdaty-avtoshyn.html",
+        "size":  19468,
+        "sha256":  "34ff3cf333f7c3f011a27d763c7816cafc2d32775b9db8f49e8a023c4a1692f5"
+    },
+    {
+        "path":  "kudy-zdaty-budivelnyh-vidhodiv.html",
+        "size":  19961,
+        "sha256":  "4ad972c8e80a6d47403ad779551b34602e2f35335c213edbeca3986d919061cf"
+    },
+    {
+        "path":  "kudy-zdaty-derevyny-z-budivnyctva.html",
+        "size":  19713,
+        "sha256":  "ab03949527169182a329824ce39e9808f21c753d10438f693451a298e07092ff"
+    },
+    {
+        "path":  "kudy-zdaty-dokumentiv.html",
+        "size":  20047,
+        "sha256":  "954d9d28a15613ac258d02cfcbfff28a0937bb116ce65f70d0c92a1a82ec6013"
+    },
+    {
+        "path":  "kudy-zdaty-energetychnyh-napoyiv.html",
+        "size":  19673,
+        "sha256":  "04ab14e3a9e8a3462d1ba043a8056f1feb869bff894b4fc4cd2298165f35fe6f"
+    },
+    {
+        "path":  "kudy-zdaty-fruktiv.html",
+        "size":  19088,
+        "sha256":  "a80b996c5142636221867df5f33a7da122e7cf68672f3b408b67e9132a10a2f8"
+    },
+    {
+        "path":  "kudy-zdaty-fruktiv-ta-ovochiv.html",
+        "size":  19828,
+        "sha256":  "b3f957781a98ac3161f53872fbce2d507c6145559a1be967419936247b0ebe8a"
+    },
+    {
+        "path":  "kudy-zdaty-gazovanyh-napoyiv.html",
+        "size":  19472,
+        "sha256":  "a35fafdb777e2c373786cdd35966faa4c3a399c5ca9a49698f02697e949c3c4d"
+    },
+    {
+        "path":  "kudy-zdaty-gipsokartonu.html",
+        "size":  19318,
+        "sha256":  "9cad18915793097bdce16c8da77923a8327defa418892794c2d4f8a51f66e060"
+    },
+    {
+        "path":  "kudy-zdaty-harchovyh-produktiv.html",
+        "size":  19900,
+        "sha256":  "829b0ad8270eb4ba1c3cf025c0dd883281a7ec44e7341325d94670f29a417551"
+    },
+    {
+        "path":  "kudy-zdaty-kabelyu-ta-drotiv.html",
+        "size":  19824,
+        "sha256":  "ec3bac4b8ae3c42f62f32c2cb5d3bb419e0fff68dfe3e5859183bd3f061b9ec1"
+    },
+    {
+        "path":  "kudy-zdaty-kondyterskyh-vyrobiv.html",
+        "size":  19698,
+        "sha256":  "7ab30b20ca5e39adec594d8989168901081d09890d37286e0fb0bb810fed1594"
+    },
+    {
+        "path":  "kudy-zdaty-konserviv.html",
+        "size":  19527,
+        "sha256":  "a5eb17d19ccffef49461faa3704f291d9e9b827bb224dc5e8a74a42c23c9f82c"
+    },
+    {
+        "path":  "kudy-zdaty-kosmetiki.html",
+        "size":  2622,
+        "sha256":  "3756d2e883843e9aac01f620c13ea76f2cc2bd073d29aa6a280173c18bb330e8"
+    },
+    {
+        "path":  "kudy-zdaty-kosmetyky.html",
+        "size":  19605,
+        "sha256":  "196f474844fbfb7678673fbda180882fffe40586684197bff011b557d38f4bd3"
+    },
+    {
+        "path":  "kudy-zdaty-kosmetyky-magazyniv.html",
+        "size":  19647,
+        "sha256":  "35224ae389e738cf14037ba2e39fc5eada54da3f51aaac3cf47993d52f149202"
+    },
+    {
+        "path":  "kudy-zdaty-li-ion-batarej.html",
+        "size":  20086,
+        "sha256":  "5714ea53ed268b6a18a0bc307f71bc66f26ea1364520eeb6e3ef923cf611e44e"
+    },
+    {
+        "path":  "kudy-zdaty-materialiv.html",
+        "size":  19334,
+        "sha256":  "6d895c8e2774f84ec17b66cfb457d05f54773ffb7d228ce54d2401975e906b9d"
+    },
+    {
+        "path":  "kudy-zdaty-metalevoyi-strushky.html",
+        "size":  19589,
+        "sha256":  "f9d2ef12e841f2da0703f4f71e10c9eb4b0f57409522dafa523961cc9824320d"
+    },
+    {
+        "path":  "kudy-zdaty-metalu.html",
+        "size":  19061,
+        "sha256":  "0c0c156c05872e53a4b2307fb2238956e5d3b7024dce4b39768fd765909aa7b3"
+    },
+    {
+        "path":  "kudy-zdaty-molochnyh-produktiv.html",
+        "size":  19595,
+        "sha256":  "38bf31f65a9657e9fe7298bc3c835b8d4f02fd6b32bccd70587853ce80385dca"
+    },
+    {
+        "path":  "kudy-zdaty-myasnyh-produktiv.html",
+        "size":  19665,
+        "sha256":  "fdc9070ed9f1050fce3145dcd63afb99b73aa3632cd42c6c09901a524b5244ca"
+    },
+    {
+        "path":  "kudy-zdaty-napivfabrykatyv.html",
+        "size":  19811,
+        "sha256":  "a486c17eed0efbd4a91cde3c1e9afc82b244cc9cf3a8dfd6759e91b69fe71327"
+    },
+    {
+        "path":  "kudy-zdaty-napoyiv.html",
+        "size":  2707,
+        "sha256":  "0f8d500837d7f20fb9886a74cd92a2c7dcb6a898bd21f89f74b14b0dbf35b9d1"
+    },
+    {
+        "path":  "kudy-zdaty-nekondicijnoyi-sirovini.html",
+        "size":  20470,
+        "sha256":  "059d37c2ea86b888e2ccb0cff1cf9000b7616e2cbbfd51ed8c660fb2e5f51ba3"
+    },
+    {
+        "path":  "kudy-zdaty-nekondyciynoyi-produkciyi.html",
+        "size":  19882,
+        "sha256":  "457c01a1354eaf85db3d733d1905ddee555cc890cac71389b10daa8c39a75912"
+    },
+    {
+        "path":  "kudy-zdaty-obladnannya.html",
+        "size":  19401,
+        "sha256":  "2fd2eded507ddc39bfccb94a62243766109ea9df51a9eaab3e83743a6cd523df"
+    },
+    {
+        "path":  "kudy-zdaty-odyagu-vzuttya.html",
+        "size":  19701,
+        "sha256":  "3fea91befff4f33a5be03843204dc4e7b1e1571a104eb6b6492795b171c535cb"
+    },
+    {
+        "path":  "kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+        "size":  20385,
+        "sha256":  "c74fb35b07db0171972a664b47c87ef9eafc5f7de1fccf37b209e4640567daca"
+    },
+    {
+        "path":  "kudy-zdaty-ovochiv.html",
+        "size":  19154,
+        "sha256":  "8dc2a7c8949afb81f439bde122e76c9cf90361b0be88f9dfb28d545159021588"
+    },
+    {
+        "path":  "kudy-zdaty-paperu-ta-kartonu.html",
+        "size":  19529,
+        "sha256":  "60eb4de6e6f26ace6584f78d2c65a9c7b95791be89971a1c533ac534dd3b569e"
+    },
+    {
+        "path":  "kudy-zdaty-parfumeriyi.html",
+        "size":  19364,
+        "sha256":  "8b0b6e34888b8b07a45bc2de2697b7d8c85a2b608efd88aff3c87848641a221e"
+    },
+    {
+        "path":  "kudy-zdaty-partiyi-produktiv.html",
+        "size":  19523,
+        "sha256":  "f6ca30dfc98507e91fd6a8a4b24de9ee719a3bf5264c447f2bbd71f3cbfa87c6"
+    },
+    {
+        "path":  "kudy-zdaty-paverbankiv-dbj.html",
+        "size":  19909,
+        "sha256":  "c047b2725cfed48d505461d8ff5ce82169b0713ebd3e5b53f246688dcc294a8b"
+    },
+    {
+        "path":  "kudy-zdaty-plastyku-ta-polimeriv.html",
+        "size":  19992,
+        "sha256":  "2de386f0abc81fe967eac0537ec3976a6691b04675d68b2eadd375486c6abeaa"
+    },
+    {
+        "path":  "kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+        "size":  20437,
+        "sha256":  "5fe39ac822e977d3a8ca28703c8a6099a4ee8f946b9ce43452afa311ec845c83"
+    },
+    {
+        "path":  "kudy-zdaty-produktiv-na-skladi.html",
+        "size":  19662,
+        "sha256":  "dd6db65506728d93c50e5e0bd881201713bc5fc7ac6117a157ac2451f3f98ac8"
+    },
+    {
+        "path":  "kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+        "size":  20653,
+        "sha256":  "25732f2a1b1e90e63f69fdf24b80134a1abbdaaea20e9df0e37d17a6c62595df"
+    },
+    {
+        "path":  "kudy-zdaty-promyslovyh-vidhodiv.html",
+        "size":  19961,
+        "sha256":  "c5c6e56b643ebd487237647fc71fc1e962dbc773f329253b0d05d66c51929d08"
+    },
+    {
+        "path":  "kudy-zdaty-prostrochenoyi-kosmetyky.html",
+        "size":  20081,
+        "sha256":  "919a7314ae1d5d1ab00275b78a9e45db192aba3c73f3b458693ac0cc752c80b5"
+    },
+    {
+        "path":  "kudy-zdaty-prostrochenyh-produktiv.html",
+        "size":  20083,
+        "sha256":  "ee9eb4d3f257a40436e022021cc049ded2283c938c97f9acefd61bd4770b1ef8"
+    },
+    {
+        "path":  "kudy-zdaty-pyva.html",
+        "size":  19008,
+        "sha256":  "ed74c4635c7149f7cf5fed6ce2a629c9554307fc5cb10b52206e9208667e858e"
+    },
+    {
+        "path":  "kudy-zdaty-rybnyh-produktiv.html",
+        "size":  19546,
+        "sha256":  "6ca8b8a2a3c6b444276b5561b3470717189bbe16ae5bb2d5ce542efee8d57d46"
+    },
+    {
+        "path":  "kudy-zdaty-shin.html",
+        "size":  2503,
+        "sha256":  "b42cc477e35a427f88bf344445706c90e3fa2b168b7cee5667fbbe51df76d586"
+    },
+    {
+        "path":  "kudy-zdaty-shyn.html",
+        "size":  19301,
+        "sha256":  "bba49a8dc8e6a3a50d46a558ef118217b900fe0363138b194465438ecf22a8a5"
+    },
+    {
+        "path":  "kudy-zdaty-shyn-pidpryyemstvamy.html",
+        "size":  25627,
+        "sha256":  "49302d1ff5a7b837057dfd9a86bd2395c7aebf267059a1f94ab2670808bb8e3b"
+    },
+    {
+        "path":  "kudy-zdaty-shyny.html",
+        "size":  21823,
+        "sha256":  "bb2d5726f8934f7d059b9c1e04673da6b1d6816fc1baf2d7ed7e44178bcc3599"
+    },
+    {
+        "path":  "kudy-zdaty-skla.html",
+        "size":  19000,
+        "sha256":  "b3e9b461b21e13ee65d13facb9e2703efa1bbee8bc01d025a1f8921497de57c4"
+    },
+    {
+        "path":  "kudy-zdaty-skladskyh-zalyshkiv.html",
+        "size":  19614,
+        "sha256":  "3c9c43fc4dcc0bf65d5f24659283638d354c5168964acfbad6726a4faac20d7a"
+    },
+    {
+        "path":  "kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+        "size":  20091,
+        "sha256":  "23c617044b9b3dd1611506423076eb6166519268fe18c3f79b9e4ab9cce6eaf7"
+    },
+    {
+        "path":  "kudy-zdaty-sokiv.html",
+        "size":  19027,
+        "sha256":  "8598980ae975646fa3a3c4a55f08eed346a9a6db677c9caf7cd83c6bc7a0033c"
+    },
+    {
+        "path":  "kudy-zdaty-sokiv-ta-napoyiv.html",
+        "size":  19676,
+        "sha256":  "0250b6e6858dc72764c62b0c2746a868ffcdd1fc43b1183cc4527c92a7c95638"
+    },
+    {
+        "path":  "kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+        "size":  20423,
+        "sha256":  "a30827699de8f93d663a1a026b4a85b81f6c865f35ae612bca33794ac9f46b6a"
+    },
+    {
+        "path":  "kudy-zdaty-tary-upakovki.html",
+        "size":  19469,
+        "sha256":  "acb0e3fba06f7cb340f8536805a11d2063716b6db117067e0857e79a72613940"
+    },
+    {
+        "path":  "kudy-zdaty-tovariv.html",
+        "size":  19254,
+        "sha256":  "fc2ec983ca6166c07c52072c5169d68e9e060dd4fdc218cd05e0c218546547db"
+    },
+    {
+        "path":  "kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+        "size":  20229,
+        "sha256":  "fd62b928772c4d191c63f57974f6d019b9fb75b2b792ca4572254b9d4f93b7b5"
+    },
+    {
+        "path":  "kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+        "size":  19818,
+        "sha256":  "d56e3e60ffa2a406bb8b986a8f6ced165accb5a19fcc333c04c88ddb0554f9d9"
+    },
+    {
+        "path":  "kudy-zdaty-upakovky-vid-kosmetyky.html",
+        "size":  19807,
+        "sha256":  "22ba86a8d4ef20b070c66809330ce6ca62382c6acff56b296a858657364ee38e"
+    },
+    {
+        "path":  "kudy-zdaty-vantazhnyh-shyn.html",
+        "size":  19375,
+        "sha256":  "985e7dd7855974a593bb7786784aff510057eca82df33cedb3108f622222d9ac"
+    },
+    {
+        "path":  "kudy-zdaty-vidpracovane-maslo.html",
+        "size":  21767,
+        "sha256":  "5e60ae843523fe3ec490b186f8b89cd7699e5a15f72d5039f489bd3d9bbf85bc"
+    },
+    {
+        "path":  "kudy-zdaty-vidpracovanoi-olyvy.html",
+        "size":  20218,
+        "sha256":  "69912dd92f874667afd46237aacec3155e144869149d9bc5a1d12dcf53db5e1e"
+    },
+    {
+        "path":  "kudy-zdaty-vidpracovanyh-masel.html",
+        "size":  19956,
+        "sha256":  "6c78edd7b443bc24272a809ec51de0d724fd346b6137fd98a528986ad31de10b"
+    },
+    {
+        "path":  "kudy-zdaty-vody.html",
+        "size":  19544,
+        "sha256":  "4b005063b8960f8335a42efe5df3b42dcf7bbcf733c048d59b64513bc22db11f"
+    },
+    {
+        "path":  "kudy-zdaty-vyrobnychyh-vidhodiv.html",
+        "size":  19753,
+        "sha256":  "040c03ac7275edd12e533da008e511b4838a8aa622e88dbe552652eb38109329"
+    },
+    {
+        "path":  "kudy-zdaty-yagid.html",
+        "size":  19074,
+        "sha256":  "b3b12e5ebae8709d6258256c46f780d6a6324511e61b8c9e2b2bf9fccbd73ab2"
+    },
+    {
+        "path":  "kudy-zdaty-zamorozhenyh-produktiv.html",
+        "size":  19730,
+        "sha256":  "f9a2a800b054a44a4a7266bf275f96f9add17ce568b6480a3e3f47b9a6a5e099"
+    },
+    {
+        "path":  "kudy-zdaty-zipsovanyh-produktiv.html",
+        "size":  19709,
+        "sha256":  "e4934093805c95c8944cbfa34f72537f286f59b53d7c24f0e50c9bd81e9da677"
+    },
+    {
+        "path":  "li-ion.html",
+        "size":  4023,
+        "sha256":  "ff25d7271f84313382d6fd0f42cff5d4a96b0055e9a0513ce8eea1e1a76fb72b"
+    },
+    {
+        "path":  "logistyka.html",
+        "size":  16124,
+        "sha256":  "d85353a970dcac5bef351ad7bc292791f261557ec1133255274ecc483df96d3e"
+    },
+    {
+        "path":  "logistyka-budivelnyh-vidhodiv.html",
+        "size":  23960,
+        "sha256":  "19cc4cd99da080e12fddb74f297d14a0841af0823425357f50bd43a9c9054e47"
+    },
+    {
+        "path":  "logistyka-kabelyu.html",
+        "size":  23573,
+        "sha256":  "7185b2767eb8e81d3161b318d68730be4f429c4eb7f2489f95005d1678549bcc"
+    },
+    {
+        "path":  "logistyka-metalu.html",
+        "size":  23506,
+        "sha256":  "f46456f2ed632808090435c6658c71e7e6a2fe8fa83f459dce867fc5fd288d7a"
+    },
+    {
+        "path":  "logistyka-paperu-ta-kartonu.html",
+        "size":  23515,
+        "sha256":  "dc477c0172fcc9243449ab69ee8a55bcac5baf9ccab7f542291cbc5b635821e9"
+    },
+    {
+        "path":  "logistyka-plastyku.html",
+        "size":  23698,
+        "sha256":  "825f3c5098e760bc6945b3b77527605e5c3175bd41ce9b615c18223d117d7f69"
+    },
+    {
+        "path":  "logistyka-promyslovyh-vidhodiv.html",
+        "size":  22012,
+        "sha256":  "fca02cd449bc72e6aec1046e6118cfbc3c2be2a686bca1dc6b64415fe9401d14"
+    },
+    {
+        "path":  "logistyka-shyn.html",
+        "size":  23660,
+        "sha256":  "1bcb57333feaf7358594a3f5494a061cc392d671c97e09fef470e7b0a52a9b7f"
+    },
+    {
+        "path":  "logistyka-skla.html",
+        "size":  22987,
+        "sha256":  "518e8fb537a86528db1f7ea434d7e1d16f0f9c489a6cb3ea176f6c3eb87c2d66"
+    },
+    {
+        "path":  "nebezpeka-vidpracovanogo-masla.html",
+        "size":  22705,
+        "sha256":  "1fe9de0749aa68686743f9a83aca0d6826addbfd99583ce7af717507146c4582"
+    },
+    {
+        "path":  "oblik-promyslovyh-vidhodiv.html",
+        "size":  22846,
+        "sha256":  "7f0bb8f0ff211889284e88de80469b5760d202f15818db5dac0bc36679f11b75"
+    },
+    {
+        "path":  "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+        "size":  23171,
+        "sha256":  "1d33de0dab46d049a3bb972d0fc5eb9ba0835e6402ac24732293a7aa4337291f"
+    },
+    {
+        "path":  "pererobka.html",
+        "size":  17205,
+        "sha256":  "205ba415958c711e0f28567e29d1cc9979b4e4bfb8a5dff24e1d84b80a7975d3"
+    },
+    {
+        "path":  "pererobka-alyuminiyevogo-kabelyu.html",
+        "size":  21710,
+        "sha256":  "aa994e9035d35d312ac2cb826ee2c1d21e97d1cbad1e2c2e8c81c83e7b7c4a38"
+    },
+    {
+        "path":  "pererobka-avtomobilnyh-shyn.html",
+        "size":  21617,
+        "sha256":  "a02bbf2df760a4b410d1ecb75466111654d8033820a124365ebfda1a3e658fe6"
+    },
+    {
+        "path":  "pererobka-betonu.html",
+        "size":  21295,
+        "sha256":  "289bf00f28458884e9be5db0c97019e7b35f1a5edf441fce154d00f1119400c3"
+    },
+    {
+        "path":  "pererobka-cegly.html",
+        "size":  21253,
+        "sha256":  "b6fa9bfeae0b255a95124924ecae206ebb3478be854acbe04d5838e37ce6222b"
+    },
+    {
+        "path":  "pererobka-gumovyh-vyrobiv.html",
+        "size":  23820,
+        "sha256":  "3fa09919ff4b32e24f4933bb898f59fc8e297e0929b12663c8502beccb4f1cca"
+    },
+    {
+        "path":  "pererobka-izolyaciyi-kabelyu.html",
+        "size":  23806,
+        "sha256":  "db37153cc330f0c39cf7e46abe6ebe77ff75db0c914ed5c9d2c3fe5b8629fa2f"
+    },
+    {
+        "path":  "pererobka-kartonu.html",
+        "size":  23158,
+        "sha256":  "f999df7c55ec08e15f2ccb94ae03c862859c58c1371179068f52431f2c54dcc5"
+    },
+    {
+        "path":  "pererobka-makulatury.html",
+        "size":  23340,
+        "sha256":  "bd8267f3e11db0b3f3fb1e775cbcb75d9ebbcee4c8862a0afee1f41ced4c12c8"
+    },
+    {
+        "path":  "pererobka-metalu.html",
+        "size":  23484,
+        "sha256":  "158e2e5032e978308a0788434363b0619110d86e2042ae4abcf6ac1abaf37a69"
+    },
+    {
+        "path":  "pererobka-midnogo-kabelyu.html",
+        "size":  21534,
+        "sha256":  "1cf9207b13f6ce44c7c67eab59365da7e32d1ae30b640e436a160c2f4d31a468"
+    },
+    {
+        "path":  "pererobka-pet.html",
+        "size":  23594,
+        "sha256":  "18fa6fab4cd5b36829d83a7fde4db51ccaeb6ad021f0e7f5f327cca300f65c1f"
+    },
+    {
+        "path":  "pererobka-plastykovoyi-upakovky.html",
+        "size":  21732,
+        "sha256":  "99a5aca99b36cd77b5ae35e5e7a1a40815b1d94c47e7ca5b50db5b6d7637eeda"
+    },
+    {
+        "path":  "pererobka-polietylenu.html",
+        "size":  21404,
+        "sha256":  "d2c3dc0cc4d6b2506ba6fdb0e1729f0dc22502a13587a93cd9597fbd57c1dcc1"
+    },
+    {
+        "path":  "pererobka-polipropylenu.html",
+        "size":  21476,
+        "sha256":  "71391abe10234dfe5d4011b184ccedfe7824931f8121ee761cf4b2d455e05597"
+    },
+    {
+        "path":  "pererobka-polistyrolu.html",
+        "size":  23580,
+        "sha256":  "83030171e61db744cb9d006d8b3f0d2842b84ccdba50098037b1e3e54e5f9c51"
+    },
+    {
+        "path":  "pererobka-shyn.html",
+        "size":  23378,
+        "sha256":  "6bd81fb8d9df57ae45fa898a4cbc97818a52d194439cd0d72ac44c2b5bab174b"
+    },
+    {
+        "path":  "pererobka-skla.html",
+        "size":  23077,
+        "sha256":  "2e6421684f47849f4089fb7695d422c1443bda905607a3a2ee2478286913f3f2"
+    },
+    {
+        "path":  "pererobka-vidpracovanyh-masel.html",
+        "size":  23987,
+        "sha256":  "a4fd4c7ccc7a9f3211cfe5e3fb58fca4a0099b631f3b95cf398c158ec71be556"
+    },
+    {
+        "path":  "plastykovi-vidhody.html",
+        "size":  23582,
+        "sha256":  "954426f6125828375768984d1839910c84463592332b5614f29a591e02e3c3b8"
+    },
+    {
+        "path":  "plastyk-yak-vtorynna-syrovyna.html",
+        "size":  22552,
+        "sha256":  "6a13aeeb45be1c4ae2df34416acb844a639bcba2b481bc3764457770daf8e672"
+    },
+    {
+        "path":  "podribnennya-shyn-gumova-kryshka.html",
+        "size":  22281,
+        "sha256":  "f6c71ffe9693075f037e95fc851bc84f5413a5c8789f2ea08e8684ae846f67f3"
+    },
+    {
+        "path":  "promyslovi-vidhody.html",
+        "size":  30860,
+        "sha256":  "2d08150a7b79511cc496b4d4d2ce80363fefab0c9bc236f45b69dc8f947ba8d5"
+    },
+    {
+        "path":  "promyslovi-vidhody-na-pidpryyemstvi.html",
+        "size":  21801,
+        "sha256":  "8434a01b7bd75cbfbda11fd72ef202730207a0991d218b7a70fab6e67b4a52ed"
+    },
+    {
+        "path":  "pryjom-kabelyu-na-utylizaciyu.html",
+        "size":  22982,
+        "sha256":  "fc2f461ee76ebb86e9219241de61a2d36e8bda5a1cfed16b2320edbd15554a71"
+    },
+    {
+        "path":  "shyny.html",
+        "size":  3897,
+        "sha256":  "118b5e082463ff65eafeb611fda100115b5383256b1be9a8483ebfab4456855f"
+    },
+    {
+        "path":  "skilky-koshtuye-pererobka-kabelyu.html",
+        "size":  22726,
+        "sha256":  "deb150c815ae33317d91b64f5f83e50dfe870b6e01329093b6684191cd946674"
+    },
+    {
+        "path":  "skladuvannya-promyslovyh-vidhodiv.html",
+        "size":  23083,
+        "sha256":  "9d10155245fc49e4e930ce31dfc981e29f927c4bb2d55adb7ab1e74e7eaec1ee"
+    },
+    {
+        "path":  "sortuvannya.html",
+        "size":  15647,
+        "sha256":  "418b7d9e19c73fd4345adbb29edee2a6bbd525934e0533d4e5a59e910cb3d165"
+    },
+    {
+        "path":  "sortuvannya-budivelnyh-vidhodiv.html",
+        "size":  23714,
+        "sha256":  "3a0f49c73877115519fda2a37b02a623e837cd8f7f1021b4cbbf4ecca95bbacd"
+    },
+    {
+        "path":  "sortuvannya-plastyku.html",
+        "size":  23710,
+        "sha256":  "720bc96285c2402c1626e4397186f54048ac8c69f0d2a9ba16e5c8e0357f8716"
+    },
+    {
+        "path":  "sortuvannya-promyslovyh-vidhodiv.html",
+        "size":  24274,
+        "sha256":  "cc014147e66a6c46aa10993f19caad44cba903e42553aa90db75bc544cc4fadb"
+    },
+    {
+        "path":  "spysannya-kosmetychnyh-tovariv.html",
+        "size":  20125,
+        "sha256":  "c6657f6e16c4bbe96c88019989a65e1582874e6f3dc67d58e7a6a58e5125c0e6"
+    },
+    {
+        "path":  "spysannya-produktiv.html",
+        "size":  20323,
+        "sha256":  "9805624d1fbea3a9c18528d3de94a602e7412f94a09e5acd2bf05b0829d52f44"
+    },
+    {
+        "path":  "transportuvannya-vidpracovanyh-masel.html",
+        "size":  22393,
+        "sha256":  "1e3dc318b7adea812dd3426494d4a841ee5db2255d50d465b1e396b841459b77"
+    },
+    {
+        "path":  "transportuvannya-vidpracovanyh-shyn.html",
+        "size":  22370,
+        "sha256":  "7217e4f385627c0df3035f142745393169e4b9bf566edfb3e0560f44255f812f"
+    },
+    {
+        "path":  "utylizaciya.html",
+        "size":  22864,
+        "sha256":  "7c1d91b8c817ebcd40e0df2347748979840476d3727311a69159c65c0fc7be00"
+    },
+    {
+        "path":  "utylizaciya-avtoshyn.html",
+        "size":  24053,
+        "sha256":  "46f7ac1c5dbc5d53defb541e1c95b73f29f6c9fafc4faa38fe558da6e399a3f1"
+    },
+    {
+        "path":  "utylizaciya-budivelnyh-vidhodiv.html",
+        "size":  24881,
+        "sha256":  "4bb2185daa3e7de6d28a77f8c5cc62ca46df44c62419da8fd54eb9d2be4f7740"
+    },
+    {
+        "path":  "utylizaciya-derevyny-z-budivnyctva.html",
+        "size":  24191,
+        "sha256":  "2b2138b7f8eb544aa188b79ab6905bd486287e000f7faa31c1f9969eb1253537"
+    },
+    {
+        "path":  "utylizaciya-dokumentiv.html",
+        "size":  26297,
+        "sha256":  "e1142b3280b31dea47e190f97965a355d8d8a2da5a4748c15ab6aabfbf213b8a"
+    },
+    {
+        "path":  "utylizaciya-energetychnyh-napoyiv.html",
+        "size":  24346,
+        "sha256":  "199454f340b1a9314a1dec6bb3c818af1728f3ed3175fdcc7c0da6982acb2ffe"
+    },
+    {
+        "path":  "utylizaciya-fruktiv.html",
+        "size":  23900,
+        "sha256":  "803964e71230218ca37b69e532acd075d9a5ab648a8c5238614386cefcd8579b"
+    },
+    {
+        "path":  "utylizaciya-fruktiv-ta-ovochiv.html",
+        "size":  21791,
+        "sha256":  "fa7e85d0ccc383a2981ab3587173c0c5a58c849cf12ac7dc742bc71e21d606ee"
+    },
+    {
+        "path":  "utylizaciya-gazovanyh-napoyiv.html",
+        "size":  24173,
+        "sha256":  "38bb7a53261e878593d8efe3b3673d4dbbfc849b17c85ff53c1bce6ed7568c3e"
+    },
+    {
+        "path":  "utylizaciya-gipsokartonu.html",
+        "size":  23912,
+        "sha256":  "7189462730633af5946d343f48920fc598516132f99558b6e427f156db7e041e"
+    },
+    {
+        "path":  "utylizaciya-harchovyh-produktiv.html",
+        "size":  26415,
+        "sha256":  "035a16fbb061290015c3ad490d3faa44d1d15f1c0c657638fd27169e12c57869"
+    },
+    {
+        "path":  "utylizaciya-kabelyu-ta-drotiv.html",
+        "size":  24471,
+        "sha256":  "33ca29d4ef42543e5f63db31213f550d32f0eae0aa2b1548a96e36508d2a4d4e"
+    },
+    {
+        "path":  "utylizaciya-kondyterskyh-vyrobiv.html",
+        "size":  24429,
+        "sha256":  "c0a88c48c8dd8052146225e31dd38322123026216653f8889eb4d72d80886d01"
+    },
+    {
+        "path":  "utylizaciya-konfidenciynykh-dokumentiv.html",
+        "size":  16821,
+        "sha256":  "81f5c5cd7e575362f6579dc38fc3c16ca2ae90efe3a2427b5d2b53afe71c0870"
+    },
+    {
+        "path":  "utylizaciya-konserviv.html",
+        "size":  21539,
+        "sha256":  "0ebdc976270f85da7dddd5c4adf0482d45cadbe5ad56bb423ee7bdc374f93442"
+    },
+    {
+        "path":  "utylizaciya-kosmetiki.html",
+        "size":  24936,
+        "sha256":  "e8ee71d6dc77767b0c30b5955715424ff789a396abe46df6b6b3f85f7c0ec4b4"
+    },
+    {
+        "path":  "utylizaciya-kosmetyky.html",
+        "size":  24354,
+        "sha256":  "eddf58831ddfee9219c93236eac145e7e025100d43e396c142eb503c362d7506"
+    },
+    {
+        "path":  "utylizaciya-kosmetyky-magazyniv.html",
+        "size":  26989,
+        "sha256":  "c33b4ed96e8756aa7bbde6027334b7058889be60b886036803cee4a015041248"
+    },
+    {
+        "path":  "utylizaciya-li-ion-batarej.html",
+        "size":  30869,
+        "sha256":  "151343bc1aebb6aa275ff6ed5e7d03279063eaf7277ef3c1db89d9a7aa53bf1c"
+    },
+    {
+        "path":  "utylizaciya-materialiv.html",
+        "size":  24726,
+        "sha256":  "3e28340f419bd526d00e5051082f1036b1a1fa9e404196e84ed211bae5c1f12d"
+    },
+    {
+        "path":  "utylizaciya-metalevoyi-strushky.html",
+        "size":  24177,
+        "sha256":  "a4c6c257931925e5a1fb267813b18b74ba5eb22a36138a723e382c45d1903ecb"
+    },
+    {
+        "path":  "utylizaciya-metalu.html",
+        "size":  24411,
+        "sha256":  "58f31d4c4d8f691258db4ce160a1931cb2f767a8057f6a9c1ba780ae97b3bfb5"
+    },
+    {
+        "path":  "utylizaciya-molochnyh-produktiv.html",
+        "size":  24264,
+        "sha256":  "4d7dc3b38d93359a84c44d0fb2025570036023743906cf72e17630e51cf4481c"
+    },
+    {
+        "path":  "utylizaciya-myasnyh-produktiv.html",
+        "size":  24132,
+        "sha256":  "45f49423e75724f892218df04b9bf073a10af01d9f9056f7f238e62d40bfb509"
+    },
+    {
+        "path":  "utylizaciya-napivfabrykatyv.html",
+        "size":  21699,
+        "sha256":  "d49ca6a4f91880fcd691d2f40560915cd31fbe51ec08acba2001e7888297b428"
+    },
+    {
+        "path":  "utylizaciya-napoyiv.html",
+        "size":  24770,
+        "sha256":  "b42a5b4249823d27bd3749c185da764bbb41fa365780e558a778fdbd5eff1491"
+    },
+    {
+        "path":  "utylizaciya-nekondicijnoyi-sirovini.html",
+        "size":  29521,
+        "sha256":  "c3f68edb900d334cb3a4e02fd86137bf9f61ecd98fcd3f66c46d2523279e1fc1"
+    },
+    {
+        "path":  "utylizaciya-nekondyciynoyi-produkciyi.html",
+        "size":  24926,
+        "sha256":  "2f44c20b9e0071398e39d3ad6daa431c47c7198412f68f319bf6757a8c3b4cf2"
+    },
+    {
+        "path":  "utylizaciya-obladnannya.html",
+        "size":  24782,
+        "sha256":  "2943b3621bbaf908d15c41b9c062c2f823e29098c3639b95795f295f0bde6118"
+    },
+    {
+        "path":  "utylizaciya-odyagu-vzuttya.html",
+        "size":  28919,
+        "sha256":  "600363785fbd29887866fd05d686eabf0ac70a3d562bdd56624a8a7af31809ae"
+    },
+    {
+        "path":  "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+        "size":  31687,
+        "sha256":  "32d69a6726e7a6584344b049d9420975bd9cdb596d1a580ae751b6217e3ff03e"
+    },
+    {
+        "path":  "utylizaciya-ovochiv.html",
+        "size":  23824,
+        "sha256":  "4a8f06e1394fbf9c6a78c7a53bb436acb437ab38d566c21ff3c0676d1dab7eed"
+    },
+    {
+        "path":  "utylizaciya-paperu-ta-kartonu.html",
+        "size":  24551,
+        "sha256":  "395f715e0b5381e40f0e99f7fe98296ac5300e59fbed60e4282607a0d29bd815"
+    },
+    {
+        "path":  "utylizaciya-parfumeriyi.html",
+        "size":  23931,
+        "sha256":  "9061aa4167b9fb62c00fec6645607cc7f6e186883fab227fba9500a7d05d2c49"
+    },
+    {
+        "path":  "utylizaciya-partiyi-produktiv.html",
+        "size":  24185,
+        "sha256":  "9d39225e00ad79a4cf140b414216ad8659e6550f5a9a2a80bb07ff2e4ee612ed"
+    },
+    {
+        "path":  "utylizaciya-paverbankiv-dbj.html",
+        "size":  26785,
+        "sha256":  "7e0c062edfda072180427effed00d84e21dae3e190bc77d0bb0421372e880f6f"
+    },
+    {
+        "path":  "utylizaciya-plastyku-ta-polimeriv.html",
+        "size":  24870,
+        "sha256":  "dd43ca38f869a80447234ff8b8c98cfa94e08967a679d516bff0d7e6fc769ed5"
+    },
+    {
+        "path":  "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+        "size":  30231,
+        "sha256":  "75259745265f129a377872fb5023e97444fd437bc24073021883f20a1e963844"
+    },
+    {
+        "path":  "utylizaciya-produktiv-na-skladi.html",
+        "size":  24289,
+        "sha256":  "5b37093878a561a9dc729066e0593b282cf8b1aebfa154957bf131566e114ca9"
+    },
+    {
+        "path":  "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+        "size":  29782,
+        "sha256":  "ca10da9cdfea76a19d539997af8dea88bfa2ce5beded4492fb8480f20c3f5acc"
+    },
+    {
+        "path":  "utylizaciya-promyslovyh-vidhodiv.html",
+        "size":  28894,
+        "sha256":  "ec4793133392779d8abf74a7c2314fc602841956cfb434ce7894c045b5b64311"
+    },
+    {
+        "path":  "utylizaciya-prostrochenoyi-kosmetyky.html",
+        "size":  21917,
+        "sha256":  "f833d3bc538f6f3b51a685ea33519a2fd37121b24fcb956c8034b6c28a2c0008"
+    },
+    {
+        "path":  "utylizaciya-prostrochenyh-produktiv.html",
+        "size":  21917,
+        "sha256":  "ee8db97d6d8c4ce7467a63734e309d40fff94d147eee6515aa31b35b2a81923b"
+    },
+    {
+        "path":  "utylizaciya-pyva.html",
+        "size":  23768,
+        "sha256":  "f08a412970c18a9202a7a9183bd65f6ecbf9eac50f14122d579ec27ef9dadb93"
+    },
+    {
+        "path":  "utylizaciya-rybnyh-produktiv.html",
+        "size":  24260,
+        "sha256":  "c9ccee5930355fc4c218c9474ab95a2d76c1475d6efd1967d69251f4721699f5"
+    },
+    {
+        "path":  "utylizaciya-shin.html",
+        "size":  27262,
+        "sha256":  "a0c7dae74961564ffc8a5d010e41659388bbfb2eb74cf8b23cc16e69a1e9188a"
+    },
+    {
+        "path":  "utylizaciya-shyn.html",
+        "size":  26950,
+        "sha256":  "701a5c226f75307174eb3abef28502a38404882a327a01012b6d6a736a60169a"
+    },
+    {
+        "path":  "utylizaciya-shyn-pidpryyemstvamy.html",
+        "size":  24149,
+        "sha256":  "3414e0e04a2b22fbac4510c4fd806e05d7e46fb929c1f07f680a6aa9bc61da5b"
+    },
+    {
+        "path":  "utylizaciya-skla.html",
+        "size":  23813,
+        "sha256":  "2d2e913ef2715e2fe1e161c8fd925f88fd7f353c7106e7700850012ea9179fb6"
+    },
+    {
+        "path":  "utylizaciya-skladskyh-zalyshkiv.html",
+        "size":  24638,
+        "sha256":  "8c59601eda0d3a26adabb1e61d89fc3c1f0a5813518b80abc172be2c428c30cd"
+    },
+    {
+        "path":  "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+        "size":  24556,
+        "sha256":  "7d4db07b766883eed86309cdf140a4a2cb34703286a1a4b730f278f7acc53f3b"
+    },
+    {
+        "path":  "utylizaciya-sokiv.html",
+        "size":  23805,
+        "sha256":  "1885126df9ce6865af7109a13c2a495420b87ea4d77052293ae232d76f82ffa2"
+    },
+    {
+        "path":  "utylizaciya-sokiv-ta-napoyiv.html",
+        "size":  21614,
+        "sha256":  "749a794513bb15e8e184e121b6dd7c87f344a94eef53709cf08e079903c0c2fa"
+    },
+    {
+        "path":  "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+        "size":  30778,
+        "sha256":  "aaa61c29c3d422ff22839a648086063c0291fa5f893842d119e760d96ab3064d"
+    },
+    {
+        "path":  "utylizaciya-tary-upakovki.html",
+        "size":  28513,
+        "sha256":  "23adac5ab9bde92dfa32155ed5b775f9551172f8e887fa119f872c6504745a24"
+    },
+    {
+        "path":  "utylizaciya-tovariv.html",
+        "size":  28439,
+        "sha256":  "6c3d293d0e58af75ab5e7a1092775134ec31bffbf77a12a64538ca764de66d2f"
+    },
+    {
+        "path":  "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+        "size":  30931,
+        "sha256":  "7788772de19b5d09bdad936e903877eea7af2b3665b690df746a833e4e11d97f"
+    },
+    {
+        "path":  "utylizaciya-upakovky-na-pidpryyemstvi.html",
+        "size":  24892,
+        "sha256":  "9f8c887410c67b44605d2f9528975969f7e2bab93d07f02fb44240cbd7b82b00"
+    },
+    {
+        "path":  "utylizaciya-upakovky-vid-kosmetyky.html",
+        "size":  24288,
+        "sha256":  "b06a62da357b12807a156cca9dcd4e2f700ca9b8d004cc47df12a819d3e63853"
+    },
+    {
+        "path":  "utylizaciya-vantazhnyh-shyn.html",
+        "size":  24154,
+        "sha256":  "639a17fb9edc8af7e2c83be37270fa9a5194f779b887dc955f47ab104357acf9"
+    },
+    {
+        "path":  "utylizaciya-vidpracovanoi-olyvy.html",
+        "size":  22951,
+        "sha256":  "4c7bcce54d5d56dfa7b3c66531effffc5835444679ee0ea225e24e25c8cbce77"
+    },
+    {
+        "path":  "utylizaciya-vidpracovanyh-masel.html",
+        "size":  24106,
+        "sha256":  "f956addb5b41ecab729df1b74f6e0396cd038eeb8f6a4c63f7de58486a945f9f"
+    },
+    {
+        "path":  "utylizaciya-vody.html",
+        "size":  24177,
+        "sha256":  "4d2382229046a92d4baf648c7b8a69e5020de49646897946ce07eb35e8d4ff2e"
+    },
+    {
+        "path":  "utylizaciya-vyrobnychyh-vidhodiv.html",
+        "size":  24592,
+        "sha256":  "e63e8ca54da34b384ca1bd2a6e4d437365704db334e274020710b57f994ad2f2"
+    },
+    {
+        "path":  "utylizaciya-yagid.html",
+        "size":  23793,
+        "sha256":  "d7f8aa4066859b9214c1dbcbf32156cf2409e526a9aec9f807af662a1ebb9467"
+    },
+    {
+        "path":  "utylizaciya-zamorozhenyh-produktiv.html",
+        "size":  24464,
+        "sha256":  "938939d76582946c0ea28fbacb47073e05256c1fc712191ce52b39286fa89371"
+    },
+    {
+        "path":  "utylizaciya-zipsovanyh-produktiv.html",
+        "size":  24324,
+        "sha256":  "ea1506da5530d91960b948231726c6c9479d9a84c144cdd775a866c45e777c6d"
+    },
+    {
+        "path":  "vidhody.html",
+        "size":  16626,
+        "sha256":  "041fb3b957d7cb2b8e2458519fb7bc30a8f5df1e8943bd1102349f4933656887"
+    },
+    {
+        "path":  "vidhody-demontazhu.html",
+        "size":  21689,
+        "sha256":  "25b0cc1ba91477c1db3186863a38106f949608315e49889b5c97fea22ca52cd9"
+    },
+    {
+        "path":  "vidhody-gumy.html",
+        "size":  21656,
+        "sha256":  "674230d36579510a1f41d580d846a0c3da94d8f2633d3f78e3a52a82a982383e"
+    },
+    {
+        "path":  "vidhody-polimeriv.html",
+        "size":  23606,
+        "sha256":  "dd78e6acdaf99fe47e22dd120f82ecb7d96ffa32887eba63f348c9f5be09716d"
+    },
+    {
+        "path":  "vidhody-vyrobnyctva.html",
+        "size":  21734,
+        "sha256":  "83bd2f8b8f072128ef5b4f67ff8ef75e25a0cc67ddea7c17248cce687139bb19"
+    },
+    {
+        "path":  "vidy-kabelnyh-vidhodiv.html",
+        "size":  22390,
+        "sha256":  "57a8a51410422d41e7f3649b3c757e599ed41bf284ec87f5b4ade745e7704c73"
+    },
+    {
+        "path":  "vidy-plastykovyh-vidhodiv.html",
+        "size":  22200,
+        "sha256":  "13aab2d59fb439d670e59de9d321cd05158c0b61cd6d7b83c2ec2e5e0cd42cc1"
+    },
+    {
+        "path":  "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+        "size":  22568,
+        "sha256":  "78b9d86fc16e7df105effcdcb3f055ccb83ff8cccd6b8f13010785edef7677b9"
+    },
+    {
+        "path":  "vtorynna-syrovyna-z-vidhodiv.html",
+        "size":  22775,
+        "sha256":  "e8d7535a670fabd044d4f331a24bff4c5ac4ad279d15de907bd476e6589e850a"
+    },
+    {
+        "path":  "vymogy-do-zberigannya-vidhodiv.html",
+        "size":  22912,
+        "sha256":  "3e02eddaf116457c65c548ab8d17b98e04eac448602d19ededfd39587c38e7c0"
+    },
+    {
+        "path":  "vyviz-budivelnyh-vidhodiv.html",
+        "size":  22369,
+        "sha256":  "64c63e740a53b12c4b5c413a60526f33a4d05fffec38e0d7eb676d11b4a12785"
+    },
+    {
+        "path":  "zberigannya-vidpracovanyh-masel.html",
+        "size":  22398,
+        "sha256":  "da82fc08bb7c4c2fa1d14dca490b285549fa04e6b1650bc60c270f64cb542ea5"
+    },
+    {
+        "path":  "zbir.html",
+        "size":  16123,
+        "sha256":  "7fb37f799bc78ea0360a0cc14e2aeb94a2a6bd9313b838d2b50079a8e64da86e"
+    },
+    {
+        "path":  "zbir-kabelyu.html",
+        "size":  23534,
+        "sha256":  "f445bdcde607713f1dd7c8d82e0bebb5aa49c32473ab74c845de511d4cc538f1"
+    },
+    {
+        "path":  "zbir-kartonu-na-pidpryyemstvi.html",
+        "size":  23463,
+        "sha256":  "9a4cd5514173f0adb1addb9fd8646a2e5fde9c33ac79ef2b7126b60e0387f24d"
+    },
+    {
+        "path":  "zbir-metalu-na-pidpryyemstvi.html",
+        "size":  23782,
+        "sha256":  "d2ad3da8bcbc984688cab26f6789052711389143362be48f01d45f63cdd268cb"
+    },
+    {
+        "path":  "zbir-plastyku-na-pidpryyemstvi.html",
+        "size":  24026,
+        "sha256":  "321faa4d03b128b8ba3ed9be5f3419ab5f49a09a2ffbcb44615779f79bc919c0"
+    },
+    {
+        "path":  "zbir-promyslovyh-vidhodiv.html",
+        "size":  21869,
+        "sha256":  "12b5188ffd41faa28b117d1ae3de6d7dff6da98efcdb0173172f8e7e134e26ce"
+    },
+    {
+        "path":  "zbir-shyn-na-pidpryyemstvi.html",
+        "size":  23833,
+        "sha256":  "5e4f3324c9856c7f7925b4d72fb83d7f7d0ec72325b6e172c17a447524173b64"
+    },
+    {
+        "path":  "zbir-sklyanoyi-tary.html",
+        "size":  23152,
+        "sha256":  "8f666e3e2b949499271e03467e32204eec8faf8d9118c598bdd295e1f2c15747"
+    },
+    {
+        "path":  "zbir-vidpracovanoyi-olyvy.html",
+        "size":  21530,
+        "sha256":  "b1d4cae9c657c07fb7fefb59b2a09e8c65af6ef6a41349523e76260228ec457a"
+    },
+    {
+        "path":  "znyshchennya-kosmetyky.html",
+        "size":  20469,
+        "sha256":  "d2a2c0cb482c3d8513d418d1bb1a7200086c35ca85ab5f4584cff04538806c88"
+    }
+]
