@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: yureco-guide
+    runtime: static
+    repo: https://github.com/yureco-dev/yureco-demo.git
+    branch: main
+    buildCommand: ""
+    staticPublishPath: ./
