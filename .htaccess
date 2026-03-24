@@ -1,5 +1,6 @@
 # BEGIN YOURECO_AUTO_REDIRECTS
 Redirect 301 /articles/index.html /
+RedirectMatch 301 ^/articles/(.*)$ /
 Redirect 301 /kudy-zdaty-avtoshyn.html /utylizaciya-avtoshyn.html
 Redirect 301 /kudy-zdaty-budivelnyh-vidhodiv.html /utylizaciya-budivelnyh-vidhodiv.html
 Redirect 301 /kudy-zdaty-derevyny-z-budivnyctva.html /utylizaciya-derevyny-z-budivnyctva.html
