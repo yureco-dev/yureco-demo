@@ -8,7 +8,7 @@
 <meta content="Хаб-сторінка: утилізація та переробка матеріалів (пластик/полімери, будівельні відходи, шини, оливи, некондиційна сировина)." name="description"/>
 <meta content="утилізація промислових відходів, утилізація, переробка, документи, YOURECO" name="keywords"/>
 <!-- Robots (AI/SEO previews) -->
-<meta name="robots" content="noindex, follow"/>
+<meta name="robots" content="index, follow"/>
 <!-- Canonical -->
 <link rel="canonical" href="https://guide.youreco.com.ua/utylizaciya-materialiv.html"/>
 <!-- hreflang (single-language, optional but clean) -->
@@ -81,6 +81,8 @@
             list-style: none;
             margin: 0;
             padding: 0;
+            columns: 1;
+            column-gap: normal;
         }
         .menu li a {
             display: flex;
@@ -199,6 +201,40 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Порядок утилізації матеріалів для підприємств","name":"Порядок утилізації матеріалів для підприємств — Довідник YOURECO","description":"Хаб-сторінка: утилізація та переробка матеріалів (пластик/полімери, будівельні відходи, шини, оливи, некондиційна сировина).","url":"https://guide.youreco.com.ua/utylizaciya-materialiv.html","mainEntityOfPage":"https://guide.youreco.com.ua/utylizaciya-materialiv.html","inLanguage":"uk-UA"}</script>
 </head>
 <body>
+<div class="layout">
+<aside class="sidebar">
+<div class="brand">
+<img alt="YOURECO logo" class="brand-logo" src="/img/logo.svg"/>
+<div>
+<div class="brand-title">YOURECO</div>
+<div class="brand-subtitle">утилізація та поводження<br/>з відходами</div>
+</div>
+</div>
+<div class="menu-title">Розділи довідника</div>
+<ul class="menu">
+<li><a href="/">🏠 Головна</a></li><li><a href="/dokumenty.html">📑 Документи (хаб)</a></li><li><a href="/sortuvannya/index.html">🧹 Сортування (хаб)</a></li><li><a href="/zbir.html">🧺 Збір (хаб)</a></li><li><a href="/logistyka/index.html">🚚 Логістика (хаб)</a></li><li><a href="/vidhody.html">🗂️ Відходи (хаб)</a></li><li><a href="/kudy-zdaty.html">📍 Куди здати (хаб)</a></li><li><a href="/pererobka/index.html">🔄 Переробка (хаб)</a></li><li><a href="/utylizaciya/index.html">🧭 Утилізація (хаб)</a></li>
+<li><a href="/utylizaciya-tovariv.html">🛍️ Товари</a></li>
+<li><a href="/utylizaciya-materialiv.html">🧱 Матеріали</a></li>
+<li><a href="/utylizaciya-obladnannya.html">🧰 Обладнання</a></li>
+<li><a href="/promyslovi-vidhody.html">📋 Промислові відходи</a></li>
+<li><a href="/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html">🏭 Промислове обладнання та механізми</a></li>
+<li><a href="/utylizaciya-paverbankiv-dbj.html">🔋 Павербанки та ДБЖ</a></li>
+<li><a href="/utylizaciya.html">🔋 Li-ion батареї</a></li>
+<li><a href="/utylizaciya.html">🥫 Продукти харчування та напої</a></li>
+<li><a href="/utylizaciya-kosmetyky.html">💄 Косметика</a></li>
+<li><a href="/utylizaciya.html">📄 Конфіденційні документи</a></li>
+<li><a href="/utylizaciya.html">⭕ Шини</a></li>
+<li><a href="/utylizaciya-tovary-pid-mitnim-kontrolem.html">📦 Товари під митним контролем</a></li>
+<li><a href="/utylizaciya.html">🖥️ Офісні меблі та оргтехніка</a></li>
+<li><a href="/utylizaciya.html">⚡ Сонячні панелі та лопаті ВЕС</a></li>
+<li><a href="/utylizaciya.html">👕 Одяг та взуття</a></li>
+<li><a href="/utylizaciya.html">🧪 Некондиційна сировина</a></li>
+<li><a href="/utylizaciya.html">📦 Тара та упаковка</a></li>
+<li><a href="/utylizaciya.html">🏗️ Будівельні відходи</a></li>
+<li><a href="/utylizaciya.html">♻️ Пластик та полімери</a></li>
+<li><a href="/utylizaciya.html">🔌 Кабель та дроти</a></li><li><a href="/utylizaciya.html">🛢️ Відпрацьована моторна олива</a></li>
+</ul>
+</aside>
 <main class="main">
 <nav aria-label="breadcrumb" class="breadcrumbs"><a href="/">YOURECO довідник</a><span> -> </span><a href="/utylizaciya.html">Утилізація</a><span> -> </span><span>Утилізація матеріалів</span></nav>
 <section class="card">
@@ -227,6 +263,80 @@
 <section class="card"><h2>Дивіться також</h2><ul class="related-list"><li><a href="/vidhody.html">Потоки відходів</a></li><li><a href="/dokumenty.html">Документи</a></li><li><a href="/logistyka.html">Логістика</a></li></ul></section>
 <section class="card" id="service-cta"><h2>Потрібна послуга YOURECO?</h2><p>Дивіться релевантну комерційну сторінку з умовами вивезення та документальним супроводом.</p><ul class="related-list"><li><a href="https://youreco.com.ua/" rel="noopener" target="_blank">Порядок утилізації матеріалів для підприємств</a></li></ul></section>
 </main>
+</div>
+
+<script id="auto-active-nav">
+(function () {
+  function normalizePath(value, isCurrent) {
+    var raw = String(value || "");
+    if (!isCurrent) {
+      if (/^(mailto:|tel:|javascript:|#)/i.test(raw)) return "";
+      try {
+        raw = new URL(raw, window.location.origin).pathname;
+      } catch (e) {
+        return "";
+      }
+    } else {
+      raw = window.location.pathname;
+    }
+
+    raw = raw.replace(/\\/g, "/").replace(/\/+/g, "/");
+    raw = raw.split("#")[0].split("?")[0];
+    raw = raw.replace(/^\//, "");
+
+    if (raw === "") return "index.html";
+    if (raw.endsWith("/")) return raw + "index.html";
+    if (!raw.includes(".")) return raw + "/index.html";
+    return raw;
+  }
+
+  function fallbackTarget(normalizedCurrentPath) {
+    if (normalizedCurrentPath === "index.html") return "index.html";
+    if (normalizedCurrentPath === "kontakty.html") return "index.html";
+    if (normalizedCurrentPath === "dokumenty.html" || normalizedCurrentPath.indexOf("dokumenty-") === 0) return "dokumenty.html";
+    if (normalizedCurrentPath === "zbir.html" || normalizedCurrentPath.indexOf("zbir-") === 0) return "zbir.html";
+    if (normalizedCurrentPath === "vidhody.html" || normalizedCurrentPath.indexOf("vidhody-") === 0 || normalizedCurrentPath.indexOf("promyslovi-vidhody") === 0 || normalizedCurrentPath === "kabelni-vidhody.html") return "vidhody.html";
+    if (normalizedCurrentPath === "kudy-zdaty.html" || normalizedCurrentPath.indexOf("kudy-zdaty-") === 0) return "kudy-zdaty.html";
+    if (normalizedCurrentPath.indexOf("sortuvannya/") === 0 || normalizedCurrentPath.indexOf("sortuvannya-") === 0 || normalizedCurrentPath === "sortuvannya.html") return "sortuvannya/index.html";
+    if (normalizedCurrentPath.indexOf("logistyka/") === 0 || normalizedCurrentPath.indexOf("logistyka-") === 0 || normalizedCurrentPath === "logistyka.html") return "logistyka/index.html";
+    if (normalizedCurrentPath.indexOf("pererobka/") === 0 || normalizedCurrentPath.indexOf("pererobka-") === 0 || normalizedCurrentPath === "pererobka.html" || normalizedCurrentPath === "chy-potribno-pererobyty-chy-utylizuvaty.html") return "pererobka/index.html";
+    if (normalizedCurrentPath.indexOf("yak-") === 0 || normalizedCurrentPath.indexOf("spysannya-") === 0 || normalizedCurrentPath.indexOf("likvidaciya-") === 0 || normalizedCurrentPath.indexOf("povernennya-") === 0 || normalizedCurrentPath.indexOf("akt-") === 0 || normalizedCurrentPath.indexOf("fotozvit-") === 0) return "utylizaciya/index.html";
+    if (normalizedCurrentPath.indexOf("utylizaciya/") === 0 || normalizedCurrentPath.indexOf("utylizaciya-") === 0 || normalizedCurrentPath.indexOf("utilizaciya-") === 0 || normalizedCurrentPath === "utylizaciya.html") return "utylizaciya/index.html";
+    return "";
+  }
+
+  var currentPath = normalizePath("", true);
+  var links = document.querySelectorAll("nav a[href], .sidebar a[href]");
+  var allSidebarLinks = [];
+  var matches = [];
+
+  links.forEach(function (a) {
+    a.classList.remove("active", "current");
+    a.removeAttribute("aria-current");
+    var normalizedHref = normalizePath(a.getAttribute("href"), false);
+    allSidebarLinks.push({ node: a, path: normalizedHref });
+    if (normalizedHref && normalizedHref === currentPath) {
+      matches.push(a);
+    }
+  });
+
+  if (matches.length === 0) {
+    var fallbackPath = fallbackTarget(currentPath);
+    if (fallbackPath) {
+      allSidebarLinks.forEach(function (item) {
+        if (!matches.length && item.path === fallbackPath) {
+          matches.push(item.node);
+        }
+      });
+    }
+  }
+
+  if (matches.length > 0) {
+    matches[0].classList.add("active");
+    matches[0].setAttribute("aria-current", "page");
+  }
+})();
+</script>
 </body>
 </html>
 

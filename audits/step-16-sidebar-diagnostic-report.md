@@ -1,0 +1,401 @@
+# Step 16 — Sidebar Diagnostic Report
+
+- Перевірено HTML: **244**
+- Еталон сайдбара: `public/index.html`
+- Сторінок без сайдбара: **192**
+- Сторінок із сайдбаром, відмінним від еталону: **0**
+- Сторінок із двоколонковим/спотвореним сайдбаром: **0**
+- Сторінок з active item = 0: **52**
+- Сторінок з active item > 1: **0**
+- Сторінок із неправильним active item: **0**
+- Broken sidebar links: **0**
+- Sidebar links to noindex/redirect: **0**
+- Sidebar links to `/public/`: **0**
+
+## Список сторінок із проблемним layout сайдбара
+- `utilizaciya-dlya-bankiv.html`: .menu css differs
+- `utilizaciya-dlya-data-centriv.html`: .menu css differs
+- `utilizaciya-dlya-importeriv.html`: .menu css differs
+- `utilizaciya-dlya-riteylu.html`: .menu css differs
+- `utilizaciya-dlya-skladiv.html`: .menu css differs
+- `utilizaciya-dlya-vyrobnyctva.html`: .menu css differs
+- `yak-oformyty-spysannya-partiyi.html`: .menu css differs
+- `yak-peredaty-kosmetyku.html`: .menu css differs
+- `yak-peredaty-li-ion-batarei.html`: .menu css differs
+- `yak-peredaty-skladski-zalyshky.html`: .menu css differs
+
+## Сторінки без сайдбара
+- `articles/index.html`
+- `dokumenty-dlya-utylizaciyi-vidhodiv.html`
+- `kudy-zdaty-avtoshyn.html`
+- `kudy-zdaty-budivelnyh-vidhodiv.html`
+- `kudy-zdaty-derevyny-z-budivnyctva.html`
+- `kudy-zdaty-dokumentiv.html`
+- `kudy-zdaty-energetychnyh-napoyiv.html`
+- `kudy-zdaty-fruktiv-ta-ovochiv.html`
+- `kudy-zdaty-fruktiv.html`
+- `kudy-zdaty-gazovanyh-napoyiv.html`
+- `kudy-zdaty-gipsokartonu.html`
+- `kudy-zdaty-harchovyh-produktiv.html`
+- `kudy-zdaty-kabelyu-ta-drotiv.html`
+- `kudy-zdaty-kondyterskyh-vyrobiv.html`
+- `kudy-zdaty-konserviv.html`
+- `kudy-zdaty-kosmetiki.html`
+- `kudy-zdaty-kosmetyky-magazyniv.html`
+- `kudy-zdaty-kosmetyky.html`
+- `kudy-zdaty-li-ion-batarej.html`
+- `kudy-zdaty-materialiv.html`
+- `kudy-zdaty-metalevoyi-strushky.html`
+- `kudy-zdaty-metalu.html`
+- `kudy-zdaty-molochnyh-produktiv.html`
+- `kudy-zdaty-myasnyh-produktiv.html`
+- `kudy-zdaty-napivfabrykatyv.html`
+- `kudy-zdaty-napoyiv.html`
+- `kudy-zdaty-nekondicijnoyi-sirovini.html`
+- `kudy-zdaty-nekondyciynoyi-produkciyi.html`
+- `kudy-zdaty-obladnannya.html`
+- `kudy-zdaty-odyagu-vzuttya.html`
+- `kudy-zdaty-ofisnih-mebliv-orgtehniki.html`
+- `kudy-zdaty-ovochiv.html`
+- `kudy-zdaty-paperu-ta-kartonu.html`
+- `kudy-zdaty-parfumeriyi.html`
+- `kudy-zdaty-partiyi-produktiv.html`
+- `kudy-zdaty-paverbankiv-dbj.html`
+- `kudy-zdaty-plastyku-ta-polimeriv.html`
+- `kudy-zdaty-produktiv-harchuvannya-napoyiv.html`
+- `kudy-zdaty-produktiv-na-skladi.html`
+- `kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html`
+- `kudy-zdaty-promyslovyh-vidhodiv.html`
+- `kudy-zdaty-prostrochenoyi-kosmetyky.html`
+- `kudy-zdaty-prostrochenyh-produktiv.html`
+- `kudy-zdaty-pyva.html`
+- `kudy-zdaty-rybnyh-produktiv.html`
+- `kudy-zdaty-shin.html`
+- `kudy-zdaty-shyn-pidpryyemstvamy.html`
+- `kudy-zdaty-shyn.html`
+- `kudy-zdaty-shyny.html`
+- `kudy-zdaty-skla.html`
+- `kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html`
+- `kudy-zdaty-skladskyh-zalyshkiv.html`
+- `kudy-zdaty-sokiv-ta-napoyiv.html`
+- `kudy-zdaty-sokiv.html`
+- `kudy-zdaty-sonyachnih-panelij-vitryakiv.html`
+- `kudy-zdaty-tary-upakovki.html`
+- `kudy-zdaty-tovariv.html`
+- `kudy-zdaty-tovary-pid-mitnim-kontrolem.html`
+- `kudy-zdaty-upakovky-na-pidpryyemstvi.html`
+- `kudy-zdaty-upakovky-vid-kosmetyky.html`
+- `kudy-zdaty-vantazhnyh-shyn.html`
+- `kudy-zdaty-vidpracovane-maslo.html`
+- `kudy-zdaty-vidpracovanoi-olyvy.html`
+- `kudy-zdaty-vidpracovanyh-masel.html`
+- `kudy-zdaty-vody.html`
+- `kudy-zdaty-vyrobnychyh-vidhodiv.html`
+- `kudy-zdaty-yagid.html`
+- `kudy-zdaty-zamorozhenyh-produktiv.html`
+- `kudy-zdaty-zipsovanyh-produktiv.html`
+- `li-ion.html`
+- `logistyka-budivelnyh-vidhodiv.html`
+- `logistyka-kabelyu.html`
+- `logistyka-paperu-ta-kartonu.html`
+- `logistyka-plastyku.html`
+- `logistyka-promyslovyh-vidhodiv.html`
+- `logistyka-shyn.html`
+- `nebezpeka-vidpracovanogo-masla.html`
+- `oblik-promyslovyh-vidhodiv.html`
+- `optymizaciya-vidhodiv-na-vyrobnyctvi.html`
+- `pererobka-alyuminiyevogo-kabelyu.html`
+- `pererobka-avtomobilnyh-shyn.html`
+- `pererobka-betonu.html`
+- `pererobka-gumovyh-vyrobiv.html`
+- `pererobka-izolyaciyi-kabelyu.html`
+- `pererobka-kartonu.html`
+- `pererobka-makulatury.html`
+- `pererobka-metalu.html`
+- `pererobka-midnogo-kabelyu.html`
+- `pererobka-pet.html`
+- `pererobka-plastykovoyi-upakovky.html`
+- `pererobka-polietylenu.html`
+- `pererobka-polipropylenu.html`
+- `pererobka-polistyrolu.html`
+- `pererobka-shyn.html`
+- `pererobka-skla.html`
+- `pererobka-vidpracovanyh-masel.html`
+- `plastyk-yak-vtorynna-syrovyna.html`
+- `plastykovi-vidhody.html`
+- `podribnennya-shyn-gumova-kryshka.html`
+- `promyslovi-vidhody-na-pidpryyemstvi.html`
+- `pryjom-kabelyu-na-utylizaciyu.html`
+- `reestr-partiyi.html`
+- `scenarii-utilizaciyi.html`
+- `shcho-take-pererobka-vidhodiv.html`
+- `shcho-take-promyslovi-vidhody.html`
+- `shcho-take-utylizaciya.html`
+- `shcho-take-znyshchennya-produkciyi.html`
+- `shyny.html`
+- `skilky-koshtuye-pererobka-kabelyu.html`
+- `skladuvannya-promyslovyh-vidhodiv.html`
+- `sortuvannya-budivelnyh-vidhodiv.html`
+- `sortuvannya-plastyku.html`
+- `sortuvannya-promyslovyh-vidhodiv.html`
+- `spysannya-kosmetychnyh-tovariv.html`
+- `spysannya-produktiv.html`
+- `transportuvannya-vidpracovanyh-masel.html`
+- `transportuvannya-vidpracovanyh-shyn.html`
+- `utylizaciya-avtoshyn.html`
+- `utylizaciya-budivelnyh-vidhodiv.html`
+- `utylizaciya-derevyny-z-budivnyctva.html`
+- `utylizaciya-dokumentiv.html`
+- `utylizaciya-energetychnyh-napoyiv.html`
+- `utylizaciya-fruktiv-ta-ovochiv.html`
+- `utylizaciya-fruktiv.html`
+- `utylizaciya-gipsokartonu.html`
+- `utylizaciya-harchovyh-produktiv.html`
+- `utylizaciya-kabelyu-ta-drotiv.html`
+- `utylizaciya-kondyterskyh-vyrobiv.html`
+- `utylizaciya-konserviv.html`
+- `utylizaciya-kosmetiki.html`
+- `utylizaciya-li-ion-batarej.html`
+- `utylizaciya-materialiv.html`
+- `utylizaciya-metalevoyi-strushky.html`
+- `utylizaciya-metalu.html`
+- `utylizaciya-molochnyh-produktiv.html`
+- `utylizaciya-napivfabrykatyv.html`
+- `utylizaciya-nekondicijnoyi-sirovini.html`
+- `utylizaciya-nekondyciynoyi-produkciyi.html`
+- `utylizaciya-odyagu-vzuttya.html`
+- `utylizaciya-ofisnih-mebliv-orgtehniki.html`
+- `utylizaciya-ovochiv.html`
+- `utylizaciya-paperu-ta-kartonu.html`
+- `utylizaciya-parfumeriyi.html`
+- `utylizaciya-partiyi-produktiv.html`
+- `utylizaciya-paverbankiv-dbj.html`
+- `utylizaciya-plastyku-ta-polimeriv.html`
+- `utylizaciya-produktiv-harchuvannya-napoyiv.html`
+- `utylizaciya-produktiv-na-skladi.html`
+- `utylizaciya-promyslovogo-obladnannya-mehanizmiv.html`
+- `utylizaciya-promyslovyh-vidhodiv.html`
+- `utylizaciya-prostrochenoyi-kosmetyky.html`
+- `utylizaciya-prostrochenyh-produktiv.html`
+- `utylizaciya-pyva.html`
+- `utylizaciya-shin.html`
+- `utylizaciya-shyn-pidpryyemstvamy.html`
+- `utylizaciya-shyn.html`
+- `utylizaciya-skla.html`
+- `utylizaciya-skladskyh-zalyshkiv.html`
+- `utylizaciya-sokiv-ta-napoyiv.html`
+- `utylizaciya-sokiv.html`
+- `utylizaciya-sonyachnih-panelij-vitryakiv.html`
+- `utylizaciya-tary-upakovki.html`
+- `utylizaciya-tovariv.html`
+- `utylizaciya-upakovky-na-pidpryyemstvi.html`
+- `utylizaciya-upakovky-vid-kosmetyky.html`
+- `utylizaciya-vantazhnyh-shyn.html`
+- `utylizaciya-vidpracovanoi-olyvy.html`
+- `utylizaciya-vidpracovanyh-masel.html`
+- `utylizaciya-vody.html`
+- `utylizaciya-vyrobnychyh-vidhodiv.html`
+- `utylizaciya-yagid.html`
+- `vidhody-demontazhu.html`
+- `vidhody-gumy.html`
+- `vidhody-polimeriv.html`
+- `vidhody-vyrobnyctva.html`
+- `vidy-kabelnyh-vidhodiv.html`
+- `vidy-plastykovyh-vidhodiv.html`
+- `vnutrishniy-akt-spysannya.html`
+- `vtorynna-syrovyna-z-budivelnyh-vidhodiv.html`
+- `vtorynna-syrovyna-z-vidhodiv.html`
+- `vymogy-do-zberigannya-vidhodiv.html`
+- `vyviz-budivelnyh-vidhodiv.html`
+- `zberigannya-vidpracovanyh-masel.html`
+- `zbir-kabelyu.html`
+- `zbir-kartonu-na-pidpryyemstvi.html`
+- `zbir-metalu-na-pidpryyemstvi.html`
+- `zbir-plastyku-na-pidpryyemstvi.html`
+- `zbir-promyslovyh-vidhodiv.html`
+- `zbir-shyn-na-pidpryyemstvi.html`
+- `zbir-sklyanoyi-tary.html`
+- `zbir-vidpracovanoyi-olyvy.html`
+- `znyshchennya-kosmetyky.html`
+
+## Сторінки з сайдбаром, відмінним від еталону
+- немає
+
+## Список неактивних кнопок
+- немає
+
+## Список кнопок із неправильними href
+- немає
+
+## Детальна перевірка кнопок
+- `Товари`
+  - поточний href: `/utylizaciya.html`
+  - чи клікабельна: **так**
+  - чи існує сторінка: **так**
+  - чи не веде на чужий intent: **ні**
+  - очікуваний правильний href: `/utylizaciya.html`
+- `Матеріали`
+  - поточний href: `/utylizaciya.html`
+  - чи клікабельна: **так**
+  - чи існує сторінка: **так**
+  - чи не веде на чужий intent: **ні**
+  - очікуваний правильний href: `/utylizaciya.html`
+- `Павербанки та ДБЖ`
+  - поточний href: `/utylizaciya.html`
+  - чи клікабельна: **так**
+  - чи існує сторінка: **так**
+  - чи не веде на чужий intent: **ні**
+  - очікуваний правильний href: `/utylizaciya.html`
+- `Промислове обладнання та механізми`
+  - поточний href: `/utylizaciya.html`
+  - чи клікабельна: **так**
+  - чи існує сторінка: **так**
+  - чи не веде на чужий intent: **ні**
+  - очікуваний правильний href: `/utylizaciya.html`
+
+## Active-state перевірка
+### active item = 0
+- `akt-pryimannya-peredachi.html`
+- `akt-utylizaciyi.html`
+- `chy-potribno-pererobyty-chy-utylizuvaty.html`
+- `dokumenty.html`
+- `fotozvit-utylizaciyi.html`
+- `index.html`
+- `kabelni-vidhody.html`
+- `kontakty.html`
+- `kudy-zdaty.html`
+- `likvidaciya-skladskykh-zalyshkiv.html`
+- `logistyka/index.html`
+- `logistyka-metalu.html`
+- `logistyka-skla.html`
+- `logistyka.html`
+- `pererobka/index.html`
+- `pererobka-cegly.html`
+- `pererobka.html`
+- `povernennya-tovariv-z-merezhi.html`
+- `promyslovi-vidhody.html`
+- `sortuvannya/index.html`
+- `sortuvannya.html`
+- `spysannya-produkciyi.html`
+- `utilizaciya-brakovanoi-produkciyi.html`
+- `utilizaciya-dlya-bankiv.html`
+- `utilizaciya-dlya-data-centriv.html`
+- `utilizaciya-dlya-importeriv.html`
+- `utilizaciya-dlya-riteylu.html`
+- `utilizaciya-dlya-skladiv.html`
+- `utilizaciya-dlya-vyrobnyctva.html`
+- `utylizaciya/index.html`
+- `utylizaciya-akumulyatoriv.html`
+- `utylizaciya-elektroniky.html`
+- `utylizaciya-gazovanyh-napoyiv.html`
+- `utylizaciya-importnyh-tovariv.html`
+- `utylizaciya-konfidenciynykh-dokumentiv.html`
+- `utylizaciya-kosmetyky-magazyniv.html`
+- `utylizaciya-kosmetyky.html`
+- `utylizaciya-myasnyh-produktiv.html`
+- `utylizaciya-napoyiv.html`
+- `utylizaciya-obladnannya.html`
+- `utylizaciya-rybnyh-produktiv.html`
+- `utylizaciya-skladskyh-zalyshkiv-kosmetyky.html`
+- `utylizaciya-tovary-pid-mitnim-kontrolem.html`
+- `utylizaciya-zamorozhenyh-produktiv.html`
+- `utylizaciya-zipsovanyh-produktiv.html`
+- `utylizaciya.html`
+- `vidhody.html`
+- `yak-oformyty-spysannya-partiyi.html`
+- `yak-peredaty-kosmetyku.html`
+- `yak-peredaty-li-ion-batarei.html`
+- `yak-peredaty-skladski-zalyshky.html`
+- `zbir.html`
+
+### active item > 1
+- немає
+
+### неправильний active item
+- немає
+
+### aria-current перевірка
+- немає
+
+### Перевірка includes()/startsWith() для active
+- `akt-pryimannya-peredachi.html`
+- `akt-utylizaciyi.html`
+- `chy-potribno-pererobyty-chy-utylizuvaty.html`
+- `dokumenty.html`
+- `fotozvit-utylizaciyi.html`
+- `index.html`
+- `kabelni-vidhody.html`
+- `kontakty.html`
+- `kudy-zdaty.html`
+- `likvidaciya-skladskykh-zalyshkiv.html`
+- `logistyka-metalu.html`
+- `logistyka-skla.html`
+- `logistyka.html`
+- `logistyka/index.html`
+- `pererobka-cegly.html`
+- `pererobka.html`
+- `pererobka/index.html`
+- `povernennya-tovariv-z-merezhi.html`
+- `promyslovi-vidhody.html`
+- `sortuvannya.html`
+- `sortuvannya/index.html`
+- `spysannya-produkciyi.html`
+- `utilizaciya-brakovanoi-produkciyi.html`
+- `utilizaciya-dlya-bankiv.html`
+- `utilizaciya-dlya-data-centriv.html`
+- `utilizaciya-dlya-importeriv.html`
+- `utilizaciya-dlya-riteylu.html`
+- `utilizaciya-dlya-skladiv.html`
+- `utilizaciya-dlya-vyrobnyctva.html`
+- `utylizaciya-akumulyatoriv.html`
+- `utylizaciya-elektroniky.html`
+- `utylizaciya-gazovanyh-napoyiv.html`
+- `utylizaciya-importnyh-tovariv.html`
+- `utylizaciya-konfidenciynykh-dokumentiv.html`
+- `utylizaciya-kosmetyky-magazyniv.html`
+- `utylizaciya-kosmetyky.html`
+- `utylizaciya-myasnyh-produktiv.html`
+- `utylizaciya-napoyiv.html`
+- `utylizaciya-obladnannya.html`
+- `utylizaciya-rybnyh-produktiv.html`
+- `utylizaciya-skladskyh-zalyshkiv-kosmetyky.html`
+- `utylizaciya-tovary-pid-mitnim-kontrolem.html`
+- `utylizaciya-zamorozhenyh-produktiv.html`
+- `utylizaciya-zipsovanyh-produktiv.html`
+- `utylizaciya.html`
+- `utylizaciya/index.html`
+- `vidhody.html`
+- `yak-oformyty-spysannya-partiyi.html`
+- `yak-peredaty-kosmetyku.html`
+- `yak-peredaty-li-ion-batarei.html`
+- `yak-peredaty-skladski-zalyshky.html`
+- `zbir.html`
+
+## Broken sidebar links
+- немає
+
+## Sidebar links to noindex/redirect
+- немає
+
+## Sidebar links to `/public/`
+- немає
+
+## Окрема перевірка хабів
+- `index.html`: active=0
+- `dokumenty.html`: active=0
+- `sortuvannya/index.html`: active=0
+- `zbir.html`: active=0
+- `logistyka/index.html`: active=0
+- `pererobka/index.html`: active=0
+- `utylizaciya/index.html`: active=0
+- `articles/index.html`: sidebar missing
+
+## UTF-8/BOM статус
+- UTF-8/BOM статус: UTF-8 без BOM
+- BOM файлів не знайдено
+- Кирилиця: не зіпсована
+- mojibake не знайдено
+- прихованих Unicode-артефактів не знайдено
+
+## Фінальний статус діагностики
+**НЕ ДОБРЕ**

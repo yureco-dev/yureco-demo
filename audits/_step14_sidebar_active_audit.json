@@ -1,0 +1,304 @@
+{
+  "public_html_pages": 244,
+  "sidebar_pages_checked": 52,
+  "pages_with_one_active": 14,
+  "pages_with_non_one_active": [
+    "akt-pryimannya-peredachi.html",
+    "akt-utylizaciyi.html",
+    "chy-potribno-pererobyty-chy-utylizuvaty.html",
+    "fotozvit-utylizaciyi.html",
+    "kabelni-vidhody.html",
+    "kontakty.html",
+    "likvidaciya-skladskykh-zalyshkiv.html",
+    "logistyka-metalu.html",
+    "logistyka-skla.html",
+    "logistyka.html",
+    "pererobka-cegly.html",
+    "pererobka.html",
+    "povernennya-tovariv-z-merezhi.html",
+    "sortuvannya.html",
+    "spysannya-produkciyi.html",
+    "utilizaciya-brakovanoi-produkciyi.html",
+    "utilizaciya-dlya-bankiv.html",
+    "utilizaciya-dlya-data-centriv.html",
+    "utilizaciya-dlya-importeriv.html",
+    "utilizaciya-dlya-riteylu.html",
+    "utilizaciya-dlya-skladiv.html",
+    "utilizaciya-dlya-vyrobnyctva.html",
+    "utylizaciya-akumulyatoriv.html",
+    "utylizaciya-elektroniky.html",
+    "utylizaciya-gazovanyh-napoyiv.html",
+    "utylizaciya-importnyh-tovariv.html",
+    "utylizaciya-konfidenciynykh-dokumentiv.html",
+    "utylizaciya-kosmetyky-magazyniv.html",
+    "utylizaciya-myasnyh-produktiv.html",
+    "utylizaciya-napoyiv.html",
+    "utylizaciya-rybnyh-produktiv.html",
+    "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+    "utylizaciya-zamorozhenyh-produktiv.html",
+    "utylizaciya-zipsovanyh-produktiv.html",
+    "yak-oformyty-spysannya-partiyi.html",
+    "yak-peredaty-kosmetyku.html",
+    "yak-peredaty-li-ion-batarei.html",
+    "yak-peredaty-skladski-zalyshky.html"
+  ],
+  "broken_links_count": 0,
+  "broken_links": [],
+  "links_to_noindex_or_redirect_count": 0,
+  "links_to_noindex_or_redirect": [],
+  "links_to_public_count": 0,
+  "links_to_public": [],
+  "utf8_invalid_count": 0,
+  "utf8_invalid_files": [],
+  "bom_files_count": 0,
+  "bom_files": [],
+  "sections": {
+    "utylizaciya": {
+      "exists": true,
+      "runtime_match_count": 1,
+      "active_count": 1,
+      "exactly_one_active": true
+    },
+    "pererobka": {
+      "exists": true,
+      "runtime_match_count": 1,
+      "active_count": 1,
+      "exactly_one_active": true
+    },
+    "sortuvannya": {
+      "exists": true,
+      "runtime_match_count": 1,
+      "active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka": {
+      "exists": true,
+      "runtime_match_count": 1,
+      "active_count": 1,
+      "exactly_one_active": true
+    },
+    "articles": {
+      "exists": true,
+      "runtime_match_count": 0,
+      "active_count": 0,
+      "exactly_one_active": false
+    },
+    "guide": {
+      "exists": false,
+      "active_count": 0,
+      "exactly_one_active": false
+    }
+  },
+  "page_flags_sample": {
+    "akt-pryimannya-peredachi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "akt-utylizaciyi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "chy-potribno-pererobyty-chy-utylizuvaty.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "dokumenty.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "fotozvit-utylizaciyi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "index.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "kabelni-vidhody.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "kontakty.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "kudy-zdaty.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "likvidaciya-skladskykh-zalyshkiv.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "logistyka/index.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-metalu.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "logistyka-skla.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "logistyka.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "pererobka/index.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "pererobka-cegly.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "pererobka.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "povernennya-tovariv-z-merezhi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "promyslovi-vidhody.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "sortuvannya/index.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "sortuvannya.html": {
+      "sidebar_links": 31,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "spysannya-produkciyi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-brakovanoi-produkciyi.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-bankiv.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-data-centriv.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-importeriv.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-riteylu.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-skladiv.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utilizaciya-dlya-vyrobnyctva.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 0,
+      "runtime_active_count": 0,
+      "exactly_one_active": false
+    },
+    "utylizaciya/index.html": {
+      "sidebar_links": 30,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    }
+  }
+}
