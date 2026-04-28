@@ -1,0 +1,976 @@
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\akt-pryimannya-peredachi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\akt-utylizaciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\chy-potribno-pererobyty-chy-utylizuvaty.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\dokumenty-dlya-utylizaciyi-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\dokumenty.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\fotozvit-utylizaciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kabelni-vidhody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kontakty.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-avtoshyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-derevyny-z-budivnyctva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-dokumentiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-energetychnyh-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-fruktiv-ta-ovochiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-fruktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-gazovanyh-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-gipsokartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-harchovyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-kabelyu-ta-drotiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-kondyterskyh-vyrobiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-konserviv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-kosmetiki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-kosmetyky-magazyniv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-li-ion-batarej.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-materialiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-metalevoyi-strushky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-metalu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-molochnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-myasnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-napivfabrykatyv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-nekondicijnoyi-sirovini.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-nekondyciynoyi-produkciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-obladnannya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-odyagu-vzuttya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-ovochiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-paperu-ta-kartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-parfumeriyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-partiyi-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-paverbankiv-dbj.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-plastyku-ta-polimeriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-produktiv-na-skladi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-prostrochenoyi-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-prostrochenyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-pyva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-rybnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-shin.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-shyn-pidpryyemstvamy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-shyny.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-skla.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-skladskyh-zalyshkiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-sokiv-ta-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-sokiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-tary-upakovki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-tovariv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-upakovky-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-upakovky-vid-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vantazhnyh-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vidpracovane-maslo.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vidpracovanoi-olyvy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vidpracovanyh-masel.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-vyrobnychyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-yagid.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-zamorozhenyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty-zipsovanyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\kudy-zdaty.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\li-ion.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\likvidaciya-skladskykh-zalyshkiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-metalu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-paperu-ta-kartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-plastyku.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka-skla.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\nebezpeka-vidpracovanogo-masla.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\oblik-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\optymizaciya-vidhodiv-na-vyrobnyctvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-alyuminiyevogo-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-avtomobilnyh-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-betonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-cegly.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-gumovyh-vyrobiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-izolyaciyi-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-kartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-makulatury.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-metalu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-midnogo-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-pet.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-plastykovoyi-upakovky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-polietylenu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-polipropylenu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-polistyrolu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-skla.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka-vidpracovanyh-masel.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\plastyk-yak-vtorynna-syrovyna.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\plastykovi-vidhody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\podribnennya-shyn-gumova-kryshka.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\povernennya-tovariv-z-merezhi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\promyslovi-vidhody-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\promyslovi-vidhody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pryjom-kabelyu-na-utylizaciyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\reestr-partiyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\scenarii-utilizaciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\shcho-take-pererobka-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\shcho-take-promyslovi-vidhody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\shcho-take-utylizaciya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\shcho-take-znyshchennya-produkciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\shyny.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\skilky-koshtuye-pererobka-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\skladuvannya-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\sortuvannya-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\sortuvannya-plastyku.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\sortuvannya-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\sortuvannya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\spysannya-kosmetychnyh-tovariv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\spysannya-produkciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\spysannya-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\transportuvannya-vidpracovanyh-masel.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\transportuvannya-vidpracovanyh-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-brakovanoi-produkciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-bankiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-data-centriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-importeriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-riteylu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-skladiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utilizaciya-dlya-vyrobnyctva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-akumulyatoriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-avtoshyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-derevyny-z-budivnyctva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-dokumentiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-elektroniky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-energetychnyh-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-fruktiv-ta-ovochiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-fruktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-gazovanyh-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-gipsokartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-harchovyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-importnyh-tovariv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-kabelyu-ta-drotiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-kondyterskyh-vyrobiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-konfidenciynykh-dokumentiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-konserviv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-kosmetiki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-kosmetyky-magazyniv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-li-ion-batarej.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-materialiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-metalevoyi-strushky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-metalu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-molochnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-myasnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-napivfabrykatyv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-nekondicijnoyi-sirovini.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-nekondyciynoyi-produkciyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-obladnannya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-odyagu-vzuttya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-ofisnih-mebliv-orgtehniki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-ovochiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-paperu-ta-kartonu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-parfumeriyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-partiyi-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-paverbankiv-dbj.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-plastyku-ta-polimeriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-produktiv-harchuvannya-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-produktiv-na-skladi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-prostrochenoyi-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-prostrochenyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-pyva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-rybnyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-shin.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-shyn-pidpryyemstvamy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-skla.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-skladskyh-zalyshkiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-sokiv-ta-napoyiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-sokiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-sonyachnih-panelij-vitryakiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-tary-upakovki.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-tovariv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-tovary-pid-mitnim-kontrolem.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-upakovky-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-upakovky-vid-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-vantazhnyh-shyn.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-vidpracovanoi-olyvy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-vidpracovanyh-masel.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-vody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-vyrobnychyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-yagid.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-zamorozhenyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya-zipsovanyh-produktiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidhody-demontazhu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidhody-gumy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidhody-polimeriv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidhody-vyrobnyctva.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidhody.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidy-kabelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vidy-plastykovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vnutrishniy-akt-spysannya.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vtorynna-syrovyna-z-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vymogy-do-zberigannya-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\vyviz-budivelnyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\yak-oformyty-spysannya-partiyi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\yak-peredaty-kosmetyku.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\yak-peredaty-li-ion-batarei.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\yak-peredaty-skladski-zalyshky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zberigannya-vidpracovanyh-masel.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-kabelyu.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-kartonu-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-metalu-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-plastyku-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-promyslovyh-vidhodiv.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-shyn-na-pidpryyemstvi.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-sklyanoyi-tary.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir-vidpracovanoyi-olyvy.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\zbir.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\znyshchennya-kosmetyky.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\articles\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\logistyka\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\pererobka\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\sortuvannya\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+
+FILE: C:\Users\user\Documents\MEGA\Сайти\yureco-demo\utylizaciya\index.html
+TYPE: html
+HAS_UTF8_DECLARATION: yes
+

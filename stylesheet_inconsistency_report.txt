@@ -1,0 +1,51 @@
+LAYOUT_TYPE: TYPE_A
+FILE_1: dokumenty.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE_2: index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+ISSUE_TYPE: inconsistent_stylesheet_usage
+
+LAYOUT_TYPE: TYPE_B
+FILE_1: kabelni-vidhody.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE_2: dokumenty-dlya-utylizaciyi-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+ISSUE_TYPE: inconsistent_stylesheet_usage
+
+LAYOUT_TYPE: TYPE_C
+FILE_1: articles/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE_2: li-ion.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+ISSUE_TYPE: inconsistent_stylesheet_usage
+
+LAYOUT_TYPE: TYPE_D
+FILE_1: akt-pryimannya-peredachi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE_2: logistyka/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+ISSUE_TYPE: inconsistent_stylesheet_usage

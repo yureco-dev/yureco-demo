@@ -1,0 +1,364 @@
+# ЕТАП 5. Контент-ревізія тонких сторінок і штампів
+
+Дата: 2026-04-28
+
+## Підсумок
+- Індексованих HTML-сторінок перевірено: 137
+- Індексованих сторінок залишилось після змін: 47
+- До 300 слів до змін: 85
+- 300-500 слів до змін: 20
+- До 300 слів після змін: 0
+- 300-500 слів після змін: 15
+
+## Рішення
+
+### Розширено
+- akt-pryimannya-peredachi.html
+- akt-utylizaciyi.html
+- fotozvit-utylizaciyi.html
+- kabelni-vidhody.html
+- logistyka-metalu.html
+- logistyka-skla.html
+- pererobka-cegly.html
+- utylizaciya-gazovanyh-napoyiv.html
+- utylizaciya-kosmetyky-magazyniv.html
+- utylizaciya-myasnyh-produktiv.html
+- utylizaciya-napoyiv.html
+- utylizaciya-rybnyh-produktiv.html
+- utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- utylizaciya-zamorozhenyh-produktiv.html
+- utylizaciya-zipsovanyh-produktiv.html
+
+### Об’єднано через noindex + canonical
+Слабкі шаблонні сторінки залишені для UX/перелінковки, але не конкурують у видачі; canonical веде на сильніший хаб або основну тему.
+- kontakty.html -> index.html
+- logistyka-budivelnyh-vidhodiv.html -> logistyka.html
+- logistyka-paperu-ta-kartonu.html -> logistyka.html
+- logistyka-plastyku.html -> logistyka.html
+- logistyka-shyn.html -> logistyka.html
+- nebezpeka-vidpracovanogo-masla.html -> index.html
+- optymizaciya-vidhodiv-na-vyrobnyctvi.html -> index.html
+- pererobka-alyuminiyevogo-kabelyu.html -> pererobka.html
+- pererobka-avtomobilnyh-shyn.html -> pererobka.html
+- pererobka-gumovyh-vyrobiv.html -> pererobka.html
+- pererobka-izolyaciyi-kabelyu.html -> pererobka.html
+- pererobka-makulatury.html -> pererobka.html
+- pererobka-midnogo-kabelyu.html -> pererobka.html
+- pererobka-pet.html -> pererobka.html
+- pererobka-plastykovoyi-upakovky.html -> pererobka.html
+- pererobka-polietylenu.html -> pererobka.html
+- pererobka-polipropylenu.html -> pererobka.html
+- pererobka-polistyrolu.html -> pererobka.html
+- plastyk-yak-vtorynna-syrovyna.html -> index.html
+- podribnennya-shyn-gumova-kryshka.html -> index.html
+- pryjom-kabelyu-na-utylizaciyu.html -> index.html
+- reestr-partiyi.html -> dokumenty.html
+- scenarii-utilizaciyi.html -> dokumenty.html
+- shcho-take-pererobka-vidhodiv.html -> pererobka.html
+- shcho-take-promyslovi-vidhody.html -> utylizaciya.html
+- shcho-take-utylizaciya.html -> utylizaciya.html
+- shcho-take-znyshchennya-produkciyi.html -> utylizaciya.html
+- skilky-koshtuye-pererobka-kabelyu.html -> index.html
+- sortuvannya-budivelnyh-vidhodiv.html -> sortuvannya.html
+- sortuvannya-plastyku.html -> sortuvannya.html
+- sortuvannya-promyslovyh-vidhodiv.html -> sortuvannya.html
+- spysannya-produktiv.html -> index.html
+- transportuvannya-vidpracovanyh-masel.html -> logistyka.html
+- transportuvannya-vidpracovanyh-shyn.html -> logistyka.html
+- utylizaciya-budivelnyh-vidhodiv.html -> utylizaciya.html
+- utylizaciya-derevyny-z-budivnyctva.html -> utylizaciya.html
+- utylizaciya-dokumentiv.html -> utylizaciya.html
+- utylizaciya-fruktiv-ta-ovochiv.html -> utylizaciya.html
+- utylizaciya-fruktiv.html -> utylizaciya.html
+- utylizaciya-harchovyh-produktiv.html -> utylizaciya.html
+- utylizaciya-kabelyu-ta-drotiv.html -> utylizaciya.html
+- utylizaciya-kondyterskyh-vyrobiv.html -> utylizaciya.html
+- utylizaciya-konserviv.html -> utylizaciya.html
+- utylizaciya-materialiv.html -> utylizaciya.html
+- utylizaciya-metalevoyi-strushky.html -> utylizaciya.html
+- utylizaciya-metalu.html -> utylizaciya.html
+- utylizaciya-napivfabrykatyv.html -> utylizaciya.html
+- utylizaciya-nekondyciynoyi-produkciyi.html -> utylizaciya.html
+- utylizaciya-odyagu-vzuttya.html -> utylizaciya.html
+- utylizaciya-ovochiv.html -> utylizaciya.html
+- utylizaciya-paperu-ta-kartonu.html -> utylizaciya.html
+- utylizaciya-parfumeriyi.html -> utylizaciya.html
+- utylizaciya-paverbankiv-dbj.html -> utylizaciya.html
+- utylizaciya-plastyku-ta-polimeriv.html -> utylizaciya.html
+- utylizaciya-produktiv-harchuvannya-napoyiv.html -> utylizaciya.html
+- utylizaciya-promyslovogo-obladnannya-mehanizmiv.html -> utylizaciya.html
+- utylizaciya-promyslovyh-vidhodiv.html -> utylizaciya.html
+- utylizaciya-prostrochenoyi-kosmetyky.html -> utylizaciya.html
+- utylizaciya-pyva.html -> utylizaciya.html
+- utylizaciya-shyn-pidpryyemstvamy.html -> utylizaciya.html
+- utylizaciya-shyn.html -> utylizaciya.html
+- utylizaciya-skla.html -> utylizaciya.html
+- utylizaciya-skladskyh-zalyshkiv.html -> utylizaciya.html
+- utylizaciya-sokiv-ta-napoyiv.html -> utylizaciya.html
+- utylizaciya-sonyachnih-panelij-vitryakiv.html -> utylizaciya.html
+- utylizaciya-tary-upakovki.html -> utylizaciya.html
+- utylizaciya-tovariv.html -> utylizaciya.html
+- utylizaciya-upakovky-na-pidpryyemstvi.html -> utylizaciya.html
+- utylizaciya-upakovky-vid-kosmetyky.html -> utylizaciya.html
+- utylizaciya-vidpracovanoi-olyvy.html -> utylizaciya.html
+- utylizaciya-vidpracovanyh-masel.html -> utylizaciya.html
+- utylizaciya-vody.html -> utylizaciya.html
+- utylizaciya-yagid.html -> utylizaciya.html
+- vidhody-gumy.html -> vidhody.html
+- vidhody-polimeriv.html -> vidhody.html
+- vidhody-vyrobnyctva.html -> vidhody.html
+- vidy-kabelnyh-vidhodiv.html -> vidhody.html
+- vidy-plastykovyh-vidhodiv.html -> vidhody.html
+- vnutrishniy-akt-spysannya.html -> dokumenty.html
+- vtorynna-syrovyna-z-budivelnyh-vidhodiv.html -> vidhody.html
+- vtorynna-syrovyna-z-vidhodiv.html -> vidhody.html
+- vyviz-budivelnyh-vidhodiv.html -> index.html
+- zberigannya-vidpracovanyh-masel.html -> logistyka.html
+- zbir-kabelyu.html -> zbir.html
+- zbir-metalu-na-pidpryyemstvi.html -> zbir.html
+- zbir-plastyku-na-pidpryyemstvi.html -> zbir.html
+- zbir-promyslovyh-vidhodiv.html -> zbir.html
+- zbir-sklyanoyi-tary.html -> zbir.html
+- zbir-vidpracovanoyi-olyvy.html -> zbir.html
+- znyshchennya-kosmetyky.html -> index.html
+- pererobka-metalu.html (вже був noindex + canonical на utylizaciya-metalu.html; залишено як дубль без самостійної індексації)
+
+### Переведено в noindex + canonical
+- kontakty.html
+- logistyka-budivelnyh-vidhodiv.html
+- logistyka-paperu-ta-kartonu.html
+- logistyka-plastyku.html
+- logistyka-shyn.html
+- nebezpeka-vidpracovanogo-masla.html
+- optymizaciya-vidhodiv-na-vyrobnyctvi.html
+- pererobka-alyuminiyevogo-kabelyu.html
+- pererobka-avtomobilnyh-shyn.html
+- pererobka-gumovyh-vyrobiv.html
+- pererobka-izolyaciyi-kabelyu.html
+- pererobka-makulatury.html
+- pererobka-midnogo-kabelyu.html
+- pererobka-pet.html
+- pererobka-plastykovoyi-upakovky.html
+- pererobka-polietylenu.html
+- pererobka-polipropylenu.html
+- pererobka-polistyrolu.html
+- plastyk-yak-vtorynna-syrovyna.html
+- podribnennya-shyn-gumova-kryshka.html
+- pryjom-kabelyu-na-utylizaciyu.html
+- reestr-partiyi.html
+- scenarii-utilizaciyi.html
+- shcho-take-pererobka-vidhodiv.html
+- shcho-take-promyslovi-vidhody.html
+- shcho-take-utylizaciya.html
+- shcho-take-znyshchennya-produkciyi.html
+- skilky-koshtuye-pererobka-kabelyu.html
+- sortuvannya-budivelnyh-vidhodiv.html
+- sortuvannya-plastyku.html
+- sortuvannya-promyslovyh-vidhodiv.html
+- spysannya-produktiv.html
+- transportuvannya-vidpracovanyh-masel.html
+- transportuvannya-vidpracovanyh-shyn.html
+- utylizaciya-budivelnyh-vidhodiv.html
+- utylizaciya-derevyny-z-budivnyctva.html
+- utylizaciya-dokumentiv.html
+- utylizaciya-fruktiv-ta-ovochiv.html
+- utylizaciya-fruktiv.html
+- utylizaciya-harchovyh-produktiv.html
+- utylizaciya-kabelyu-ta-drotiv.html
+- utylizaciya-kondyterskyh-vyrobiv.html
+- utylizaciya-konserviv.html
+- utylizaciya-materialiv.html
+- utylizaciya-metalevoyi-strushky.html
+- utylizaciya-metalu.html
+- utylizaciya-napivfabrykatyv.html
+- utylizaciya-nekondyciynoyi-produkciyi.html
+- utylizaciya-odyagu-vzuttya.html
+- utylizaciya-ovochiv.html
+- utylizaciya-paperu-ta-kartonu.html
+- utylizaciya-parfumeriyi.html
+- utylizaciya-paverbankiv-dbj.html
+- utylizaciya-plastyku-ta-polimeriv.html
+- utylizaciya-produktiv-harchuvannya-napoyiv.html
+- utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+- utylizaciya-promyslovyh-vidhodiv.html
+- utylizaciya-prostrochenoyi-kosmetyky.html
+- utylizaciya-pyva.html
+- utylizaciya-shyn-pidpryyemstvamy.html
+- utylizaciya-shyn.html
+- utylizaciya-skla.html
+- utylizaciya-skladskyh-zalyshkiv.html
+- utylizaciya-sokiv-ta-napoyiv.html
+- utylizaciya-sonyachnih-panelij-vitryakiv.html
+- utylizaciya-tary-upakovki.html
+- utylizaciya-tovariv.html
+- utylizaciya-upakovky-na-pidpryyemstvi.html
+- utylizaciya-upakovky-vid-kosmetyky.html
+- utylizaciya-vidpracovanoi-olyvy.html
+- utylizaciya-vidpracovanyh-masel.html
+- utylizaciya-vody.html
+- utylizaciya-yagid.html
+- vidhody-gumy.html
+- vidhody-polimeriv.html
+- vidhody-vyrobnyctva.html
+- vidy-kabelnyh-vidhodiv.html
+- vidy-plastykovyh-vidhodiv.html
+- vnutrishniy-akt-spysannya.html
+- vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+- vtorynna-syrovyna-z-vidhodiv.html
+- vyviz-budivelnyh-vidhodiv.html
+- zberigannya-vidpracovanyh-masel.html
+- zbir-kabelyu.html
+- zbir-metalu-na-pidpryyemstvi.html
+- zbir-plastyku-na-pidpryyemstvi.html
+- zbir-promyslovyh-vidhodiv.html
+- zbir-sklyanoyi-tary.html
+- zbir-vidpracovanoyi-olyvy.html
+- znyshchennya-kosmetyky.html
+- pererobka-metalu.html (вже був noindex + canonical на utylizaciya-metalu.html; залишено як дубль без самостійної індексації)
+
+### Переведено в 301 redirect
+- Нових 301 redirect на цьому етапі не додавалось; наявні redirect-URL з `.htaccess` перевірені як виключені з sitemap.
+
+## Високосхожі групи виправлено
+- utylizaciya-gazovanyh-napoyiv.html / utylizaciya-napoyiv.html
+- utylizaciya-myasnyh-produktiv.html / utylizaciya-rybnyh-produktiv.html
+- utylizaciya-zamorozhenyh-produktiv.html / utylizaciya-zipsovanyh-produktiv.html
+- logistyka-metalu.html / logistyka-skla.html
+- utylizaciya-kosmetyky-magazyniv.html / utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+
+## Залишкові 300-500 слів після змін
+Це сторінки, які залишені індексованими після ручного розширення та мають окремий intent; сторінок до 300 слів не залишилось.
+- akt-pryimannya-peredachi.html
+- akt-utylizaciyi.html
+- fotozvit-utylizaciyi.html
+- kabelni-vidhody.html
+- logistyka-metalu.html
+- logistyka-skla.html
+- pererobka-cegly.html
+- utylizaciya-gazovanyh-napoyiv.html
+- utylizaciya-kosmetyky-magazyniv.html
+- utylizaciya-myasnyh-produktiv.html
+- utylizaciya-napoyiv.html
+- utylizaciya-rybnyh-produktiv.html
+- utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- utylizaciya-zamorozhenyh-produktiv.html
+- utylizaciya-zipsovanyh-produktiv.html
+
+## Sitemap, canonical, encoding
+- Noindex/redirect URL у sitemap: ні
+- Canonical: коректні
+- UTF-8/BOM статус: UTF-8 без BOM
+- Mojibake-маркери: не знайдено
+- Кирилиця: не зіпсована
+
+## Список змінених файлів
+- akt-pryimannya-peredachi.html
+- akt-utylizaciyi.html
+- fotozvit-utylizaciyi.html
+- kabelni-vidhody.html
+- kontakty.html
+- logistyka-budivelnyh-vidhodiv.html
+- logistyka-metalu.html
+- logistyka-paperu-ta-kartonu.html
+- logistyka-plastyku.html
+- logistyka-shyn.html
+- logistyka-skla.html
+- nebezpeka-vidpracovanogo-masla.html
+- optymizaciya-vidhodiv-na-vyrobnyctvi.html
+- pererobka-alyuminiyevogo-kabelyu.html
+- pererobka-avtomobilnyh-shyn.html
+- pererobka-cegly.html
+- pererobka-gumovyh-vyrobiv.html
+- pererobka-izolyaciyi-kabelyu.html
+- pererobka-makulatury.html
+- pererobka-midnogo-kabelyu.html
+- pererobka-pet.html
+- pererobka-plastykovoyi-upakovky.html
+- pererobka-polietylenu.html
+- pererobka-polipropylenu.html
+- pererobka-polistyrolu.html
+- plastyk-yak-vtorynna-syrovyna.html
+- podribnennya-shyn-gumova-kryshka.html
+- pryjom-kabelyu-na-utylizaciyu.html
+- public/
+- reestr-partiyi.html
+- scenarii-utilizaciyi.html
+- shcho-take-pererobka-vidhodiv.html
+- shcho-take-promyslovi-vidhody.html
+- shcho-take-utylizaciya.html
+- shcho-take-znyshchennya-produkciyi.html
+- sitemap.xml
+- skilky-koshtuye-pererobka-kabelyu.html
+- sortuvannya-budivelnyh-vidhodiv.html
+- sortuvannya-plastyku.html
+- sortuvannya-promyslovyh-vidhodiv.html
+- spysannya-produktiv.html
+- transportuvannya-vidpracovanyh-masel.html
+- transportuvannya-vidpracovanyh-shyn.html
+- utylizaciya-budivelnyh-vidhodiv.html
+- utylizaciya-derevyny-z-budivnyctva.html
+- utylizaciya-dokumentiv.html
+- utylizaciya-fruktiv-ta-ovochiv.html
+- utylizaciya-fruktiv.html
+- utylizaciya-gazovanyh-napoyiv.html
+- utylizaciya-harchovyh-produktiv.html
+- utylizaciya-kabelyu-ta-drotiv.html
+- utylizaciya-kondyterskyh-vyrobiv.html
+- utylizaciya-konserviv.html
+- utylizaciya-kosmetyky-magazyniv.html
+- utylizaciya-materialiv.html
+- utylizaciya-metalevoyi-strushky.html
+- utylizaciya-metalu.html
+- utylizaciya-myasnyh-produktiv.html
+- utylizaciya-napivfabrykatyv.html
+- utylizaciya-napoyiv.html
+- utylizaciya-nekondyciynoyi-produkciyi.html
+- utylizaciya-odyagu-vzuttya.html
+- utylizaciya-ovochiv.html
+- utylizaciya-paperu-ta-kartonu.html
+- utylizaciya-parfumeriyi.html
+- utylizaciya-paverbankiv-dbj.html
+- utylizaciya-plastyku-ta-polimeriv.html
+- utylizaciya-produktiv-harchuvannya-napoyiv.html
+- utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+- utylizaciya-promyslovyh-vidhodiv.html
+- utylizaciya-prostrochenoyi-kosmetyky.html
+- utylizaciya-pyva.html
+- utylizaciya-rybnyh-produktiv.html
+- utylizaciya-shyn-pidpryyemstvamy.html
+- utylizaciya-shyn.html
+- utylizaciya-skla.html
+- utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- utylizaciya-skladskyh-zalyshkiv.html
+- utylizaciya-sokiv-ta-napoyiv.html
+- utylizaciya-sonyachnih-panelij-vitryakiv.html
+- utylizaciya-tary-upakovki.html
+- utylizaciya-tovariv.html
+- utylizaciya-upakovky-na-pidpryyemstvi.html
+- utylizaciya-upakovky-vid-kosmetyky.html
+- utylizaciya-vidpracovanoi-olyvy.html
+- utylizaciya-vidpracovanyh-masel.html
+- utylizaciya-vody.html
+- utylizaciya-yagid.html
+- utylizaciya-zamorozhenyh-produktiv.html
+- utylizaciya-zipsovanyh-produktiv.html
+- vidhody-gumy.html
+- vidhody-polimeriv.html
+- vidhody-vyrobnyctva.html
+- vidy-kabelnyh-vidhodiv.html
+- vidy-plastykovyh-vidhodiv.html
+- vnutrishniy-akt-spysannya.html
+- vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+- vtorynna-syrovyna-z-vidhodiv.html
+- vyviz-budivelnyh-vidhodiv.html
+- zberigannya-vidpracovanyh-masel.html
+- zbir-kabelyu.html
+- zbir-metalu-na-pidpryyemstvi.html
+- zbir-plastyku-na-pidpryyemstvi.html
+- zbir-promyslovyh-vidhodiv.html
+- zbir-sklyanoyi-tary.html
+- zbir-vidpracovanoyi-olyvy.html
+- znyshchennya-kosmetyky.html
+
+## Фінальний статус
+ДОБРЕ

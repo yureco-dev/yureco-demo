@@ -1,0 +1,11 @@
+RULE_TYPE: Redirect 301
+SOURCE: /kudy-zdaty-kosmetyky.html
+TARGET: /utylizaciya-kosmetyky.html
+LINE_NUMBER_1: 17
+LINE_NUMBER_2: 18
+
+RULE_TYPE: Redirect 301
+SOURCE: /kudy-zdaty-shyn.html
+TARGET: /utylizaciya-shyn.html
+LINE_NUMBER_1: 47
+LINE_NUMBER_2: 48

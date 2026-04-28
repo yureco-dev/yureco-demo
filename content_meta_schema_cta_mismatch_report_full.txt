@@ -1,0 +1,197 @@
+FILE: kudy-zdaty-avtoshyn.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-budivelnyh-vidhodiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-derevyny-z-budivnyctva.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-dokumentiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-energetychnyh-napoyiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-fruktiv-ta-ovochiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-fruktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-gazovanyh-napoyiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-harchovyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-kabelyu-ta-drotiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-kondyterskyh-vyrobiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-konserviv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-kosmetiki.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-kosmetyky-magazyniv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-kosmetyky.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-li-ion-batarej.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-materialiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-metalevoyi-strushky.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-metalu.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-molochnyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-myasnyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-napivfabrykatyv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-napoyiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-nekondicijnoyi-sirovini.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-nekondyciynoyi-produkciyi.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-obladnannya.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-odyagu-vzuttya.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-ovochiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-paperu-ta-kartonu.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-parfumeriyi.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-partiyi-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-plastyku-ta-polimeriv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-produktiv-na-skladi.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-promyslovyh-vidhodiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-prostrochenoyi-kosmetyky.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-prostrochenyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-pyva.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-rybnyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-shin.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-shyn-pidpryyemstvamy.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-shyn.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-shyny.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-skla.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-sokiv-ta-napoyiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-sokiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-tary-upakovki.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-tovariv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-upakovky-na-pidpryyemstvi.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-upakovky-vid-kosmetyky.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vantazhnyh-shyn.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vidpracovane-maslo.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vidpracovanoi-olyvy.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vidpracovanyh-masel.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vody.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-vyrobnychyh-vidhodiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-yagid.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-zamorozhenyh-produktiv.html
+ISSUE_TYPE: topic_mismatch
+
+FILE: kudy-zdaty-zipsovanyh-produktiv.html
+ISSUE_TYPE: topic_mismatch

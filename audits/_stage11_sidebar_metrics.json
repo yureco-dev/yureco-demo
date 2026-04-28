@@ -1,0 +1,40 @@
+{
+  "source_html_checked": 244,
+  "public_html_checked": 244,
+  "source_indexed_checked": 51,
+  "public_indexed_checked": 51,
+  "source_indexed_missing_sidebar": [],
+  "public_indexed_missing_sidebar": [],
+  "source_broken_sidebar": [],
+  "public_broken_sidebar": [],
+  "sidebar_links_to_noindex": [],
+  "sidebar_links_to_redirect": [],
+  "sidebar_broken_links": [],
+  "sidebar_links_to_public": [],
+  "site_broken_internal_links_count": 4,
+  "site_broken_internal_links_sample": [
+    [
+      "logistyka/index.html",
+      "/logistyka"
+    ],
+    [
+      "pererobka/index.html",
+      "/pererobka"
+    ],
+    [
+      "sortuvannya/index.html",
+      "/sortuvannya"
+    ],
+    [
+      "utylizaciya/index.html",
+      "/utylizaciya"
+    ]
+  ],
+  "site_links_to_public_count": 0,
+  "site_links_to_public_sample": [],
+  "sitemap_redirect_entries": [],
+  "utf8_bom_files_source": [],
+  "utf8_bom_files_public": [],
+  "mojibake_source_count": 176,
+  "mojibake_public_count": 176
+}

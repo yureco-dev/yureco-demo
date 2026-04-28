@@ -1,0 +1,3168 @@
+{
+  "summary": {
+    "indexable_pages": 51,
+    "internal_links_checked": 2640,
+    "broken_links": 422,
+    "redirect_links": 0,
+    "public_prefix_links": 0,
+    "mojibake_pages": 176
+  },
+  "broken": [
+    [
+      "/akt-pryimannya-peredachi.html",
+      "/"
+    ],
+    [
+      "/akt-pryimannya-peredachi.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/akt-utylizaciyi.html",
+      "/"
+    ],
+    [
+      "/articles/index.html",
+      "/"
+    ],
+    [
+      "/articles/index.html",
+      "//promyslovi"
+    ],
+    [
+      "/articles/index.html",
+      "//harchovy"
+    ],
+    [
+      "/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/"
+    ],
+    [
+      "/dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/dokumenty.html",
+      "/"
+    ],
+    [
+      "/fotozvit-utylizaciyi.html",
+      "/"
+    ],
+    [
+      "/index.html",
+      "/"
+    ],
+    [
+      "/index.html",
+      "//promyslovi"
+    ],
+    [
+      "/index.html",
+      "//harchovy"
+    ],
+    [
+      "/kabelni-vidhody.html",
+      "/"
+    ],
+    [
+      "/kabelni-vidhody.html",
+      "//promyslovi"
+    ],
+    [
+      "/kontakty.html",
+      "/"
+    ],
+    [
+      "/kontakty.html",
+      "//kontakty"
+    ],
+    [
+      "/kontakty.html",
+      "/viber:/chat"
+    ],
+    [
+      "/kudy-zdaty-avtoshyn.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-avtoshyn.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-budivelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-derevyny-z-budivnyctva.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-derevyny-z-budivnyctva.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-dokumentiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-dokumentiv.html",
+      "//dokumenty"
+    ],
+    [
+      "/kudy-zdaty-energetychnyh-napoyiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-energetychnyh-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-fruktiv-ta-ovochiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-fruktiv-ta-ovochiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-fruktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-fruktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-gazovanyh-napoyiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-gazovanyh-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-gipsokartonu.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-harchovyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-harchovyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-kabelyu-ta-drotiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-kabelyu-ta-drotiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-kondyterskyh-vyrobiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-kondyterskyh-vyrobiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-konserviv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-konserviv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-kosmetiki.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-kosmetiki.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-kosmetyky-magazyniv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-kosmetyky-magazyniv.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-li-ion-batarej.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-li-ion-batarej.html",
+      "//li-ion-batarei"
+    ],
+    [
+      "/kudy-zdaty-materialiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-materialiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-metalevoyi-strushky.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-metalevoyi-strushky.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-metalu.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-metalu.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-molochnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-molochnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-myasnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-myasnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-napivfabrykatyv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-napivfabrykatyv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-napoyiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-nekondicijnoyi-sirovini.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-nekondicijnoyi-sirovini.html",
+      "//syrovyny"
+    ],
+    [
+      "/kudy-zdaty-nekondyciynoyi-produkciyi.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-nekondyciynoyi-produkciyi.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-obladnannya.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-obladnannya.html",
+      "//obladnannya"
+    ],
+    [
+      "/kudy-zdaty-odyagu-vzuttya.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-odyagu-vzuttya.html",
+      "//odyag"
+    ],
+    [
+      "/kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+      "//orgtehniky"
+    ],
+    [
+      "/kudy-zdaty-ovochiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-ovochiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-paperu-ta-kartonu.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-paperu-ta-kartonu.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-parfumeriyi.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-parfumeriyi.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-partiyi-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-partiyi-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-paverbankiv-dbj.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-paverbankiv-dbj.html",
+      "//paverbanki"
+    ],
+    [
+      "/kudy-zdaty-paverbankiv-dbj.html",
+      "//li-ion-batarei"
+    ],
+    [
+      "/kudy-zdaty-plastyku-ta-polimeriv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-plastyku-ta-polimeriv.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-produktiv-na-skladi.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-produktiv-na-skladi.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+      "//obladnannya"
+    ],
+    [
+      "/kudy-zdaty-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-promyslovyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-prostrochenoyi-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-prostrochenoyi-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-prostrochenyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-prostrochenyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-pyva.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-pyva.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-rybnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-rybnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-shin.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-shin.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-shyn-pidpryyemstvamy.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-shyn-pidpryyemstvamy.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-shyn.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-shyn.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-shyny.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-shyny.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-skla.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-skla.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-skladskyh-zalyshkiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-skladskyh-zalyshkiv.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-sokiv-ta-napoyiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-sokiv-ta-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-sokiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-sokiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+      "//paneli"
+    ],
+    [
+      "/kudy-zdaty-tary-upakovki.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-tary-upakovki.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-tovariv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-tovariv.html",
+      "//tovary"
+    ],
+    [
+      "/kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+      "//tovary"
+    ],
+    [
+      "/kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+      "//upakovky"
+    ],
+    [
+      "/kudy-zdaty-upakovky-vid-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-upakovky-vid-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/kudy-zdaty-vantazhnyh-shyn.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vantazhnyh-shyn.html",
+      "//shyn"
+    ],
+    [
+      "/kudy-zdaty-vidpracovane-maslo.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vidpracovane-maslo.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-vidpracovanoi-olyvy.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vidpracovanoi-olyvy.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-vidpracovanyh-masel.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vidpracovanyh-masel.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-vody.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vody.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-vyrobnychyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-vyrobnychyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/kudy-zdaty-yagid.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-yagid.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-zamorozhenyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-zamorozhenyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty-zipsovanyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/kudy-zdaty-zipsovanyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/kudy-zdaty.html",
+      "/"
+    ],
+    [
+      "/li-ion.html",
+      "/"
+    ],
+    [
+      "/li-ion.html",
+      "//li-ion-batarei"
+    ],
+    [
+      "/likvidaciya-skladskykh-zalyshkiv.html",
+      "/"
+    ],
+    [
+      "/logistyka/index.html",
+      "/"
+    ],
+    [
+      "/logistyka/index.html",
+      "//promyslovi"
+    ],
+    [
+      "/logistyka-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/logistyka-budivelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/logistyka-kabelyu.html",
+      "/"
+    ],
+    [
+      "/logistyka-kabelyu.html",
+      "//promyslovi"
+    ],
+    [
+      "/logistyka-metalu.html",
+      "/"
+    ],
+    [
+      "/logistyka-metalu.html",
+      "//promyslovi"
+    ],
+    [
+      "/logistyka-paperu-ta-kartonu.html",
+      "/"
+    ],
+    [
+      "/logistyka-paperu-ta-kartonu.html",
+      "//upakovky"
+    ],
+    [
+      "/logistyka-plastyku.html",
+      "/"
+    ],
+    [
+      "/logistyka-plastyku.html",
+      "//upakovky"
+    ],
+    [
+      "/logistyka-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/logistyka-promyslovyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/logistyka-shyn.html",
+      "/"
+    ],
+    [
+      "/logistyka-shyn.html",
+      "//shyn"
+    ],
+    [
+      "/logistyka-skla.html",
+      "/"
+    ],
+    [
+      "/logistyka-skla.html",
+      "//upakovky"
+    ],
+    [
+      "/logistyka.html",
+      "/"
+    ],
+    [
+      "/nebezpeka-vidpracovanogo-masla.html",
+      "/"
+    ],
+    [
+      "/nebezpeka-vidpracovanogo-masla.html",
+      "//promyslovi"
+    ],
+    [
+      "/oblik-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/oblik-promyslovyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "/"
+    ],
+    [
+      "/optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka/index.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka-alyuminiyevogo-kabelyu.html",
+      "/"
+    ],
+    [
+      "/pererobka-alyuminiyevogo-kabelyu.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka-avtomobilnyh-shyn.html",
+      "/"
+    ],
+    [
+      "/pererobka-avtomobilnyh-shyn.html",
+      "//shyn"
+    ],
+    [
+      "/pererobka-betonu.html",
+      "/"
+    ],
+    [
+      "/pererobka-betonu.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka-cegly.html",
+      "/"
+    ],
+    [
+      "/pererobka-cegly.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka-gumovyh-vyrobiv.html",
+      "/"
+    ],
+    [
+      "/pererobka-gumovyh-vyrobiv.html",
+      "//shyn"
+    ],
+    [
+      "/pererobka-izolyaciyi-kabelyu.html",
+      "/"
+    ],
+    [
+      "/pererobka-izolyaciyi-kabelyu.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka-kartonu.html",
+      "/"
+    ],
+    [
+      "/pererobka-kartonu.html",
+      "//upakovky"
+    ],
+    [
+      "/pererobka-makulatury.html",
+      "/"
+    ],
+    [
+      "/pererobka-metalu.html",
+      "/"
+    ],
+    [
+      "/pererobka-midnogo-kabelyu.html",
+      "/"
+    ],
+    [
+      "/pererobka-pet.html",
+      "/"
+    ],
+    [
+      "/pererobka-plastykovoyi-upakovky.html",
+      "/"
+    ],
+    [
+      "/pererobka-polietylenu.html",
+      "/"
+    ],
+    [
+      "/pererobka-polipropylenu.html",
+      "/"
+    ],
+    [
+      "/pererobka-polistyrolu.html",
+      "/"
+    ],
+    [
+      "/pererobka-shyn.html",
+      "/"
+    ],
+    [
+      "/pererobka-skla.html",
+      "/"
+    ],
+    [
+      "/pererobka-vidpracovanyh-masel.html",
+      "/"
+    ],
+    [
+      "/pererobka.html",
+      "/"
+    ],
+    [
+      "/pererobka.html",
+      "//promyslovi"
+    ],
+    [
+      "/pererobka.html",
+      "//upakovky"
+    ],
+    [
+      "/plastyk-yak-vtorynna-syrovyna.html",
+      "/"
+    ],
+    [
+      "/plastykovi-vidhody.html",
+      "/"
+    ],
+    [
+      "/plastykovi-vidhody.html",
+      "//upakovky"
+    ],
+    [
+      "/podribnennya-shyn-gumova-kryshka.html",
+      "/"
+    ],
+    [
+      "/povernennya-tovariv-z-merezhi.html",
+      "/"
+    ],
+    [
+      "/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "//promyslovi"
+    ],
+    [
+      "/promyslovi-vidhody.html",
+      "/"
+    ],
+    [
+      "/pryjom-kabelyu-na-utylizaciyu.html",
+      "/"
+    ],
+    [
+      "/pryjom-kabelyu-na-utylizaciyu.html",
+      "//promyslovi"
+    ],
+    [
+      "/reestr-partiyi.html",
+      "/"
+    ],
+    [
+      "/scenarii-utilizaciyi.html",
+      "/"
+    ],
+    [
+      "/shcho-take-pererobka-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/shcho-take-promyslovi-vidhody.html",
+      "/"
+    ],
+    [
+      "/shcho-take-utylizaciya.html",
+      "/"
+    ],
+    [
+      "/shcho-take-znyshchennya-produkciyi.html",
+      "/"
+    ],
+    [
+      "/shyny.html",
+      "/"
+    ],
+    [
+      "/shyny.html",
+      "//shyn"
+    ],
+    [
+      "/skilky-koshtuye-pererobka-kabelyu.html",
+      "/"
+    ],
+    [
+      "/skladuvannya-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/skladuvannya-promyslovyh-vidhodiv.html",
+      "//upakovky"
+    ],
+    [
+      "/sortuvannya/index.html",
+      "/"
+    ],
+    [
+      "/sortuvannya-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/sortuvannya-plastyku.html",
+      "/"
+    ],
+    [
+      "/sortuvannya-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/sortuvannya-promyslovyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/sortuvannya.html",
+      "/"
+    ],
+    [
+      "/spysannya-kosmetychnyh-tovariv.html",
+      "/"
+    ],
+    [
+      "/spysannya-kosmetychnyh-tovariv.html",
+      "//utylizatsiya-dlya-riteylu/"
+    ],
+    [
+      "/spysannya-produkciyi.html",
+      "/"
+    ],
+    [
+      "/spysannya-produktiv.html",
+      "/"
+    ],
+    [
+      "/spysannya-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/transportuvannya-vidpracovanyh-masel.html",
+      "/"
+    ],
+    [
+      "/transportuvannya-vidpracovanyh-shyn.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-brakovanoi-produkciyi.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-bankiv.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-data-centriv.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-importeriv.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-riteylu.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-skladiv.html",
+      "/"
+    ],
+    [
+      "/utilizaciya-dlya-vyrobnyctva.html",
+      "/"
+    ],
+    [
+      "/utylizaciya/index.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya-akumulyatoriv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-avtoshyn.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-avtoshyn.html",
+      "//shyn"
+    ],
+    [
+      "/utylizaciya-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-budivelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya-derevyny-z-budivnyctva.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-derevyny-z-budivnyctva.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya-dokumentiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-dokumentiv.html",
+      "//dokumenty"
+    ],
+    [
+      "/utylizaciya-elektroniky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-energetychnyh-napoyiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-energetychnyh-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-fruktiv-ta-ovochiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-fruktiv-ta-ovochiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-fruktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-fruktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-gazovanyh-napoyiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-gazovanyh-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-gipsokartonu.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-harchovyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-harchovyh-produktiv.html",
+      "//utylizatsiya-dlya-riteylu/"
+    ],
+    [
+      "/utylizaciya-importnyh-tovariv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kabelyu-ta-drotiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kondyterskyh-vyrobiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kondyterskyh-vyrobiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "//dokumenty"
+    ],
+    [
+      "/utylizaciya-konserviv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-konserviv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-kosmetiki.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kosmetiki.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-kosmetyky-magazyniv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kosmetyky-magazyniv.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-li-ion-batarej.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-li-ion-batarej.html",
+      "//li-ion-batarei"
+    ],
+    [
+      "/utylizaciya-materialiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-metalevoyi-strushky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-metalevoyi-strushky.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya-metalu.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-molochnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-molochnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-myasnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-myasnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-napivfabrykatyv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-napivfabrykatyv.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya-napoyiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-nekondicijnoyi-sirovini.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-nekondicijnoyi-sirovini.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/utylizaciya-nekondyciynoyi-produkciyi.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-nekondyciynoyi-produkciyi.html",
+      "//utylizatsiya-dlya-importeriv/"
+    ],
+    [
+      "/utylizaciya-obladnannya.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-obladnannya.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/utylizaciya-odyagu-vzuttya.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-odyagu-vzuttya.html",
+      "//odyag"
+    ],
+    [
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "//orgtehniky"
+    ],
+    [
+      "/utylizaciya-ovochiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-ovochiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-paperu-ta-kartonu.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-parfumeriyi.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-parfumeriyi.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-partiyi-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-partiyi-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-paverbankiv-dbj.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-paverbankiv-dbj.html",
+      "//paverbanki"
+    ],
+    [
+      "/utylizaciya-paverbankiv-dbj.html",
+      "//li-ion-batarei"
+    ],
+    [
+      "/utylizaciya-plastyku-ta-polimeriv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-produktiv-na-skladi.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-produktiv-na-skladi.html",
+      "//upakovky"
+    ],
+    [
+      "/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "//obladnannya"
+    ],
+    [
+      "/utylizaciya-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-promyslovyh-vidhodiv.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/utylizaciya-prostrochenoyi-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-prostrochenoyi-kosmetyky.html",
+      "//utylizatsiya-dlya-riteylu/"
+    ],
+    [
+      "/utylizaciya-prostrochenyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-prostrochenyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-pyva.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-pyva.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-rybnyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-rybnyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-shin.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-shin.html",
+      "//shyn"
+    ],
+    [
+      "/utylizaciya-shyn-pidpryyemstvamy.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-shyn.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-skla.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-skla.html",
+      "//upakovky"
+    ],
+    [
+      "/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-skladskyh-zalyshkiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-skladskyh-zalyshkiv.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/utylizaciya-sokiv-ta-napoyiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-sokiv-ta-napoyiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-sokiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-sokiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "//paneli"
+    ],
+    [
+      "/utylizaciya-tary-upakovki.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-tary-upakovki.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/utylizaciya-tovariv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-tovariv.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "//utylizatsiya-dlya-importeriv/"
+    ],
+    [
+      "/utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "//upakovky"
+    ],
+    [
+      "/utylizaciya-upakovky-vid-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-upakovky-vid-kosmetyky.html",
+      "//kosmetyky"
+    ],
+    [
+      "/utylizaciya-vantazhnyh-shyn.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-vantazhnyh-shyn.html",
+      "//shyn"
+    ],
+    [
+      "/utylizaciya-vidpracovanoi-olyvy.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-vidpracovanoi-olyvy.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/utylizaciya-vidpracovanyh-masel.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-vody.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-vyrobnychyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-vyrobnychyh-vidhodiv.html",
+      "//utylizatsiya-dlya-vyrobnytstv/"
+    ],
+    [
+      "/utylizaciya-yagid.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-yagid.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-zamorozhenyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-zamorozhenyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya-zipsovanyh-produktiv.html",
+      "/"
+    ],
+    [
+      "/utylizaciya-zipsovanyh-produktiv.html",
+      "//harchovy"
+    ],
+    [
+      "/utylizaciya.html",
+      "/"
+    ],
+    [
+      "/utylizaciya.html",
+      "//promyslovi"
+    ],
+    [
+      "/utylizaciya.html",
+      "//tovary"
+    ],
+    [
+      "/vidhody-demontazhu.html",
+      "/"
+    ],
+    [
+      "/vidhody-demontazhu.html",
+      "//promyslovi"
+    ],
+    [
+      "/vidhody-gumy.html",
+      "/"
+    ],
+    [
+      "/vidhody-polimeriv.html",
+      "/"
+    ],
+    [
+      "/vidhody-vyrobnyctva.html",
+      "/"
+    ],
+    [
+      "/vidhody.html",
+      "/"
+    ],
+    [
+      "/vidy-kabelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vidy-kabelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/vidy-plastykovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vnutrishniy-akt-spysannya.html",
+      "/"
+    ],
+    [
+      "/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/vtorynna-syrovyna-z-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vtorynna-syrovyna-z-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/vymogy-do-zberigannya-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vymogy-do-zberigannya-vidhodiv.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/vyviz-budivelnyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/vyviz-budivelnyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/yak-oformyty-spysannya-partiyi.html",
+      "/"
+    ],
+    [
+      "/yak-peredaty-kosmetyku.html",
+      "/"
+    ],
+    [
+      "/yak-peredaty-li-ion-batarei.html",
+      "/"
+    ],
+    [
+      "/yak-peredaty-skladski-zalyshky.html",
+      "/"
+    ],
+    [
+      "/yak-peredaty-skladski-zalyshky.html",
+      "//utylizatsiya-dlya-skladiv/"
+    ],
+    [
+      "/zberigannya-vidpracovanyh-masel.html",
+      "/"
+    ],
+    [
+      "/zbir-kabelyu.html",
+      "/"
+    ],
+    [
+      "/zbir-kartonu-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/zbir-kartonu-na-pidpryyemstvi.html",
+      "//upakovky"
+    ],
+    [
+      "/zbir-metalu-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/zbir-plastyku-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/zbir-promyslovyh-vidhodiv.html",
+      "/"
+    ],
+    [
+      "/zbir-promyslovyh-vidhodiv.html",
+      "//promyslovi"
+    ],
+    [
+      "/zbir-shyn-na-pidpryyemstvi.html",
+      "/"
+    ],
+    [
+      "/zbir-shyn-na-pidpryyemstvi.html",
+      "//shyn"
+    ],
+    [
+      "/zbir-sklyanoyi-tary.html",
+      "/"
+    ],
+    [
+      "/zbir-sklyanoyi-tary.html",
+      "//upakovky"
+    ],
+    [
+      "/zbir-vidpracovanoyi-olyvy.html",
+      "/"
+    ],
+    [
+      "/zbir.html",
+      "/"
+    ],
+    [
+      "/znyshchennya-kosmetyky.html",
+      "/"
+    ],
+    [
+      "/znyshchennya-kosmetyky.html",
+      "//kosmetyky"
+    ]
+  ],
+  "redirect": [],
+  "public_prefix": [],
+  "pages": [
+    {
+      "page": "/akt-pryimannya-peredachi.html",
+      "indexable": true,
+      "internal_links": 5,
+      "main_links": 6
+    },
+    {
+      "page": "/akt-utylizaciyi.html",
+      "indexable": true,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/articles/index.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 13
+    },
+    {
+      "page": "/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "indexable": true,
+      "internal_links": 15,
+      "main_links": 15
+    },
+    {
+      "page": "/dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 7,
+      "main_links": 7
+    },
+    {
+      "page": "/dokumenty.html",
+      "indexable": true,
+      "internal_links": 46,
+      "main_links": 28
+    },
+    {
+      "page": "/fotozvit-utylizaciyi.html",
+      "indexable": true,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/index.html",
+      "indexable": true,
+      "internal_links": 47,
+      "main_links": 37
+    },
+    {
+      "page": "/kabelni-vidhody.html",
+      "indexable": true,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/kontakty.html",
+      "indexable": false,
+      "internal_links": 34,
+      "main_links": 20
+    },
+    {
+      "page": "/kudy-zdaty-avtoshyn.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-derevyny-z-budivnyctva.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-dokumentiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-energetychnyh-napoyiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-fruktiv-ta-ovochiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-fruktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-gazovanyh-napoyiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-gipsokartonu.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 9
+    },
+    {
+      "page": "/kudy-zdaty-harchovyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-kabelyu-ta-drotiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-kondyterskyh-vyrobiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-konserviv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-kosmetiki.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-kosmetyky-magazyniv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-li-ion-batarej.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-materialiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-metalevoyi-strushky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-metalu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-molochnyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-myasnyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-napivfabrykatyv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-napoyiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-nekondicijnoyi-sirovini.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-nekondyciynoyi-produkciyi.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-obladnannya.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-odyagu-vzuttya.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-ovochiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-paperu-ta-kartonu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-parfumeriyi.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-partiyi-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-paverbankiv-dbj.html",
+      "indexable": false,
+      "internal_links": 11,
+      "main_links": 11
+    },
+    {
+      "page": "/kudy-zdaty-plastyku-ta-polimeriv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-produktiv-na-skladi.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-prostrochenoyi-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-prostrochenyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-pyva.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-rybnyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-shin.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-shyn-pidpryyemstvamy.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-shyn.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-shyny.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-skla.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-skladskyh-zalyshkiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-sokiv-ta-napoyiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-sokiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-tary-upakovki.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-tovariv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-upakovky-vid-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vantazhnyh-shyn.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vidpracovane-maslo.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vidpracovanoi-olyvy.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vidpracovanyh-masel.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vody.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-vyrobnychyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-yagid.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-zamorozhenyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty-zipsovanyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/kudy-zdaty.html",
+      "indexable": true,
+      "internal_links": 75,
+      "main_links": 71
+    },
+    {
+      "page": "/li-ion.html",
+      "indexable": false,
+      "internal_links": 7,
+      "main_links": 7
+    },
+    {
+      "page": "/likvidaciya-skladskykh-zalyshkiv.html",
+      "indexable": true,
+      "internal_links": 12,
+      "main_links": 12
+    },
+    {
+      "page": "/logistyka/index.html",
+      "indexable": true,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/logistyka-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-kabelyu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-metalu.html",
+      "indexable": true,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-paperu-ta-kartonu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-plastyku.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-shyn.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka-skla.html",
+      "indexable": true,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/logistyka.html",
+      "indexable": true,
+      "internal_links": 43,
+      "main_links": 22
+    },
+    {
+      "page": "/nebezpeka-vidpracovanogo-masla.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/oblik-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/pererobka/index.html",
+      "indexable": true,
+      "internal_links": 24,
+      "main_links": 24
+    },
+    {
+      "page": "/pererobka-alyuminiyevogo-kabelyu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-avtomobilnyh-shyn.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-betonu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-cegly.html",
+      "indexable": true,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-gumovyh-vyrobiv.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-izolyaciyi-kabelyu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-kartonu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-makulatury.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-metalu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-midnogo-kabelyu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-pet.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-plastykovoyi-upakovky.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-polietylenu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-polipropylenu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-polistyrolu.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-shyn.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-skla.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka-vidpracovanyh-masel.html",
+      "indexable": false,
+      "internal_links": 10,
+      "main_links": 10
+    },
+    {
+      "page": "/pererobka.html",
+      "indexable": true,
+      "internal_links": 53,
+      "main_links": 32
+    },
+    {
+      "page": "/plastyk-yak-vtorynna-syrovyna.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/plastykovi-vidhody.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/podribnennya-shyn-gumova-kryshka.html",
+      "indexable": false,
+      "internal_links": 5,
+      "main_links": 6
+    },
+    {
+      "page": "/povernennya-tovariv-z-merezhi.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 11
+    },
+    {
+      "page": "/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/promyslovi-vidhody.html",
+      "indexable": true,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/pryjom-kabelyu-na-utylizaciyu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/reestr-partiyi.html",
+      "indexable": false,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/scenarii-utilizaciyi.html",
+      "indexable": false,
+      "internal_links": 8,
+      "main_links": 9
+    },
+    {
+      "page": "/shcho-take-pererobka-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/shcho-take-promyslovi-vidhody.html",
+      "indexable": false,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/shcho-take-utylizaciya.html",
+      "indexable": false,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/shcho-take-znyshchennya-produkciyi.html",
+      "indexable": false,
+      "internal_links": 3,
+      "main_links": 3
+    },
+    {
+      "page": "/shyny.html",
+      "indexable": false,
+      "internal_links": 7,
+      "main_links": 7
+    },
+    {
+      "page": "/skilky-koshtuye-pererobka-kabelyu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/skladuvannya-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/sortuvannya/index.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 11
+    },
+    {
+      "page": "/sortuvannya-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/sortuvannya-plastyku.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/sortuvannya-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/sortuvannya.html",
+      "indexable": true,
+      "internal_links": 38,
+      "main_links": 17
+    },
+    {
+      "page": "/spysannya-kosmetychnyh-tovariv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/spysannya-produkciyi.html",
+      "indexable": true,
+      "internal_links": 13,
+      "main_links": 13
+    },
+    {
+      "page": "/spysannya-produktiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/transportuvannya-vidpracovanyh-masel.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/transportuvannya-vidpracovanyh-shyn.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/utilizaciya-brakovanoi-produkciyi.html",
+      "indexable": true,
+      "internal_links": 12,
+      "main_links": 12
+    },
+    {
+      "page": "/utilizaciya-dlya-bankiv.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utilizaciya-dlya-data-centriv.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utilizaciya-dlya-importeriv.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utilizaciya-dlya-riteylu.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utilizaciya-dlya-skladiv.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utilizaciya-dlya-vyrobnyctva.html",
+      "indexable": true,
+      "internal_links": 8,
+      "main_links": 14
+    },
+    {
+      "page": "/utylizaciya/index.html",
+      "indexable": true,
+      "internal_links": 65,
+      "main_links": 67
+    },
+    {
+      "page": "/utylizaciya-akumulyatoriv.html",
+      "indexable": true,
+      "internal_links": 13,
+      "main_links": 26
+    },
+    {
+      "page": "/utylizaciya-avtoshyn.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-derevyny-z-budivnyctva.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-dokumentiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-elektroniky.html",
+      "indexable": true,
+      "internal_links": 15,
+      "main_links": 30
+    },
+    {
+      "page": "/utylizaciya-energetychnyh-napoyiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-fruktiv-ta-ovochiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-fruktiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-gazovanyh-napoyiv.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 12
+    },
+    {
+      "page": "/utylizaciya-gipsokartonu.html",
+      "indexable": false,
+      "internal_links": 8,
+      "main_links": 9
+    },
+    {
+      "page": "/utylizaciya-harchovyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-importnyh-tovariv.html",
+      "indexable": true,
+      "internal_links": 9,
+      "main_links": 17
+    },
+    {
+      "page": "/utylizaciya-kabelyu-ta-drotiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-kondyterskyh-vyrobiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "indexable": true,
+      "internal_links": 9,
+      "main_links": 11
+    },
+    {
+      "page": "/utylizaciya-konserviv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-kosmetiki.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-kosmetyky-magazyniv.html",
+      "indexable": true,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-kosmetyky.html",
+      "indexable": true,
+      "internal_links": 9,
+      "main_links": 11
+    },
+    {
+      "page": "/utylizaciya-li-ion-batarej.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 11
+    },
+    {
+      "page": "/utylizaciya-materialiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-metalevoyi-strushky.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-metalu.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-molochnyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-myasnyh-produktiv.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 12
+    },
+    {
+      "page": "/utylizaciya-napivfabrykatyv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-napoyiv.html",
+      "indexable": true,
+      "internal_links": 12,
+      "main_links": 13
+    },
+    {
+      "page": "/utylizaciya-nekondicijnoyi-sirovini.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-nekondyciynoyi-produkciyi.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-obladnannya.html",
+      "indexable": true,
+      "internal_links": 17,
+      "main_links": 29
+    },
+    {
+      "page": "/utylizaciya-odyagu-vzuttya.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-ovochiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-paperu-ta-kartonu.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-parfumeriyi.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-partiyi-produktiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-paverbankiv-dbj.html",
+      "indexable": false,
+      "internal_links": 11,
+      "main_links": 12
+    },
+    {
+      "page": "/utylizaciya-plastyku-ta-polimeriv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-produktiv-na-skladi.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-prostrochenoyi-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-prostrochenyh-produktiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-pyva.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-rybnyh-produktiv.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 12
+    },
+    {
+      "page": "/utylizaciya-shin.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-shyn-pidpryyemstvamy.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-shyn.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-skla.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "indexable": true,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-skladskyh-zalyshkiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-sokiv-ta-napoyiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-sokiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-tary-upakovki.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-tovariv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "indexable": true,
+      "internal_links": 10,
+      "main_links": 11
+    },
+    {
+      "page": "/utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-upakovky-vid-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-vantazhnyh-shyn.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-vidpracovanoi-olyvy.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-vidpracovanyh-masel.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-vody.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-vyrobnychyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-yagid.html",
+      "indexable": false,
+      "internal_links": 9,
+      "main_links": 10
+    },
+    {
+      "page": "/utylizaciya-zamorozhenyh-produktiv.html",
+      "indexable": true,
+      "internal_links": 12,
+      "main_links": 13
+    },
+    {
+      "page": "/utylizaciya-zipsovanyh-produktiv.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 12
+    },
+    {
+      "page": "/utylizaciya.html",
+      "indexable": true,
+      "internal_links": 84,
+      "main_links": 88
+    },
+    {
+      "page": "/vidhody-demontazhu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vidhody-gumy.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vidhody-polimeriv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vidhody-vyrobnyctva.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vidhody.html",
+      "indexable": true,
+      "internal_links": 50,
+      "main_links": 38
+    },
+    {
+      "page": "/vidy-kabelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vidy-plastykovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vnutrishniy-akt-spysannya.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vtorynna-syrovyna-z-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vymogy-do-zberigannya-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/vyviz-budivelnyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/yak-oformyty-spysannya-partiyi.html",
+      "indexable": true,
+      "internal_links": 12,
+      "main_links": 28
+    },
+    {
+      "page": "/yak-peredaty-kosmetyku.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 23
+    },
+    {
+      "page": "/yak-peredaty-li-ion-batarei.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 23
+    },
+    {
+      "page": "/yak-peredaty-skladski-zalyshky.html",
+      "indexable": true,
+      "internal_links": 11,
+      "main_links": 25
+    },
+    {
+      "page": "/zberigannya-vidpracovanyh-masel.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-kabelyu.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-kartonu-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-metalu-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-plastyku-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-promyslovyh-vidhodiv.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-shyn-na-pidpryyemstvi.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-sklyanoyi-tary.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir-vidpracovanoyi-olyvy.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    },
+    {
+      "page": "/zbir.html",
+      "indexable": true,
+      "internal_links": 44,
+      "main_links": 22
+    },
+    {
+      "page": "/znyshchennya-kosmetyky.html",
+      "indexable": false,
+      "internal_links": 6,
+      "main_links": 6
+    }
+  ]
+}

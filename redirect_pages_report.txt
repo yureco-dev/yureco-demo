@@ -1,0 +1,576 @@
+FILE: articles/index.html
+REDIRECT_TYPE: meta-refresh
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/articles
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-avtoshyn.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-avtoshyn.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-budivelnyh-vidhodiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-budivelnyh-vidhodiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-derevyny-z-budivnyctva.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-derevyny-z-budivnyctva.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-dokumentiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-dokumentiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-energetychnyh-napoyiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-energetychnyh-napoyiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-fruktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-fruktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-fruktiv-ta-ovochiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-fruktiv-ta-ovochiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-gazovanyh-napoyiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-gazovanyh-napoyiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-gipsokartonu.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-gipsokartonu.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-harchovyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-harchovyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-kabelyu-ta-drotiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-kabelyu-ta-drotiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-kondyterskyh-vyrobiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-kondyterskyh-vyrobiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-konserviv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-konserviv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-kosmetiki.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-kosmetiki.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-kosmetyky.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-kosmetyky.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-kosmetyky-magazyniv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-kosmetyky-magazyniv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-li-ion-batarej.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-li-ion-batarej.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-materialiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-materialiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-metalevoyi-strushky.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-metalevoyi-strushky.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-metalu.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-metalu.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-molochnyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-molochnyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-myasnyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-myasnyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-napivfabrykatyv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-napivfabrykatyv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-napoyiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-napoyiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-nekondicijnoyi-sirovini.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-nekondicijnoyi-sirovini.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-nekondyciynoyi-produkciyi.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-nekondyciynoyi-produkciyi.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-obladnannya.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-obladnannya.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-odyagu-vzuttya.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-odyagu-vzuttya.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-ovochiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-ovochiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-paperu-ta-kartonu.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-paperu-ta-kartonu.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-parfumeriyi.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-parfumeriyi.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-partiyi-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-partiyi-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-paverbankiv-dbj.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-plastyku-ta-polimeriv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-plastyku-ta-polimeriv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-produktiv-na-skladi.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-produktiv-na-skladi.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-promyslovyh-vidhodiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-promyslovyh-vidhodiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-prostrochenoyi-kosmetyky.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-prostrochenoyi-kosmetyky.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-prostrochenyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-prostrochenyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-pyva.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-pyva.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-rybnyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-rybnyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-shin.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-shin.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-shyn.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-shyn.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-shyn-pidpryyemstvamy.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-shyn-pidpryyemstvamy.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-shyny.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-shyny.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-skla.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-skla.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-skladskyh-zalyshkiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-sokiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-sokiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-sokiv-ta-napoyiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-sokiv-ta-napoyiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-tary-upakovki.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-tary-upakovki.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-tovariv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-tovariv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-upakovky-na-pidpryyemstvi.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-upakovky-na-pidpryyemstvi.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-upakovky-vid-kosmetyky.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-upakovky-vid-kosmetyky.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vantazhnyh-shyn.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vantazhnyh-shyn.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vidpracovane-maslo.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovane-maslo.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vidpracovanoi-olyvy.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovanoi-olyvy.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vidpracovanyh-masel.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovanyh-masel.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vody.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vody.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-vyrobnychyh-vidhodiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-vyrobnychyh-vidhodiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-yagid.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-yagid.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-zamorozhenyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-zamorozhenyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: kudy-zdaty-zipsovanyh-produktiv.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/kudy-zdaty-zipsovanyh-produktiv.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: li-ion.html
+REDIRECT_TYPE: meta-refresh
+ROBOTS: noindex, follow
+CANONICAL: https://guide.youreco.com.ua/li-ion.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: yes
+
+FILE: shyny.html
+REDIRECT_TYPE: meta-refresh
+ROBOTS: noindex, follow
+CANONICAL: https://guide.youreco.com.ua/shyny.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: yes
+
+FILE: utylizaciya-kosmetiki.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/utylizaciya-kosmetiki.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+
+FILE: utylizaciya-shin.html
+REDIRECT_TYPE: mixed
+ROBOTS: 
+CANONICAL: https://guide.youreco.com.ua/utylizaciya-shin.html
+IN_SITEMAP: no
+HAS_INDEX: no
+HAS_NOINDEX: no
+

@@ -30,14 +30,32 @@ fi
 SSH_PORT="${SSH_PORT:-22}"
 RSYNC_RSH="${RSYNC_RSH:-ssh -p ${SSH_PORT}}"
 
-rsync -avz --delete \
-  --exclude '.git/' \
-  --exclude 'guide/' \
-  --exclude 'deploy.sh' \
-  -e "${RSYNC_RSH}" \
-  ./ "${SSH_USER}@${SSH_HOST}:${MAIN_REMOTE_DIR%/}/"
+python3 scripts/build_public.py
 
 rsync -avz --delete \
   --exclude '.git/' \
+  --exclude '.vscode/' \
+  --exclude '.env.example' \
+  --exclude '*.ps1' \
+  --exclude '*.md' \
+  --exclude '*.txt' \
+  --exclude '*.csv' \
+  --exclude '*.json' \
+  --exclude 'deploy.sh' \
+  --exclude 'CHANGELOG.md' \
+  -e "${RSYNC_RSH}" \
+  ./public/ "${SSH_USER}@${SSH_HOST}:${MAIN_REMOTE_DIR%/}/"
+
+rsync -avz --delete \
+  --exclude '.git/' \
+  --exclude '.vscode/' \
+  --exclude '.env.example' \
+  --exclude '*.ps1' \
+  --exclude '*.md' \
+  --exclude '*.txt' \
+  --exclude '*.csv' \
+  --exclude '*.json' \
+  --exclude 'deploy.sh' \
+  --exclude 'CHANGELOG.md' \
   -e "${RSYNC_RSH}" \
   ./guide/ "${SSH_USER}@${SSH_HOST}:${GUIDE_REMOTE_DIR%/}/"

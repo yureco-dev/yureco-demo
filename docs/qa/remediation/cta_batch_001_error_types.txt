@@ -1,0 +1,10 @@
+akt-pryimannya-peredachi.html | no-cta-block
+akt-utylizaciyi.html | no-cta-block
+chy-potribno-pererobyty-chy-utylizuvaty.html | no-cta-block
+fotozvit-utylizaciyi.html | no-cta-block
+index.html | topic-mismatch
+kabelni-vidhody.html | topic-mismatch
+kontakty.html | topic-mismatch
+likvidaciya-skladskykh-zalyshkiv.html | no-cta-block
+logistyka\index.html | topic-mismatch
+logistyka-metalu.html | topic-mismatch

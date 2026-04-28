@@ -4,5 +4,5 @@ services:
     runtime: static
     repo: https://github.com/yureco-dev/yureco-demo.git
     branch: main
-    buildCommand: ""
-    staticPublishPath: ./
+    buildCommand: "python3 scripts/build_public.py"
+    staticPublishPath: ./public

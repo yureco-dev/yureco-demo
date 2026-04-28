@@ -1,0 +1,12 @@
+LAYOUT_TYPE: TYPE_C
+FILE_1: articles/index.html
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE_2: li-ion.html
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: yes
+
+ISSUE_TYPE: inconsistent_template_usage

@@ -1,3 +1,10 @@
+# BEGIN YOURECO_TECHNICAL_CLEANUP
+RedirectMatch 403 (?i)^/(public|\.git|\.vscode)(/|$)
+RedirectMatch 403 (?i)^/(\.env\.example|deploy\.sh|CHANGELOG\.md)$
+RedirectMatch 403 (?i)^/(?!robots\.txt$).+\.txt$
+RedirectMatch 403 (?i)^/.+\.(ps1|md|csv|json|sh)$
+# END YOURECO_TECHNICAL_CLEANUP
+
 # BEGIN YOURECO_AUTO_REDIRECTS
 Redirect 301 /articles/index.html /
 RedirectMatch 301 ^/articles/(.*)$ /

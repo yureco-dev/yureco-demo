@@ -1,0 +1,1464 @@
+FILE: akt-pryimannya-peredachi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: akt-utylizaciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: articles/index.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: chy-potribno-pererobyty-chy-utylizuvaty.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: dokumenty.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: dokumenty-dlya-utylizaciyi-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: fotozvit-utylizaciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: index.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: kabelni-vidhody.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: kontakty.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: kudy-zdaty.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: kudy-zdaty-avtoshyn.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-derevyny-z-budivnyctva.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-dokumentiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-energetychnyh-napoyiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-fruktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-fruktiv-ta-ovochiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-gazovanyh-napoyiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-gipsokartonu.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-harchovyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-kabelyu-ta-drotiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-kondyterskyh-vyrobiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-konserviv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-kosmetiki.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-kosmetyky.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-kosmetyky-magazyniv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-li-ion-batarej.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-materialiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-metalevoyi-strushky.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-metalu.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-molochnyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-myasnyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-napivfabrykatyv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-napoyiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-nekondicijnoyi-sirovini.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-nekondyciynoyi-produkciyi.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-obladnannya.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-odyagu-vzuttya.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-ovochiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-paperu-ta-kartonu.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-parfumeriyi.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-partiyi-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-plastyku-ta-polimeriv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-produktiv-na-skladi.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-prostrochenoyi-kosmetyky.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-prostrochenyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-pyva.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-rybnyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-shin.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-shyn.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-shyn-pidpryyemstvamy.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-shyny.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-skla.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-sokiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-sokiv-ta-napoyiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-tary-upakovki.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-tovariv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-upakovky-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-upakovky-vid-kosmetyky.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vantazhnyh-shyn.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vidpracovane-maslo.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vidpracovanoi-olyvy.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vidpracovanyh-masel.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vody.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-vyrobnychyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-yagid.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-zamorozhenyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: kudy-zdaty-zipsovanyh-produktiv.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: li-ion.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: yes
+
+FILE: likvidaciya-skladskykh-zalyshkiv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: logistyka.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: logistyka/index.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: logistyka-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-metalu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-paperu-ta-kartonu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-plastyku.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: logistyka-skla.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: nebezpeka-vidpracovanogo-masla.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: oblik-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: optymizaciya-vidhodiv-na-vyrobnyctvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: pererobka/index.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: pererobka-alyuminiyevogo-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-avtomobilnyh-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-betonu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-cegly.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-gumovyh-vyrobiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-izolyaciyi-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-kartonu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-makulatury.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-metalu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-midnogo-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-pet.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-plastykovoyi-upakovky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-polietylenu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-polipropylenu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-polistyrolu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-skla.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pererobka-vidpracovanyh-masel.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: plastykovi-vidhody.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: plastyk-yak-vtorynna-syrovyna.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: podribnennya-shyn-gumova-kryshka.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: povernennya-tovariv-z-merezhi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: promyslovi-vidhody.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: promyslovi-vidhody-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: pryjom-kabelyu-na-utylizaciyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: reestr-partiyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: scenarii-utilizaciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: shcho-take-pererobka-vidhodiv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: shcho-take-promyslovi-vidhody.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: shcho-take-utylizaciya.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: shcho-take-znyshchennya-produkciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: shyny.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: yes
+
+FILE: skilky-koshtuye-pererobka-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: skladuvannya-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: sortuvannya.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: sortuvannya/index.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: sortuvannya-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: sortuvannya-plastyku.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: sortuvannya-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: spysannya-kosmetychnyh-tovariv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: spysannya-produkciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: spysannya-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: transportuvannya-vidpracovanyh-masel.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: transportuvannya-vidpracovanyh-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utilizaciya-brakovanoi-produkciyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-bankiv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-data-centriv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-importeriv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-riteylu.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-skladiv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utilizaciya-dlya-vyrobnyctva.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya/index.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya-akumulyatoriv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya-avtoshyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-derevyny-z-budivnyctva.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-dokumentiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-elektroniky.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya-energetychnyh-napoyiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-fruktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-fruktiv-ta-ovochiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-gazovanyh-napoyiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-gipsokartonu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-harchovyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-importnyh-tovariv.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: utylizaciya-kabelyu-ta-drotiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-kondyterskyh-vyrobiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-konfidenciynykh-dokumentiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-konserviv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-kosmetiki.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: utylizaciya-kosmetyky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-kosmetyky-magazyniv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-li-ion-batarej.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-materialiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-metalevoyi-strushky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-metalu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-molochnyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-myasnyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-napivfabrykatyv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-napoyiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-nekondicijnoyi-sirovini.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-nekondyciynoyi-produkciyi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-obladnannya.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-odyagu-vzuttya.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-ofisnih-mebliv-orgtehniki.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-ovochiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-paperu-ta-kartonu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-parfumeriyi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-partiyi-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-paverbankiv-dbj.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-plastyku-ta-polimeriv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-produktiv-harchuvannya-napoyiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-produktiv-na-skladi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-prostrochenoyi-kosmetyky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-prostrochenyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-pyva.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-rybnyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-shin.html
+LAYOUT_TYPE: TYPE_C
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: yes
+
+FILE: utylizaciya-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-shyn-pidpryyemstvamy.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-skla.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-skladskyh-zalyshkiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-sokiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-sokiv-ta-napoyiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-sonyachnih-panelij-vitryakiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-tary-upakovki.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-tovariv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-tovary-pid-mitnim-kontrolem.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-upakovky-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-upakovky-vid-kosmetyky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-vantazhnyh-shyn.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-vidpracovanoi-olyvy.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-vidpracovanyh-masel.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-vody.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-vyrobnychyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-yagid.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-zamorozhenyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: utylizaciya-zipsovanyh-produktiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidhody.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: vidhody-demontazhu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidhody-gumy.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidhody-polimeriv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidhody-vyrobnyctva.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidy-kabelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vidy-plastykovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vnutrishniy-akt-spysannya.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vtorynna-syrovyna-z-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vymogy-do-zberigannya-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: vyviz-budivelnyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: yak-oformyty-spysannya-partiyi.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: yak-peredaty-kosmetyku.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: yak-peredaty-li-ion-batarei.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: yak-peredaty-skladski-zalyshky.html
+LAYOUT_TYPE: TYPE_D
+SIDEBAR: no
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: zberigannya-vidpracovanyh-masel.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir.html
+LAYOUT_TYPE: TYPE_A
+SIDEBAR: yes
+PLACEHOLDER: no
+REDIRECT: no
+
+FILE: zbir-kabelyu.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-kartonu-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-metalu-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-plastyku-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-promyslovyh-vidhodiv.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-shyn-na-pidpryyemstvi.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-sklyanoyi-tary.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: zbir-vidpracovanoyi-olyvy.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+
+FILE: znyshchennya-kosmetyky.html
+LAYOUT_TYPE: TYPE_B
+SIDEBAR: no
+PLACEHOLDER: yes
+REDIRECT: no
+

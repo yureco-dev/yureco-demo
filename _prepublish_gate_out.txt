@@ -1,0 +1,24 @@
+=== SELF_REFERENTIAL_METADATA_GATE (exit=1) ===
+  FAIL: 102 mismatch(es)
+    MISMATCH akt-pryimannya-peredachi.html  missing=['schema/json-ld url']
+    MISMATCH akt-utylizaciyi.html  missing=['schema/json-ld url']
+    MISMATCH chy-potribno-pererobyty-chy-utylizuvaty.html  missing=['schema/json-ld url']
+    MISMATCH dokumenty.html  missing=['schema/json-ld url']
+    MISMATCH fotozvit-utylizaciyi.html  missing=['schema/json-ld url']
+    ... and 97 more
+=== SCHEMA_JSONLD_URL_GATE (exit=0) ===
+  PASS: SCHEMA_JSONLD_URL_PRESENT_OK
+=== PLACEHOLDER_DETECTION_GATE (exit=0) ===
+  PASS: PLACEHOLDER_DETECTION_OK
+=== MOJIBAKE_DETECTION_GATE (exit=0) ===
+  PASS: MOJIBAKE_DETECTION_OK
+=== CTA_MISMATCH_DETECTION_GATE (exit=1) ===
+  FAIL: 4 mismatch(es)
+    CTA_MISMATCH_DETECTED index.html reasons=["topic-mismatch  h1='������� YOURECO ��� ���������� � �������� ��� ���������'  cta='�������� ��������� ������ ����������'"]
+    CTA_MISMATCH_DETECTED public\index.html reasons=["topic-mismatch  h1='������� YOURECO ��� ���������� � �������� ��� ���������'  cta='�������� ��������� ������ ����������'"]
+    CTA_MISMATCH_DETECTED public\vidhody.html reasons=["topic-mismatch  h1='���� ������ � ���������� � ����'  cta='³�����'"]
+    CTA_MISMATCH_DETECTED vidhody.html reasons=["topic-mismatch  h1='���� ������ � ���������� � ����'  cta='³�����'"]
+=== REDIRECT_SITEMAP_GATE (exit=0) ===
+  PASS: REDIRECT_PAGES_NOT_PRESENT_IN_SITEMAP_OK
+
+PREPUBLISH_VALIDATION_LAYER_FAIL
