@@ -18,7 +18,13 @@ RedirectMatch 403 (?i)^/.+\.(ps1|md|csv|json|sh)$
 
 # BEGIN YOURECO_AUTO_REDIRECTS
 Redirect 301 /articles/index.html /
-RedirectMatch 301 ^/articles/(.*)$ /
+Redirect 301 /articles/utylizaciya-tovary-pid-mitnim-kontrolem.html /utylizaciya-tovary-pid-mitnim-kontrolem.html
+Redirect 301 /articles/utylizaciya-paverbankiv-dbj.html /utylizaciya-paverbankiv-dbj.html
+Redirect 301 /articles/utylizaciya-sonyachnih-panelij-vitryakiv.html /utylizaciya-sonyachnih-panelij-vitryakiv.html
+Redirect 301 /articles/utylizaciya-shin.html /utylizaciya-shyn.html
+Redirect 301 /articles/utylizaciya-ofisnih-mebliv-orgtehniki.html /utylizaciya-ofisnih-mebliv-orgtehniki.html
+Redirect 301 /articles/shyny.html /utylizaciya-shyn.html
+Redirect 301 /articles/li-ion.html /utylizaciya-li-ion-batarej.html
 Redirect 301 /kudy-zdaty-avtoshyn.html /utylizaciya-avtoshyn.html
 Redirect 301 /kudy-zdaty-budivelnyh-vidhodiv.html /utylizaciya-budivelnyh-vidhodiv.html
 Redirect 301 /kudy-zdaty-derevyny-z-budivnyctva.html /utylizaciya-derevyny-z-budivnyctva.html
@@ -88,6 +94,17 @@ Redirect 301 /kudy-zdaty-zamorozhenyh-produktiv.html /utylizaciya-zamorozhenyh-p
 Redirect 301 /kudy-zdaty-zipsovanyh-produktiv.html /utylizaciya-zipsovanyh-produktiv.html
 Redirect 301 /li-ion.html /utylizaciya-li-ion-batarej.html
 Redirect 301 /shyny.html /utylizaciya-shyn.html
+Redirect 301 /utylizaciya-kabelyu-drotiv.html /utylizaciya-kabelyu-ta-drotiv.html
 Redirect 301 /utylizaciya-kosmetiki.html /utylizaciya-kosmetyky.html
+Redirect 301 /utylizaciya-nekondicijnoyi-syrovini.html /utylizaciya-nekondicijnoyi-sirovini.html
 Redirect 301 /utylizaciya-shin.html /utylizaciya-shyn.html
+Redirect 301 /utylizaciya-vidpracovanoyi-oliyi.html /utylizaciya-vidpracovanoi-olyvy.html
+Redirect 301 /yak-pereroblyayut-avtoshyn.html /pererobka-avtomobilnyh-shyn.html
+Redirect 301 /yak-pereroblyayut-konservy.html /utylizaciya-konserviv.html
+Redirect 301 /yak-pereroblyayut-plastyku-ta-polimery.html /utylizaciya-plastyku-ta-polimeriv.html
+Redirect 301 /yak-pereroblyayut-promyslovi-vidhody.html /utylizaciya-promyslovyh-vidhodiv.html
+Redirect 301 /yak-pereroblyayut-prostrochenyh-produktiv.html /utylizaciya-prostrochenyh-produktiv.html
+Redirect 301 /yak-pereroblyayut-skla.html /pererobka-skla.html
+Redirect 301 /yak-pereroblyayut-skladskyh-zalyshkiv-kosmetyky.html /utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+RedirectMatch 301 ^/articles/(.*)$ /
 # END YOURECO_AUTO_REDIRECTS

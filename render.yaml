@@ -33,8 +33,26 @@ services:
         source: /articles/index.html
         destination: /
       - type: redirect
-        source: /articles/*
-        destination: /
+        source: /articles/utylizaciya-tovary-pid-mitnim-kontrolem.html
+        destination: /utylizaciya-tovary-pid-mitnim-kontrolem.html
+      - type: redirect
+        source: /articles/utylizaciya-paverbankiv-dbj.html
+        destination: /utylizaciya-paverbankiv-dbj.html
+      - type: redirect
+        source: /articles/utylizaciya-sonyachnih-panelij-vitryakiv.html
+        destination: /utylizaciya-sonyachnih-panelij-vitryakiv.html
+      - type: redirect
+        source: /articles/utylizaciya-shin.html
+        destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /articles/utylizaciya-ofisnih-mebliv-orgtehniki.html
+        destination: /utylizaciya-ofisnih-mebliv-orgtehniki.html
+      - type: redirect
+        source: /articles/shyny.html
+        destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /articles/li-ion.html
+        destination: /utylizaciya-li-ion-batarej.html
       - type: redirect
         source: /kudy-zdaty-kosmetiki.html
         destination: /utylizaciya-kosmetyky.html
@@ -57,8 +75,41 @@ services:
         source: /shyny.html
         destination: /utylizaciya-shyn.html
       - type: redirect
+        source: /utylizaciya-kabelyu-drotiv.html
+        destination: /utylizaciya-kabelyu-ta-drotiv.html
+      - type: redirect
         source: /utylizaciya-kosmetiki.html
         destination: /utylizaciya-kosmetyky.html
       - type: redirect
+        source: /utylizaciya-nekondicijnoyi-syrovini.html
+        destination: /utylizaciya-nekondicijnoyi-sirovini.html
+      - type: redirect
         source: /utylizaciya-shin.html
         destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /utylizaciya-vidpracovanoyi-oliyi.html
+        destination: /utylizaciya-vidpracovanoi-olyvy.html
+      - type: redirect
+        source: /yak-pereroblyayut-avtoshyn.html
+        destination: /pererobka-avtomobilnyh-shyn.html
+      - type: redirect
+        source: /yak-pereroblyayut-konservy.html
+        destination: /utylizaciya-konserviv.html
+      - type: redirect
+        source: /yak-pereroblyayut-plastyku-ta-polimery.html
+        destination: /utylizaciya-plastyku-ta-polimeriv.html
+      - type: redirect
+        source: /yak-pereroblyayut-promyslovi-vidhody.html
+        destination: /utylizaciya-promyslovyh-vidhodiv.html
+      - type: redirect
+        source: /yak-pereroblyayut-prostrochenyh-produktiv.html
+        destination: /utylizaciya-prostrochenyh-produktiv.html
+      - type: redirect
+        source: /yak-pereroblyayut-skla.html
+        destination: /pererobka-skla.html
+      - type: redirect
+        source: /yak-pereroblyayut-skladskyh-zalyshkiv-kosmetyky.html
+        destination: /utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+      - type: redirect
+        source: /articles/*
+        destination: /
