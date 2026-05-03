@@ -1,3 +1,14 @@
+# BEGIN YOURECO_SECURITY_HEADERS
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+  Header always set Content-Security-Policy "default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self'; upgrade-insecure-requests"
+  Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+# END YOURECO_SECURITY_HEADERS
+
 # BEGIN YOURECO_TECHNICAL_CLEANUP
 RedirectMatch 403 (?i)^/(public|\.git|\.vscode)(/|$)
 RedirectMatch 403 (?i)^/(\.env\.example|deploy\.sh|CHANGELOG\.md)$

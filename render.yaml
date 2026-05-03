@@ -6,3 +6,59 @@ services:
     branch: main
     buildCommand: "python3 scripts/build_public.py"
     staticPublishPath: ./public
+    headers:
+      - path: /*
+        name: Strict-Transport-Security
+        value: max-age=31536000; includeSubDomains
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /*
+        name: Permissions-Policy
+        value: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+      - path: /*
+        name: Content-Security-Policy
+        value: default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self'; upgrade-insecure-requests
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+    routes:
+      - type: redirect
+        source: /articles
+        destination: /
+      - type: redirect
+        source: /articles/index.html
+        destination: /
+      - type: redirect
+        source: /articles/*
+        destination: /
+      - type: redirect
+        source: /kudy-zdaty-kosmetiki.html
+        destination: /utylizaciya-kosmetyky.html
+      - type: redirect
+        source: /kudy-zdaty-shin.html
+        destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /kudy-zdaty-shyny.html
+        destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /kudy-zdaty-vidpracovane-maslo.html
+        destination: /utylizaciya-vidpracovanoi-olyvy.html
+      - type: redirect
+        source: /kudy-zdaty-*
+        destination: /utylizaciya-*
+      - type: redirect
+        source: /li-ion.html
+        destination: /utylizaciya-li-ion-batarej.html
+      - type: redirect
+        source: /shyny.html
+        destination: /utylizaciya-shyn.html
+      - type: redirect
+        source: /utylizaciya-kosmetiki.html
+        destination: /utylizaciya-kosmetyky.html
+      - type: redirect
+        source: /utylizaciya-shin.html
+        destination: /utylizaciya-shyn.html

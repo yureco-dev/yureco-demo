@@ -1,0 +1,481 @@
+{
+  "audit": "post-liion-wrong-topic-audit",
+  "build_command": "python scripts/build_public.py",
+  "scope": "all public HTML; main content links separated from sidebar; requested hub blocks included by nearest heading",
+  "total_real_wrong_topic_links": 33,
+  "total_generic_hub_placeholder_links_main_content": 538,
+  "generic_hub_placeholder_counts_by_href": {
+    "/logistyka.html": 138,
+    "/utylizaciya.html": 226,
+    "/pererobka.html": 60,
+    "/sortuvannya.html": 76,
+    "/zbir.html": 38
+  },
+  "clean_confirmed": {
+    "pererobka.html": true,
+    "kudy-zdaty.html": true,
+    "sortuvannya.html": true,
+    "utylizaciya-akumulyatoriv.html": true,
+    "yak-peredaty-li-ion-batarei.html": true,
+    "utylizaciya-elektroniky.html": true
+  },
+  "top_source_pages_with_remaining_real_wrong_topic_links": [
+    [
+      "public/vidhody.html",
+      8
+    ],
+    [
+      "public/utylizaciya-napoyiv.html",
+      6
+    ],
+    [
+      "public/utilizaciya-dlya-bankiv.html",
+      4
+    ],
+    [
+      "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      3
+    ],
+    [
+      "public/yak-oformyty-spysannya-partiyi.html",
+      3
+    ],
+    [
+      "public/kontakty.html",
+      2
+    ],
+    [
+      "public/utilizaciya-dlya-data-centriv.html",
+      2
+    ],
+    [
+      "public/utylizaciya-konfidenciynykh-dokumentiv.html",
+      2
+    ],
+    [
+      "public/utylizaciya-obladnannya.html",
+      2
+    ],
+    [
+      "public/utylizaciya-importnyh-tovariv.html",
+      1
+    ]
+  ],
+  "remaining_real_wrong_topic_links": [
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "У чому різниця між переробкою та утилізацією",
+      "anchor_text": "що таке переробка відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-pererobka-vidhodiv.html",
+      "reason": "anchor about pererobka points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Коли застосовується переробка",
+      "anchor_text": "як відбувається переробка відходів",
+      "current_href": "/pererobka.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Коли застосовується утилізація",
+      "anchor_text": "як відбувається утилізація продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/kontakty.html",
+      "area": "main content",
+      "block_context": "Читайте також",
+      "anchor_text": "Огляд: Утилізація промислових відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-promyslovyh-vidhodiv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/kontakty.html",
+      "area": "main content",
+      "block_context": "Читайте також",
+      "anchor_text": "Утилізація шин",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-shyn.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Типові сценарії утилізації для банків",
+      "anchor_text": "утилізація офісної техніки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Типові сценарії утилізації для банків",
+      "anchor_text": "що таке знищення продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Пов’язані маршрути передачі продукції",
+      "anchor_text": "утилізація офісної техніки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Пов’язані маршрути передачі продукції",
+      "anchor_text": "що таке знищення продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-data-centriv.html",
+      "area": "main content",
+      "block_context": "Типові сценарії утилізації для галузі",
+      "anchor_text": "утилізація Li-ion батарей",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-li-ion-batarej.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-data-centriv.html",
+      "area": "main content",
+      "block_context": "Пов’язані маршрути передачі продукції",
+      "anchor_text": "утилізація Li-ion батарей",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-li-ion-batarej.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-importnyh-tovariv.html",
+      "area": "main content",
+      "block_context": "Пов'язані сторінки",
+      "anchor_text": "утилізація товарів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tovariv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "area": "main content",
+      "block_context": "Пов’язані матеріали",
+      "anchor_text": "Облік промислових відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/oblik-promyslovyh-vidhodiv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "area": "main content",
+      "block_context": "Пов’язані матеріали",
+      "anchor_text": "Знищення косметики",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/znyshchennya-kosmetyky.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Контекстні переходи за темою напоїв",
+      "anchor_text": "утилізація тари та упаковки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tary-upakovki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Контекстні переходи за темою напоїв",
+      "anchor_text": "утилізація скла",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-skla.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Контекстні переходи за темою напоїв",
+      "anchor_text": "утилізація пластику",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-plastyku-ta-polimeriv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Дивіться також",
+      "anchor_text": "Утилізація тари та упаковки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tary-upakovki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Дивіться також",
+      "anchor_text": "Утилізація скляної тари",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tary-upakovki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-napoyiv.html",
+      "area": "main content",
+      "block_context": "Дивіться також",
+      "anchor_text": "Утилізація пластикової тари",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tary-upakovki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-obladnannya.html",
+      "area": "main content",
+      "block_context": "Дивіться також",
+      "anchor_text": "утилізація промислового обладнання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-obladnannya.html",
+      "area": "main content",
+      "block_context": "Дивіться також",
+      "anchor_text": "утилізація офісної техніки та меблів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Пластикові відходи",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/plastykovi-vidhody.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Промислові відходи на підприємстві: облік і правила",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи демонтажу: сортування та утилізація",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-demontazhu.html",
+      "reason": "anchor about sortuvannya points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи гуми: що відноситься і як утилізують",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-gumy.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи полімерів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-polimeriv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи виробництва: класифікація та приклади",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-vyrobnyctva.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Що означають основні терміни поводження з відходами",
+      "anchor_text": "Що таке промислові відходи",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/promyslovi-vidhody.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Що означають основні терміни поводження з відходами",
+      "anchor_text": "Що таке переробка відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-pererobka-vidhodiv.html",
+      "reason": "anchor about pererobka points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Які документи входять до пакета списання",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Як підготувати внутрішні документи",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Як підтверджується утилізація продукції",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    }
+  ],
+  "recommended_next_batch": [
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Пластикові відходи",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/plastykovi-vidhody.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Промислові відходи на підприємстві: облік і правила",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи демонтажу: сортування та утилізація",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-demontazhu.html",
+      "reason": "anchor about sortuvannya points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи гуми: що відноситься і як утилізують",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-gumy.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи полімерів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-polimeriv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Сторінки розділу",
+      "anchor_text": "Відходи виробництва: класифікація та приклади",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vidhody-vyrobnyctva.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Що означають основні терміни поводження з відходами",
+      "anchor_text": "Що таке промислові відходи",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/promyslovi-vidhody.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/vidhody.html",
+      "area": "main content",
+      "block_context": "Що означають основні терміни поводження з відходами",
+      "anchor_text": "Що таке переробка відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-pererobka-vidhodiv.html",
+      "reason": "anchor about pererobka points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    }
+  ],
+  "target_missing_links": [],
+  "disallowed_changes_during_audit": "no",
+  "cyrillic": "not corrupted"
+}

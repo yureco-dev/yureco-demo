@@ -108,6 +108,83 @@ def normalize_href(href: str) -> str:
     return normalize_runtime_path(href, is_current=False)
 
 
+def fallback_target(normalized_current_path: str) -> str:
+    if normalized_current_path == "index.html":
+        return "index.html"
+    if normalized_current_path == "kontakty.html":
+        return "index.html"
+    if normalized_current_path == "dokumenty.html" or normalized_current_path.startswith("dokumenty-"):
+        return "dokumenty.html"
+    if normalized_current_path == "zbir.html" or normalized_current_path.startswith("zbir-"):
+        return "zbir.html"
+    if (
+        normalized_current_path == "vidhody.html"
+        or normalized_current_path.startswith("vidhody-")
+        or normalized_current_path.startswith("promyslovi-vidhody")
+        or normalized_current_path.startswith("oblik-")
+        or normalized_current_path.startswith("optymizaciya-")
+        or normalized_current_path.startswith("skladuvannya-")
+        or normalized_current_path.startswith("vtorynna-syrovyna-")
+        or normalized_current_path.startswith("vymogy-do-zberigannya-")
+        or normalized_current_path == "kabelni-vidhody.html"
+    ):
+        return "vidhody.html"
+    if normalized_current_path == "kudy-zdaty.html" or normalized_current_path.startswith("kudy-zdaty-"):
+        return "kudy-zdaty.html"
+    if (
+        normalized_current_path.startswith("sortuvannya/")
+        or normalized_current_path.startswith("sortuvannya-")
+        or normalized_current_path == "sortuvannya.html"
+    ):
+        return "sortuvannya/index.html"
+    if (
+        normalized_current_path.startswith("logistyka/")
+        or normalized_current_path.startswith("logistyka-")
+        or normalized_current_path == "logistyka.html"
+    ):
+        return "logistyka/index.html"
+    if (
+        normalized_current_path.startswith("pererobka/")
+        or normalized_current_path.startswith("pererobka-")
+        or normalized_current_path == "pererobka.html"
+        or normalized_current_path == "chy-potribno-pererobyty-chy-utylizuvaty.html"
+    ):
+        return "pererobka/index.html"
+    if (
+        normalized_current_path.startswith("yak-")
+        or normalized_current_path.startswith("spysannya-")
+        or normalized_current_path.startswith("likvidaciya-")
+        or normalized_current_path.startswith("povernennya-")
+        or normalized_current_path.startswith("akt-")
+        or normalized_current_path.startswith("fotozvit-")
+    ):
+        return "utylizaciya/index.html"
+    if (
+        normalized_current_path.startswith("utylizaciya/")
+        or normalized_current_path.startswith("utylizaciya-")
+        or normalized_current_path.startswith("utilizaciya-")
+        or normalized_current_path == "utylizaciya.html"
+    ):
+        return "utylizaciya/index.html"
+    return ""
+
+
+def runtime_active_matches(links: list[LinkInfo], current_rel_path: str) -> list[LinkInfo]:
+    current_norm = normalize_runtime_path(current_rel_path, is_current=True)
+    matches = [link for link in links if normalize_runtime_path(link.href, is_current=False) == current_norm]
+    if matches:
+        return matches
+
+    fallback_path = fallback_target(current_norm)
+    if not fallback_path:
+        return []
+
+    fallback_matches = [
+        link for link in links if normalize_runtime_path(link.href, is_current=False) == fallback_path
+    ]
+    return fallback_matches[:1]
+
+
 def file_exists_for_href(href: str) -> bool:
     if not href or "://" in href:
         return True
@@ -165,8 +242,7 @@ def main() -> None:
         if parser.links:
             sidebar_pages_checked += 1
             static_active_count = sum(1 for link in parser.links if link.active or link.aria_current == "page")
-            current_norm = normalize_runtime_path(rel, is_current=True)
-            runtime_matches = [link for link in parser.links if normalize_runtime_path(link.href, is_current=False) == current_norm]
+            runtime_matches = runtime_active_matches(parser.links, rel)
             runtime_active_count = 1 if runtime_matches else 0
 
             if runtime_active_count == 1:
@@ -199,8 +275,7 @@ def main() -> None:
         hub_path = PUBLIC / hub_rel
         if hub_path.exists() and hub_path in parsed:
             parser = parsed[hub_path]
-            current_norm = normalize_runtime_path(hub_rel, is_current=True)
-            runtime_matches = [link for link in parser.links if normalize_runtime_path(link.href, is_current=False) == current_norm]
+            runtime_matches = runtime_active_matches(parser.links, hub_rel)
             active_count = 1 if runtime_matches else 0
             section_hub_results[section] = {
                 "exists": True,

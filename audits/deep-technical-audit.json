@@ -1,0 +1,4285 @@
+{
+  "metrics": {
+    "source_html_count": 245,
+    "public_html_count": 173,
+    "internal_links_count": 6385,
+    "broken_links": 110,
+    "missing_targets": 110,
+    "pages_with_sidebar": 140,
+    "pages_without_sidebar": 33,
+    "standard_sidebar_pages": 140,
+    "non_standard_sidebar_pages": 0,
+    "active_item_issues": 140,
+    "HTML_validity_issues": 0,
+    "encoding_issues": 0,
+    "asset_issues": 0,
+    "canonical_technical_issues": 177,
+    "sitemap_technical_issues": 8,
+    "build_issues": 1,
+    "critical_blockers_count": 0,
+    "high_issues_count": 174,
+    "medium_issues_count": 59,
+    "low_issues_count": 129,
+    "sitemap_urls_count": 51,
+    "source_only_html": 72,
+    "public_only_html": 0,
+    "links_to_public": 0,
+    "invalid_path_syntax": 0,
+    "duplicate_target_URLs": 131
+  },
+  "build_status": "PASS: PUBLIC_BUILD_OK files=180 html=173; second run PASS; nondeterministic build diff: no visible git status change beyond baseline",
+  "source_only_html": [
+    "articles/index.html",
+    "kudy-zdaty-avtoshyn.html",
+    "kudy-zdaty-budivelnyh-vidhodiv.html",
+    "kudy-zdaty-derevyny-z-budivnyctva.html",
+    "kudy-zdaty-dokumentiv.html",
+    "kudy-zdaty-energetychnyh-napoyiv.html",
+    "kudy-zdaty-fruktiv-ta-ovochiv.html",
+    "kudy-zdaty-fruktiv.html",
+    "kudy-zdaty-gazovanyh-napoyiv.html",
+    "kudy-zdaty-gipsokartonu.html",
+    "kudy-zdaty-harchovyh-produktiv.html",
+    "kudy-zdaty-kabelyu-ta-drotiv.html",
+    "kudy-zdaty-kondyterskyh-vyrobiv.html",
+    "kudy-zdaty-konserviv.html",
+    "kudy-zdaty-kosmetiki.html",
+    "kudy-zdaty-kosmetyky-magazyniv.html",
+    "kudy-zdaty-kosmetyky.html",
+    "kudy-zdaty-li-ion-batarej.html",
+    "kudy-zdaty-materialiv.html",
+    "kudy-zdaty-metalevoyi-strushky.html",
+    "kudy-zdaty-metalu.html",
+    "kudy-zdaty-molochnyh-produktiv.html",
+    "kudy-zdaty-myasnyh-produktiv.html",
+    "kudy-zdaty-napivfabrykatyv.html",
+    "kudy-zdaty-napoyiv.html",
+    "kudy-zdaty-nekondicijnoyi-sirovini.html",
+    "kudy-zdaty-nekondyciynoyi-produkciyi.html",
+    "kudy-zdaty-obladnannya.html",
+    "kudy-zdaty-odyagu-vzuttya.html",
+    "kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+    "kudy-zdaty-ovochiv.html",
+    "kudy-zdaty-paperu-ta-kartonu.html",
+    "kudy-zdaty-parfumeriyi.html",
+    "kudy-zdaty-partiyi-produktiv.html",
+    "kudy-zdaty-paverbankiv-dbj.html",
+    "kudy-zdaty-plastyku-ta-polimeriv.html",
+    "kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+    "kudy-zdaty-produktiv-na-skladi.html",
+    "kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+    "kudy-zdaty-promyslovyh-vidhodiv.html",
+    "kudy-zdaty-prostrochenoyi-kosmetyky.html",
+    "kudy-zdaty-prostrochenyh-produktiv.html",
+    "kudy-zdaty-pyva.html",
+    "kudy-zdaty-rybnyh-produktiv.html",
+    "kudy-zdaty-shin.html",
+    "kudy-zdaty-shyn-pidpryyemstvamy.html",
+    "kudy-zdaty-shyn.html",
+    "kudy-zdaty-shyny.html",
+    "kudy-zdaty-skla.html",
+    "kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+    "kudy-zdaty-skladskyh-zalyshkiv.html",
+    "kudy-zdaty-sokiv-ta-napoyiv.html",
+    "kudy-zdaty-sokiv.html",
+    "kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+    "kudy-zdaty-tary-upakovki.html",
+    "kudy-zdaty-tovariv.html",
+    "kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+    "kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+    "kudy-zdaty-upakovky-vid-kosmetyky.html",
+    "kudy-zdaty-vantazhnyh-shyn.html",
+    "kudy-zdaty-vidpracovane-maslo.html",
+    "kudy-zdaty-vidpracovanoi-olyvy.html",
+    "kudy-zdaty-vidpracovanyh-masel.html",
+    "kudy-zdaty-vody.html",
+    "kudy-zdaty-vyrobnychyh-vidhodiv.html",
+    "kudy-zdaty-yagid.html",
+    "kudy-zdaty-zamorozhenyh-produktiv.html",
+    "kudy-zdaty-zipsovanyh-produktiv.html",
+    "li-ion.html",
+    "shyny.html",
+    "utylizaciya-kosmetiki.html",
+    "utylizaciya-shin.html"
+  ],
+  "public_only_html": [],
+  "build_issues": [
+    {
+      "issue": "source HTML missing in public",
+      "files": [
+        "articles/index.html",
+        "kudy-zdaty-avtoshyn.html",
+        "kudy-zdaty-budivelnyh-vidhodiv.html",
+        "kudy-zdaty-derevyny-z-budivnyctva.html",
+        "kudy-zdaty-dokumentiv.html",
+        "kudy-zdaty-energetychnyh-napoyiv.html",
+        "kudy-zdaty-fruktiv-ta-ovochiv.html",
+        "kudy-zdaty-fruktiv.html",
+        "kudy-zdaty-gazovanyh-napoyiv.html",
+        "kudy-zdaty-gipsokartonu.html",
+        "kudy-zdaty-harchovyh-produktiv.html",
+        "kudy-zdaty-kabelyu-ta-drotiv.html",
+        "kudy-zdaty-kondyterskyh-vyrobiv.html",
+        "kudy-zdaty-konserviv.html",
+        "kudy-zdaty-kosmetiki.html",
+        "kudy-zdaty-kosmetyky-magazyniv.html",
+        "kudy-zdaty-kosmetyky.html",
+        "kudy-zdaty-li-ion-batarej.html",
+        "kudy-zdaty-materialiv.html",
+        "kudy-zdaty-metalevoyi-strushky.html",
+        "kudy-zdaty-metalu.html",
+        "kudy-zdaty-molochnyh-produktiv.html",
+        "kudy-zdaty-myasnyh-produktiv.html",
+        "kudy-zdaty-napivfabrykatyv.html",
+        "kudy-zdaty-napoyiv.html",
+        "kudy-zdaty-nekondicijnoyi-sirovini.html",
+        "kudy-zdaty-nekondyciynoyi-produkciyi.html",
+        "kudy-zdaty-obladnannya.html",
+        "kudy-zdaty-odyagu-vzuttya.html",
+        "kudy-zdaty-ofisnih-mebliv-orgtehniki.html",
+        "kudy-zdaty-ovochiv.html",
+        "kudy-zdaty-paperu-ta-kartonu.html",
+        "kudy-zdaty-parfumeriyi.html",
+        "kudy-zdaty-partiyi-produktiv.html",
+        "kudy-zdaty-paverbankiv-dbj.html",
+        "kudy-zdaty-plastyku-ta-polimeriv.html",
+        "kudy-zdaty-produktiv-harchuvannya-napoyiv.html",
+        "kudy-zdaty-produktiv-na-skladi.html",
+        "kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html",
+        "kudy-zdaty-promyslovyh-vidhodiv.html",
+        "kudy-zdaty-prostrochenoyi-kosmetyky.html",
+        "kudy-zdaty-prostrochenyh-produktiv.html",
+        "kudy-zdaty-pyva.html",
+        "kudy-zdaty-rybnyh-produktiv.html",
+        "kudy-zdaty-shin.html",
+        "kudy-zdaty-shyn-pidpryyemstvamy.html",
+        "kudy-zdaty-shyn.html",
+        "kudy-zdaty-shyny.html",
+        "kudy-zdaty-skla.html",
+        "kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html",
+        "kudy-zdaty-skladskyh-zalyshkiv.html",
+        "kudy-zdaty-sokiv-ta-napoyiv.html",
+        "kudy-zdaty-sokiv.html",
+        "kudy-zdaty-sonyachnih-panelij-vitryakiv.html",
+        "kudy-zdaty-tary-upakovki.html",
+        "kudy-zdaty-tovariv.html",
+        "kudy-zdaty-tovary-pid-mitnim-kontrolem.html",
+        "kudy-zdaty-upakovky-na-pidpryyemstvi.html",
+        "kudy-zdaty-upakovky-vid-kosmetyky.html",
+        "kudy-zdaty-vantazhnyh-shyn.html",
+        "kudy-zdaty-vidpracovane-maslo.html",
+        "kudy-zdaty-vidpracovanoi-olyvy.html",
+        "kudy-zdaty-vidpracovanyh-masel.html",
+        "kudy-zdaty-vody.html",
+        "kudy-zdaty-vyrobnychyh-vidhodiv.html",
+        "kudy-zdaty-yagid.html",
+        "kudy-zdaty-zamorozhenyh-produktiv.html",
+        "kudy-zdaty-zipsovanyh-produktiv.html",
+        "li-ion.html",
+        "shyny.html",
+        "utylizaciya-kosmetiki.html",
+        "utylizaciya-shin.html"
+      ],
+      "severity": "HIGH"
+    }
+  ],
+  "broken_links": [
+    {
+      "file": "akt-pryimannya-peredachi.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "index.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "kabelni-vidhody.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "type": "missing target"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "viber://chat?number=+380631359521",
+      "target": "viber://chat",
+      "type": "missing target"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "type": "missing target"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-metalu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-paperu-ta-kartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-plastyku.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka-skla.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "logistyka/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "nebezpeka-vidpracovanogo-masla.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "oblik-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-alyuminiyevogo-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-avtomobilnyh-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-betonu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-cegly.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-gumovyh-vyrobiv.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-izolyaciyi-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka-kartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "pererobka/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "plastykovi-vidhody.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "promyslovi-vidhody-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "pryjom-kabelyu-na-utylizaciyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "skladuvannya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "sortuvannya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "spysannya-kosmetychnyh-tovariv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "type": "missing target"
+    },
+    {
+      "file": "spysannya-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-avtoshyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-derevyny-z-budivnyctva.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-dokumentiv.html",
+      "url": "https://youreco.com.ua/dokumenty",
+      "target": "/dokumenty",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-energetychnyh-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-fruktiv-ta-ovochiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-fruktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-gazovanyh-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-gipsokartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-harchovyh-produktiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-kondyterskyh-vyrobiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-konfidenciynykh-dokumentiv.html",
+      "url": "https://youreco.com.ua/dokumenty",
+      "target": "/dokumenty",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-konserviv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-kosmetyky-magazyniv.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-li-ion-batarej.html",
+      "url": "https://youreco.com.ua/li-ion-batarei",
+      "target": "/li-ion-batarei",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-metalevoyi-strushky.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-molochnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-myasnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-napivfabrykatyv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-nekondicijnoyi-sirovini.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-nekondyciynoyi-produkciyi.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-importeriv/",
+      "target": "/utylizatsiya-dlya-importeriv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-obladnannya.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-odyagu-vzuttya.html",
+      "url": "https://youreco.com.ua/odyag",
+      "target": "/odyag",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "url": "https://youreco.com.ua/orgtehniky",
+      "target": "/orgtehniky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-ovochiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-parfumeriyi.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-partiyi-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "url": "https://youreco.com.ua/paverbanki",
+      "target": "/paverbanki",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "url": "https://youreco.com.ua/li-ion-batarei",
+      "target": "/li-ion-batarei",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-produktiv-na-skladi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "url": "https://youreco.com.ua/obladnannya",
+      "target": "/obladnannya",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-prostrochenoyi-kosmetyky.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-prostrochenyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-pyva.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-rybnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-skla.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-sokiv-ta-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-sokiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "url": "https://youreco.com.ua/paneli",
+      "target": "/paneli",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-tary-upakovki.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-tovariv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-importeriv/",
+      "target": "/utylizatsiya-dlya-importeriv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-upakovky-vid-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-vantazhnyh-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-vidpracovanoi-olyvy.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-vyrobnychyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-yagid.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-zamorozhenyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya-zipsovanyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya.html",
+      "url": "https://youreco.com.ua/tovary",
+      "target": "/tovary",
+      "type": "missing target"
+    },
+    {
+      "file": "utylizaciya/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "vidhody-demontazhu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "vidy-kabelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "vymogy-do-zberigannya-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "vyviz-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "yak-peredaty-skladski-zalyshky.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "type": "missing target"
+    },
+    {
+      "file": "zbir-kartonu-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "zbir-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "type": "missing target"
+    },
+    {
+      "file": "zbir-shyn-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "type": "missing target"
+    },
+    {
+      "file": "zbir-sklyanoyi-tary.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "type": "missing target"
+    },
+    {
+      "file": "znyshchennya-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "type": "missing target"
+    }
+  ],
+  "missing_targets": [
+    {
+      "file": "akt-pryimannya-peredachi.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "index.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "kabelni-vidhody.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "expected": "public/kontakty"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "viber://chat?number=+380631359521",
+      "target": "viber://chat",
+      "expected": "public/viber:/chat"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "expected": "public/kontakty"
+    },
+    {
+      "file": "kontakty.html",
+      "url": "https://youreco.com.ua/kontakty",
+      "target": "/kontakty",
+      "expected": "public/kontakty"
+    },
+    {
+      "file": "logistyka-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "logistyka-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "logistyka-metalu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "logistyka-paperu-ta-kartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "logistyka-plastyku.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "logistyka-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "logistyka-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "logistyka-skla.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "logistyka/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "nebezpeka-vidpracovanogo-masla.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "oblik-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka-alyuminiyevogo-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka-avtomobilnyh-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "pererobka-betonu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka-cegly.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka-gumovyh-vyrobiv.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "pererobka-izolyaciyi-kabelyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka-kartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "pererobka.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pererobka.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "pererobka/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "plastykovi-vidhody.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "promyslovi-vidhody-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "pryjom-kabelyu-na-utylizaciyu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "skladuvannya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "sortuvannya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "spysannya-kosmetychnyh-tovariv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "expected": "public/utylizatsiya-dlya-riteylu/index.html"
+    },
+    {
+      "file": "spysannya-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-avtoshyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "utylizaciya-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "utylizaciya-derevyny-z-budivnyctva.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "utylizaciya-dokumentiv.html",
+      "url": "https://youreco.com.ua/dokumenty",
+      "target": "/dokumenty",
+      "expected": "public/dokumenty"
+    },
+    {
+      "file": "utylizaciya-energetychnyh-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-fruktiv-ta-ovochiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-fruktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-gazovanyh-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-gipsokartonu.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "utylizaciya-harchovyh-produktiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "expected": "public/utylizatsiya-dlya-riteylu/index.html"
+    },
+    {
+      "file": "utylizaciya-kondyterskyh-vyrobiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-konfidenciynykh-dokumentiv.html",
+      "url": "https://youreco.com.ua/dokumenty",
+      "target": "/dokumenty",
+      "expected": "public/dokumenty"
+    },
+    {
+      "file": "utylizaciya-konserviv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-kosmetyky-magazyniv.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    },
+    {
+      "file": "utylizaciya-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    },
+    {
+      "file": "utylizaciya-li-ion-batarej.html",
+      "url": "https://youreco.com.ua/li-ion-batarei",
+      "target": "/li-ion-batarei",
+      "expected": "public/li-ion-batarei"
+    },
+    {
+      "file": "utylizaciya-metalevoyi-strushky.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "utylizaciya-molochnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-myasnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-napivfabrykatyv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "utylizaciya-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-nekondicijnoyi-sirovini.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "utylizaciya-nekondyciynoyi-produkciyi.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-importeriv/",
+      "target": "/utylizatsiya-dlya-importeriv/",
+      "expected": "public/utylizatsiya-dlya-importeriv/index.html"
+    },
+    {
+      "file": "utylizaciya-obladnannya.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "utylizaciya-odyagu-vzuttya.html",
+      "url": "https://youreco.com.ua/odyag",
+      "target": "/odyag",
+      "expected": "public/odyag"
+    },
+    {
+      "file": "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "url": "https://youreco.com.ua/orgtehniky",
+      "target": "/orgtehniky",
+      "expected": "public/orgtehniky"
+    },
+    {
+      "file": "utylizaciya-ovochiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-parfumeriyi.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    },
+    {
+      "file": "utylizaciya-partiyi-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "url": "https://youreco.com.ua/paverbanki",
+      "target": "/paverbanki",
+      "expected": "public/paverbanki"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "url": "https://youreco.com.ua/li-ion-batarei",
+      "target": "/li-ion-batarei",
+      "expected": "public/li-ion-batarei"
+    },
+    {
+      "file": "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-produktiv-na-skladi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "url": "https://youreco.com.ua/obladnannya",
+      "target": "/obladnannya",
+      "expected": "public/obladnannya"
+    },
+    {
+      "file": "utylizaciya-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "utylizaciya-prostrochenoyi-kosmetyky.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-riteylu/",
+      "target": "/utylizatsiya-dlya-riteylu/",
+      "expected": "public/utylizatsiya-dlya-riteylu/index.html"
+    },
+    {
+      "file": "utylizaciya-prostrochenyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-pyva.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-rybnyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-skla.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "utylizaciya-sokiv-ta-napoyiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-sokiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "url": "https://youreco.com.ua/paneli",
+      "target": "/paneli",
+      "expected": "public/paneli"
+    },
+    {
+      "file": "utylizaciya-tary-upakovki.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "utylizaciya-tovariv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-importeriv/",
+      "target": "/utylizatsiya-dlya-importeriv/",
+      "expected": "public/utylizatsiya-dlya-importeriv/index.html"
+    },
+    {
+      "file": "utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "utylizaciya-upakovky-vid-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    },
+    {
+      "file": "utylizaciya-vantazhnyh-shyn.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "utylizaciya-vidpracovanoi-olyvy.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "utylizaciya-vyrobnychyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/",
+      "target": "/utylizatsiya-dlya-vyrobnytstv/",
+      "expected": "public/utylizatsiya-dlya-vyrobnytstv/index.html"
+    },
+    {
+      "file": "utylizaciya-yagid.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-zamorozhenyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya-zipsovanyh-produktiv.html",
+      "url": "https://youreco.com.ua/harchovy",
+      "target": "/harchovy",
+      "expected": "public/harchovy"
+    },
+    {
+      "file": "utylizaciya.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "utylizaciya.html",
+      "url": "https://youreco.com.ua/tovary",
+      "target": "/tovary",
+      "expected": "public/tovary"
+    },
+    {
+      "file": "utylizaciya/index.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "vidhody-demontazhu.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "vidy-kabelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "vymogy-do-zberigannya-vidhodiv.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "vyviz-budivelnyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "yak-peredaty-skladski-zalyshky.html",
+      "url": "https://youreco.com.ua/utylizatsiya-dlya-skladiv/",
+      "target": "/utylizatsiya-dlya-skladiv/",
+      "expected": "public/utylizatsiya-dlya-skladiv/index.html"
+    },
+    {
+      "file": "zbir-kartonu-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "zbir-promyslovyh-vidhodiv.html",
+      "url": "https://youreco.com.ua/promyslovi",
+      "target": "/promyslovi",
+      "expected": "public/promyslovi"
+    },
+    {
+      "file": "zbir-shyn-na-pidpryyemstvi.html",
+      "url": "https://youreco.com.ua/shyn",
+      "target": "/shyn",
+      "expected": "public/shyn"
+    },
+    {
+      "file": "zbir-sklyanoyi-tary.html",
+      "url": "https://youreco.com.ua/upakovky",
+      "target": "/upakovky",
+      "expected": "public/upakovky"
+    },
+    {
+      "file": "znyshchennya-kosmetyky.html",
+      "url": "https://youreco.com.ua/kosmetyky",
+      "target": "/kosmetyky",
+      "expected": "public/kosmetyky"
+    }
+  ],
+  "path_issues": [],
+  "pages_without_sidebar": [
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "title": "Документи для утилізації відходів — Довідник YOURECO",
+      "h1": "Документи для утилізації відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "nebezpeka-vidpracovanogo-masla.html",
+      "title": "Небезпека відпрацьованої оливи — Довідник YOURECO",
+      "h1": "Небезпека відпрацьованої оливи",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "plastyk-yak-vtorynna-syrovyna.html",
+      "title": "Пластик як вторинна сировина — Довідник YOURECO",
+      "h1": "Пластик як вторинна сировина",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "plastykovi-vidhody.html",
+      "title": "Пластикові відходи — Довідник YOURECO",
+      "h1": "Пластикові відходи",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "podribnennya-shyn-gumova-kryshka.html",
+      "title": "Подрібнення шин та гумова крихта — Довідник YOURECO",
+      "h1": "Подрібнення шин та гумова крихта",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "promyslovi-vidhody-na-pidpryyemstvi.html",
+      "title": "Промислові відходи на підприємстві: облік і правила — Довідник YOURECO",
+      "h1": "Промислові відходи на підприємстві: облік і правила",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "pryjom-kabelyu-na-utylizaciyu.html",
+      "title": "Приймання кабелю на утилізацію — Довідник YOURECO",
+      "h1": "Приймання кабелю на утилізацію",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "reestr-partiyi.html",
+      "title": "Реєстр партії відходів: що містить цей документ — Довідник YOURECO",
+      "h1": "Реєстр партії відходів: що містить цей документ",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "scenarii-utilizaciyi.html",
+      "title": "Типові сценарії передачі продукції та матеріалів на утилізацію — Довідник YOURECO",
+      "h1": "Типові сценарії передачі продукції та матеріалів на утилізацію",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "shcho-take-pererobka-vidhodiv.html",
+      "title": "Що таке переробка відходів: як працює цей процес — Довідник YOURECO",
+      "h1": "Що таке переробка відходів: як працює цей процес",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "shcho-take-promyslovi-vidhody.html",
+      "title": "Що таке промислові відходи: як підприємства визначають цей потік — Довідник YOURECO",
+      "h1": "Що таке промислові відходи: як підприємства визначають цей потік",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "shcho-take-utylizaciya.html",
+      "title": "Що таке утилізація: як підприємства розуміють цю операцію — Довідник YOURECO",
+      "h1": "Що таке утилізація: як підприємства розуміють цю операцію",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "shcho-take-znyshchennya-produkciyi.html",
+      "title": "Що таке знищення продукції: коли застосовується ця процедура — Довідник YOURECO",
+      "h1": "Що таке знищення продукції: коли застосовується ця процедура",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "skilky-koshtuye-pererobka-kabelyu.html",
+      "title": "Від чого залежить порядок передання кабелю на переробку — Довідник YOURECO",
+      "h1": "Від чого залежить порядок передання кабелю на переробку",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "sortuvannya-budivelnyh-vidhodiv.html",
+      "title": "Сортування будівельного відходи — Довідник YOURECO",
+      "h1": "Сортування будівельного відходи",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "sortuvannya-plastyku.html",
+      "title": "Сортування пластику — Довідник YOURECO",
+      "h1": "Сортування пластику",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "spysannya-kosmetychnyh-tovariv.html",
+      "title": "Списання косметичних товарів — Довідник YOURECO",
+      "h1": "Списання косметичних товарів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "spysannya-produktiv.html",
+      "title": "Списання продуктів: як правильно оформити — Довідник YOURECO",
+      "h1": "Списання продуктів: як правильно оформити",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "transportuvannya-vidpracovanyh-masel.html",
+      "title": "Транспортування відпрацьованих олив — Довідник YOURECO",
+      "h1": "Транспортування відпрацьованих олив",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "transportuvannya-vidpracovanyh-shyn.html",
+      "title": "Транспортування відпрацьованих шин — Довідник YOURECO",
+      "h1": "Транспортування відпрацьованих шин",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "utylizaciya-dokumentiv.html",
+      "title": "Як оформлюється утилізація конфіденційних документів — Довідник YOURECO",
+      "h1": "Як оформлюється утилізація конфіденційних документів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "utylizaciya-metalevoyi-strushky.html",
+      "title": "Куди передають металеву стружку на утилізацію — Довідник YOURECO",
+      "h1": "Куди передають металеву стружку на утилізацію",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidhody-demontazhu.html",
+      "title": "Відходи демонтажу: сортування та порядок передання — Довідник YOURECO",
+      "h1": "Відходи демонтажу: сортування та порядок передання",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidhody-gumy.html",
+      "title": "Відходи гуми: що відноситься і як утилізують — Довідник YOURECO",
+      "h1": "Відходи гуми: що відноситься і як утилізують",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidhody-polimeriv.html",
+      "title": "Відходи полімерів — Довідник YOURECO",
+      "h1": "Відходи полімерів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidhody-vyrobnyctva.html",
+      "title": "Відходи виробництва: класифікація та приклади — Довідник YOURECO",
+      "h1": "Відходи виробництва: класифікація та приклади",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidy-kabelnyh-vidhodiv.html",
+      "title": "Види кабельних відходів — Довідник YOURECO",
+      "h1": "Види кабельних відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vidy-plastykovyh-vidhodiv.html",
+      "title": "Види пластикових відходів — Довідник YOURECO",
+      "h1": "Види пластикових відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vnutrishniy-akt-spysannya.html",
+      "title": "Внутрішній акт списання: коли використовується перед передачею відходів — Довідник YOURECO",
+      "h1": "Внутрішній акт списання: коли використовується перед передачею відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "title": "Вторинна сировина з будівельних відходів — Довідник YOURECO",
+      "h1": "Вторинна сировина з будівельних відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "vyviz-budivelnyh-vidhodiv.html",
+      "title": "Як організовується передання будівельних відходів — Довідник YOURECO",
+      "h1": "Як організовується передання будівельних відходів",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "zberigannya-vidpracovanyh-masel.html",
+      "title": "Зберігання відпрацьованих олив — Довідник YOURECO",
+      "h1": "Зберігання відпрацьованих олив",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    },
+    {
+      "file": "znyshchennya-kosmetyky.html",
+      "title": "Знищення косметики: коли потрібне і які документи — Довідник YOURECO",
+      "h1": "Знищення косметики: коли потрібне і які документи",
+      "noindex": true,
+      "in_sitemap": false,
+      "priority": "LOW",
+      "reason": "sidebar block not found"
+    }
+  ],
+  "sidebar_mismatches": [],
+  "active_item_issues": [
+    {
+      "file": "akt-pryimannya-peredachi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "akt-utylizaciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "dokumenty.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "fotozvit-utylizaciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "index.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "kabelni-vidhody.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "kontakty.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "kudy-zdaty.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "likvidaciya-skladskykh-zalyshkiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "logistyka-budivelnyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-kabelyu.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-metalu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "logistyka-paperu-ta-kartonu.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-plastyku.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-shyn.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "LOW"
+    },
+    {
+      "file": "logistyka-skla.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "logistyka.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "logistyka/index.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "oblik-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-alyuminiyevogo-kabelyu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-avtomobilnyh-shyn.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-betonu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-cegly.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "pererobka-gumovyh-vyrobiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-izolyaciyi-kabelyu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-kartonu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-makulatury.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-metalu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-midnogo-kabelyu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-pet.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-plastykovoyi-upakovky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-polietylenu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-polipropylenu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-polistyrolu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-shyn.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-skla.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka-vidpracovanyh-masel.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "pererobka.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "pererobka/index.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "povernennya-tovariv-z-merezhi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "promyslovi-vidhody.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "skladuvannya-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "sortuvannya-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "sortuvannya.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "sortuvannya/index.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "spysannya-produkciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-brakovanoi-produkciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-bankiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-data-centriv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-importeriv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-riteylu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-skladiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utilizaciya-dlya-vyrobnyctva.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-akumulyatoriv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-avtoshyn.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-budivelnyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-derevyny-z-budivnyctva.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-elektroniky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-energetychnyh-napoyiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-fruktiv-ta-ovochiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-fruktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-gazovanyh-napoyiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-gipsokartonu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-harchovyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-importnyh-tovariv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-kabelyu-ta-drotiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-kondyterskyh-vyrobiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-konfidenciynykh-dokumentiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-konserviv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-kosmetyky-magazyniv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-kosmetyky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-li-ion-batarej.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-materialiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-metalu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-molochnyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-myasnyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-napivfabrykatyv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-napoyiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-nekondicijnoyi-sirovini.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-nekondyciynoyi-produkciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-obladnannya.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-odyagu-vzuttya.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-ovochiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-paperu-ta-kartonu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-parfumeriyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-partiyi-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-plastyku-ta-polimeriv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-produktiv-na-skladi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-prostrochenoyi-kosmetyky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-prostrochenyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-pyva.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-rybnyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-shyn-pidpryyemstvamy.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-shyn.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-skla.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-sokiv-ta-napoyiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-sokiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-tary-upakovki.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-tovariv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-upakovky-vid-kosmetyky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-vantazhnyh-shyn.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-vidpracovanoi-olyvy.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-vidpracovanyh-masel.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-vody.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-vyrobnychyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-yagid.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "utylizaciya-zamorozhenyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya-zipsovanyh-produktiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "utylizaciya/index.html",
+      "issue": "active item count != 1",
+      "count": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "vidhody.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "vymogy-do-zberigannya-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "yak-oformyty-spysannya-partiyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "yak-peredaty-kosmetyku.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "yak-peredaty-li-ion-batarei.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "yak-peredaty-skladski-zalyshky.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    },
+    {
+      "file": "yak-vidbuvayetsya-utylizaciya-produkciyi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-kabelyu.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-kartonu-na-pidpryyemstvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-metalu-na-pidpryyemstvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-plastyku-na-pidpryyemstvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-promyslovyh-vidhodiv.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-shyn-na-pidpryyemstvi.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-sklyanoyi-tary.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir-vidpracovanoyi-olyvy.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "LOW"
+    },
+    {
+      "file": "zbir.html",
+      "issue": "active item count != 1",
+      "count": 0,
+      "priority": "MEDIUM"
+    }
+  ],
+  "html_dom_issues": [],
+  "encoding_issues": [],
+  "canonical_issues": [
+    {
+      "file": "akt-pryimannya-peredachi.html",
+      "canonical": "https://guide.youreco.com.ua/akt-pryimannya-peredachi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "akt-utylizaciyi.html",
+      "canonical": "https://guide.youreco.com.ua/akt-utylizaciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "canonical": "https://guide.youreco.com.ua/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/dokumenty-dlya-utylizaciyi-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "dokumenty.html",
+      "canonical": "https://guide.youreco.com.ua/dokumenty.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "fotozvit-utylizaciyi.html",
+      "canonical": "https://guide.youreco.com.ua/fotozvit-utylizaciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "index.html",
+      "canonical": "https://guide.youreco.com.ua",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "kabelni-vidhody.html",
+      "canonical": "https://guide.youreco.com.ua/kabelni-vidhody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "kontakty.html",
+      "canonical": "https://guide.youreco.com.ua/kontakty.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "kudy-zdaty.html",
+      "canonical": "https://guide.youreco.com.ua/kudy-zdaty.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "likvidaciya-skladskykh-zalyshkiv.html",
+      "canonical": "https://guide.youreco.com.ua/likvidaciya-skladskykh-zalyshkiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-budivelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-budivelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-metalu.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-metalu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-paperu-ta-kartonu.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-paperu-ta-kartonu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-plastyku.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-plastyku.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka-skla.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka-skla.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka/index.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "logistyka/index.html",
+      "canonical": "https://guide.youreco.com.ua/logistyka",
+      "issue": "non-self canonical",
+      "severity": "MEDIUM"
+    },
+    {
+      "file": "nebezpeka-vidpracovanogo-masla.html",
+      "canonical": "https://guide.youreco.com.ua/nebezpeka-vidpracovanogo-masla.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "oblik-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/oblik-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "canonical": "https://guide.youreco.com.ua/optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-alyuminiyevogo-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-alyuminiyevogo-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-avtomobilnyh-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-avtomobilnyh-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-betonu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-betonu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-cegly.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-cegly.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-gumovyh-vyrobiv.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-gumovyh-vyrobiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-izolyaciyi-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-izolyaciyi-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-kartonu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-kartonu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-makulatury.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-makulatury.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-metalu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-metalu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-midnogo-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-midnogo-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-pet.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-pet.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-plastykovoyi-upakovky.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-plastykovoyi-upakovky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-polietylenu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-polietylenu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-polipropylenu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-polipropylenu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-polistyrolu.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-polistyrolu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-skla.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-skla.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka-vidpracovanyh-masel.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka-vidpracovanyh-masel.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka/index.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pererobka/index.html",
+      "canonical": "https://guide.youreco.com.ua/pererobka",
+      "issue": "non-self canonical",
+      "severity": "MEDIUM"
+    },
+    {
+      "file": "plastyk-yak-vtorynna-syrovyna.html",
+      "canonical": "https://guide.youreco.com.ua/plastyk-yak-vtorynna-syrovyna.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "plastykovi-vidhody.html",
+      "canonical": "https://guide.youreco.com.ua/plastykovi-vidhody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "podribnennya-shyn-gumova-kryshka.html",
+      "canonical": "https://guide.youreco.com.ua/podribnennya-shyn-gumova-kryshka.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "povernennya-tovariv-z-merezhi.html",
+      "canonical": "https://guide.youreco.com.ua/povernennya-tovariv-z-merezhi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "promyslovi-vidhody-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/promyslovi-vidhody-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "promyslovi-vidhody.html",
+      "canonical": "https://guide.youreco.com.ua/promyslovi-vidhody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "pryjom-kabelyu-na-utylizaciyu.html",
+      "canonical": "https://guide.youreco.com.ua/pryjom-kabelyu-na-utylizaciyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "reestr-partiyi.html",
+      "canonical": "https://guide.youreco.com.ua/reestr-partiyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "scenarii-utilizaciyi.html",
+      "canonical": "https://guide.youreco.com.ua/scenarii-utilizaciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "shcho-take-pererobka-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/shcho-take-pererobka-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "shcho-take-promyslovi-vidhody.html",
+      "canonical": "https://guide.youreco.com.ua/shcho-take-promyslovi-vidhody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "shcho-take-utylizaciya.html",
+      "canonical": "https://guide.youreco.com.ua/shcho-take-utylizaciya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "shcho-take-znyshchennya-produkciyi.html",
+      "canonical": "https://guide.youreco.com.ua/shcho-take-znyshchennya-produkciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "skilky-koshtuye-pererobka-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/skilky-koshtuye-pererobka-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "skladuvannya-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/skladuvannya-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya-budivelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya-budivelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya-plastyku.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya-plastyku.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya/index.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "sortuvannya/index.html",
+      "canonical": "https://guide.youreco.com.ua/sortuvannya",
+      "issue": "non-self canonical",
+      "severity": "MEDIUM"
+    },
+    {
+      "file": "spysannya-kosmetychnyh-tovariv.html",
+      "canonical": "https://guide.youreco.com.ua/spysannya-kosmetychnyh-tovariv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "spysannya-produkciyi.html",
+      "canonical": "https://guide.youreco.com.ua/spysannya-produkciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "spysannya-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/spysannya-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "transportuvannya-vidpracovanyh-masel.html",
+      "canonical": "https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-masel.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "transportuvannya-vidpracovanyh-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-brakovanoi-produkciyi.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-brakovanoi-produkciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-bankiv.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-bankiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-data-centriv.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-data-centriv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-importeriv.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-importeriv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-riteylu.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-riteylu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-skladiv.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-skladiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utilizaciya-dlya-vyrobnyctva.html",
+      "canonical": "https://guide.youreco.com.ua/utilizaciya-dlya-vyrobnyctva.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-akumulyatoriv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-akumulyatoriv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-avtoshyn.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-avtoshyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-budivelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-budivelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-derevyny-z-budivnyctva.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-derevyny-z-budivnyctva.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-dokumentiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-dokumentiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-elektroniky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-elektroniky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-energetychnyh-napoyiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-fruktiv-ta-ovochiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-fruktiv-ta-ovochiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-fruktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-fruktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-gazovanyh-napoyiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-gazovanyh-napoyiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-gipsokartonu.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-gipsokartonu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-harchovyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-harchovyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-importnyh-tovariv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-importnyh-tovariv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-kabelyu-ta-drotiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-kabelyu-ta-drotiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-kondyterskyh-vyrobiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-kondyterskyh-vyrobiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-konfidenciynykh-dokumentiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-konfidenciynykh-dokumentiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-konserviv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-konserviv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-kosmetyky-magazyniv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-kosmetyky-magazyniv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-kosmetyky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-kosmetyky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-li-ion-batarej.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-materialiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-materialiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-metalevoyi-strushky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-metalevoyi-strushky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-metalu.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-metalu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-molochnyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-molochnyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-myasnyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-myasnyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-napivfabrykatyv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-napivfabrykatyv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-napoyiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-napoyiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-nekondicijnoyi-sirovini.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-nekondyciynoyi-produkciyi.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-nekondyciynoyi-produkciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-obladnannya.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-obladnannya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-odyagu-vzuttya.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-odyagu-vzuttya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-ovochiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-ovochiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-paperu-ta-kartonu.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-paperu-ta-kartonu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-parfumeriyi.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-parfumeriyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-partiyi-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-partiyi-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-paverbankiv-dbj.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-paverbankiv-dbj.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-plastyku-ta-polimeriv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-plastyku-ta-polimeriv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-produktiv-harchuvannya-napoyiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-produktiv-na-skladi.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-produktiv-na-skladi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-prostrochenoyi-kosmetyky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-prostrochenoyi-kosmetyky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-prostrochenyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-pyva.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-pyva.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-rybnyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-rybnyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-shyn-pidpryyemstvamy.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-shyn-pidpryyemstvamy.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-skla.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-skla.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-skladskyh-zalyshkiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-sokiv-ta-napoyiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-sokiv-ta-napoyiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-sokiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-sokiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-sonyachnih-panelij-vitryakiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-tary-upakovki.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-tary-upakovki.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-tovariv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-tovariv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-tovary-pid-mitnim-kontrolem.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-upakovky-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-upakovky-vid-kosmetyky.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-upakovky-vid-kosmetyky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-vantazhnyh-shyn.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-vantazhnyh-shyn.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-vidpracovanoi-olyvy.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-vidpracovanyh-masel.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-vidpracovanyh-masel.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-vody.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-vody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-vyrobnychyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-vyrobnychyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-yagid.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-yagid.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-zamorozhenyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-zamorozhenyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya-zipsovanyh-produktiv.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya-zipsovanyh-produktiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya/index.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "utylizaciya/index.html",
+      "canonical": "https://guide.youreco.com.ua/utylizaciya",
+      "issue": "non-self canonical",
+      "severity": "MEDIUM"
+    },
+    {
+      "file": "vidhody-demontazhu.html",
+      "canonical": "https://guide.youreco.com.ua/vidhody-demontazhu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidhody-gumy.html",
+      "canonical": "https://guide.youreco.com.ua/vidhody-gumy.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidhody-polimeriv.html",
+      "canonical": "https://guide.youreco.com.ua/vidhody-polimeriv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidhody-vyrobnyctva.html",
+      "canonical": "https://guide.youreco.com.ua/vidhody-vyrobnyctva.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidhody.html",
+      "canonical": "https://guide.youreco.com.ua/vidhody.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidy-kabelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vidy-kabelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vidy-plastykovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vidy-plastykovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vnutrishniy-akt-spysannya.html",
+      "canonical": "https://guide.youreco.com.ua/vnutrishniy-akt-spysannya.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vtorynna-syrovyna-z-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vtorynna-syrovyna-z-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vymogy-do-zberigannya-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vymogy-do-zberigannya-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "vyviz-budivelnyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/vyviz-budivelnyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "yak-oformyty-spysannya-partiyi.html",
+      "canonical": "https://guide.youreco.com.ua/yak-oformyty-spysannya-partiyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "yak-peredaty-kosmetyku.html",
+      "canonical": "https://guide.youreco.com.ua/yak-peredaty-kosmetyku.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "yak-peredaty-li-ion-batarei.html",
+      "canonical": "https://guide.youreco.com.ua/yak-peredaty-li-ion-batarei.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "yak-peredaty-skladski-zalyshky.html",
+      "canonical": "https://guide.youreco.com.ua/yak-peredaty-skladski-zalyshky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "yak-vidbuvayetsya-utylizaciya-produkciyi.html",
+      "canonical": "https://guide.youreco.com.ua/yak-vidbuvayetsya-utylizaciya-produkciyi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zberigannya-vidpracovanyh-masel.html",
+      "canonical": "https://guide.youreco.com.ua/zberigannya-vidpracovanyh-masel.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-kabelyu.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-kabelyu.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-kartonu-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-kartonu-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-metalu-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-metalu-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-plastyku-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-plastyku-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-promyslovyh-vidhodiv.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-promyslovyh-vidhodiv.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-shyn-na-pidpryyemstvi.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-shyn-na-pidpryyemstvi.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-sklyanoyi-tary.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-sklyanoyi-tary.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir-vidpracovanoyi-olyvy.html",
+      "canonical": "https://guide.youreco.com.ua/zbir-vidpracovanoyi-olyvy.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "zbir.html",
+      "canonical": "https://guide.youreco.com.ua/zbir.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    },
+    {
+      "file": "znyshchennya-kosmetyky.html",
+      "canonical": "https://guide.youreco.com.ua/znyshchennya-kosmetyky.html",
+      "issue": "canonical domain mismatch",
+      "severity": "HIGH"
+    }
+  ],
+  "robots_issues": [],
+  "sitemap_issues": {
+    "sitemap_urls_count": 51,
+    "sitemap_missing_files": [],
+    "sitemap_noindex_urls": [],
+    "sitemap_non_self_canonical_urls": [],
+    "indexable_not_in_sitemap": [
+      {
+        "file": "logistyka/index.html",
+        "url": "/logistyka/index.html"
+      },
+      {
+        "file": "pererobka/index.html",
+        "url": "/pererobka/index.html"
+      },
+      {
+        "file": "sortuvannya/index.html",
+        "url": "/sortuvannya/index.html"
+      },
+      {
+        "file": "utylizaciya-materialiv.html",
+        "url": "/utylizaciya-materialiv.html"
+      },
+      {
+        "file": "utylizaciya-paverbankiv-dbj.html",
+        "url": "/utylizaciya-paverbankiv-dbj.html"
+      },
+      {
+        "file": "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+        "url": "/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html"
+      },
+      {
+        "file": "utylizaciya-tovariv.html",
+        "url": "/utylizaciya-tovariv.html"
+      },
+      {
+        "file": "utylizaciya/index.html",
+        "url": "/utylizaciya/index.html"
+      }
+    ]
+  },
+  "asset_issues": [],
+  "css_js_issues": [
+    {
+      "file": "styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".sidebar",
+      "severity": "LOW"
+    },
+    {
+      "file": "styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".menu",
+      "severity": "LOW"
+    },
+    {
+      "file": "styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".active",
+      "severity": "LOW"
+    },
+    {
+      "file": "styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": "main",
+      "severity": "LOW"
+    },
+    {
+      "file": "public/styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".sidebar",
+      "severity": "LOW"
+    },
+    {
+      "file": "public/styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".menu",
+      "severity": "LOW"
+    },
+    {
+      "file": "public/styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": ".active",
+      "severity": "LOW"
+    },
+    {
+      "file": "public/styles.css",
+      "issue": "CSS touches layout/sidebar risk selector/property",
+      "marker": "main",
+      "severity": "LOW"
+    }
+  ],
+  "accessibility_issues": [],
+  "performance_risks": [
+    {
+      "file": "sitewide",
+      "issue": "inline scripts present",
+      "count": 230,
+      "severity": "LOW"
+    },
+    {
+      "file": "sitewide",
+      "issue": "sidebar HTML duplicated on many static pages",
+      "pages": 173,
+      "severity": "LOW"
+    }
+  ],
+  "duplicate_page_risks": [
+    {
+      "issue": "duplicate title",
+      "value": "Документи для утилізації відходів — Довідник YOURECO",
+      "files": [
+        "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+        "dokumenty.html"
+      ],
+      "count": 2,
+      "severity": "LOW"
+    }
+  ],
+  "regression_checks": [
+    {
+      "check": "real wrong-topic links",
+      "status": "UNKNOWN",
+      "detail": "semantic topic correctness cannot be proven by static path integrity alone"
+    },
+    {
+      "check": "broken links",
+      "status": "FAIL",
+      "count": 110
+    },
+    {
+      "check": "missing targets",
+      "status": "FAIL",
+      "count": 110
+    },
+    {
+      "page": "pererobka.html",
+      "status": "FAIL",
+      "issues": [
+        "missing targets"
+      ]
+    },
+    {
+      "page": "kudy-zdaty.html",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "page": "sortuvannya.html",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "page": "vidhody.html",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "page": "utylizaciya-napoyiv.html",
+      "status": "FAIL",
+      "issues": [
+        "missing targets"
+      ]
+    },
+    {
+      "page": "utylizaciya-obladnannya.html",
+      "status": "FAIL",
+      "issues": [
+        "missing targets"
+      ]
+    },
+    {
+      "page": "kontakty.html",
+      "status": "FAIL",
+      "issues": [
+        "missing targets"
+      ]
+    },
+    {
+      "page": "utylizaciya-konfidenciynykh-dokumentiv.html",
+      "status": "FAIL",
+      "issues": [
+        "missing targets"
+      ]
+    },
+    {
+      "page": "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "status": "PASS",
+      "issues": []
+    },
+    {
+      "page": "yak-vidbuvayetsya-utylizaciya-produkciyi.html",
+      "exists": true,
+      "has_sidebar": true,
+      "canonical_self": false,
+      "robots": "noindex, follow",
+      "noindex_follow": true,
+      "in_sitemap": false,
+      "status": "FAIL"
+    }
+  ],
+  "recommended_batches": [
+    {
+      "batch": "Batch 1: critical only",
+      "files": [
+        "akt-pryimannya-peredachi.html",
+        "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+        "index.html",
+        "kabelni-vidhody.html",
+        "kontakty.html",
+        "logistyka-budivelnyh-vidhodiv.html",
+        "logistyka-kabelyu.html",
+        "logistyka-metalu.html",
+        "logistyka-paperu-ta-kartonu.html",
+        "logistyka-plastyku.html",
+        "logistyka-promyslovyh-vidhodiv.html",
+        "logistyka-shyn.html",
+        "logistyka-skla.html",
+        "logistyka/index.html",
+        "nebezpeka-vidpracovanogo-masla.html",
+        "oblik-promyslovyh-vidhodiv.html",
+        "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+        "pererobka-alyuminiyevogo-kabelyu.html",
+        "pererobka-avtomobilnyh-shyn.html",
+        "pererobka-betonu.html",
+        "pererobka-cegly.html",
+        "pererobka-gumovyh-vyrobiv.html",
+        "pererobka-izolyaciyi-kabelyu.html",
+        "pererobka-kartonu.html",
+        "pererobka.html",
+        "pererobka/index.html",
+        "plastykovi-vidhody.html",
+        "promyslovi-vidhody-na-pidpryyemstvi.html",
+        "pryjom-kabelyu-na-utylizaciyu.html",
+        "skladuvannya-promyslovyh-vidhodiv.html",
+        "sortuvannya-promyslovyh-vidhodiv.html",
+        "spysannya-kosmetychnyh-tovariv.html",
+        "spysannya-produktiv.html",
+        "utylizaciya-avtoshyn.html",
+        "utylizaciya-budivelnyh-vidhodiv.html",
+        "utylizaciya-derevyny-z-budivnyctva.html",
+        "utylizaciya-dokumentiv.html",
+        "utylizaciya-energetychnyh-napoyiv.html",
+        "utylizaciya-fruktiv-ta-ovochiv.html",
+        "utylizaciya-fruktiv.html",
+        "utylizaciya-gazovanyh-napoyiv.html",
+        "utylizaciya-gipsokartonu.html",
+        "utylizaciya-harchovyh-produktiv.html",
+        "utylizaciya-kondyterskyh-vyrobiv.html",
+        "utylizaciya-konfidenciynykh-dokumentiv.html",
+        "utylizaciya-konserviv.html",
+        "utylizaciya-kosmetyky-magazyniv.html",
+        "utylizaciya-kosmetyky.html",
+        "utylizaciya-li-ion-batarej.html",
+        "utylizaciya-metalevoyi-strushky.html",
+        "utylizaciya-molochnyh-produktiv.html",
+        "utylizaciya-myasnyh-produktiv.html",
+        "utylizaciya-napivfabrykatyv.html",
+        "utylizaciya-napoyiv.html",
+        "utylizaciya-nekondicijnoyi-sirovini.html",
+        "utylizaciya-nekondyciynoyi-produkciyi.html",
+        "utylizaciya-obladnannya.html",
+        "utylizaciya-odyagu-vzuttya.html",
+        "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+        "utylizaciya-ovochiv.html",
+        "utylizaciya-parfumeriyi.html",
+        "utylizaciya-partiyi-produktiv.html",
+        "utylizaciya-paverbankiv-dbj.html",
+        "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+        "utylizaciya-produktiv-na-skladi.html",
+        "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+        "utylizaciya-promyslovyh-vidhodiv.html",
+        "utylizaciya-prostrochenoyi-kosmetyky.html",
+        "utylizaciya-prostrochenyh-produktiv.html",
+        "utylizaciya-pyva.html",
+        "utylizaciya-rybnyh-produktiv.html",
+        "utylizaciya-skla.html",
+        "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+        "utylizaciya-skladskyh-zalyshkiv.html",
+        "utylizaciya-sokiv-ta-napoyiv.html",
+        "utylizaciya-sokiv.html",
+        "utylizaciya-sonyachnih-panelij-vitryakiv.html",
+        "utylizaciya-tary-upakovki.html",
+        "utylizaciya-tovariv.html",
+        "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+        "utylizaciya-upakovky-na-pidpryyemstvi.html",
+        "utylizaciya-upakovky-vid-kosmetyky.html",
+        "utylizaciya-vantazhnyh-shyn.html",
+        "utylizaciya-vidpracovanoi-olyvy.html",
+        "utylizaciya-vyrobnychyh-vidhodiv.html",
+        "utylizaciya-yagid.html",
+        "utylizaciya-zamorozhenyh-produktiv.html",
+        "utylizaciya-zipsovanyh-produktiv.html",
+        "utylizaciya.html",
+        "utylizaciya/index.html",
+        "vidhody-demontazhu.html",
+        "vidy-kabelnyh-vidhodiv.html",
+        "vtorynna-syrovyna-z-budivelnyh-vidhodiv.html",
+        "vtorynna-syrovyna-z-vidhodiv.html",
+        "vymogy-do-zberigannya-vidhodiv.html",
+        "vyviz-budivelnyh-vidhodiv.html",
+        "yak-peredaty-skladski-zalyshky.html",
+        "zbir-kartonu-na-pidpryyemstvi.html",
+        "zbir-promyslovyh-vidhodiv.html",
+        "zbir-shyn-na-pidpryyemstvi.html",
+        "zbir-sklyanoyi-tary.html",
+        "znyshchennya-kosmetyky.html"
+      ],
+      "exact_problem": "Broken internal links or source/public mapping blockers if present.",
+      "recommended_action": "Fix only blocking missing targets/path failures, rebuild with scripts/build_public.py.",
+      "risk": "High",
+      "verification_command": "python scripts/build_public.py and rerun audit"
+    },
+    {
+      "batch": "Batch 2: high",
+      "files": [
+        "akt-pryimannya-peredachi.html",
+        "akt-utylizaciyi.html",
+        "chy-potribno-pererobyty-chy-utylizuvaty.html",
+        "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+        "dokumenty.html",
+        "fotozvit-utylizaciyi.html",
+        "index.html",
+        "kabelni-vidhody.html",
+        "kontakty.html",
+        "kudy-zdaty.html",
+        "likvidaciya-skladskykh-zalyshkiv.html",
+        "logistyka-budivelnyh-vidhodiv.html",
+        "logistyka-kabelyu.html",
+        "logistyka-metalu.html",
+        "logistyka-paperu-ta-kartonu.html",
+        "logistyka-plastyku.html",
+        "logistyka-promyslovyh-vidhodiv.html",
+        "logistyka-shyn.html",
+        "logistyka-skla.html",
+        "logistyka.html",
+        "logistyka/index.html",
+        "nebezpeka-vidpracovanogo-masla.html",
+        "oblik-promyslovyh-vidhodiv.html",
+        "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+        "pererobka-alyuminiyevogo-kabelyu.html",
+        "pererobka-avtomobilnyh-shyn.html",
+        "pererobka-betonu.html",
+        "pererobka-cegly.html",
+        "pererobka-gumovyh-vyrobiv.html",
+        "pererobka-izolyaciyi-kabelyu.html",
+        "pererobka-kartonu.html",
+        "pererobka-makulatury.html",
+        "pererobka-metalu.html",
+        "pererobka-midnogo-kabelyu.html",
+        "pererobka-pet.html",
+        "pererobka-plastykovoyi-upakovky.html",
+        "pererobka-polietylenu.html",
+        "pererobka-polipropylenu.html",
+        "pererobka-polistyrolu.html",
+        "pererobka-shyn.html",
+        "pererobka-skla.html",
+        "pererobka-vidpracovanyh-masel.html",
+        "pererobka.html",
+        "pererobka/index.html",
+        "plastyk-yak-vtorynna-syrovyna.html",
+        "plastykovi-vidhody.html",
+        "podribnennya-shyn-gumova-kryshka.html",
+        "povernennya-tovariv-z-merezhi.html",
+        "promyslovi-vidhody-na-pidpryyemstvi.html",
+        "promyslovi-vidhody.html",
+        "pryjom-kabelyu-na-utylizaciyu.html",
+        "reestr-partiyi.html",
+        "scenarii-utilizaciyi.html",
+        "shcho-take-pererobka-vidhodiv.html",
+        "shcho-take-promyslovi-vidhody.html",
+        "shcho-take-utylizaciya.html",
+        "shcho-take-znyshchennya-produkciyi.html",
+        "skilky-koshtuye-pererobka-kabelyu.html",
+        "skladuvannya-promyslovyh-vidhodiv.html",
+        "sortuvannya-budivelnyh-vidhodiv.html",
+        "sortuvannya-plastyku.html",
+        "sortuvannya-promyslovyh-vidhodiv.html",
+        "sortuvannya.html",
+        "sortuvannya/index.html",
+        "spysannya-kosmetychnyh-tovariv.html",
+        "spysannya-produkciyi.html",
+        "spysannya-produktiv.html",
+        "transportuvannya-vidpracovanyh-masel.html",
+        "transportuvannya-vidpracovanyh-shyn.html",
+        "utilizaciya-brakovanoi-produkciyi.html",
+        "utilizaciya-dlya-bankiv.html",
+        "utilizaciya-dlya-data-centriv.html",
+        "utilizaciya-dlya-importeriv.html",
+        "utilizaciya-dlya-riteylu.html",
+        "utilizaciya-dlya-skladiv.html",
+        "utilizaciya-dlya-vyrobnyctva.html",
+        "utylizaciya-akumulyatoriv.html",
+        "utylizaciya-avtoshyn.html",
+        "utylizaciya-budivelnyh-vidhodiv.html",
+        "utylizaciya-derevyny-z-budivnyctva.html"
+      ],
+      "exact_problem": "High severity DOM/asset/canonical/encoding issues.",
+      "recommended_action": "Patch smallest affected source files, then rebuild.",
+      "risk": "Medium-high",
+      "verification_command": "python scripts/build_public.py; git diff --stat"
+    },
+    {
+      "batch": "Batch 3: medium",
+      "files": [
+        "akt-pryimannya-peredachi.html",
+        "akt-utylizaciyi.html",
+        "chy-potribno-pererobyty-chy-utylizuvaty.html",
+        "dokumenty.html",
+        "fotozvit-utylizaciyi.html",
+        "index.html",
+        "kabelni-vidhody.html",
+        "kudy-zdaty.html",
+        "likvidaciya-skladskykh-zalyshkiv.html",
+        "logistyka-metalu.html",
+        "logistyka-skla.html",
+        "logistyka.html",
+        "logistyka/index.html",
+        "pererobka-cegly.html",
+        "pererobka.html",
+        "pererobka/index.html",
+        "povernennya-tovariv-z-merezhi.html",
+        "promyslovi-vidhody.html",
+        "sortuvannya.html",
+        "sortuvannya/index.html",
+        "spysannya-produkciyi.html",
+        "utilizaciya-brakovanoi-produkciyi.html",
+        "utilizaciya-dlya-bankiv.html",
+        "utilizaciya-dlya-data-centriv.html",
+        "utilizaciya-dlya-importeriv.html",
+        "utilizaciya-dlya-riteylu.html",
+        "utilizaciya-dlya-skladiv.html",
+        "utilizaciya-dlya-vyrobnyctva.html",
+        "utylizaciya-akumulyatoriv.html",
+        "utylizaciya-elektroniky.html",
+        "utylizaciya-gazovanyh-napoyiv.html",
+        "utylizaciya-importnyh-tovariv.html",
+        "utylizaciya-konfidenciynykh-dokumentiv.html",
+        "utylizaciya-kosmetyky-magazyniv.html",
+        "utylizaciya-kosmetyky.html",
+        "utylizaciya-materialiv.html",
+        "utylizaciya-myasnyh-produktiv.html",
+        "utylizaciya-napoyiv.html",
+        "utylizaciya-obladnannya.html",
+        "utylizaciya-paverbankiv-dbj.html",
+        "utylizaciya-promyslovogo-obladnannya-mehanizmiv.html",
+        "utylizaciya-rybnyh-produktiv.html",
+        "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
+        "utylizaciya-tovariv.html",
+        "utylizaciya-tovary-pid-mitnim-kontrolem.html",
+        "utylizaciya-zamorozhenyh-produktiv.html",
+        "utylizaciya-zipsovanyh-produktiv.html",
+        "utylizaciya.html",
+        "utylizaciya/index.html",
+        "vidhody.html",
+        "yak-oformyty-spysannya-partiyi.html",
+        "yak-peredaty-kosmetyku.html",
+        "yak-peredaty-li-ion-batarei.html",
+        "yak-peredaty-skladski-zalyshky.html",
+        "zbir.html"
+      ],
+      "exact_problem": "Sidebar, sitemap/canonical policy, duplicate generated-page warnings.",
+      "recommended_action": "Normalize after confirming intended index/noindex policy.",
+      "risk": "Medium",
+      "verification_command": "rerun deep technical audit"
+    },
+    {
+      "batch": "Batch 4: cleanup",
+      "files": [
+        "dokumenty-dlya-utylizaciyi-vidhodiv.html",
+        "kontakty.html",
+        "logistyka-budivelnyh-vidhodiv.html",
+        "logistyka-kabelyu.html",
+        "logistyka-paperu-ta-kartonu.html",
+        "logistyka-plastyku.html",
+        "logistyka-promyslovyh-vidhodiv.html",
+        "logistyka-shyn.html",
+        "nebezpeka-vidpracovanogo-masla.html",
+        "oblik-promyslovyh-vidhodiv.html",
+        "optymizaciya-vidhodiv-na-vyrobnyctvi.html",
+        "pererobka-alyuminiyevogo-kabelyu.html",
+        "pererobka-avtomobilnyh-shyn.html",
+        "pererobka-betonu.html",
+        "pererobka-gumovyh-vyrobiv.html",
+        "pererobka-izolyaciyi-kabelyu.html",
+        "pererobka-kartonu.html",
+        "pererobka-makulatury.html",
+        "pererobka-metalu.html",
+        "pererobka-midnogo-kabelyu.html",
+        "pererobka-pet.html",
+        "pererobka-plastykovoyi-upakovky.html",
+        "pererobka-polietylenu.html",
+        "pererobka-polipropylenu.html",
+        "pererobka-polistyrolu.html",
+        "pererobka-shyn.html",
+        "pererobka-skla.html",
+        "pererobka-vidpracovanyh-masel.html",
+        "plastyk-yak-vtorynna-syrovyna.html",
+        "plastykovi-vidhody.html",
+        "podribnennya-shyn-gumova-kryshka.html",
+        "promyslovi-vidhody-na-pidpryyemstvi.html",
+        "pryjom-kabelyu-na-utylizaciyu.html",
+        "public/styles.css",
+        "reestr-partiyi.html",
+        "scenarii-utilizaciyi.html",
+        "shcho-take-pererobka-vidhodiv.html",
+        "shcho-take-promyslovi-vidhody.html",
+        "shcho-take-utylizaciya.html",
+        "shcho-take-znyshchennya-produkciyi.html",
+        "sitewide",
+        "skilky-koshtuye-pererobka-kabelyu.html",
+        "skladuvannya-promyslovyh-vidhodiv.html",
+        "sortuvannya-budivelnyh-vidhodiv.html",
+        "sortuvannya-plastyku.html",
+        "sortuvannya-promyslovyh-vidhodiv.html",
+        "spysannya-kosmetychnyh-tovariv.html",
+        "spysannya-produktiv.html",
+        "styles.css",
+        "transportuvannya-vidpracovanyh-masel.html",
+        "transportuvannya-vidpracovanyh-shyn.html",
+        "utylizaciya-avtoshyn.html",
+        "utylizaciya-budivelnyh-vidhodiv.html",
+        "utylizaciya-derevyny-z-budivnyctva.html",
+        "utylizaciya-dokumentiv.html",
+        "utylizaciya-energetychnyh-napoyiv.html",
+        "utylizaciya-fruktiv-ta-ovochiv.html",
+        "utylizaciya-fruktiv.html",
+        "utylizaciya-gipsokartonu.html",
+        "utylizaciya-harchovyh-produktiv.html",
+        "utylizaciya-kabelyu-ta-drotiv.html",
+        "utylizaciya-kondyterskyh-vyrobiv.html",
+        "utylizaciya-konserviv.html",
+        "utylizaciya-li-ion-batarej.html",
+        "utylizaciya-metalevoyi-strushky.html",
+        "utylizaciya-metalu.html",
+        "utylizaciya-molochnyh-produktiv.html",
+        "utylizaciya-napivfabrykatyv.html",
+        "utylizaciya-nekondicijnoyi-sirovini.html",
+        "utylizaciya-nekondyciynoyi-produkciyi.html",
+        "utylizaciya-odyagu-vzuttya.html",
+        "utylizaciya-ofisnih-mebliv-orgtehniki.html",
+        "utylizaciya-ovochiv.html",
+        "utylizaciya-paperu-ta-kartonu.html",
+        "utylizaciya-parfumeriyi.html",
+        "utylizaciya-partiyi-produktiv.html",
+        "utylizaciya-plastyku-ta-polimeriv.html",
+        "utylizaciya-produktiv-harchuvannya-napoyiv.html",
+        "utylizaciya-produktiv-na-skladi.html",
+        "utylizaciya-promyslovyh-vidhodiv.html"
+      ],
+      "exact_problem": "A11y/performance/static cleanup.",
+      "recommended_action": "Low-risk cleanup in separate batch.",
+      "risk": "Low",
+      "verification_command": "static audit plus spot visual check"
+    }
+  ],
+  "unexpected_file_changes": [],
+  "technical_status": "BAD",
+  "can_deploy_technically": "no",
+  "top_risks": [
+    "Broken/missing internal targets",
+    "Sidebar DOM/hash or active-state drift",
+    "Sitemap/canonical/noindex consistency warnings",
+    "Cyrillic/UTF-8 markers clean",
+    "Asset/accessibility/static performance cleanup"
+  ]
+}

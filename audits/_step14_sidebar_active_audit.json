@@ -1,51 +1,813 @@
 {
-  "public_html_pages": 244,
-  "sidebar_pages_checked": 52,
-  "pages_with_one_active": 14,
-  "pages_with_non_one_active": [
-    "akt-pryimannya-peredachi.html",
-    "akt-utylizaciyi.html",
-    "chy-potribno-pererobyty-chy-utylizuvaty.html",
-    "fotozvit-utylizaciyi.html",
-    "kabelni-vidhody.html",
-    "kontakty.html",
-    "likvidaciya-skladskykh-zalyshkiv.html",
-    "logistyka-metalu.html",
-    "logistyka-skla.html",
-    "logistyka.html",
-    "pererobka-cegly.html",
-    "pererobka.html",
-    "povernennya-tovariv-z-merezhi.html",
-    "sortuvannya.html",
-    "spysannya-produkciyi.html",
-    "utilizaciya-brakovanoi-produkciyi.html",
-    "utilizaciya-dlya-bankiv.html",
-    "utilizaciya-dlya-data-centriv.html",
-    "utilizaciya-dlya-importeriv.html",
-    "utilizaciya-dlya-riteylu.html",
-    "utilizaciya-dlya-skladiv.html",
-    "utilizaciya-dlya-vyrobnyctva.html",
-    "utylizaciya-akumulyatoriv.html",
-    "utylizaciya-elektroniky.html",
-    "utylizaciya-gazovanyh-napoyiv.html",
-    "utylizaciya-importnyh-tovariv.html",
-    "utylizaciya-konfidenciynykh-dokumentiv.html",
-    "utylizaciya-kosmetyky-magazyniv.html",
-    "utylizaciya-myasnyh-produktiv.html",
-    "utylizaciya-napoyiv.html",
-    "utylizaciya-rybnyh-produktiv.html",
-    "utylizaciya-skladskyh-zalyshkiv-kosmetyky.html",
-    "utylizaciya-zamorozhenyh-produktiv.html",
-    "utylizaciya-zipsovanyh-produktiv.html",
-    "yak-oformyty-spysannya-partiyi.html",
-    "yak-peredaty-kosmetyku.html",
-    "yak-peredaty-li-ion-batarei.html",
-    "yak-peredaty-skladski-zalyshky.html"
-  ],
+  "public_html_pages": 173,
+  "sidebar_pages_checked": 140,
+  "pages_with_one_active": 140,
+  "pages_with_non_one_active": [],
   "broken_links_count": 0,
   "broken_links": [],
-  "links_to_noindex_or_redirect_count": 0,
-  "links_to_noindex_or_redirect": [],
+  "links_to_noindex_or_redirect_count": 1540,
+  "links_to_noindex_or_redirect": [
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "akt-pryimannya-peredachi.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "akt-utylizaciyi.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "dokumenty.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "fotozvit-utylizaciyi.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "index.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "kabelni-vidhody.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "kontakty.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "kudy-zdaty.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "likvidaciya-skladskykh-zalyshkiv.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka/index.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-budivelnyh-vidhodiv.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-kabelyu.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-metalu.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-paperu-ta-kartonu.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-plastyku.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-promyslovyh-vidhodiv.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-shyn.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-ofisnih-mebliv-orgtehniki.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-sonyachnih-panelij-vitryakiv.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-odyagu-vzuttya.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-tary-upakovki.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-budivelnyh-vidhodiv.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-plastyku-ta-polimeriv.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-kabelyu-ta-drotiv.html"
+    ],
+    [
+      "logistyka-shyn.html",
+      "/utylizaciya-vidpracovanoi-olyvy.html"
+    ],
+    [
+      "logistyka-skla.html",
+      "/utylizaciya-li-ion-batarej.html"
+    ],
+    [
+      "logistyka-skla.html",
+      "/utylizaciya-produktiv-harchuvannya-napoyiv.html"
+    ]
+  ],
   "links_to_public_count": 0,
   "links_to_public": [],
   "utf8_invalid_count": 0,
@@ -78,8 +840,7 @@
       "exactly_one_active": true
     },
     "articles": {
-      "exists": true,
-      "runtime_match_count": 0,
+      "exists": false,
       "active_count": 0,
       "exactly_one_active": false
     },
@@ -91,210 +852,210 @@
   },
   "page_flags_sample": {
     "akt-pryimannya-peredachi.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "akt-utylizaciyi.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "chy-potribno-pererobyty-chy-utylizuvaty.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "dokumenty.html": {
-      "sidebar_links": 31,
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
     "fotozvit-utylizaciyi.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "index.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
     "kabelni-vidhody.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "kontakty.html": {
-      "sidebar_links": 31,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "kudy-zdaty.html": {
-      "sidebar_links": 31,
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
     "likvidaciya-skladskykh-zalyshkiv.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "logistyka/index.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
+    "logistyka/index.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-budivelnyh-vidhodiv.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-kabelyu.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
     "logistyka-metalu.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-paperu-ta-kartonu.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-plastyku.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-promyslovyh-vidhodiv.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "logistyka-shyn.html": {
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "logistyka-skla.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "logistyka.html": {
-      "sidebar_links": 31,
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "oblik-promyslovyh-vidhodiv.html": {
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "optymizaciya-vidhodiv-na-vyrobnyctvi.html": {
+      "sidebar_links": 29,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
     "pererobka/index.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
+      "static_active_count": 1,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "pererobka-alyuminiyevogo-kabelyu.html": {
+      "sidebar_links": 29,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "pererobka-avtomobilnyh-shyn.html": {
+      "sidebar_links": 29,
+      "static_active_count": 0,
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
+    },
+    "pererobka-betonu.html": {
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
     "pererobka-cegly.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "pererobka.html": {
-      "sidebar_links": 31,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "povernennya-tovariv-z-merezhi.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "promyslovi-vidhody.html": {
-      "sidebar_links": 30,
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
-    "sortuvannya/index.html": {
-      "sidebar_links": 30,
+    "pererobka-gumovyh-vyrobiv.html": {
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,
       "exactly_one_active": true
     },
-    "sortuvannya.html": {
-      "sidebar_links": 31,
+    "pererobka-izolyaciyi-kabelyu.html": {
+      "sidebar_links": 29,
       "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
+      "runtime_match_count": 1,
+      "runtime_active_count": 1,
+      "exactly_one_active": true
     },
-    "spysannya-produkciyi.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-brakovanoi-produkciyi.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-bankiv.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-data-centriv.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-importeriv.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-riteylu.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-skladiv.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utilizaciya-dlya-vyrobnyctva.html": {
-      "sidebar_links": 30,
-      "static_active_count": 0,
-      "runtime_match_count": 0,
-      "runtime_active_count": 0,
-      "exactly_one_active": false
-    },
-    "utylizaciya/index.html": {
-      "sidebar_links": 30,
+    "pererobka-kartonu.html": {
+      "sidebar_links": 29,
       "static_active_count": 0,
       "runtime_match_count": 1,
       "runtime_active_count": 1,

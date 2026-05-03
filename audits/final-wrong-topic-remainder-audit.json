@@ -1,0 +1,220 @@
+{
+  "audit": "final-wrong-topic-remainder-audit",
+  "date": "2026-05-02",
+  "build_command": "python scripts/build_public.py",
+  "build_result": "PUBLIC_BUILD_OK files=179 html=172",
+  "scope": "all public HTML; main content links separated from sidebar; generic hub placeholders only for wrong-topic remainder; service CTA URL integrity excluded from this wrong-topic audit",
+  "status": "НЕ ДОБРЕ",
+  "total_real_wrong_topic_links": 14,
+  "total_generic_hub_placeholder_links_main_content": 510,
+  "generic_hub_placeholder_counts_by_href": {
+    "/utylizaciya.html": 202,
+    "/logistyka.html": 135,
+    "/sortuvannya.html": 75,
+    "/pererobka.html": 60,
+    "/zbir.html": 38
+  },
+  "sidebar_generic_hub_placeholder_links_observed_not_counted_in_main_total": 270,
+  "clean_confirmed": {
+    "public/pererobka.html": true,
+    "public/kudy-zdaty.html": true,
+    "public/sortuvannya.html": true,
+    "public/utylizaciya-akumulyatoriv.html": true,
+    "public/yak-peredaty-li-ion-batarei.html": true,
+    "public/utylizaciya-elektroniky.html": true,
+    "public/vidhody.html": true,
+    "public/utylizaciya-napoyiv.html": true,
+    "public/utylizaciya-obladnannya.html": true,
+    "public/kontakty.html": true,
+    "public/utylizaciya-konfidenciynykh-dokumentiv.html": true
+  },
+  "top_source_pages_with_remaining_real_wrong_topic_links": [
+    [
+      "public/utilizaciya-dlya-bankiv.html",
+      4
+    ],
+    [
+      "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      3
+    ],
+    [
+      "public/yak-oformyty-spysannya-partiyi.html",
+      3
+    ],
+    [
+      "public/utilizaciya-dlya-data-centriv.html",
+      2
+    ],
+    [
+      "public/utylizaciya-importnyh-tovariv.html",
+      2
+    ]
+  ],
+  "remaining_real_wrong_topic_links": [
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Чи потрібно переробити чи утилізувати продукцію",
+      "anchor_text": "що таке переробка відходів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-pererobka-vidhodiv.html",
+      "reason": "anchor about pererobka points to utylizaciya hub",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Чи потрібно переробити чи утилізувати продукцію",
+      "anchor_text": "як відбувається переробка відходів",
+      "current_href": "/pererobka.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder; no exact safe target selected",
+      "recommendation": "NEEDS_DECISION"
+    },
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Чи потрібно переробити чи утилізувати продукцію",
+      "anchor_text": "як відбувається утилізація продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder; no exact safe target selected",
+      "recommendation": "NEEDS_DECISION"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Утилізація продукції та обладнання для банків",
+      "anchor_text": "утилізація офісної техніки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Утилізація продукції та обладнання для банків",
+      "anchor_text": "утилізація офісної техніки",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-ofisnih-mebliv-orgtehniki.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Утилізація продукції та обладнання для банків",
+      "anchor_text": "що таке знищення продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-znyshchennya-produkciyi.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-bankiv.html",
+      "area": "main content",
+      "block_context": "Утилізація продукції та обладнання для банків",
+      "anchor_text": "що таке знищення продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/shcho-take-znyshchennya-produkciyi.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-data-centriv.html",
+      "area": "main content",
+      "block_context": "Утилізація для дата-центрів",
+      "anchor_text": "утилізація Li-ion батарей",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-li-ion-batarej.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utilizaciya-dlya-data-centriv.html",
+      "area": "main content",
+      "block_context": "Утилізація для дата-центрів",
+      "anchor_text": "утилізація Li-ion батарей",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-li-ion-batarej.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-importnyh-tovariv.html",
+      "area": "main content",
+      "block_context": "Утилізація імпортних товарів",
+      "anchor_text": "утилізація товарів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tovariv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/utylizaciya-importnyh-tovariv.html",
+      "area": "main content",
+      "block_context": "Утилізація імпортних товарів",
+      "anchor_text": "утилізація товарів",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/utylizaciya-tovariv.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Як оформити списання партії продукції",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vnutrishniy-akt-spysannya.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Як оформити списання партії продукції",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vnutrishniy-akt-spysannya.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    },
+    {
+      "source_file": "public/yak-oformyty-spysannya-partiyi.html",
+      "area": "main content",
+      "block_context": "Як оформити списання партії продукції",
+      "anchor_text": "внутрішній акт списання",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "/vnutrishniy-akt-spysannya.html",
+      "reason": "specific anchor points to generic hub placeholder",
+      "recommendation": "REPLACE_HREF"
+    }
+  ],
+  "needs_decision_items": [
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Чи потрібно переробити чи утилізувати продукцію",
+      "anchor_text": "як відбувається переробка відходів",
+      "current_href": "/pererobka.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder; no exact safe target selected",
+      "recommendation": "NEEDS_DECISION"
+    },
+    {
+      "source_file": "public/chy-potribno-pererobyty-chy-utylizuvaty.html",
+      "area": "main content",
+      "block_context": "Чи потрібно переробити чи утилізувати продукцію",
+      "anchor_text": "як відбувається утилізація продукції",
+      "current_href": "/utylizaciya.html",
+      "proposed_href": "NEEDS_DECISION",
+      "reason": "specific anchor points to generic hub placeholder; no exact safe target selected",
+      "recommendation": "NEEDS_DECISION"
+    }
+  ],
+  "recommended_next_batch": "Batch: chy-potribno-pererobyty-chy-utylizuvaty.html, utilizaciya-dlya-bankiv.html, utilizaciya-dlya-data-centriv.html, utylizaciya-importnyh-tovariv.html, yak-oformyty-spysannya-partiyi.html.",
+  "disallowed_changes_during_audit": "ні",
+  "cyrillic": "не зіпсована"
+}

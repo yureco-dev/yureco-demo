@@ -1,1 +1,4 @@
-CTA_MISMATCH_DETECTION_OK
+CTA_MISMATCH_DETECTED index.html reasons=["topic-mismatch  h1='Довідник YOURECO про поводження з відходами для підприємств'  cta='Замовити утилізацію відходів підприємства'"]
+CTA_MISMATCH_DETECTED public\index.html reasons=["topic-mismatch  h1='Довідник YOURECO про поводження з відходами для підприємств'  cta='Замовити утилізацію відходів підприємства'"]
+CTA_MISMATCH_DETECTED public\vidhody.html reasons=["topic-mismatch  h1='Види відходів і поводження з ними'  cta='Відходи'"]
+CTA_MISMATCH_DETECTED vidhody.html reasons=["topic-mismatch  h1='Види відходів і поводження з ними'  cta='Відходи'"]
