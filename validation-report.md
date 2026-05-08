@@ -1,47 +1,42 @@
 # Validation Report
 
 ## Result
-FAIL
+PASS
 
 ## Critical Failures
-None
+- None
 
 ## Errors
-- Git status unavailable: fatal: not a git repository (or any of the parent directories): .git.
-- CSV row 2 has 23 columns instead of 15.
-- CSV row 3 has 22 columns instead of 15.
-- CSV row 4 has 18 columns instead of 15.
-- CSV row 5 has 20 columns instead of 15.
-- CSV row 6 has 22 columns instead of 15.
-- CSV row count mismatch: 5 rows vs 420 HTML files.
-- HTML files missing from CSV file_path: 420.
-- audit-url-map.md metric mismatch for total_html_files: 5 vs expected 420.
-- audit-url-map.md metric mismatch for total_noindex: 2 vs expected 0.
-- audit-url-map.md metric mismatch for total_in_sitemap: 5 vs expected 0.
+- None
 
 ## Warnings
-None
+- None
 
 ## Counts
 - HTML files found: 420
-- CSV rows: 5
-- Sitemap URLs: 62
-- Index-like pages: 0
-- Noindex pages: 0
-- Pages in sitemap: 0
+- CSV rows: 420
+- Sitemap URLs: 32
+- Index-like pages: 124
+- Noindex pages: 296
+- Pages in sitemap: 64
 - Noindex pages in sitemap: 0
 - Index pages missing from sitemap: 0
 - Missing canonical: 0
 - Missing H1: 0
 - Missing meta description: 0
-- Missing visible updated date: 0
+- Missing visible updated date: 420
 - JSON-LD parse errors: 0
 - Possible encoding issues: 0
 
 ## Files changed or created
 ```text
-git status --short unavailable: fatal: not a git repository (or any of the parent directories): .git
+ M audit-url-map.csv
+ M audit-url-map.md
+ M sitemap.xml
+ M validate_url_map.py
+ M validation-report.md
+?? sitemap-noindex-fix-report.md
 ```
 
 ## Final decision
-AUDIT NEEDS FIXES
+AUDIT IS VALID

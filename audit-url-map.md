@@ -1,37 +1,39 @@
-# Audit URL Map Summary
+# URL Map Audit
 
-- total_html_files: 5
-- total_index_follow: 3
-- total_noindex: 2
-- total_in_sitemap: 5
+## Summary
+
+- total_html_files: 420
+- total_index_follow: 124
+- total_noindex: 296
+- total_in_sitemap: 64
 - noindex_in_sitemap_count: 0
 - index_not_in_sitemap_count: 0
 - missing_canonical_count: 0
 - missing_h1_count: 0
 - missing_meta_description_count: 0
-- missing_updated_date_count: 5
+- missing_updated_date_count: 420
 - json_ld_parse_error_count: 0
 
 ## Noindex pages found in sitemap
 
-_None_
+None
 
 ## Index pages missing from sitemap
 
-_None_
+None
 
 ## Pages missing canonical
 
-_None_
+None
 
 ## Pages missing H1
 
-_None_
+None
 
 ## Pages with JSON-LD parse errors
 
-_None_
+None
 
 ## Pages with possible encoding problems
 
-_None_
+None
