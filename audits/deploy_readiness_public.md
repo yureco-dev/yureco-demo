@@ -1,0 +1,30 @@
+# ЕТАП 13: Фінальний контроль після ЕТАПУ 12
+
+- дата перевірки: 2026-05-08 22:22:26
+- команда збірки: `python scripts/build_public.py`
+- HTML у `public/`: 174
+- URL у sitemap: 62
+- indexed pages: 62
+- noindex/redirect pages: 0
+- indexed_under_300_count: 0
+- indexed_300_500_count: 10
+- stamp_phrase_pages: []
+- food cluster duplicate paragraph status: ok
+- sidebar status: issues_found
+- `в­• Шини` status: absent
+- hidden Unicode status: absent
+- broken internal links: 0
+- links to noindex/redirect: 0
+- links to `/public/`: 0
+- noindex/redirect URL у sitemap: []
+- missing title/H1/meta/canonical: 0
+- indexed canonical mismatch: 0
+- JSON-LD errors: 0
+- schema mismatch: 0
+- service files in `public`: []
+- robots.txt status: invalid_sitemap_reference
+- `.htaccess` status: ok
+- UTF-8/BOM status: ok
+- Кирилиця: не зіпсована
+- фінальний статус: НЕ ДОБРЕ
+- production verdict: не готово до деплою

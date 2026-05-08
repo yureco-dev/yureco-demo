@@ -1,0 +1,112 @@
+# BEGIN YOURECO_SECURITY_HEADERS
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+  Header always set Content-Security-Policy "default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self'; upgrade-insecure-requests"
+  Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+# END YOURECO_SECURITY_HEADERS
+
+# BEGIN YOURECO_TECHNICAL_CLEANUP
+RedirectMatch 403 (?i)^/(public|\.git|\.vscode)(/|$)
+RedirectMatch 403 (?i)^/(\.env\.example|deploy\.sh|CHANGELOG\.md)$
+RedirectMatch 403 (?i)^/(?!robots\.txt$).+\.txt$
+RedirectMatch 403 (?i)^/.+\.(ps1|md|csv|json|sh)$
+# END YOURECO_TECHNICAL_CLEANUP
+
+# BEGIN YOURECO_AUTO_REDIRECTS
+Redirect 301 /articles/index.html /
+Redirect 301 /articles/utylizaciya-tovary-pid-mitnim-kontrolem.html /utylizaciya-tovary-pid-mitnim-kontrolem.html
+Redirect 301 /articles/utylizaciya-paverbankiv-dbj.html /utylizaciya-paverbankiv-dbj.html
+Redirect 301 /articles/utylizaciya-sonyachnih-panelij-vitryakiv.html /utylizaciya-sonyachnih-panelij-vitryakiv.html
+Redirect 301 /articles/utylizaciya-shin.html /utylizaciya-shyn.html
+Redirect 301 /articles/utylizaciya-ofisnih-mebliv-orgtehniki.html /utylizaciya-ofisnih-mebliv-orgtehniki.html
+Redirect 301 /articles/shyny.html /utylizaciya-shyn.html
+Redirect 301 /articles/li-ion.html /utylizaciya-li-ion-batarej.html
+Redirect 301 /kudy-zdaty-avtoshyn.html /utylizaciya-avtoshyn.html
+Redirect 301 /kudy-zdaty-budivelnyh-vidhodiv.html /utylizaciya-budivelnyh-vidhodiv.html
+Redirect 301 /kudy-zdaty-derevyny-z-budivnyctva.html /utylizaciya-derevyny-z-budivnyctva.html
+Redirect 301 /kudy-zdaty-dokumentiv.html /utylizaciya-dokumentiv.html
+Redirect 301 /kudy-zdaty-energetychnyh-napoyiv.html /utylizaciya-energetychnyh-napoyiv.html
+Redirect 301 /kudy-zdaty-fruktiv.html /utylizaciya-fruktiv.html
+Redirect 301 /kudy-zdaty-fruktiv-ta-ovochiv.html /utylizaciya-fruktiv-ta-ovochiv.html
+Redirect 301 /kudy-zdaty-gazovanyh-napoyiv.html /utylizaciya-gazovanyh-napoyiv.html
+Redirect 301 /kudy-zdaty-gipsokartonu.html /utylizaciya-gipsokartonu.html
+Redirect 301 /kudy-zdaty-harchovyh-produktiv.html /utylizaciya-harchovyh-produktiv.html
+Redirect 301 /kudy-zdaty-kabelyu-ta-drotiv.html /utylizaciya-kabelyu-ta-drotiv.html
+Redirect 301 /kudy-zdaty-kondyterskyh-vyrobiv.html /utylizaciya-kondyterskyh-vyrobiv.html
+Redirect 301 /kudy-zdaty-konserviv.html /utylizaciya-konserviv.html
+Redirect 301 /kudy-zdaty-kosmetiki.html /utylizaciya-kosmetyky.html
+Redirect 301 /kudy-zdaty-kosmetyky.html /utylizaciya-kosmetyky.html
+Redirect 301 /kudy-zdaty-kosmetyky-magazyniv.html /utylizaciya-kosmetyky-magazyniv.html
+Redirect 301 /kudy-zdaty-li-ion-batarej.html /utylizaciya-li-ion-batarej.html
+Redirect 301 /kudy-zdaty-materialiv.html /utylizaciya-materialiv.html
+Redirect 301 /kudy-zdaty-metalevoyi-strushky.html /utylizaciya-metalevoyi-strushky.html
+Redirect 301 /kudy-zdaty-metalu.html /utylizaciya-metalu.html
+Redirect 301 /kudy-zdaty-molochnyh-produktiv.html /utylizaciya-molochnyh-produktiv.html
+Redirect 301 /kudy-zdaty-myasnyh-produktiv.html /utylizaciya-myasnyh-produktiv.html
+Redirect 301 /kudy-zdaty-napivfabrykatyv.html /utylizaciya-napivfabrykatyv.html
+Redirect 301 /kudy-zdaty-napoyiv.html /utylizaciya-napoyiv.html
+Redirect 301 /kudy-zdaty-nekondicijnoyi-sirovini.html /utylizaciya-nekondicijnoyi-sirovini.html
+Redirect 301 /kudy-zdaty-nekondyciynoyi-produkciyi.html /utylizaciya-nekondyciynoyi-produkciyi.html
+Redirect 301 /kudy-zdaty-obladnannya.html /utylizaciya-obladnannya.html
+Redirect 301 /kudy-zdaty-odyagu-vzuttya.html /utylizaciya-odyagu-vzuttya.html
+Redirect 301 /kudy-zdaty-ofisnih-mebliv-orgtehniki.html /utylizaciya-ofisnih-mebliv-orgtehniki.html
+Redirect 301 /kudy-zdaty-ovochiv.html /utylizaciya-ovochiv.html
+Redirect 301 /kudy-zdaty-paperu-ta-kartonu.html /utylizaciya-paperu-ta-kartonu.html
+Redirect 301 /kudy-zdaty-parfumeriyi.html /utylizaciya-parfumeriyi.html
+Redirect 301 /kudy-zdaty-partiyi-produktiv.html /utylizaciya-partiyi-produktiv.html
+Redirect 301 /kudy-zdaty-paverbankiv-dbj.html /utylizaciya-paverbankiv-dbj.html
+Redirect 301 /kudy-zdaty-plastyku-ta-polimeriv.html /utylizaciya-plastyku-ta-polimeriv.html
+Redirect 301 /kudy-zdaty-produktiv-harchuvannya-napoyiv.html /utylizaciya-produktiv-harchuvannya-napoyiv.html
+Redirect 301 /kudy-zdaty-produktiv-na-skladi.html /utylizaciya-produktiv-na-skladi.html
+Redirect 301 /kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html /utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+Redirect 301 /kudy-zdaty-promyslovyh-vidhodiv.html /utylizaciya-promyslovyh-vidhodiv.html
+Redirect 301 /kudy-zdaty-prostrochenoyi-kosmetyky.html /utylizaciya-prostrochenoyi-kosmetyky.html
+Redirect 301 /kudy-zdaty-prostrochenyh-produktiv.html /utylizaciya-prostrochenyh-produktiv.html
+Redirect 301 /kudy-zdaty-pyva.html /utylizaciya-pyva.html
+Redirect 301 /kudy-zdaty-rybnyh-produktiv.html /utylizaciya-rybnyh-produktiv.html
+Redirect 301 /kudy-zdaty-shin.html /utylizaciya-shyn.html
+Redirect 301 /kudy-zdaty-shyn.html /utylizaciya-shyn.html
+Redirect 301 /kudy-zdaty-shyn-pidpryyemstvamy.html /utylizaciya-shyn-pidpryyemstvamy.html
+Redirect 301 /kudy-zdaty-shyny.html /utylizaciya-shyn.html
+Redirect 301 /kudy-zdaty-skla.html /utylizaciya-skla.html
+Redirect 301 /kudy-zdaty-skladskyh-zalyshkiv.html /utylizaciya-skladskyh-zalyshkiv.html
+Redirect 301 /kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html /utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+Redirect 301 /kudy-zdaty-sokiv.html /utylizaciya-sokiv.html
+Redirect 301 /kudy-zdaty-sokiv-ta-napoyiv.html /utylizaciya-sokiv-ta-napoyiv.html
+Redirect 301 /kudy-zdaty-sonyachnih-panelij-vitryakiv.html /utylizaciya-sonyachnih-panelij-vitryakiv.html
+Redirect 301 /kudy-zdaty-tary-upakovki.html /utylizaciya-tary-upakovki.html
+Redirect 301 /kudy-zdaty-tovariv.html /utylizaciya-tovariv.html
+Redirect 301 /kudy-zdaty-tovary-pid-mitnim-kontrolem.html /utylizaciya-tovary-pid-mitnim-kontrolem.html
+Redirect 301 /kudy-zdaty-upakovky-na-pidpryyemstvi.html /utylizaciya-upakovky-na-pidpryyemstvi.html
+Redirect 301 /kudy-zdaty-upakovky-vid-kosmetyky.html /utylizaciya-upakovky-vid-kosmetyky.html
+Redirect 301 /kudy-zdaty-vantazhnyh-shyn.html /utylizaciya-vantazhnyh-shyn.html
+Redirect 301 /kudy-zdaty-vidpracovane-maslo.html /utylizaciya-vidpracovanoi-olyvy.html
+Redirect 301 /kudy-zdaty-vidpracovanoi-olyvy.html /utylizaciya-vidpracovanoi-olyvy.html
+Redirect 301 /kudy-zdaty-vidpracovanyh-masel.html /utylizaciya-vidpracovanyh-masel.html
+Redirect 301 /kudy-zdaty-vody.html /utylizaciya-vody.html
+Redirect 301 /kudy-zdaty-vyrobnychyh-vidhodiv.html /utylizaciya-vyrobnychyh-vidhodiv.html
+Redirect 301 /kudy-zdaty-yagid.html /utylizaciya-yagid.html
+Redirect 301 /kudy-zdaty-zamorozhenyh-produktiv.html /utylizaciya-zamorozhenyh-produktiv.html
+Redirect 301 /kudy-zdaty-zipsovanyh-produktiv.html /utylizaciya-zipsovanyh-produktiv.html
+Redirect 301 /li-ion.html /utylizaciya-li-ion-batarej.html
+RedirectMatch 301 ^/utilizaciya-li-ion-batarej$ /utylizaciya-li-ion-batarej.html
+RedirectMatch 301 ^/utilizaciya-li-ion-batarej\.html$ /utylizaciya-li-ion-batarej.html
+Redirect 301 /shyny.html /utylizaciya-shyn.html
+Redirect 301 /utylizaciya-kabelyu-drotiv.html /utylizaciya-kabelyu-ta-drotiv.html
+Redirect 301 /utylizaciya-kosmetiki.html /utylizaciya-kosmetyky.html
+Redirect 301 /utylizaciya-nekondicijnoyi-syrovini.html /utylizaciya-nekondicijnoyi-sirovini.html
+Redirect 301 /utylizaciya-shin.html /utylizaciya-shyn.html
+Redirect 301 /utylizaciya-vidpracovanoyi-oliyi.html /utylizaciya-vidpracovanoi-olyvy.html
+Redirect 301 /yak-pereroblyayut-avtoshyn.html /pererobka-avtomobilnyh-shyn.html
+Redirect 301 /yak-pereroblyayut-konservy.html /utylizaciya-konserviv.html
+Redirect 301 /yak-pereroblyayut-plastyku-ta-polimery.html /utylizaciya-plastyku-ta-polimeriv.html
+Redirect 301 /yak-pereroblyayut-promyslovi-vidhody.html /utylizaciya-promyslovyh-vidhodiv.html
+Redirect 301 /yak-pereroblyayut-prostrochenyh-produktiv.html /utylizaciya-prostrochenyh-produktiv.html
+Redirect 301 /yak-pereroblyayut-skla.html /pererobka-skla.html
+Redirect 301 /yak-pereroblyayut-skladskyh-zalyshkiv-kosmetyky.html /utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+RedirectMatch 301 ^/articles/(.*)$ /
+# END YOURECO_AUTO_REDIRECTS

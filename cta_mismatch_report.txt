@@ -1,0 +1,185 @@
+FILE: akt-pryimannya-peredachi.html
+PAGE_TOPIC: akt-pryimannya-peredachi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: akt-utylizaciyi.html
+PAGE_TOPIC: akt-utylizaciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: chy-potribno-pererobyty-chy-utylizuvaty.html
+PAGE_TOPIC: chy-potribno-pererobyty-chy-utylizuvaty
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: fotozvit-utylizaciyi.html
+PAGE_TOPIC: fotozvit-utylizaciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: likvidaciya-skladskykh-zalyshkiv.html
+PAGE_TOPIC: likvidaciya-skladskykh-zalyshkiv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: povernennya-tovariv-z-merezhi.html
+PAGE_TOPIC: povernennya-tovariv-z-merezhi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: reestr-partiyi.html
+PAGE_TOPIC: reestr-partiyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: scenarii-utilizaciyi.html
+PAGE_TOPIC: scenarii-utilizaciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: shcho-take-pererobka-vidhodiv.html
+PAGE_TOPIC: shcho-take-pererobka-vidhodiv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: shcho-take-promyslovi-vidhody.html
+PAGE_TOPIC: shcho-take-promyslovi-vidhody
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: shcho-take-utylizaciya.html
+PAGE_TOPIC: shcho-take-utylizaciya
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: shcho-take-znyshchennya-produkciyi.html
+PAGE_TOPIC: shcho-take-znyshchennya-produkciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: spysannya-produkciyi.html
+PAGE_TOPIC: spysannya-produkciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-brakovanoi-produkciyi.html
+PAGE_TOPIC: utilizaciya-brakovanoi-produkciyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-bankiv.html
+PAGE_TOPIC: utilizaciya-dlya-bankiv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-data-centriv.html
+PAGE_TOPIC: utilizaciya-dlya-data-centriv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-importeriv.html
+PAGE_TOPIC: utilizaciya-dlya-importeriv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-riteylu.html
+PAGE_TOPIC: utilizaciya-dlya-riteylu
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-skladiv.html
+PAGE_TOPIC: utilizaciya-dlya-skladiv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utilizaciya-dlya-vyrobnyctva.html
+PAGE_TOPIC: utilizaciya-dlya-vyrobnyctva
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utylizaciya-akumulyatoriv.html
+PAGE_TOPIC: utylizaciya-akumulyatoriv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utylizaciya-elektroniky.html
+PAGE_TOPIC: utylizaciya-elektroniky
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: utylizaciya-importnyh-tovariv.html
+PAGE_TOPIC: utylizaciya-importnyh-tovariv
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: vnutrishniy-akt-spysannya.html
+PAGE_TOPIC: vnutrishniy-akt-spysannya
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: yak-oformyty-spysannya-partiyi.html
+PAGE_TOPIC: yak-oformyty-spysannya-partiyi
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: yak-peredaty-kosmetyku.html
+PAGE_TOPIC: yak-peredaty-kosmetyku
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: yak-peredaty-li-ion-batarei.html
+PAGE_TOPIC: yak-peredaty-li-ion-batarei
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: yak-peredaty-skladski-zalyshky.html
+PAGE_TOPIC: yak-peredaty-skladski-zalyshky
+CTA_URL:
+CTA_TOPIC:
+ISSUE_TYPE: missing_target
+
+FILE: kontakty.html
+PAGE_TOPIC: kontakty
+CTA_URL: https://youreco.com.ua/kontakty
+CTA_TOPIC: contacts
+ISSUE_TYPE: generic_target
+
+FILE: utylizaciya-gipsokartonu.html
+PAGE_TOPIC: утилізація гіпсокартону
+CTA_URL: https://youreco.com.ua/upakovky
+CTA_TOPIC: упаковки
+ISSUE_TYPE: mismatch
+
+FILE: kudy-zdaty-gipsokartonu.html
+PAGE_TOPIC: куди здати гіпсокартон
+CTA_URL: https://youreco.com.ua/upakovky
+CTA_TOPIC: упаковки
+ISSUE_TYPE: mismatch

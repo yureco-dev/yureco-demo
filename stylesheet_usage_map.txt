@@ -1,0 +1,1220 @@
+FILE: akt-pryimannya-peredachi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: akt-utylizaciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: articles/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: chy-potribno-pererobyty-chy-utylizuvaty.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: dokumenty.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: dokumenty-dlya-utylizaciyi-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: fotozvit-utylizaciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kabelni-vidhody.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kontakty.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-avtoshyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-derevyny-z-budivnyctva.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-dokumentiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-energetychnyh-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-fruktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-fruktiv-ta-ovochiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-gazovanyh-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-gipsokartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-harchovyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-kabelyu-ta-drotiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-kondyterskyh-vyrobiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-konserviv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-kosmetiki.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-kosmetyky-magazyniv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-li-ion-batarej.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-materialiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-metalevoyi-strushky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-metalu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-molochnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-myasnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-napivfabrykatyv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-nekondicijnoyi-sirovini.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-nekondyciynoyi-produkciyi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-obladnannya.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-odyagu-vzuttya.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-ofisnih-mebliv-orgtehniki.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-ovochiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-paperu-ta-kartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-parfumeriyi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-partiyi-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-plastyku-ta-polimeriv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-produktiv-na-skladi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-prostrochenoyi-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-prostrochenyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-pyva.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-rybnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-shin.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-shyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-shyn-pidpryyemstvamy.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-shyny.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-skla.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-sokiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-sokiv-ta-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-tary-upakovki.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-tovariv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-upakovky-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-upakovky-vid-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vantazhnyh-shyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vidpracovane-maslo.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vidpracovanoi-olyvy.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vidpracovanyh-masel.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vody.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-vyrobnychyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-yagid.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-zamorozhenyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: kudy-zdaty-zipsovanyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: li-ion.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: likvidaciya-skladskykh-zalyshkiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-kabelyu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-metalu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-paperu-ta-kartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-plastyku.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-shyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: logistyka-skla.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: nebezpeka-vidpracovanogo-masla.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: oblik-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: optymizaciya-vidhodiv-na-vyrobnyctvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-alyuminiyevogo-kabelyu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-avtomobilnyh-shyn.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-betonu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-cegly.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-gumovyh-vyrobiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-izolyaciyi-kabelyu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-kartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-makulatury.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-metalu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-midnogo-kabelyu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-pet.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-plastykovoyi-upakovky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-polietylenu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-polipropylenu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-polistyrolu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-shyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-skla.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pererobka-vidpracovanyh-masel.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: plastykovi-vidhody.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: plastyk-yak-vtorynna-syrovyna.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: podribnennya-shyn-gumova-kryshka.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: povernennya-tovariv-z-merezhi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: promyslovi-vidhody.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: promyslovi-vidhody-na-pidpryyemstvi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: pryjom-kabelyu-na-utylizaciyu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: reestr-partiyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: scenarii-utilizaciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: shcho-take-pererobka-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: shcho-take-promyslovi-vidhody.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: shcho-take-utylizaciya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: shcho-take-znyshchennya-produkciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: shyny.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: skilky-koshtuye-pererobka-kabelyu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: skladuvannya-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: sortuvannya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: sortuvannya/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: sortuvannya-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: sortuvannya-plastyku.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: sortuvannya-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: spysannya-kosmetychnyh-tovariv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: spysannya-produkciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: spysannya-produktiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: transportuvannya-vidpracovanyh-masel.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: transportuvannya-vidpracovanyh-shyn.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-brakovanoi-produkciyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-bankiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-data-centriv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-importeriv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-riteylu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-skladiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utilizaciya-dlya-vyrobnyctva.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya/index.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-akumulyatoriv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-avtoshyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-derevyny-z-budivnyctva.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-dokumentiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-elektroniky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-energetychnyh-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-fruktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-fruktiv-ta-ovochiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-gazovanyh-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-gipsokartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-harchovyh-produktiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-importnyh-tovariv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-kabelyu-ta-drotiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-kondyterskyh-vyrobiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-konfidenciynykh-dokumentiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-konserviv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-kosmetiki.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-kosmetyky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-kosmetyky-magazyniv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-li-ion-batarej.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-materialiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-metalevoyi-strushky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-metalu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-molochnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-myasnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-napivfabrykatyv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-napoyiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-nekondicijnoyi-sirovini.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-nekondyciynoyi-produkciyi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-obladnannya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-odyagu-vzuttya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-ofisnih-mebliv-orgtehniki.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-ovochiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-paperu-ta-kartonu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-parfumeriyi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-partiyi-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-paverbankiv-dbj.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-plastyku-ta-polimeriv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-produktiv-harchuvannya-napoyiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-produktiv-na-skladi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-prostrochenoyi-kosmetyky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-prostrochenyh-produktiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-pyva.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-rybnyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-shin.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: no
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-shyn.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-shyn-pidpryyemstvamy.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-skla.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-skladskyh-zalyshkiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-sokiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-sokiv-ta-napoyiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-sonyachnih-panelij-vitryakiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-tary-upakovki.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-tovariv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-tovary-pid-mitnim-kontrolem.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-upakovky-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-upakovky-vid-kosmetyky.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-vantazhnyh-shyn.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-vidpracovanoi-olyvy.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-vidpracovanyh-masel.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-vody.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-vyrobnychyh-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-yagid.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-zamorozhenyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: utylizaciya-zipsovanyh-produktiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidhody.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidhody-demontazhu.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidhody-gumy.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidhody-polimeriv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidhody-vyrobnyctva.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidy-kabelnyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vidy-plastykovyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vnutrishniy-akt-spysannya.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vtorynna-syrovyna-z-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vymogy-do-zberigannya-vidhodiv.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: vyviz-budivelnyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: yak-oformyty-spysannya-partiyi.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: yak-peredaty-kosmetyku.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: yak-peredaty-li-ion-batarei.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: yak-peredaty-skladski-zalyshky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zberigannya-vidpracovanyh-masel.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-kabelyu.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-kartonu-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-metalu-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-plastyku-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-promyslovyh-vidhodiv.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-shyn-na-pidpryyemstvi.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-sklyanoyi-tary.html
+HAS_STYLESHEET: no
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: zbir-vidpracovanoyi-olyvy.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+
+FILE: znyshchennya-kosmetyky.html
+HAS_STYLESHEET: yes
+HAS_INLINE_STYLE_BLOCK: yes
+HAS_INLINE_STYLE_ATTR: no
+

@@ -1,0 +1,65 @@
+FILE: index.html
+FIELD: json-ld url
+EXPECTED: https://guide.youreco.com.ua
+ACTUAL: https://guide.youreco.com.ua/
+ISSUE_TYPE: URL_MISMATCH
+
+FILE: li-ion.html
+FIELD: json-ld url
+EXPECTED: https://guide.youreco.com.ua/li-ion.html
+ACTUAL: https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: URL_MISMATCH
+
+FILE: logistyka/index.html
+FIELD: json-ld description
+EXPECTED: Хаб розділу логістики в довіднику YOURECO з переліком усіх матеріалів кластера.
+ACTUAL: [missing]
+ISSUE_TYPE: FIELD_MISSING
+
+FILE: pererobka/index.html
+FIELD: json-ld description
+EXPECTED: Хаб розділу переробки в довіднику YOURECO з переліком усіх матеріалів кластера.
+ACTUAL: [missing]
+ISSUE_TYPE: FIELD_MISSING
+
+FILE: shyny.html
+FIELD: json-ld url
+EXPECTED: https://guide.youreco.com.ua/shyny.html
+ACTUAL: https://guide.youreco.com.ua/utylizaciya-shyn.html
+ISSUE_TYPE: URL_MISMATCH
+
+FILE: sortuvannya/index.html
+FIELD: json-ld description
+EXPECTED: Хаб розділу сортування в довіднику YOURECO з переліком усіх матеріалів кластера.
+ACTUAL: [missing]
+ISSUE_TYPE: FIELD_MISSING
+
+FILE: utylizaciya/index.html
+FIELD: json-ld description
+EXPECTED: Хаб розділу утилізації в довіднику YOURECO з переліком усіх матеріалів кластера.
+ACTUAL: [missing]
+ISSUE_TYPE: FIELD_MISSING
+
+FILE: index.html
+FIELD: json-ld headline
+EXPECTED: title
+ACTUAL: mismatch
+ISSUE_TYPE: headline_title_mismatch
+
+FILE: pererobka.html
+FIELD: json-ld headline
+EXPECTED: title
+ACTUAL: mismatch
+ISSUE_TYPE: headline_title_mismatch
+
+FILE: utylizaciya.html
+FIELD: json-ld headline
+EXPECTED: title
+ACTUAL: mismatch
+ISSUE_TYPE: headline_title_mismatch
+
+FILE: utylizaciya-yagid.html
+FIELD: json-ld headline
+EXPECTED: title
+ACTUAL: mismatch
+ISSUE_TYPE: headline_title_mismatch

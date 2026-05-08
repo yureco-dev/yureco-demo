@@ -1,0 +1,496 @@
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/akt-pryimannya-peredachi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/akt-utylizaciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/chy-potribno-pererobyty-chy-utylizuvaty.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/dokumenty-dlya-utylizaciyi-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/fotozvit-utylizaciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-avtoshyn.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-budivelnyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-derevyny-z-budivnyctva.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-dokumentiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-energetychnyh-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-fruktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-fruktiv-ta-ovochiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-gazovanyh-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-gipsokartonu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-harchovyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-kabelyu-ta-drotiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-kondyterskyh-vyrobiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-konserviv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-kosmetiki.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-li-ion-batarej.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-materialiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-metalevoyi-strushky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-metalu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-molochnyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-myasnyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-napivfabrykatyv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-nekondicijnoyi-sirovini.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-nekondyciynoyi-produkciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-obladnannya.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-odyagu-vzuttya.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-paperu-ta-kartonu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-paverbankiv-dbj.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-plastyku-ta-polimeriv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-produktiv-harchuvannya-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-produktiv-na-skladi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-promyslovyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-prostrochenoyi-kosmetyky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-prostrochenyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-pyva.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-shin.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-shyn-pidpryyemstvamy.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-skla.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-skladskyh-zalyshkiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-sokiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-sokiv-ta-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-tary-upakovki.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-tovariv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-upakovky-na-pidpryyemstvi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-upakovky-vid-kosmetyky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-vantazhnyh-shyn.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovane-maslo.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovanoi-olyvy.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-vidpracovanyh-masel.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-vody.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-yagid.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-zamorozhenyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/kudy-zdaty-zipsovanyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/li-ion.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/likvidaciya-skladskykh-zalyshkiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/logistyka/index.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/logistyka-kabelyu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/logistyka-promyslovyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/oblik-promyslovyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/pererobka/index.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/pererobka-betonu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/pererobka-kartonu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/pererobka-pet.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/pererobka-polistyrolu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/plastykovi-vidhody.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/povernennya-tovariv-z-merezhi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/promyslovi-vidhody-na-pidpryyemstvi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/reestr-partiyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/scenarii-utilizaciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/shcho-take-pererobka-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/shcho-take-promyslovi-vidhody.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/shcho-take-utylizaciya.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/shcho-take-znyshchennya-produkciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/shyny.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/skladuvannya-promyslovyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/sortuvannya/index.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/spysannya-kosmetychnyh-tovariv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/spysannya-produkciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-brakovanoi-produkciyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-bankiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-data-centriv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-importeriv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-riteylu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-skladiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utilizaciya-dlya-vyrobnyctva.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya/index.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-akumulyatoriv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-avtoshyn.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-elektroniky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-gipsokartonu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-importnyh-tovariv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-konfidenciynykh-dokumentiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-molochnyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-partiyi-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-produktiv-na-skladi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-shyn-pidpryyemstvamy.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-sokiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-tovariv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-vantazhnyh-shyn.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/utylizaciya-vyrobnychyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/vidhody-demontazhu.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/vidy-kabelnyh-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/vnutrishniy-akt-spysannya.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/vymogy-do-zberigannya-vidhodiv.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/yak-oformyty-spysannya-partiyi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/yak-peredaty-kosmetyku.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/yak-peredaty-li-ion-batarei.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/yak-peredaty-skladski-zalyshky.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/zbir-kartonu-na-pidpryyemstvi.html
+STATUS: missing
+
+TYPE: HTML_NOT_IN_SITEMAP
+URL: https://guide.youreco.com.ua/zbir-shyn-na-pidpryyemstvi.html
+STATUS: missing
+

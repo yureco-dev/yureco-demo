@@ -1,0 +1,179 @@
+FILE: dokumenty.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: dokumenty.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: index.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: index.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: kontakty.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: kontakty.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty-li-ion-batarej.html
+BLOCK_TYPE: CTA-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty-li-ion-batarej.html
+BLOCK_TYPE: related-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+BLOCK_TYPE: CTA-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty-paverbankiv-dbj.html
+BLOCK_TYPE: related-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: рџ”‹ Li-ion Р±Р°С‚Р°СЂРµС—
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: kudy-zdaty.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: рџ”‹ Li-ion Р±Р°С‚Р°СЂРµС—
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: li-ion.html
+BLOCK_TYPE: CTA-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: li-ion.html
+BLOCK_TYPE: related-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: logistyka.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: logistyka.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: pererobka.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: pererobka.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: sortuvannya.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: sortuvannya.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya-li-ion-batarej.html
+BLOCK_TYPE: CTA-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya-li-ion-batarej.html
+BLOCK_TYPE: related-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya-paverbankiv-dbj.html
+BLOCK_TYPE: CTA-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya-paverbankiv-dbj.html
+BLOCK_TYPE: related-block
+ANCHOR_TEXT: Замовити утилізацію Li-ion батарей
+TARGET_URL: https://youreco.com.ua/li-ion-batarei
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: utylizaciya.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: vidhody.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: vidhody.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: 🔋 Li-ion батареї
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: zbir.html
+BLOCK_TYPE: navigation list
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text
+
+FILE: zbir.html
+BLOCK_TYPE: sidebar navigation
+ANCHOR_TEXT: СЂСџвЂќвЂ№ Li-ion Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎвЂ”
+TARGET_URL: /utylizaciya-li-ion-batarej.html
+ISSUE_TYPE: slug-like-text

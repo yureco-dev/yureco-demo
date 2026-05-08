@@ -1,0 +1,23 @@
+П.12.VALIDATOR Єдиний QA-валідатор — ДОБРЕ
+
+Звіт:
+- URL у sitemap.xml: 168
+- HTML-файлів знайдено для sitemap URL: 168
+- indexable сторінок перевірено: 168
+- indexable сторінок <450 слів: 0
+- FIX-сторінок <750 слів: 0
+- kudy-zdaty.html має 950+ слів: так
+- агресивних bridge-link anchors: 0
+- noindex URL у sitemap.xml: 0
+- redirect-source URL у sitemap.xml: 0
+- duplicate title groups: 0
+- duplicate description groups: 0
+- duplicate H1 groups: 0
+- non-self canonical серед sitemap URL: 0
+- HTML у dist не редагувався: так
+- sitemap.xml не редагувався: так
+- robots.txt не редагувався: так
+- .htaccess не редагувався: так
+- CSS не редагувався: так
+- UTF-8 збережено: так
+- кирилиця не зіпсована: так
