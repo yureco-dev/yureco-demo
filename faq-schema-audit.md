@@ -1,0 +1,168 @@
+# FAQ Schema Audit
+
+## Summary
+- index root pages scanned: 241
+- pages with visible FAQ: 73
+- pages with FAQPage JSON-LD: 2
+- pages missing FAQPage JSON-LD: 71
+- pages with FAQ count mismatch: 72
+- pages with FAQ text mismatch: 0
+- pages without FAQ issues: 169
+
+## Pages Missing FAQPage JSON-LD
+- akt-utylizaciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- dokumenty.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- fotozvit-utylizaciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- kudy-zdaty.html: visible FAQ count 6, FAQPage JSON-LD count 0
+- logistyka-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- logistyka-kabelyu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- logistyka-plastyku.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- nebezpeka-vidpracovanogo-masla.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-avtomobilnyh-shyn.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- pererobka-izolyaciyi-kabelyu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-pet.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-polistyrolu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-skla.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- pererobka-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- plastykovi-vidhody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- reestr-partiyi.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- scenarii-utilizaciyi.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- shcho-take-pererobka-vidhodiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-promyslovi-vidhody.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-utylizaciya.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-znyshchennya-produkciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- sortuvannya-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- sortuvannya-plastyku.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- sortuvannya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- spysannya-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- transportuvannya-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- transportuvannya-vidpracovanyh-shyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-avtoshyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-derevyny-z-budivnyctva.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-dokumentiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-energetychnyh-napoyiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-fruktiv-ta-ovochiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-gazovanyh-napoyiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-harchovyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-kabelyu-ta-drotiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-konserviv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-li-ion-batarej.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-materialiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-myasnyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-nekondicijnoyi-sirovini.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-odyagu-vzuttya.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-ofisnih-mebliv-orgtehniki.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-paperu-ta-kartonu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-plastyku-ta-polimeriv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-produktiv-harchuvannya-napoyiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-promyslovyh-vidhodiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-prostrochenoyi-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-prostrochenyh-produktiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-rybnyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-shyn.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-skladskyh-zalyshkiv-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-sokiv-ta-napoyiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-tary-upakovki.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-tovary-pid-mitnim-kontrolem.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-upakovky-vid-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-vantazhnyh-shyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-vidpracovanoi-olyvy.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-vody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-zamorozhenyh-produktiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidhody-polimeriv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidhody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidy-kabelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidy-plastykovyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vnutrishniy-akt-spysannya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vymogy-do-zberigannya-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vyviz-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- zberigannya-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- zbir.html: visible FAQ count 3, FAQPage JSON-LD count 0
+
+## FAQ Count Mismatches
+- akt-utylizaciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- dokumenty.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- fotozvit-utylizaciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- index.html: visible FAQ count 9, FAQPage JSON-LD count 5
+- kudy-zdaty.html: visible FAQ count 6, FAQPage JSON-LD count 0
+- logistyka-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- logistyka-kabelyu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- logistyka-plastyku.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- nebezpeka-vidpracovanogo-masla.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-avtomobilnyh-shyn.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- pererobka-izolyaciyi-kabelyu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-pet.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-polistyrolu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka-skla.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- pererobka-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- pererobka.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- plastykovi-vidhody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- reestr-partiyi.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- scenarii-utilizaciyi.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- shcho-take-pererobka-vidhodiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-promyslovi-vidhody.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-utylizaciya.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- shcho-take-znyshchennya-produkciyi.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- sortuvannya-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- sortuvannya-plastyku.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- sortuvannya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- spysannya-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- transportuvannya-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- transportuvannya-vidpracovanyh-shyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-avtoshyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-derevyny-z-budivnyctva.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-dokumentiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-energetychnyh-napoyiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-fruktiv-ta-ovochiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-gazovanyh-napoyiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-harchovyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-kabelyu-ta-drotiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-konserviv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-li-ion-batarej.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-materialiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-myasnyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-nekondicijnoyi-sirovini.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-odyagu-vzuttya.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-ofisnih-mebliv-orgtehniki.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-paperu-ta-kartonu.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-plastyku-ta-polimeriv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-produktiv-harchuvannya-napoyiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-promyslovyh-vidhodiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-prostrochenoyi-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-prostrochenyh-produktiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-rybnyh-produktiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-shyn.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-skladskyh-zalyshkiv-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-sokiv-ta-napoyiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-tary-upakovki.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-tovary-pid-mitnim-kontrolem.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-upakovky-vid-kosmetyky.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-vantazhnyh-shyn.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-vidpracovanoi-olyvy.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya-vody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- utylizaciya-zamorozhenyh-produktiv.html: visible FAQ count 4, FAQPage JSON-LD count 0
+- utylizaciya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidhody-polimeriv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidhody.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidy-kabelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vidy-plastykovyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vnutrishniy-akt-spysannya.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vymogy-do-zberigannya-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- vyviz-budivelnyh-vidhodiv.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- zberigannya-vidpracovanyh-masel.html: visible FAQ count 3, FAQPage JSON-LD count 0
+- zbir.html: visible FAQ count 3, FAQPage JSON-LD count 0
+
+## FAQ Text Mismatches
+- none
+
+## Recommendation
+- add FAQPage JSON-LD to index pages with visible FAQ
+
+## Git Status
+```txt
+?? faq-schema-audit.md
+```
