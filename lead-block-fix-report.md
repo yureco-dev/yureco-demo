@@ -2,8 +2,8 @@
 
 ## Summary
 - index root pages checked: 64
-- files changed: 64 root HTML files + lead-block-fix-report.md
-- lead blocks added: 63
+- files changed: 63 root HTML files + lead-block-fix-report.md
+- lead blocks added: 62
 - lead blocks updated: 1
 - noindex files changed: no
 - title changed: no
@@ -17,7 +17,6 @@
 - Cyrillic/UTF-8 issues: no
 
 ## Changed Files
-- 404.html
 - akt-pryimannya-peredachi.html
 - akt-utylizaciyi.html
 - chy-potribno-pererobyty-chy-utylizuvaty.html
@@ -92,7 +91,6 @@
 
 ## Git Status
 ```text
- M 404.html
  M akt-pryimannya-peredachi.html
  M akt-utylizaciyi.html
  M chy-potribno-pererobyty-chy-utylizuvaty.html
