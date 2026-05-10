@@ -1,0 +1,24 @@
+# Template Repeat Batch 8 Report
+
+- files checked: 10
+  - kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html
+  - kudy-zdaty-sokiv-ta-napoyiv.html
+  - kudy-zdaty-skladskyh-zalyshkiv.html
+  - kudy-zdaty-sonyachnih-panelij-vitryakiv.html
+  - kudy-zdaty-sokiv.html
+  - kudy-zdaty-tovary-pid-mitnim-kontrolem.html
+  - kudy-zdaty-tovariv.html
+  - kudy-zdaty-tary-upakovki.html
+  - kudy-zdaty-vantazhnyh-shyn.html
+  - kudy-zdaty-upakovky-vid-kosmetyky.html
+- files changed: 10 HTML files + template-repeat-batch-8-report.md
+- repeated blocks removed: 30 repeated intro paragraphs
+- repeated blocks shortened: 10 intro blocks reduced to one topic-specific paragraph each
+- unique paragraphs added: 10
+- H1/title/meta/canonical changed: ні
+- JSON-LD changed: ні
+- FAQ changed: ні
+- updated-date changed: ні
+- public/dist changed: ні
+- sitemap changed: ні
+- Cyrillic/UTF-8 issues: не виявлено
