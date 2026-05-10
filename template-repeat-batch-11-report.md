@@ -1,0 +1,45 @@
+# Template Repeat Batch 11 Report
+
+- files checked:
+  - pererobka-betonu.html
+  - pererobka-gumovyh-vyrobiv.html
+  - pererobka-izolyaciyi-kabelyu.html
+  - pererobka-kartonu.html
+  - pererobka-makulatury.html
+  - pererobka-metalu.html
+  - pererobka-midnogo-kabelyu.html
+  - pererobka-pet.html
+  - pererobka-plastykovoyi-upakovky.html
+  - pererobka-polietylenu.html
+- files changed:
+  - pererobka-betonu.html
+  - pererobka-gumovyh-vyrobiv.html
+  - pererobka-izolyaciyi-kabelyu.html
+  - pererobka-kartonu.html
+  - pererobka-makulatury.html
+  - pererobka-metalu.html
+  - pererobka-midnogo-kabelyu.html
+  - pererobka-pet.html
+  - pererobka-plastykovoyi-upakovky.html
+  - pererobka-polietylenu.html
+- repeated blocks removed:
+  - 20 visible repeated intro/service paragraphs removed from body content
+- repeated blocks shortened:
+  - 10 ai-summary blocks rewritten to remove template phrasing
+  - 10 generic intro paragraphs replaced with topic-specific wording
+- unique paragraphs added:
+  - 10 short topic-specific paragraphs added
+- H1/title/meta/canonical changed:
+  - no
+- JSON-LD changed:
+  - no
+- FAQ changed:
+  - no
+- updated-date changed:
+  - no
+- public/dist changed:
+  - no
+- sitemap changed:
+  - no
+- Cyrillic/UTF-8 issues:
+  - no issues detected
