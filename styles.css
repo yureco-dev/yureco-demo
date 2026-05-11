@@ -107,6 +107,65 @@
             line-height: 1.7;
         }
 
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.07);
+            padding: 6px 14px;
+            border-radius: 12px;
+            font-size: 13px;
+            margin-left: 10px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.05);
+            padding: 25px;
+            border-radius: 16px;
+            margin: 25px 0;
+            border: 1px solid rgba(255,255,255,0.07);
+        }
+
+        .card h2 {
+            margin-top: 0;
+        }
+
+        .related-list {
+            padding-left: 18px;
+        }
+
+        .read-also-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 12px;
+            margin-top: 14px;
+        }
+
+        .read-also-item {
+            display: block;
+            padding: 14px 14px;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.07);
+            text-decoration: none;
+            transition: 0.2s;
+            color: #dbe4ff;
+        }
+
+        .read-also-item:hover {
+            background: rgba(255,255,255,0.07);
+            transform: translateY(-1px);
+        }
+
+        .read-also-title {
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+
+        .read-also-desc {
+            font-size: 13px;
+            opacity: 0.85;
+            line-height: 1.35;
+        }
+
         .footer {
             margin-top: 50px;
             padding: 20px;
@@ -116,7 +175,32 @@
             border-top: 1px solid rgba(255,255,255,0.1);
             line-height: 1.6;
         }
+
+        .footer a {
+            color: #9ad0ff;
+            text-decoration: none;
+        }
+
         a { color: #9ad0ff; }
+
+        .breadcrumbs {
+            font-size: 14px;
+            margin: 0 0 14px 0;
+            opacity: .9;
+        }
+
+        .breadcrumbs a {
+            color: #9ad0ff;
+            text-decoration: none;
+        }
+
+        .breadcrumbs a:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumbs span {
+            opacity: .8;
+        }
 
         a:focus-visible,
         button:focus-visible,
@@ -184,5 +268,11 @@ body{background:#060b1b;}
     picture,
     video {
         height: auto;
+    }
+}
+
+@media (max-width: 860px) {
+    .read-also-grid {
+        grid-template-columns: 1fr;
     }
 }
