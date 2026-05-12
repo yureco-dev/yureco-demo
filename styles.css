@@ -225,7 +225,6 @@ body{background:#060b1b;}
     html,
     body {
         max-width: 100%;
-        overflow-x: hidden;
     }
 
     .layout {
@@ -274,5 +273,122 @@ body{background:#060b1b;}
 @media (max-width: 860px) {
     .read-also-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+/* Stage 16: mobile responsive layout */
+table {
+    max-width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .layout,
+    .main,
+    main,
+    .card,
+    .intro-card,
+    .links-card,
+    .read-also-grid {
+        min-width: 0;
+    }
+
+    .sidebar {
+        flex: 0 0 260px;
+    }
+
+    .main,
+    main {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .layout {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sidebar {
+        position: static;
+        order: 0;
+        flex: none;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    .main,
+    main {
+        order: 1;
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+        margin-left: 0;
+        padding-left: 16px;
+        box-sizing: border-box;
+    }
+
+    .card,
+    .intro-card,
+    .links-card,
+    .content,
+    .breadcrumbs,
+    .read-also-grid,
+    .read-also-item {
+        max-width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    table {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    th,
+    td {
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 430px) {
+    .sidebar {
+        padding: 18px 12px;
+    }
+
+    .main,
+    main {
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+
+    .card,
+    .intro-card,
+    .links-card {
+        padding: 16px;
+    }
+
+    .breadcrumbs {
+        overflow-wrap: anywhere;
+    }
+}
+
+@media (max-width: 390px) {
+    .layout,
+    .main,
+    main,
+    .card,
+    .intro-card,
+    .links-card {
+        max-width: 100%;
+        min-width: 0;
+    }
+
+    .menu li a,
+    .read-also-item {
+        overflow-wrap: anywhere;
     }
 }
