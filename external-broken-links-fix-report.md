@@ -1,0 +1,24 @@
+# External Broken Links Fix Report
+
+- fix scope: expanded to all source HTML files outside public, dist, node_modules, and .git
+- files changed count: 132 source HTML files, plus this report
+- links fixed total: 137
+- old URLs remaining in source: no
+- remaining old URL files: none
+- public not changed manually: yes
+- build run: no
+- commit done: no
+- only href changed: yes
+- visible anchor text changed: no
+- title/meta changed: no
+- canonical/robots changed: no
+- og/twitter changed: no
+- JSON-LD changed: no
+- FAQ changed: no
+- H1 changed: no
+- CSS changed: no
+- JS changed: no
+- sitemap/robots changed: no
+- .github/scripts changed: no
+- public/dist changed: no
+- Cyrillic/UTF-8 issues: no
