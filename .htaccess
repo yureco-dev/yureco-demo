@@ -93,6 +93,8 @@ Redirect 301 /kudy-zdaty-yagid.html /utylizaciya-yagid.html
 Redirect 301 /kudy-zdaty-zamorozhenyh-produktiv.html /utylizaciya-zamorozhenyh-produktiv.html
 Redirect 301 /kudy-zdaty-zipsovanyh-produktiv.html /utylizaciya-zipsovanyh-produktiv.html
 Redirect 301 /li-ion.html /utylizaciya-li-ion-batarej.html
+RedirectMatch 301 ^/utilizaciya-li-ion-batarej$ /utylizaciya-li-ion-batarej.html
+RedirectMatch 301 ^/utilizaciya-li-ion-batarej\.html$ /utylizaciya-li-ion-batarej.html
 Redirect 301 /shyny.html /utylizaciya-shyn.html
 Redirect 301 /utylizaciya-kabelyu-drotiv.html /utylizaciya-kabelyu-ta-drotiv.html
 Redirect 301 /utylizaciya-kosmetiki.html /utylizaciya-kosmetyky.html

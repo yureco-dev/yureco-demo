@@ -1,0 +1,58 @@
+# Technical Warnings Fix Stage 20 Report
+
+- files changed:
+  - `404.html`
+  - `dokumenty-dlya-utylizaciyi-vidhodiv.html`
+  - `kudy-zdaty-kosmetiki.html`
+  - `kudy-zdaty-kosmetyky.html`
+  - `kudy-zdaty-shin.html`
+  - `kudy-zdaty-shyn.html`
+  - `kudy-zdaty-shyny.html`
+  - `utylizaciya-dokumentiv.html`
+  - `technical-warnings-fix-stage-20-report.md`
+- duplicate title groups before:
+  - 3x `Редирект: утилізація шин | YOURECO`
+  - 2x `Документи для утилізації відходів — Довідник YOURECO`
+  - 2x `Редирект: утилізація косметики | YOURECO`
+  - 2x `Утилізація конфіденційних документів | YOURECO`
+- duplicate title groups after:
+  - none
+- duplicate meta description groups before:
+  - 3x `Службова сторінка для застарілої адреси перенаправляє на актуальний матеріал про утилізацію шин для підприємств.`
+  - 2x `Службова сторінка для застарілої адреси перенаправляє на актуальний матеріал про утилізацію косметики для підприємств.`
+- duplicate meta description groups after:
+  - none
+- page without JSON-LD:
+  - `404.html`
+- JSON-LD action:
+  - added minimal valid `WebPage` JSON-LD to `404.html` without changing visible body content
+- invalid JSON-LD after:
+  - 0
+- H1 changed:
+  - no
+- body content changed:
+  - no
+- canonical/robots changed:
+  - no
+- og/twitter changed:
+  - no
+- FAQ changed:
+  - no
+- CSS changed:
+  - no
+- JS changed:
+  - no
+- sitemap/robots changed:
+  - no
+- public/dist changed:
+  - no
+- build run:
+  - no
+- commit done:
+  - no
+- Cyrillic/UTF-8 issues:
+  - no
+- notes:
+  - Only duplicate warning HTML metadata was changed on the listed duplicate-group pages.
+  - `dokumenty.html` and `utylizaciya-konfidenciynykh-dokumentiv.html` were not edited because changing the paired page title removed each duplicate group.
+  - `404.html` is noindex, but JSON-LD was added to match the project-wide pattern and remove the missing JSON-LD warning.

@@ -1,0 +1,29 @@
+П.14 Фінальний технічний контроль після оптимізації — ДОБРЕ
+
+Звіт:
+- HTML/HTM-файлів перевірено: 241
+- URL у sitemap.xml: 168
+- HTML-файлів знайдено для sitemap URL: 168
+- Broken internal links: 0
+- Missing assets: 0
+- JSON-LD parse errors: 0
+- Noindex URLs у sitemap: 0
+- Internal links to noindex pages: 0
+- Duplicate titles: 0
+- Duplicate descriptions: 0
+- Duplicate H1: 0
+- Indexable pages with non-self canonical: 0
+- Redirect chains: 0
+- Redirect loops: 0
+- Missing redirect targets: 0
+- Exposed auxiliary files: 0
+- Missing viewport: 0
+- Images without width/height: 0
+- HTML/CSS/XML/TXT читаються як UTF-8: так
+- кирилиця не зіпсована: так
+- production-файли під час аудиту не редагувались: так
+- створено JSON-звіт аудиту: так
+- створено TXT-звіт аудиту: так
+
+Примітки:
+- dist/.htaccess відсутній; redirect-перевірки рахуються як 0, оскільки redirect-правил у dist немає.

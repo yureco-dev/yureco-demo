@@ -1,0 +1,34 @@
+# Template Repeat Batch 3 Report
+
+- files checked:
+  - dokumenty-dlya-utylizaciyi-vidhodiv.html
+  - kabelni-vidhody.html
+  - kudy-zdaty-avtoshyn.html
+  - kudy-zdaty-budivelnyh-vidhodiv.html
+  - kudy-zdaty-derevyny-z-budivnyctva.html
+  - kudy-zdaty-dokumentiv.html
+  - kudy-zdaty-energetychnyh-napoyiv.html
+  - kudy-zdaty-fruktiv-ta-ovochiv.html
+  - kudy-zdaty-fruktiv.html
+  - kudy-zdaty-gazovanyh-napoyiv.html
+- files changed:
+  - dokumenty-dlya-utylizaciyi-vidhodiv.html
+  - kabelni-vidhody.html
+  - kudy-zdaty-avtoshyn.html
+  - kudy-zdaty-budivelnyh-vidhodiv.html
+  - kudy-zdaty-derevyny-z-budivnyctva.html
+  - kudy-zdaty-dokumentiv.html
+  - kudy-zdaty-energetychnyh-napoyiv.html
+  - kudy-zdaty-fruktiv-ta-ovochiv.html
+  - kudy-zdaty-fruktiv.html
+  - kudy-zdaty-gazovanyh-napoyiv.html
+- repeated blocks removed: 29 repeated/service paragraphs removed or replaced.
+- repeated blocks shortened: 10 repeated summary/route blocks shortened.
+- unique paragraphs added: 10 topic-specific paragraphs added.
+- H1/title/meta/canonical changed: ні
+- JSON-LD changed: ні
+- FAQ changed: ні
+- updated-date changed: ні
+- public/dist changed: ні
+- sitemap changed: ні
+- Cyrillic/UTF-8 issues: ні

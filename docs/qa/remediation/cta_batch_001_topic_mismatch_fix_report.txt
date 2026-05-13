@@ -1,5 +1,0 @@
-index.html
-kabelni-vidhody.html
-kontakty.html
-logistyka/index.html
-logistyka-metalu.html

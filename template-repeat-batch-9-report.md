@@ -1,0 +1,24 @@
+# Template Repeat Batch 9 Report
+
+- files checked: 10
+  - kudy-zdaty-upakovky-na-pidpryyemstvi.html
+  - kudy-zdaty-vidpracovane-maslo.html
+  - kudy-zdaty-vidpracovanoi-olyvy.html
+  - kudy-zdaty-vidpracovanyh-masel.html
+  - kudy-zdaty-vody.html
+  - kudy-zdaty-vyrobnychyh-vidhodiv.html
+  - kudy-zdaty-yagid.html
+  - kudy-zdaty-zamorozhenyh-produktiv.html
+  - kudy-zdaty-zipsovanyh-produktiv.html
+  - li-ion.html
+- files changed: 10 HTML files + template-repeat-batch-9-report.md
+- repeated blocks removed: 31 шаблонний вступовий/службовий абзац
+- repeated blocks shortened: 10 вступових блоків скорочено до одного тематичного абзацу на сторінку
+- unique paragraphs added: 10
+- H1/title/meta/canonical changed: ні
+- JSON-LD changed: ні
+- FAQ changed: ні
+- updated-date changed: ні
+- public/dist changed: ні
+- sitemap changed: ні
+- Cyrillic/UTF-8 issues: не виявлено

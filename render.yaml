@@ -72,6 +72,12 @@ services:
         source: /li-ion.html
         destination: /utylizaciya-li-ion-batarej.html
       - type: redirect
+        source: /utilizaciya-li-ion-batarej
+        destination: /utylizaciya-li-ion-batarej.html
+      - type: redirect
+        source: /utilizaciya-li-ion-batarej.html
+        destination: /utylizaciya-li-ion-batarej.html
+      - type: redirect
         source: /shyny.html
         destination: /utylizaciya-shyn.html
       - type: redirect

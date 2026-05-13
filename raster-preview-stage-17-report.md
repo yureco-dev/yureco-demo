@@ -1,0 +1,16 @@
+- files changed: 246 HTML source pages with existing social image meta, guide/img/og-default.png, raster-preview-stage-17-report.md
+- raster preview created: так
+- preview path: /guide/img/og-default.png
+- preview size: 1200x630 px
+- pages updated: 246
+- og:image updated: так
+- twitter:image updated: так
+- remaining svg social images: так, тільки в dist/ (482 matches); source HTML outside dist/: ні
+- HTML text changed: ні
+- JS changed: ні
+- JSON-LD changed: ні
+- sitemap/robots changed: ні
+- public/dist changed: ні
+- build run: ні
+- commit done: ні
+- Cyrillic/UTF-8 issues: ні

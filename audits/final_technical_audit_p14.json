@@ -1,0 +1,52 @@
+{
+  "audit": "П.14 Фінальний технічний контроль після оптимізації",
+  "status": "ДОБРЕ",
+  "generated_at": "2026-05-08T22:20:33",
+  "dist": "dist",
+  "summary": {
+    "html_files_checked": 241,
+    "sitemap_url_count": 168,
+    "sitemap_html_files_found": 168,
+    "broken_internal_links": 0,
+    "missing_assets": 0,
+    "json_ld_parse_errors": 0,
+    "noindex_urls_in_sitemap": 0,
+    "internal_links_to_noindex_pages": 0,
+    "duplicate_titles": 0,
+    "duplicate_descriptions": 0,
+    "duplicate_h1": 0,
+    "indexable_pages_with_non_self_canonical": 0,
+    "redirect_chains": 0,
+    "redirect_loops": 0,
+    "missing_redirect_targets": 0,
+    "exposed_auxiliary_files": 0,
+    "missing_viewport": 0,
+    "images_without_width_height": 0,
+    "utf8_readable": true,
+    "cyrillic_not_damaged": true,
+    "production_files_unchanged": true,
+    "json_report_created": true,
+    "txt_report_created": true
+  },
+  "notes": [
+    "dist/.htaccess відсутній; redirect-перевірки рахуються як 0, оскільки redirect-правил у dist немає."
+  ],
+  "details": {
+    "missing_sitemap_html_files": [],
+    "broken_internal_links": [],
+    "missing_assets": [],
+    "json_ld_parse_errors": [],
+    "noindex_urls_in_sitemap": [],
+    "internal_links_to_noindex_pages": [],
+    "duplicate_titles": [],
+    "duplicate_descriptions": [],
+    "duplicate_h1": [],
+    "non_self_canonical": [],
+    "redirect_problems": [],
+    "exposed_auxiliary_files": [],
+    "missing_viewport": [],
+    "images_without_width_height": [],
+    "utf8_errors": [],
+    "mojibake_markers": []
+  }
+}
