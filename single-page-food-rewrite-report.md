@@ -1,0 +1,19 @@
+- page: utylizaciya-harchovyh-produktiv.html
+- main replaced: так
+- noindex removed: так
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: ні
+- title/meta description changed: ні
+- canonical changed: ні
+- JSON-LD changed: ні
+- CTA URL: https://youreco.com.ua/harchovy/
+- CTA anchor: утилізація харчових продуктів для бізнесу
+- table present: так
+- checklist present: так
+- FAQ present: так
+- forbidden phrases found: ні
+- public changed: ні
+- sitemap changed: ні
+- build run: ні
+- commit done: ні
+- Cyrillic/UTF-8 issues: не виявлено
