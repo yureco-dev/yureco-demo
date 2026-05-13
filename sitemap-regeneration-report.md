@@ -1,0 +1,269 @@
+# Sitemap Regeneration Report
+
+- source HTML checked: 245
+- indexable canonical URLs written: 62
+- noindex/non-guide skipped: 183
+- duplicate canonical URLs: 0
+- sitemap file: sitemap.xml
+- generated date: 2026-05-13
+
+## URLs written
+- https://guide.youreco.com.ua
+- https://guide.youreco.com.ua/akt-pryimannya-peredachi.html
+- https://guide.youreco.com.ua/akt-utylizaciyi.html
+- https://guide.youreco.com.ua/chy-potribno-pererobyty-chy-utylizuvaty.html
+- https://guide.youreco.com.ua/dokumenty.html
+- https://guide.youreco.com.ua/fotozvit-utylizaciyi.html
+- https://guide.youreco.com.ua/kabelni-vidhody.html
+- https://guide.youreco.com.ua/kudy-zdaty.html
+- https://guide.youreco.com.ua/likvidaciya-skladskykh-zalyshkiv.html
+- https://guide.youreco.com.ua/logistyka-metalu.html
+- https://guide.youreco.com.ua/logistyka-skla.html
+- https://guide.youreco.com.ua/logistyka.html
+- https://guide.youreco.com.ua/pererobka-avtomobilnyh-shyn.html
+- https://guide.youreco.com.ua/pererobka-cegly.html
+- https://guide.youreco.com.ua/pererobka-skla.html
+- https://guide.youreco.com.ua/pererobka.html
+- https://guide.youreco.com.ua/povernennya-tovariv-z-merezhi.html
+- https://guide.youreco.com.ua/sortuvannya.html
+- https://guide.youreco.com.ua/spysannya-produkciyi.html
+- https://guide.youreco.com.ua/utilizaciya-brakovanoi-produkciyi.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-bankiv.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-data-centriv.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-importeriv.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-riteylu.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-skladiv.html
+- https://guide.youreco.com.ua/utilizaciya-dlya-vyrobnyctva.html
+- https://guide.youreco.com.ua/utylizaciya-akumulyatoriv.html
+- https://guide.youreco.com.ua/utylizaciya-dokumentiv.html
+- https://guide.youreco.com.ua/utylizaciya-elektroniky.html
+- https://guide.youreco.com.ua/utylizaciya-gazovanyh-napoyiv.html
+- https://guide.youreco.com.ua/utylizaciya-importnyh-tovariv.html
+- https://guide.youreco.com.ua/utylizaciya-kabelyu-ta-drotiv.html
+- https://guide.youreco.com.ua/utylizaciya-konserviv.html
+- https://guide.youreco.com.ua/utylizaciya-kosmetyky-magazyniv.html
+- https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+- https://guide.youreco.com.ua/utylizaciya-myasnyh-produktiv.html
+- https://guide.youreco.com.ua/utylizaciya-napoyiv.html
+- https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html
+- https://guide.youreco.com.ua/utylizaciya-odyagu-vzuttya.html
+- https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html
+- https://guide.youreco.com.ua/utylizaciya-paverbankiv-dbj.html
+- https://guide.youreco.com.ua/utylizaciya-plastyku-ta-polimeriv.html
+- https://guide.youreco.com.ua/utylizaciya-produktiv-harchuvannya-napoyiv.html
+- https://guide.youreco.com.ua/utylizaciya-promyslovyh-vidhodiv.html
+- https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html
+- https://guide.youreco.com.ua/utylizaciya-rybnyh-produktiv.html
+- https://guide.youreco.com.ua/utylizaciya-shyn.html
+- https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- https://guide.youreco.com.ua/utylizaciya-sonyachnih-panelij-vitryakiv.html
+- https://guide.youreco.com.ua/utylizaciya-tary-upakovki.html
+- https://guide.youreco.com.ua/utylizaciya-tovary-pid-mitnim-kontrolem.html
+- https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html
+- https://guide.youreco.com.ua/utylizaciya-zamorozhenyh-produktiv.html
+- https://guide.youreco.com.ua/utylizaciya-zipsovanyh-produktiv.html
+- https://guide.youreco.com.ua/utylizaciya.html
+- https://guide.youreco.com.ua/vidhody.html
+- https://guide.youreco.com.ua/yak-oformyty-spysannya-partiyi.html
+- https://guide.youreco.com.ua/yak-peredaty-kosmetyku.html
+- https://guide.youreco.com.ua/yak-peredaty-li-ion-batarei.html
+- https://guide.youreco.com.ua/yak-peredaty-skladski-zalyshky.html
+- https://guide.youreco.com.ua/zbir.html
+
+## Skipped
+- articles/index.html: noindex; canonical=https://guide.youreco.com.ua/
+- dokumenty-dlya-utylizaciyi-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/dokumenty-dlya-utylizaciyi-vidhodiv.html
+- kontakty.html: noindex; canonical=https://guide.youreco.com.ua/kontakty.html
+- kudy-zdaty-avtoshyn.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-avtoshyn.html
+- kudy-zdaty-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-budivelnyh-vidhodiv.html
+- kudy-zdaty-derevyny-z-budivnyctva.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-derevyny-z-budivnyctva.html
+- kudy-zdaty-dokumentiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-dokumentiv.html
+- kudy-zdaty-energetychnyh-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html
+- kudy-zdaty-fruktiv-ta-ovochiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-fruktiv-ta-ovochiv.html
+- kudy-zdaty-fruktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-fruktiv.html
+- kudy-zdaty-gazovanyh-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-gazovanyh-napoyiv.html
+- kudy-zdaty-gipsokartonu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-gipsokartonu.html
+- kudy-zdaty-harchovyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-harchovyh-produktiv.html
+- kudy-zdaty-kabelyu-ta-drotiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kabelyu-ta-drotiv.html
+- kudy-zdaty-kondyterskyh-vyrobiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kondyterskyh-vyrobiv.html
+- kudy-zdaty-konserviv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-konserviv.html
+- kudy-zdaty-kosmetiki.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- kudy-zdaty-kosmetyky-magazyniv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kosmetyky-magazyniv.html
+- kudy-zdaty-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- kudy-zdaty-li-ion-batarej.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+- kudy-zdaty-materialiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-materialiv.html
+- kudy-zdaty-metalevoyi-strushky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-metalevoyi-strushky.html
+- kudy-zdaty-metalu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-metalu.html
+- kudy-zdaty-molochnyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-molochnyh-produktiv.html
+- kudy-zdaty-myasnyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-myasnyh-produktiv.html
+- kudy-zdaty-napivfabrykatyv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-napivfabrykatyv.html
+- kudy-zdaty-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-napoyiv.html
+- kudy-zdaty-nekondicijnoyi-sirovini.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html
+- kudy-zdaty-nekondyciynoyi-produkciyi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-nekondyciynoyi-produkciyi.html
+- kudy-zdaty-obladnannya.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-obladnannya.html
+- kudy-zdaty-odyagu-vzuttya.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-odyagu-vzuttya.html
+- kudy-zdaty-ofisnih-mebliv-orgtehniki.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html
+- kudy-zdaty-ovochiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-ovochiv.html
+- kudy-zdaty-paperu-ta-kartonu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-paperu-ta-kartonu.html
+- kudy-zdaty-parfumeriyi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-parfumeriyi.html
+- kudy-zdaty-partiyi-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-partiyi-produktiv.html
+- kudy-zdaty-paverbankiv-dbj.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-paverbankiv-dbj.html
+- kudy-zdaty-plastyku-ta-polimeriv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-plastyku-ta-polimeriv.html
+- kudy-zdaty-produktiv-harchuvannya-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-produktiv-harchuvannya-napoyiv.html
+- kudy-zdaty-produktiv-na-skladi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-produktiv-na-skladi.html
+- kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+- kudy-zdaty-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-promyslovyh-vidhodiv.html
+- kudy-zdaty-prostrochenoyi-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-prostrochenoyi-kosmetyky.html
+- kudy-zdaty-prostrochenyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html
+- kudy-zdaty-pyva.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-pyva.html
+- kudy-zdaty-rybnyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-rybnyh-produktiv.html
+- kudy-zdaty-shin.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyn-pidpryyemstvamy.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn-pidpryyemstvamy.html
+- kudy-zdaty-shyn.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyny.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-skla.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-skla.html
+- kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- kudy-zdaty-skladskyh-zalyshkiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv.html
+- kudy-zdaty-sokiv-ta-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-sokiv-ta-napoyiv.html
+- kudy-zdaty-sokiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-sokiv.html
+- kudy-zdaty-sonyachnih-panelij-vitryakiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-sonyachnih-panelij-vitryakiv.html
+- kudy-zdaty-tary-upakovki.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-tary-upakovki.html
+- kudy-zdaty-tovariv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-tovariv.html
+- kudy-zdaty-tovary-pid-mitnim-kontrolem.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-tovary-pid-mitnim-kontrolem.html
+- kudy-zdaty-upakovky-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-upakovky-na-pidpryyemstvi.html
+- kudy-zdaty-upakovky-vid-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-upakovky-vid-kosmetyky.html
+- kudy-zdaty-vantazhnyh-shyn.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vantazhnyh-shyn.html
+- kudy-zdaty-vidpracovane-maslo.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html
+- kudy-zdaty-vidpracovanoi-olyvy.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html
+- kudy-zdaty-vidpracovanyh-masel.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vidpracovanyh-masel.html
+- kudy-zdaty-vody.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vody.html
+- kudy-zdaty-vyrobnychyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vyrobnychyh-vidhodiv.html
+- kudy-zdaty-yagid.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-yagid.html
+- kudy-zdaty-zamorozhenyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-zamorozhenyh-produktiv.html
+- kudy-zdaty-zipsovanyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-zipsovanyh-produktiv.html
+- li-ion.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+- logistyka/index.html: noindex; canonical=https://guide.youreco.com.ua/logistyka.html
+- logistyka-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-budivelnyh-vidhodiv.html
+- logistyka-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-kabelyu.html
+- logistyka-paperu-ta-kartonu.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-paperu-ta-kartonu.html
+- logistyka-plastyku.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-plastyku.html
+- logistyka-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-promyslovyh-vidhodiv.html
+- logistyka-shyn.html: noindex; canonical=https://guide.youreco.com.ua/logistyka-shyn.html
+- nebezpeka-vidpracovanogo-masla.html: noindex; canonical=https://guide.youreco.com.ua/nebezpeka-vidpracovanogo-masla.html
+- oblik-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/oblik-promyslovyh-vidhodiv.html
+- optymizaciya-vidhodiv-na-vyrobnyctvi.html: noindex; canonical=https://guide.youreco.com.ua/optymizaciya-vidhodiv-na-vyrobnyctvi.html
+- pererobka/index.html: noindex; canonical=https://guide.youreco.com.ua/pererobka.html
+- pererobka-alyuminiyevogo-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-alyuminiyevogo-kabelyu.html
+- pererobka-betonu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-betonu.html
+- pererobka-gumovyh-vyrobiv.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-gumovyh-vyrobiv.html
+- pererobka-izolyaciyi-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-izolyaciyi-kabelyu.html
+- pererobka-kartonu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-kartonu.html
+- pererobka-makulatury.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-makulatury.html
+- pererobka-metalu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-metalu.html
+- pererobka-midnogo-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-midnogo-kabelyu.html
+- pererobka-pet.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-pet.html
+- pererobka-plastykovoyi-upakovky.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-plastykovoyi-upakovky.html
+- pererobka-polietylenu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-polietylenu.html
+- pererobka-polipropylenu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-polipropylenu.html
+- pererobka-polistyrolu.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-polistyrolu.html
+- pererobka-shyn.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-shyn.html
+- pererobka-vidpracovanyh-masel.html: noindex; canonical=https://guide.youreco.com.ua/pererobka-vidpracovanyh-masel.html
+- plastyk-yak-vtorynna-syrovyna.html: noindex; canonical=https://guide.youreco.com.ua/plastyk-yak-vtorynna-syrovyna.html
+- plastykovi-vidhody.html: noindex; canonical=https://guide.youreco.com.ua/plastykovi-vidhody.html
+- podribnennya-shyn-gumova-kryshka.html: noindex; canonical=https://guide.youreco.com.ua/podribnennya-shyn-gumova-kryshka.html
+- promyslovi-vidhody-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/promyslovi-vidhody-na-pidpryyemstvi.html
+- promyslovi-vidhody.html: noindex; canonical=https://guide.youreco.com.ua/promyslovi-vidhody.html
+- pryjom-kabelyu-na-utylizaciyu.html: noindex; canonical=https://guide.youreco.com.ua/pryjom-kabelyu-na-utylizaciyu.html
+- reestr-partiyi.html: noindex; canonical=https://guide.youreco.com.ua/reestr-partiyi.html
+- scenarii-utilizaciyi.html: noindex; canonical=https://guide.youreco.com.ua/scenarii-utilizaciyi.html
+- shcho-take-pererobka-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/shcho-take-pererobka-vidhodiv.html
+- shcho-take-promyslovi-vidhody.html: noindex; canonical=https://guide.youreco.com.ua/shcho-take-promyslovi-vidhody.html
+- shcho-take-utylizaciya.html: noindex; canonical=https://guide.youreco.com.ua/shcho-take-utylizaciya.html
+- shcho-take-znyshchennya-produkciyi.html: noindex; canonical=https://guide.youreco.com.ua/shcho-take-znyshchennya-produkciyi.html
+- shyny.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn.html
+- skilky-koshtuye-pererobka-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/skilky-koshtuye-pererobka-kabelyu.html
+- skladuvannya-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/skladuvannya-promyslovyh-vidhodiv.html
+- sortuvannya/index.html: noindex; canonical=https://guide.youreco.com.ua/sortuvannya.html
+- sortuvannya-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/sortuvannya-budivelnyh-vidhodiv.html
+- sortuvannya-plastyku.html: noindex; canonical=https://guide.youreco.com.ua/sortuvannya-plastyku.html
+- sortuvannya-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/sortuvannya-promyslovyh-vidhodiv.html
+- spysannya-kosmetychnyh-tovariv.html: noindex; canonical=https://guide.youreco.com.ua/spysannya-kosmetychnyh-tovariv.html
+- spysannya-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/spysannya-produktiv.html
+- transportuvannya-vidpracovanyh-masel.html: noindex; canonical=https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-masel.html
+- transportuvannya-vidpracovanyh-shyn.html: noindex; canonical=https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-shyn.html
+- utylizaciya/index.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya.html
+- utylizaciya-avtoshyn.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-avtoshyn.html
+- utylizaciya-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-budivelnyh-vidhodiv.html
+- utylizaciya-derevyny-z-budivnyctva.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-derevyny-z-budivnyctva.html
+- utylizaciya-energetychnyh-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html
+- utylizaciya-fruktiv-ta-ovochiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-fruktiv-ta-ovochiv.html
+- utylizaciya-fruktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-fruktiv.html
+- utylizaciya-gipsokartonu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-gipsokartonu.html
+- utylizaciya-harchovyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-harchovyh-produktiv.html
+- utylizaciya-kondyterskyh-vyrobiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kondyterskyh-vyrobiv.html
+- utylizaciya-konfidenciynykh-dokumentiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-konfidenciynykh-dokumentiv.html
+- utylizaciya-kosmetiki.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- utylizaciya-materialiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-materialiv.html
+- utylizaciya-metalevoyi-strushky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-metalevoyi-strushky.html
+- utylizaciya-metalu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-metalu.html
+- utylizaciya-molochnyh-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-molochnyh-produktiv.html
+- utylizaciya-napivfabrykatyv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-napivfabrykatyv.html
+- utylizaciya-nekondyciynoyi-produkciyi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-nekondyciynoyi-produkciyi.html
+- utylizaciya-obladnannya.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-obladnannya.html
+- utylizaciya-ovochiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-ovochiv.html
+- utylizaciya-paperu-ta-kartonu.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-paperu-ta-kartonu.html
+- utylizaciya-parfumeriyi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-parfumeriyi.html
+- utylizaciya-partiyi-produktiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-partiyi-produktiv.html
+- utylizaciya-produktiv-na-skladi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-produktiv-na-skladi.html
+- utylizaciya-promyslovogo-obladnannya-mehanizmiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+- utylizaciya-prostrochenoyi-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-prostrochenoyi-kosmetyky.html
+- utylizaciya-pyva.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-pyva.html
+- utylizaciya-shin.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn.html
+- utylizaciya-shyn-pidpryyemstvamy.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-shyn-pidpryyemstvamy.html
+- utylizaciya-skla.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-skla.html
+- utylizaciya-skladskyh-zalyshkiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv.html
+- utylizaciya-sokiv-ta-napoyiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-sokiv-ta-napoyiv.html
+- utylizaciya-sokiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-sokiv.html
+- utylizaciya-tovariv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-tovariv.html
+- utylizaciya-upakovky-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-upakovky-na-pidpryyemstvi.html
+- utylizaciya-upakovky-vid-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-upakovky-vid-kosmetyky.html
+- utylizaciya-vantazhnyh-shyn.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vantazhnyh-shyn.html
+- utylizaciya-vidpracovanyh-masel.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vidpracovanyh-masel.html
+- utylizaciya-vody.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vody.html
+- utylizaciya-vyrobnychyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-vyrobnychyh-vidhodiv.html
+- utylizaciya-yagid.html: noindex; canonical=https://guide.youreco.com.ua/utylizaciya-yagid.html
+- vidhody-demontazhu.html: noindex; canonical=https://guide.youreco.com.ua/vidhody-demontazhu.html
+- vidhody-gumy.html: noindex; canonical=https://guide.youreco.com.ua/vidhody-gumy.html
+- vidhody-polimeriv.html: noindex; canonical=https://guide.youreco.com.ua/vidhody-polimeriv.html
+- vidhody-vyrobnyctva.html: noindex; canonical=https://guide.youreco.com.ua/vidhody-vyrobnyctva.html
+- vidy-kabelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vidy-kabelnyh-vidhodiv.html
+- vidy-plastykovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vidy-plastykovyh-vidhodiv.html
+- vnutrishniy-akt-spysannya.html: noindex; canonical=https://guide.youreco.com.ua/vnutrishniy-akt-spysannya.html
+- vtorynna-syrovyna-z-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+- vtorynna-syrovyna-z-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vtorynna-syrovyna-z-vidhodiv.html
+- vymogy-do-zberigannya-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vymogy-do-zberigannya-vidhodiv.html
+- vyviz-budivelnyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/vyviz-budivelnyh-vidhodiv.html
+- yak-vidbuvayetsya-utylizaciya-produkciyi.html: noindex; canonical=https://guide.youreco.com.ua/yak-vidbuvayetsya-utylizaciya-produkciyi.html
+- zberigannya-vidpracovanyh-masel.html: noindex; canonical=https://guide.youreco.com.ua/zberigannya-vidpracovanyh-masel.html
+- zbir-kabelyu.html: noindex; canonical=https://guide.youreco.com.ua/zbir-kabelyu.html
+- zbir-kartonu-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/zbir-kartonu-na-pidpryyemstvi.html
+- zbir-metalu-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/zbir-metalu-na-pidpryyemstvi.html
+- zbir-plastyku-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/zbir-plastyku-na-pidpryyemstvi.html
+- zbir-promyslovyh-vidhodiv.html: noindex; canonical=https://guide.youreco.com.ua/zbir-promyslovyh-vidhodiv.html
+- zbir-shyn-na-pidpryyemstvi.html: noindex; canonical=https://guide.youreco.com.ua/zbir-shyn-na-pidpryyemstvi.html
+- zbir-sklyanoyi-tary.html: noindex; canonical=https://guide.youreco.com.ua/zbir-sklyanoyi-tary.html
+- zbir-vidpracovanoyi-olyvy.html: noindex; canonical=https://guide.youreco.com.ua/zbir-vidpracovanoyi-olyvy.html
+- znyshchennya-kosmetyky.html: noindex; canonical=https://guide.youreco.com.ua/znyshchennya-kosmetyky.html
+
+## Duplicate canonicals
+- none
+
+## Guardrails
+- HTML changed: no
+- CSS changed: no
+- JS changed: no
+- robots changed: no
+- public changed manually: no
+- build run: no
+- commit done: no
