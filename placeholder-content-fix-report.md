@@ -1,0 +1,42 @@
+# Placeholder Content Fix Report
+
+- files changed:
+  - utylizaciya-obladnannya.html
+  - utylizaciya-promyslovogo-obladnannya-mehanizmiv.html
+  - utylizaciya-konfidenciynykh-dokumentiv.html
+  - utylizaciya-harchovyh-produktiv.html
+  - utylizaciya-budivelnyh-vidhodiv.html
+  - promyslovi-vidhody.html
+  - vidhody-vyrobnyctva.html
+  - pererobka-alyuminiyevogo-kabelyu.html
+  - pererobka-midnogo-kabelyu.html
+  - placeholder-content-fix-report.md
+- pages updated: 9
+- placeholders before: 72
+- placeholders after: 0
+- sections updated per page:
+  - utylizaciya-obladnannya.html: 8
+  - utylizaciya-promyslovogo-obladnannya-mehanizmiv.html: 8
+  - utylizaciya-ofisnih-mebliv-orgtehniki.html: 0; placeholders not found
+  - utylizaciya-konfidenciynykh-dokumentiv.html: 8
+  - utylizaciya-harchovyh-produktiv.html: 8
+  - utylizaciya-budivelnyh-vidhodiv.html: 8
+  - promyslovi-vidhody.html: 8
+  - vidhody-vyrobnyctva.html: 8
+  - pererobka-alyuminiyevogo-kabelyu.html: 8
+  - pererobka-midnogo-kabelyu.html: 8
+  - utylizaciya-kosmetyky-magazyniv.html: 0; placeholders not found
+  - utylizaciya-vidpracovanoi-olyvy.html: 0; placeholders not found
+- title/meta changed: ні
+- canonical/robots changed: ні
+- og/twitter changed: ні
+- JSON-LD changed: ні
+- FAQ changed: ні
+- CSS changed: ні
+- JS changed: ні
+- sitemap/robots changed: ні
+- public/dist changed: ні
+- build run: ні
+- commit done: ні
+- Cyrillic/UTF-8 issues: ні
+- notes: Заміни виконані тільки у видимих основних контентних секціях із фразою "Розділ доповнюється." у дозволених HTML-файлах. Сторінки офісних меблів, косметики магазинів і відпрацьованої оливи вже містили змістовний контент без цієї заглушки.
