@@ -1,0 +1,31 @@
+# Public Build Stage 21 Report
+
+- build script used/created: updated and used `scripts/build_public.py`
+- public cleaned: yes
+- files copied: 255 total files in `public/`
+- public HTML files: 246
+- public sitemap URLs: 62
+- public index exists: yes
+- public sitemap exists: yes
+- public robots exists: yes
+- public og-default exists: yes (`public/guide/img/og-default.png`)
+- audit/report files in public: no
+- broken internal links in public: 0
+- missing assets in public: 0
+- invalid JSON-LD in public: 0
+- og/twitter SVG in public: 0
+- mojibake found: no
+- source HTML changed: no
+- source SEO changed: no
+- sitemap source changed: no
+- robots source changed: no
+- build run: yes (`python scripts/build_public.py`)
+- deploy done: no
+- commit done: no
+- notes:
+  - `public/sitemap.xml` URL count matches source `sitemap.xml` URL count.
+  - No noindex URLs were found in `public/sitemap.xml`.
+  - No indexable public HTML URLs were found outside `public/sitemap.xml`.
+  - All checked public HTML files have exactly one canonical URL for `guide.youreco.com.ua`.
+  - `public/robots.txt` includes the sitemap directive.
+  - Public OG/Twitter image references point to raster PNG, not SVG.
