@@ -1,0 +1,37 @@
+# Critical thin pages fix report
+
+- files changed:
+  - `pererobka-cegly.html`
+  - `logistyka-skla.html`
+  - `kabelni-vidhody.html`
+  - `critical-thin-pages-fix-report.md`
+- pages expanded:
+  - `pererobka-cegly.html`
+  - `logistyka-skla.html`
+  - `kabelni-vidhody.html`
+- word count before:
+  - `pererobka-cegly.html`: 331
+  - `logistyka-skla.html`: 335
+  - `kabelni-vidhody.html`: 340
+- word count after:
+  - `pererobka-cegly.html`: 741
+  - `logistyka-skla.html`: 778
+  - `kabelni-vidhody.html`: 764
+- sections added/expanded:
+  - `pererobka-cegly.html`: expanded accepted materials, limits, preparation, recycling vs utilization, documents; added acceptance table and FAQ.
+  - `logistyka-skla.html`: expanded glass streams, safe storage, packaging, loading access, photo description, documents; added streams table and FAQ.
+  - `kabelni-vidhody.html`: expanded cable classification, quality factors, storage and marking, recycling vs utilization, documents; added classification table and FAQ.
+- FAQ added: yes
+- tables/checklists added: yes
+- H1 changed: no
+- title/meta changed: no
+- canonical/robots changed: no
+- og/twitter changed: no
+- JSON-LD changed: no
+- CSS changed: no
+- JS changed: no
+- sitemap/robots changed: no
+- public changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no
