@@ -1,0 +1,31 @@
+# Wrong Internal Links Fix Report
+
+- file checked: utylizaciya-obladnannya.html
+- sidebar links checked: так
+- read-also links checked: так
+- links fixed:
+  - "сценарії утилізації": /utylizaciya.html -> /scenarii-utilizaciyi.html (2 occurrences)
+  - "процес утилізації продукції": /utylizaciya.html -> /yak-vidbuvayetsya-utylizaciya-produkciyi.html (2 occurrences)
+- links left unchanged:
+  - Sidebar anchors already pointed to existing specific pages.
+  - "утилізація промислового обладнання" already pointed to /utylizaciya-promyslovogo-obladnannya-mehanizmiv.html.
+  - "утилізація офісної техніки та меблів" already pointed to /utylizaciya-ofisnih-mebliv-orgtehniki.html.
+  - sortuvannya.html, logistyka.html, zbir.html, dokumenty.html, vidhody.html and other matching links were left unchanged.
+- missing target files: немає
+- empty/hash/javascript links: немає
+- broken local targets after fix: немає
+- title/meta changed: ні
+- canonical/robots changed: ні
+- og/twitter changed: ні
+- JSON-LD changed: ні
+- FAQ changed: ні
+- H1 changed: ні
+- CSS changed: ні
+- JS changed: ні
+- sitemap/robots changed: ні
+- .github/scripts changed: ні
+- public/dist changed: ні
+- build run: ні
+- commit done: ні
+- Cyrillic/UTF-8 issues: ні
+- notes: Змінено тільки href у блоці "Дивіться також"; видимий текст анкорів не змінювався.
