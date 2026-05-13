@@ -1,0 +1,494 @@
+# All Placeholder Content Fix Report
+
+## Scope
+- source HTML checked: 246
+- files with placeholders before: 91
+- placeholder occurrences before: 728
+- files changed: 91
+- placeholder occurrences after: 0
+
+## Files Updated
+- file: dokumenty-dlya-utylizaciyi-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: li-ion.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-budivelnyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-kabelyu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-paperu-ta-kartonu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-plastyku.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-promyslovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: logistyka-shyn.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: nebezpeka-vidpracovanogo-masla.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: oblik-promyslovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: optymizaciya-vidhodiv-na-vyrobnyctvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-betonu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-gumovyh-vyrobiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-izolyaciyi-kabelyu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-kartonu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-makulatury.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-metalu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-pet.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-plastykovoyi-upakovky.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-polietylenu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-polipropylenu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-polistyrolu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-shyn.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pererobka-vidpracovanyh-masel.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: plastyk-yak-vtorynna-syrovyna.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: plastykovi-vidhody.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: podribnennya-shyn-gumova-kryshka.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: promyslovi-vidhody-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: pryjom-kabelyu-na-utylizaciyu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: shyny.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: skilky-koshtuye-pererobka-kabelyu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: skladuvannya-promyslovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: sortuvannya-budivelnyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: sortuvannya-plastyku.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: sortuvannya-promyslovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: spysannya-kosmetychnyh-tovariv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: spysannya-produktiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: transportuvannya-vidpracovanyh-masel.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: transportuvannya-vidpracovanyh-shyn.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-avtoshyn.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-derevyny-z-budivnyctva.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-energetychnyh-napoyiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-fruktiv-ta-ovochiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-fruktiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-gipsokartonu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-kondyterskyh-vyrobiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-materialiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-metalevoyi-strushky.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-metalu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-molochnyh-produktiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-napivfabrykatyv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-nekondyciynoyi-produkciyi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-ovochiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-paperu-ta-kartonu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-parfumeriyi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-partiyi-produktiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-produktiv-na-skladi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-prostrochenoyi-kosmetyky.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-pyva.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-shyn-pidpryyemstvamy.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-skla.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-skladskyh-zalyshkiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-sokiv-ta-napoyiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-sokiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-tovariv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-upakovky-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-upakovky-vid-kosmetyky.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-vantazhnyh-shyn.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-vidpracovanyh-masel.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-vody.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-vyrobnychyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: utylizaciya-yagid.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vidhody-demontazhu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vidhody-gumy.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vidhody-polimeriv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vidy-kabelnyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vidy-plastykovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vtorynna-syrovyna-z-budivelnyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vtorynna-syrovyna-z-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vymogy-do-zberigannya-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: vyviz-budivelnyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zberigannya-vidpracovanyh-masel.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-kabelyu.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-kartonu-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-metalu-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-plastyku-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-promyslovyh-vidhodiv.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-shyn-na-pidpryyemstvi.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-sklyanoyi-tary.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: zbir-vidpracovanoyi-olyvy.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+- file: znyshchennya-kosmetyky.html
+  - placeholders before: 8
+  - placeholders after: 0
+  - sections updated: Що це; Коли потрібно; Коли НЕ потрібно; Які документи потрібні; Ризики неправильного списання або утилізації; Як проходить процес утилізації; Типові сценарії підприємств; Коли потрібен ліцензований підрядник
+  - notes: Replaced visible placeholder paragraph text only; page structure, H1, metadata, links, JSON-LD and FAQ were not edited.
+
+## Guardrails
+- title/meta changed: no
+- canonical/robots changed: no
+- og/twitter changed: no
+- JSON-LD changed: no
+- FAQ changed: no
+- H1 changed: no
+- CSS changed: no
+- JS changed: no
+- sitemap/robots changed: no
+- .github/scripts changed: no
+- public/dist changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no
+
+## Public Build Verification
+- public rebuilt: yes
+- source placeholders remaining: no
+- public placeholders remaining: no
+- checked public/utylizaciya-vidpracovanyh-masel.html: no placeholder remaining
+- public index exists: yes
+- public sitemap exists: yes
+- public robots exists: yes
+- public og-default exists: yes
+- build run: yes
+- commit done: no
+- push done: no
