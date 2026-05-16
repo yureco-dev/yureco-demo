@@ -1,0 +1,12 @@
+- page: utylizaciya-pyva.html
+- CTA URL: https://youreco.com.ua/harchovy/
+- old CTA anchor: утилізація харчових продуктів для бізнесу
+- new CTA anchor: утилізація пива та харчових партій для бізнесу
+- title/meta changed: ні
+- canonical changed: ні
+- JSON-LD changed: ні
+- H1 changed: ні
+- sitemap changed: ні
+- public changed: ні
+- build run: ні
+- commit done: так
