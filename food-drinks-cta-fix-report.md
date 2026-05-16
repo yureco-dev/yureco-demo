@@ -1,0 +1,23 @@
+# Food/Drinks CTA Fix Report
+
+- files changed:
+  - utylizaciya-harchovyh-produktiv.html
+  - utylizaciya-fruktiv-ta-ovochiv.html
+  - utylizaciya-sokiv-ta-napoyiv.html
+  - utylizaciya-energetychnyh-napoyiv.html
+  - food-drinks-cta-fix-report.md
+- CTA ids added: 3 new `id="service-cta"` blocks added; 1 existing CTA id preserved.
+- CTA URLs: `https://youreco.com.ua/harchovy/` present in all 4 fixed CTA blocks.
+- new anchors:
+  - `утилізація харчових продуктів для бізнесу`
+  - `утилізація фруктово-овочевих та харчових партій для бізнесу`
+  - `утилізація соків, напоїв та харчових партій для бізнесу`
+  - `утилізація енергетичних напоїв та харчових партій для бізнесу`
+- title/meta changed: no
+- canonical changed: no
+- JSON-LD changed: no
+- H1 changed: no
+- sitemap changed: no
+- public changed: no
+- build run: no
+- commit done: yes
