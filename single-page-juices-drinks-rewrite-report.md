@@ -1,0 +1,20 @@
+- page: utylizaciya-sokiv-ta-napoyiv.html
+- main replaced: yes
+- noindex removed: yes
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- JSON-LD changed: no
+- CTA URL: https://youreco.com.ua/harchovy/
+- CTA anchor: утилізація харчових продуктів для бізнесу
+- external CTA rel/target: yes
+- table present: yes
+- checklist present: yes
+- FAQ present: yes
+- forbidden phrases found: no
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no
