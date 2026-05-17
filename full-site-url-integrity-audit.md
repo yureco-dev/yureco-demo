@@ -1,0 +1,362 @@
+# Full Site URL Integrity Audit
+- audit only: yes
+- files modified: no
+- build run: no
+- commit done: no
+
+## Scope
+- source html files scanned: 247
+- total url references found: 7606
+- unique urls found: 364
+
+## Fake or placeholder URLs
+- none
+
+## Broken internal links
+- kontakty.html: href="viber://chat?number=+380631359521" -> missing: D:\Сайти\yureko-demo-restore-work\project-final-2\viber:\\chat
+
+## Internal link summary
+- internal ok count: 6659
+- internal broken count: 1
+- internal skipped count: 0
+
+## Internal fragment links with missing targets
+- none
+
+## External YOURECO commercial URLs
+- https://youreco.com.ua/ (71)
+- https://youreco.com.ua/promyslovi/ (46)
+- https://youreco.com.ua/harchovy/ (45)
+- https://youreco.com.ua/upakovky/ (21)
+- https://youreco.com.ua/kosmetyky/ (13)
+- https://youreco.com.ua/utylizaciya-shyn.html (12)
+- https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/ (5)
+- https://youreco.com.ua/li-ion-batarei/ (4)
+- https://youreco.com.ua/utylizatsiya-dlya-skladiv/ (3)
+- https://youreco.com.ua/kontakty.html (3)
+- https://youreco.com.ua/utylizaciya-obladnannya.html (3)
+- https://youreco.com.ua/dokumenty.html (3)
+- https://youreco.com.ua/utylizaciya-tovariv.html (3)
+- https://youreco.com.ua/odyag/ (2)
+- https://youreco.com.ua/orgtehniky/ (2)
+- https://youreco.com.ua/paneli/ (2)
+- https://youreco.com.ua/paverbanki/ (2)
+- https://youreco.com.ua/olyvy/ (1)
+- https://youreco.com.ua/pid-mytnym/ (1)
+- https://youreco.com.ua/syrovyny (1)
+- https://youreco.com.ua/utylizatsiya-dlya-importeriv/ (1)
+- https://youreco.com.ua/utylizatsiya-dlya-riteylu/ (1)
+- https://youreco.com.ua/obladnannya/ (1)
+
+## Suspicious YOURECO commercial URLs
+- kudy-zdaty-dokumentiv.html: https://youreco.com.ua/dokumenty.html
+- utylizaciya-dokumentiv.html: https://youreco.com.ua/dokumenty.html
+- utylizaciya-konfidenciynykh-dokumentiv.html: https://youreco.com.ua/dokumenty.html
+- kontakty.html: https://youreco.com.ua/kontakty.html
+- kontakty.html: https://youreco.com.ua/kontakty.html
+- kontakty.html: https://youreco.com.ua/kontakty.html
+- kudy-zdaty-nekondicijnoyi-sirovini.html: https://youreco.com.ua/syrovyny
+- kudy-zdaty-obladnannya.html: https://youreco.com.ua/utylizaciya-obladnannya.html
+- kudy-zdaty-promyslovogo-obladnannya-mehanizmiv.html: https://youreco.com.ua/utylizaciya-obladnannya.html
+- utylizaciya-promyslovogo-obladnannya-mehanizmiv.html: https://youreco.com.ua/utylizaciya-obladnannya.html
+- kudy-zdaty-avtoshyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shin.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyn-pidpryyemstvamy.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyny.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-vantazhnyh-shyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- logistyka-shyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- pererobka-avtomobilnyh-shyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- pererobka-gumovyh-vyrobiv.html: https://youreco.com.ua/utylizaciya-shyn.html
+- shyny.html: https://youreco.com.ua/utylizaciya-shyn.html
+- utylizaciya-avtoshyn.html: https://youreco.com.ua/utylizaciya-shyn.html
+- zbir-shyn-na-pidpryyemstvi.html: https://youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-tovariv.html: https://youreco.com.ua/utylizaciya-tovariv.html
+- kudy-zdaty-tovary-pid-mitnim-kontrolem.html: https://youreco.com.ua/utylizaciya-tovariv.html
+- utylizaciya.html: https://youreco.com.ua/utylizaciya-tovariv.html
+
+## Known probable replacements to verify before fixing
+- https://youreco.com.ua/dokumenty.html -> https://youreco.com.ua/dokumenty/
+- https://youreco.com.ua/kontakty.html -> https://youreco.com.ua/kontakty/
+- https://youreco.com.ua/utylizaciya-shyn.html -> https://youreco.com.ua/shyn/
+- https://youreco.com.ua/utylizaciya-obladnannya.html -> https://youreco.com.ua/obladnannya/
+- https://youreco.com.ua/utylizaciya-tovariv.html -> https://youreco.com.ua/tovary/
+- https://youreco.com.ua/syrovyny -> https://youreco.com.ua/syrovyny/
+
+## External HTTP status check
+- https://guide.youreco.com.ua -> status: 200; final: 
+- https://guide.youreco.com.ua/ -> status: 200; final: 
+- https://guide.youreco.com.ua/404.html -> status: 200; final: 
+- https://guide.youreco.com.ua/akt-pryimannya-peredachi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/akt-utylizaciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/chy-potribno-pererobyty-chy-utylizuvaty.html -> status: 200; final: 
+- https://guide.youreco.com.ua/dokumenty-dlya-utylizaciyi-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/dokumenty.html -> status: 200; final: 
+- https://guide.youreco.com.ua/fotozvit-utylizaciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/kabelni-vidhody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/kontakty.html -> status: 200; final: 
+- https://guide.youreco.com.ua/kudy-zdaty.html -> status: 200; final: 
+- https://guide.youreco.com.ua/likvidaciya-skladskykh-zalyshkiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-budivelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-metalu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-paperu-ta-kartonu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-plastyku.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka-skla.html -> status: 200; final: 
+- https://guide.youreco.com.ua/logistyka.html -> status: 200; final: 
+- https://guide.youreco.com.ua/nebezpeka-vidpracovanogo-masla.html -> status: 200; final: 
+- https://guide.youreco.com.ua/oblik-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/optymizaciya-vidhodiv-na-vyrobnyctvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-alyuminiyevogo-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-avtomobilnyh-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-betonu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-cegly.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-gumovyh-vyrobiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-izolyaciyi-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-kartonu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-makulatury.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-metalu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-midnogo-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-pet.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-plastykovoyi-upakovky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-polietylenu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-polipropylenu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-polistyrolu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-skla.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka-vidpracovanyh-masel.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pererobka.html -> status: 200; final: 
+- https://guide.youreco.com.ua/plastyk-yak-vtorynna-syrovyna.html -> status: 200; final: 
+- https://guide.youreco.com.ua/plastykovi-vidhody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/podribnennya-shyn-gumova-kryshka.html -> status: 200; final: 
+- https://guide.youreco.com.ua/povernennya-tovariv-z-merezhi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/promyslovi-vidhody-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/promyslovi-vidhody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/pryjom-kabelyu-na-utylizaciyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/reestr-partiyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/scenarii-utilizaciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/shcho-take-pererobka-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/shcho-take-promyslovi-vidhody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/shcho-take-utylizaciya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/shcho-take-znyshchennya-produkciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/skilky-koshtuye-pererobka-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/skladuvannya-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/sortuvannya-budivelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/sortuvannya-plastyku.html -> status: 200; final: 
+- https://guide.youreco.com.ua/sortuvannya-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/sortuvannya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/spysannya-kosmetychnyh-tovariv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/spysannya-produkciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/spysannya-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-masel.html -> status: 200; final: 
+- https://guide.youreco.com.ua/transportuvannya-vidpracovanyh-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-brakovanoi-produkciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-bankiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-data-centriv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-importeriv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-riteylu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-skladiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utilizaciya-dlya-vyrobnyctva.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-akumulyatoriv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-alkogolnyh-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-avtoshyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-budivelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-derevyny-z-budivnyctva.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-dokumentiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-elektroniky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-fruktiv-ta-ovochiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-fruktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-gazovanyh-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-gipsokartonu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-harchovyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-importnyh-tovariv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-kabelyu-ta-drotiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-kondyterskyh-vyrobiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-konfidenciynykh-dokumentiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-konserviv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-kosmetyky-magazyniv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-kosmetyky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-materialiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-metalevoyi-strushky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-metalu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-molochnyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-myasnyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-napivfabrykatyv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-nekondyciynoyi-produkciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-obladnannya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-odyagu-vzuttya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-ovochiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-paperu-ta-kartonu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-parfumeriyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-partiyi-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-paverbankiv-dbj.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-plastyku-ta-polimeriv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-produktiv-harchuvannya-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-produktiv-na-skladi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-promyslovogo-obladnannya-mehanizmiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-prostrochenoyi-kosmetyky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-pyva.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-rybnyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-shyn-pidpryyemstvamy.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-skla.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-sokiv-ta-napoyiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-sokiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-sonyachnih-panelij-vitryakiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-tary-upakovki.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-tovariv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-tovary-pid-mitnim-kontrolem.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-upakovky-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-upakovky-vid-kosmetyky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-vantazhnyh-shyn.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-vidpracovanyh-masel.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-vody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-vyrobnychyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-yagid.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-zamorozhenyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya-zipsovanyh-produktiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/utylizaciya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidhody-demontazhu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidhody-gumy.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidhody-polimeriv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidhody-vyrobnyctva.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidhody.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidy-kabelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vidy-plastykovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vnutrishniy-akt-spysannya.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vtorynna-syrovyna-z-budivelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vtorynna-syrovyna-z-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vymogy-do-zberigannya-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/vyviz-budivelnyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/yak-oformyty-spysannya-partiyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/yak-peredaty-kosmetyku.html -> status: 200; final: 
+- https://guide.youreco.com.ua/yak-peredaty-li-ion-batarei.html -> status: 200; final: 
+- https://guide.youreco.com.ua/yak-peredaty-skladski-zalyshky.html -> status: 200; final: 
+- https://guide.youreco.com.ua/yak-vidbuvayetsya-utylizaciya-produkciyi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zberigannya-vidpracovanyh-masel.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-kabelyu.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-kartonu-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-metalu-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-plastyku-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-promyslovyh-vidhodiv.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-shyn-na-pidpryyemstvi.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-sklyanoyi-tary.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir-vidpracovanoyi-olyvy.html -> status: 200; final: 
+- https://guide.youreco.com.ua/zbir.html -> status: 200; final: 
+- https://guide.youreco.com.ua/znyshchennya-kosmetyky.html -> status: 200; final: 
+- https://t.me/youreco -> status: 200; final: 
+- https://wa.me/380631359521 -> status: 200; final: 
+- https://youreco.com.ua/ -> status: 200; final: 
+- https://youreco.com.ua/dokumenty.html -> status: 200; final: 
+- https://youreco.com.ua/harchovy/ -> status: 200; final: 
+- https://youreco.com.ua/kontakty.html -> status: 200; final: 
+- https://youreco.com.ua/kosmetyky/ -> status: 200; final: 
+- https://youreco.com.ua/li-ion-batarei/ -> status: 200; final: 
+- https://youreco.com.ua/obladnannya/ -> status: 200; final: 
+- https://youreco.com.ua/odyag/ -> status: 200; final: 
+- https://youreco.com.ua/olyvy/ -> status: 200; final: 
+- https://youreco.com.ua/orgtehniky/ -> status: 200; final: 
+- https://youreco.com.ua/paneli/ -> status: 200; final: 
+- https://youreco.com.ua/paverbanki/ -> status: 200; final: 
+- https://youreco.com.ua/pid-mytnym/ -> status: 200; final: 
+- https://youreco.com.ua/promyslovi/ -> status: 200; final: 
+- https://youreco.com.ua/syrovyny -> status: 200; final: 
+- https://youreco.com.ua/upakovky/ -> status: 200; final: 
+- https://youreco.com.ua/utylizaciya-obladnannya.html -> status: ; final: ; note: Response status code does not indicate success: 404 (Not Found).
+- https://youreco.com.ua/utylizaciya-shyn.html -> status: ; final: ; note: Response status code does not indicate success: 404 (Not Found).
+- https://youreco.com.ua/utylizaciya-tovariv.html -> status: ; final: ; note: Response status code does not indicate success: 404 (Not Found).
+- https://youreco.com.ua/utylizatsiya-dlya-importeriv/ -> status: 200; final: 
+- https://youreco.com.ua/utylizatsiya-dlya-riteylu/ -> status: 200; final: 
+- https://youreco.com.ua/utylizatsiya-dlya-skladiv/ -> status: 200; final: 
+- https://youreco.com.ua/utylizatsiya-dlya-vyrobnytstv/ -> status: 200; final: 
+- https://zakon.rada.gov.ua/laws/show/1102-2023-%D0%BF -> status: 200; final: 
+- https://zakon.rada.gov.ua/laws/show/2320-20 -> status: 200; final: 
+
+## Sitemap and canonical checks
+- sitemap URL count: 68
+
+### Noindex pages present in sitemap
+- index.html: https://guide.youreco.com.ua/logistyka.html
+- index.html: https://guide.youreco.com.ua/pererobka.html
+- index.html: https://guide.youreco.com.ua/sortuvannya.html
+- index.html: https://guide.youreco.com.ua/utylizaciya.html
+- kudy-zdaty-dokumentiv.html: https://guide.youreco.com.ua/utylizaciya-dokumentiv.html
+- kudy-zdaty-energetychnyh-napoyiv.html: https://guide.youreco.com.ua/utylizaciya-energetychnyh-napoyiv.html
+- kudy-zdaty-fruktiv-ta-ovochiv.html: https://guide.youreco.com.ua/utylizaciya-fruktiv-ta-ovochiv.html
+- kudy-zdaty-gazovanyh-napoyiv.html: https://guide.youreco.com.ua/utylizaciya-gazovanyh-napoyiv.html
+- kudy-zdaty-harchovyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-harchovyh-produktiv.html
+- kudy-zdaty-kabelyu-ta-drotiv.html: https://guide.youreco.com.ua/utylizaciya-kabelyu-ta-drotiv.html
+- kudy-zdaty-konserviv.html: https://guide.youreco.com.ua/utylizaciya-konserviv.html
+- kudy-zdaty-kosmetiki.html: https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- kudy-zdaty-kosmetyky-magazyniv.html: https://guide.youreco.com.ua/utylizaciya-kosmetyky-magazyniv.html
+- kudy-zdaty-kosmetyky.html: https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- kudy-zdaty-li-ion-batarej.html: https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+- kudy-zdaty-myasnyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-myasnyh-produktiv.html
+- kudy-zdaty-napoyiv.html: https://guide.youreco.com.ua/utylizaciya-napoyiv.html
+- kudy-zdaty-nekondicijnoyi-sirovini.html: https://guide.youreco.com.ua/utylizaciya-nekondicijnoyi-sirovini.html
+- kudy-zdaty-odyagu-vzuttya.html: https://guide.youreco.com.ua/utylizaciya-odyagu-vzuttya.html
+- kudy-zdaty-ofisnih-mebliv-orgtehniki.html: https://guide.youreco.com.ua/utylizaciya-ofisnih-mebliv-orgtehniki.html
+- kudy-zdaty-paverbankiv-dbj.html: https://guide.youreco.com.ua/utylizaciya-paverbankiv-dbj.html
+- kudy-zdaty-plastyku-ta-polimeriv.html: https://guide.youreco.com.ua/utylizaciya-plastyku-ta-polimeriv.html
+- kudy-zdaty-produktiv-harchuvannya-napoyiv.html: https://guide.youreco.com.ua/utylizaciya-produktiv-harchuvannya-napoyiv.html
+- kudy-zdaty-promyslovyh-vidhodiv.html: https://guide.youreco.com.ua/utylizaciya-promyslovyh-vidhodiv.html
+- kudy-zdaty-prostrochenyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-prostrochenyh-produktiv.html
+- kudy-zdaty-pyva.html: https://guide.youreco.com.ua/utylizaciya-pyva.html
+- kudy-zdaty-rybnyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-rybnyh-produktiv.html
+- kudy-zdaty-shin.html: https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyn.html: https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-shyny.html: https://guide.youreco.com.ua/utylizaciya-shyn.html
+- kudy-zdaty-skladskyh-zalyshkiv-kosmetyky.html: https://guide.youreco.com.ua/utylizaciya-skladskyh-zalyshkiv-kosmetyky.html
+- kudy-zdaty-sokiv-ta-napoyiv.html: https://guide.youreco.com.ua/utylizaciya-sokiv-ta-napoyiv.html
+- kudy-zdaty-sonyachnih-panelij-vitryakiv.html: https://guide.youreco.com.ua/utylizaciya-sonyachnih-panelij-vitryakiv.html
+- kudy-zdaty-tary-upakovki.html: https://guide.youreco.com.ua/utylizaciya-tary-upakovki.html
+- kudy-zdaty-tovary-pid-mitnim-kontrolem.html: https://guide.youreco.com.ua/utylizaciya-tovary-pid-mitnim-kontrolem.html
+- kudy-zdaty-vidpracovane-maslo.html: https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html
+- kudy-zdaty-vidpracovanoi-olyvy.html: https://guide.youreco.com.ua/utylizaciya-vidpracovanoi-olyvy.html
+- kudy-zdaty-zamorozhenyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-zamorozhenyh-produktiv.html
+- kudy-zdaty-zipsovanyh-produktiv.html: https://guide.youreco.com.ua/utylizaciya-zipsovanyh-produktiv.html
+- li-ion.html: https://guide.youreco.com.ua/utylizaciya-li-ion-batarej.html
+- shyny.html: https://guide.youreco.com.ua/utylizaciya-shyn.html
+- utylizaciya-kosmetiki.html: https://guide.youreco.com.ua/utylizaciya-kosmetyky.html
+- utylizaciya-shin.html: https://guide.youreco.com.ua/utylizaciya-shyn.html
+
+### Canonicals pointing to missing local source files
+- none
+
+## Summary
+- fake/placeholder URL count: 0
+- broken internal link count: 1
+- broken internal fragment count: 0
+- external URL checked count: 199
+- external URL bad/error count: 3
+- external YOURECO URL count: 246
+- suspicious YOURECO URL count: 25
+- noindex pages in sitemap count: 43
+- canonicals missing local source count: 0
+
+## Confirmed 404 commercial URL fix
+- fixed URL: https://youreco.com.ua/utylizaciya-shyn.html -> https://youreco.com.ua/shyn/
+- fixed URL: https://youreco.com.ua/utylizaciya-obladnannya.html -> https://youreco.com.ua/obladnannya/
+- fixed URL: https://youreco.com.ua/utylizaciya-tovariv.html -> https://youreco.com.ua/tovary/
+- remaining confirmed 404 commercial URLs: none
+- source files changed: 18 html source files plus this audit file
+- public changed: no
+- sitemap changed: no
+
+## Recommended next actions
+- Do not fix everything in one commit.
+- First fix confirmed commercial .html URLs by cluster: documents, contacts, tires, equipment, goods.
+- Then run build public and verify public URLs.
+- Keep internal guide links separate from external commercial links.
