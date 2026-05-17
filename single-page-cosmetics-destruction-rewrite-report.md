@@ -1,0 +1,11 @@
+- page: znyshchennya-kosmetyky.html
+- main replaced: yes
+- noindex removed: yes
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
