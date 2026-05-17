@@ -1,0 +1,28 @@
+- page: yak-peredaty-kosmetyku.html
+- main replaced: yes
+- noindex removed: not present
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- Article JSON-LD preserved: yes
+- WebPage JSON-LD preserved/unchanged: not present
+- FAQPage JSON-LD removed: no old FAQPage JSON-LD found
+- CTA URL: https://youreco.com.ua/kosmetyky/
+- CTA anchor: Передати партію косметики на утилізацію з документами
+- service CTA id present: yes
+- external CTA rel/target: noopener noreferrer + _blank
+- table present: yes
+- checklist present: yes
+- FAQ present: yes
+- forbidden phrases found: no
+- invented commercial URLs found: no
+- risky handling instructions found: no
+- unique operational scene present: yes
+- handoff-specific details count: 15
+- clone risk: low
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no visible issues
