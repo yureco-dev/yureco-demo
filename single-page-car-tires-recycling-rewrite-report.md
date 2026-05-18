@@ -1,0 +1,30 @@
+- page: utylizaciya-avtoshyn.html
+- main replaced: yes
+- noindex removed: yes
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- Article JSON-LD preserved: yes
+- WebPage JSON-LD preserved/unchanged: not present in HEAD
+- FAQPage JSON-LD removed: not present in HEAD
+- CTA URL: https://youreco.com.ua/shyn/
+- CTA anchor: Передати автошини на утилізацію з документами
+- service CTA id present: yes
+- external CTA rel/target: yes
+- table present: yes
+- checklist present: yes
+- FAQ present: yes
+- forbidden phrases found: no
+- invented commercial URLs found: no
+- 404 commercial URLs found: no
+- dangerous tire handling instructions found: no
+- unique car-tires service scene present: yes
+- car-tires-service-specific details count: 21
+- tire-specific details count: 28
+- clone risk: low
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no
