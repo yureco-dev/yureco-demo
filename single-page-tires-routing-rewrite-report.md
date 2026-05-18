@@ -1,0 +1,30 @@
+- page: kudy-zdaty-shyn.html
+- main replaced: так
+- noindex removed: так
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/unchanged: не було
+- FAQPage JSON-LD removed: not present
+- CTA URL: https://youreco.com.ua/shyn/
+- CTA anchor: Здати шини на утилізацію з документами
+- service CTA id present: так
+- external CTA rel/target: так
+- table present: так
+- checklist present: так
+- FAQ present: так
+- forbidden phrases found: ні
+- invented commercial URLs found: ні
+- 404 commercial URLs found: ні
+- dangerous tire handling instructions found: ні
+- unique routing scene present: так
+- routing-specific details count: 11
+- tire-specific details count: 12
+- clone risk: низький
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: ні
