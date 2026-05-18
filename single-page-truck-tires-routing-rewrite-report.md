@@ -1,0 +1,32 @@
+- page: kudy-zdaty-vantazhnyh-shyn.html
+- main replaced: yes
+- noindex removed: yes
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: no
+- title/meta description changed: no
+- canonical changed: no
+- Article JSON-LD preserved: yes
+- WebPage JSON-LD preserved/unchanged: not present in HEAD
+- FAQPage JSON-LD removed: not present
+- CTA URL: https://youreco.com.ua/shyn/
+- CTA anchor: Здати вантажні шини на утилізацію з документами
+- service CTA id present: yes
+- external CTA rel/target: yes
+- table present: yes
+- checklist present: yes
+- FAQ present: yes
+- forbidden phrases found: no
+- invented commercial URLs found: no
+- 404 commercial URLs found: no
+- dangerous tire handling instructions found: no
+- unique truck-tires routing scene present: yes
+- truck-tires-specific details count: 18
+- tire-specific details count: 31
+- clone risk: low
+- active-menu script was in HEAD: no
+- active-menu script preserved: not applicable / was not in HEAD
+- public changed: no
+- sitemap changed: no
+- build run: no
+- commit done: no
+- Cyrillic/UTF-8 issues: no
