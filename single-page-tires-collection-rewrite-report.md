@@ -1,0 +1,32 @@
+- page: zbir-shyn-na-pidpryyemstvi.html
+- main replaced: так
+- noindex removed: так
+- robots value: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- H1 changed: ні
+- title/meta description changed: ні
+- canonical changed: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/unchanged: не було
+- FAQPage JSON-LD removed: не було
+- CTA URL: https://youreco.com.ua/shyn/
+- CTA anchor: Передати зібрану партію шин на утилізацію з документами
+- service CTA id present: так
+- external CTA rel/target: так
+- table present: так
+- checklist present: так
+- FAQ present: так
+- forbidden phrases found: ні
+- invented commercial URLs found: ні
+- 404 commercial URLs found: ні
+- dangerous tire handling instructions found: ні
+- unique collection/internal accumulation scene present: так
+- collection-specific details count: 12
+- tire-specific details count: 6
+- enterprise-process clone risk: low
+- logistics-only risk: low
+- clone risk: low
+- public changed: ні
+- sitemap changed: ні
+- build run: ні
+- commit done: ні
+- Cyrillic/UTF-8 issues: ні
