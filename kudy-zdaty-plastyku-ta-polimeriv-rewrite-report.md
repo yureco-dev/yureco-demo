@@ -1,0 +1,19 @@
+- сторінка: kudy-zdaty-plastyku-ta-polimeriv.html
+- intent: routing / куди здати / вибір каналу передачі для пластикових і полімерних потоків у B2B
+- anti-template notes: redirect-заглушку замінено на самостійну routing-сторінку; структура не дублює umbrella-page і не повторює блоки про організацію процесу на підприємстві; акцент зміщено на вибір каналу для плівки, тари, змішаної упаковки, виробничих обрізків, браку та забрудненої тари
+- CTA URL used: https://youreco.com.ua/upakovky/
+- noindex removed: так
+- robots final: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+- title changed: ні
+- meta description changed: ні
+- canonical changed: ні
+- H1 changed: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent in HEAD, absent after rewrite
+- FAQPage JSON-LD action: не було в HEAD, не додавалося
+- files changed: kudy-zdaty-plastyku-ta-polimeriv.html; kudy-zdaty-plastyku-ta-polimeriv-rewrite-report.md
+- build run: ні
+- commit done: ні
+- push done: ні
+- repair note: meta description і canonical були повернуті до HEAD під час scoped repair
+- notes for Codex audit: self-canonical та всі URL-метадані переведено на self URL сторінки; redirect і noindex прибрано; використано лише confirmed CTA URL; commercial 404 URLs не використовувалися; visible FAQ переписано під routing intent; WebPage JSON-LD не додавалося, бо його не було в HEAD
