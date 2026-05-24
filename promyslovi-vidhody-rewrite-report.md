@@ -27,3 +27,15 @@
 - commit done: ні
 - push done: ні
 - ready for audit: так
+
+## related-links repair
+
+- missing related links removed: так
+- existing related link kept: `/utylizaciya-promyslovyh-vidhodiv.html`
+- content meaning changed: ні
+- CTA changed: ні
+- CTA attrs changed: ні
+- Article JSON-LD changed: ні
+- Cyrillic/UTF-8 ok: так
+- build run: ні
+- commit done: ні
