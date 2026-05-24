@@ -1,0 +1,25 @@
+# Rewrite report: kudy-zdaty-tovariv.html
+
+- preflight status: clean
+- changed files: `kudy-zdaty-tovariv.html`, `kudy-zdaty-tovariv-rewrite-report.md`
+- sidebar present: так
+- layout ok: так
+- cards div added/present: так
+- cards div closed: так
+- service CTA id present: так
+- commercial CTA attrs ok: так
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- CTA URL: https://youreco.com.ua/tovary/
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent
+- FAQPage JSON-LD absent/no action: так
+- anti-template result: сторінка переписана як routing guide для товарів і товарних партій; центральна логіка побудована навколо причини вибуття, складу партії, стану, пакування, брендування, документів, місця зберігання і логістики
+- intent separation result: не дублює umbrella/service page, складські залишки, повернення з мережі, food/cosmetics/apparel/packaging/raw materials/customs або бухгалтерське списання продукції
+- overpromise found: ні
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
