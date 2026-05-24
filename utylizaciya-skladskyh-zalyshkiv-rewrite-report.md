@@ -1,0 +1,27 @@
+# Rewrite report: utylizaciya-skladskyh-zalyshkiv.html
+
+- preflight status: чистий `git status --short --untracked-files=all`, редагування дозволене
+- changed files:
+  - `utylizaciya-skladskyh-zalyshkiv.html`
+  - `utylizaciya-skladskyh-zalyshkiv-rewrite-report.md`
+- sidebar present: так
+- layout ok: так, є `aside.sidebar` + `main.main`
+- cards div added/present: так
+- cards div closed: так, `.cards` закритий перед `</main>`
+- service CTA id present: так, `id="service-cta"`
+- commercial CTA attrs ok: так, є `target="_blank"`, `rel="noopener noreferrer"`, `data-analytics-event="commercial_site_click"`
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- CTA URL: `https://youreco.com.ua/tovary/`
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent, у HEAD не було
+- FAQPage JSON-LD absent/no action: absent, не додано
+- anti-template result: сторінка переписана як окрема B2B-логіка утилізації складських залишків, без generic goods/routing/returns шаблону
+- intent separation result: відокремлено від загальної утилізації товарів, маршрутизації товарів, returns flow і бухгалтерського списання продукції
+- overpromise found: ні
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
