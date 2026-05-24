@@ -1,0 +1,24 @@
+# Rewrite report
+
+- preflight status: clean
+- changed files:
+  - kudy-zdaty-nekondicijnoyi-sirovini.html
+  - kudy-zdaty-nekondicijnoyi-sirovini-rewrite-report.md
+- sidebar present: так
+- layout ok: так
+- cards div added/present: так
+- cards div closed: так
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- CTA URL: https://youreco.com.ua/syrovyny/
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent
+- FAQPage JSON-LD absent/no action: так
+- anti-template result: сторінка переписана як routing guide для некондиційної сировини; центральна логіка побудована навколо причини некондиції, складу партії, стану, домішок, пакування, документів і логістики
+- intent separation result: відокремлено від umbrella/service page, broader materials routing, product writeoff, warehouse leftovers, food, packaging, textile, plastic/polymer and broad industrial waste pages
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
