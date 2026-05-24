@@ -1,0 +1,30 @@
+# Rewrite report: utylizaciya-promyslovyh-vidhodiv.html
+
+- preflight status: clean
+- changed files:
+  - utylizaciya-promyslovyh-vidhodiv.html
+  - utylizaciya-promyslovyh-vidhodiv-rewrite-report.md
+- sidebar present: так
+- layout ok: так
+- cards div added/present: так
+- cards div closed: так
+- card granularity ok: так
+- service CTA id present: так
+- commercial CTA attrs ok: так
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- English service labels found: ні
+- CTA URL: https://youreco.com.ua/promyslovi/
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: preserved
+- FAQPage JSON-LD absent/no action: так
+- related links ok: так
+- anti-template result: сторінка переписана як service/process guide про перехід від опису промислового потоку до погодженої утилізації, документів, пакування, логістики і підтвердження передачі
+- intent separation result: відокремлено від hub-сторінки про промислові відходи та від сторінок про конкретні потоки
+- overpromise found: ні
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
