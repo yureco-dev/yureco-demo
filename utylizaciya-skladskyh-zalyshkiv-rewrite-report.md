@@ -18,10 +18,23 @@
 - Article JSON-LD preserved: так
 - WebPage JSON-LD preserved/absent: absent, у HEAD не було
 - FAQPage JSON-LD absent/no action: absent, не додано
-- anti-template result: сторінка переписана як окрема B2B-логіка утилізації складських залишків, без generic goods/routing/returns шаблону
-- intent separation result: відокремлено від загальної утилізації товарів, маршрутизації товарів, returns flow і бухгалтерського списання продукції
+- anti-template result: сторінка переписана як окрема B2B-логіка утилізації складських залишків, без службових anti-template labels
+- intent separation result: відокремлено від загальної утилізації товарів, маршрутизації товарів, процесу повернення з мережі і бухгалтерського списання продукції
 - overpromise found: ні
 - build run: ні
 - commit done: ні
 - push done: ні
 - ready for audit: так
+
+## Final text repair
+
+- English service labels removed: так
+- public Ukrainian text repaired: так
+- content meaning changed: ні
+- layout changed: ні
+- CTA changed: ні
+- CTA attrs changed: ні
+- related links changed: ні
+- Cyrillic/UTF-8 ok: так
+- build run: ні
+- commit done: ні

@@ -29,3 +29,16 @@
 - commit done: ні
 - push done: ні
 - ready for re-audit: так
+
+## Final text repair
+
+- English service labels removed: так
+- public Ukrainian text repaired: так
+- content meaning changed: ні
+- layout changed: ні
+- CTA changed: ні
+- CTA attrs changed: ні
+- related links changed: ні
+- Cyrillic/UTF-8 ok: так
+- build run: ні
+- commit done: ні
