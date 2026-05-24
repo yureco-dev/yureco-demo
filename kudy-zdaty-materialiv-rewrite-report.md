@@ -1,0 +1,24 @@
+# Rewrite Report: kudy-zdaty-materialiv.html
+
+- preflight status: clean
+- changed files:
+  - kudy-zdaty-materialiv.html
+  - kudy-zdaty-materialiv-rewrite-report.md
+- sidebar present: так
+- layout ok: так
+- cards div added/present: так
+- cards div closed: так
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- CTA URL: https://youreco.com.ua/syrovyny/
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent
+- FAQPage JSON-LD absent/no action: так
+- anti-template result: materials-routing logic implemented; no generic waste rewrite
+- intent separation result: separated from materials umbrella, nonconforming raw materials, product writeoff, plastic, packaging, textile, food and broad industrial waste pages
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
