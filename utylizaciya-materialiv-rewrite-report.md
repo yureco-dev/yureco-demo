@@ -1,0 +1,24 @@
+# utylizaciya-materialiv.html rewrite report
+
+- preflight status: чистий `git status --short --untracked-files=all`, редагування дозволене
+- changed files:
+  - `utylizaciya-materialiv.html`
+  - `utylizaciya-materialiv-rewrite-report.md`
+- sidebar present: так
+- layout ok: так, є `aside.sidebar` + `main.main`
+- cards div added/present: так
+- cards div closed: так, `.cards` закритий перед `</main>`
+- Cyrillic/UTF-8 ok: так
+- mojibake found: ні
+- HTML entities instead of Cyrillic found: ні
+- CTA URL: `https://youreco.com.ua/syrovyny/`
+- forbidden CTA found: ні
+- Article JSON-LD preserved: так
+- WebPage JSON-LD preserved/absent: absent, у HEAD не було WebPage JSON-LD
+- FAQPage JSON-LD absent/no action: absent, не додано
+- anti-template result: так, сторінка переписана під власну materials-stream logic без generic headings і без старого redirect/stub content
+- intent separation result: так, materials-потік відокремлено від некондиційної сировини, товарного списання, упаковки, текстилю, харчових потоків, обладнання і широких промислових відходів
+- build run: ні
+- commit done: ні
+- push done: ні
+- ready for audit: так
